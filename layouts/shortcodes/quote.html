@@ -1,0 +1,19 @@
+<div class="special-content quote">
+
+{{ if (.Get "src")}}
+<strong>
+	<a href="/about-the-site/content-organization/#quotes">Quote</a> from
+	<a href="{{ .Get "src" }}">
+		{{ .Get "text" }}
+	</a>
+</strong>
+	
+{{ else }}
+<strong>
+	<a href="/about-the-site/content-organization/#quotes">Quote</a>
+</strong>
+{{ end }}
+
+{{ .Inner }}
+	
+</div>

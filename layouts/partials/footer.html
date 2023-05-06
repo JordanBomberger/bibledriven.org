@@ -1,0 +1,498 @@
+</div>
+</div>
+
+<!-- STEP Bible iframes -->
+<script>
+
+function showEmbeddedWindows() {
+	$('.step-fallback').addClass("display-none");
+	$('.step-iframe-wrapper').removeClass("display-none");
+}
+
+function showPlaintext() {
+	$('.step-iframe-wrapper').addClass("display-none");
+	$('.step-fallback').removeClass("display-none");
+}
+
+function toggleScriptureDisplay() {
+
+	// In this case, nothing other than embedded iframes are
+	// controlled by the existence of iframe wrappers, so no bugs
+	// if none exist on page. Contrast first attempt at writing level
+	// being controlled by whether or not technical discussion sections
+	// were visible -- didn't work if there were no such sections!
+
+	// // Get iframe wrappers from page
+	// var iframeWrappers = $('.step-iframe-wrapper');
+
+	// // If none on page, return immediately
+	// if(iframeWrappers.length == 0) {
+	// 	return
+	// }
+
+	// If currently diplaying plaintext.
+	if($('.step-iframe-wrapper').hasClass("display-none")) {
+		showEmbeddedWindows();
+	}
+
+	// If currently displaying embedded
+	else {
+		showPlaintext();
+	}
+}
+
+function initialScriptureDisplay() {
+	var scriptureDisplay=getCookie("scriptureDisplay");
+	if(scriptureDisplay == "embedded")
+	{
+		$('.step-iframe').on('load', function() {
+			$(this).removeClass("display-none");
+			$(this).next().addClass("display-none");
+		});
+	}
+	else if(scriptureDisplay == "plaintext")
+	{
+		showPlaintext();
+	}
+	// if user hasn't set cookie, set cookie and display embedded windows
+	else { // scriptureDisplay = ""
+		setCookie('scriptureDisplay', 'embedded', 1825);
+		$('.step-iframe').on('load', function() {
+			$(this).removeClass("display-none");
+			$(this).next().addClass("display-none");
+		});
+	}
+}
+
+initialScriptureDisplay();
+
+</script>
+
+<script>
+
+function toHigherWritingLevel() {
+
+	// Add links relating to technical discussion sections to TOC
+	$('.technical-discussion').each(function(i, el) {
+		$(el).children(':header').each(function(j, header) {
+			var link = $(header).attr('id');
+			var selector = `#toc li a[href="#${link}"]`;
+			$(selector).parent().show(); // show li's not links
+		});
+	});
+
+	// Add links relating to sidenote sections to TOC
+	$('.sidenote').each(function(i, el) {
+		$(el).children(':header').each(function(j, header) {
+			var link = $(header).attr('id');
+			var selector = `#toc li a[href="#${link}"]`;
+			$(selector).parent().show(); // show li's not links
+		});
+	});
+
+	// Show technical discussion sections
+	$('.technical-discussion').removeClass("display-none");
+
+	// Show sidenote sections
+	$('.sidenote').removeClass("display-none");
+
+	// Show higher level scripture sections
+	$('.scripture-h').removeClass("display-none");
+
+	// Hide lower level scripture sections
+	$('.scripture-l').addClass("display-none");
+}
+
+function toLowerWritingLevel() {
+
+	// Remove links relating to technical discussion sections from TOC
+	$('.technical-discussion').each(function(i, el) {
+		$(el).children(':header').each(function(j, header) {
+			var link = $(header).attr('id');
+			var selector = `#toc li a[href="#${link}"]`;
+			$(selector).parent().hide(); // hide li's not links
+		});
+	});
+
+	// Remove links relating to sidenote sections from TOC
+	$('.sidenote').each(function(i, el) {
+		$(el).children(':header').each(function(j, header) {
+			var link = $(header).attr('id');
+			var selector = `#toc li a[href="#${link}"]`;
+			$(selector).parent().hide(); // hide li's not links
+		});
+	});
+
+	// Hide technical discussion sections
+	$('.technical-discussion').addClass("display-none");
+
+	// Hide sidenote sections
+	$('.sidenote').addClass("display-none");
+
+	// Hide higher level scripture sections
+	$('.scripture-h').addClass("display-none");
+
+	// Show lower level scripture sections
+	$('.scripture-l').removeClass("display-none");
+}
+
+function toggleWritingLevel() {
+
+	// If currently higher level
+	if(localWritingLevel == "higher") {
+		toLowerWritingLevel();
+		localWritingLevel = "lower";
+	}
+
+	// If currently lower level
+	else if(localWritingLevel == "lower") {
+		toHigherWritingLevel();
+		localWritingLevel = "higher";
+	}
+}
+
+function initialWritingLevel() {
+	var writingLevel=getCookie("writingLevel");
+	if(writingLevel == "higher")
+	{
+		// Hide lower level scripture sections
+		$('.scripture-l').addClass("display-none");
+	}
+	else if(writingLevel == "lower")
+	{
+		// Remove links relating to technical discussion sections from TOC
+		$('.technical-discussion').each(function(i, el) {
+			$(el).children(':header').each(function(j, header) {
+				var link = $(header).attr('id');
+				var selector = `#toc li a[href="#${link}"]`;
+				$(selector).parent().hide(); // hide li's not links
+			});
+		});
+
+		// Remove links relating to sidenote sections from TOC
+		$('.sidenote').each(function(i, el) {
+			$(el).children(':header').each(function(j, header) {
+				var link = $(header).attr('id');
+				var selector = `#toc li a[href="#${link}"]`;
+				$(selector).parent().hide(); // hide li's not links
+			});
+		});
+
+		// Hide technical discussion sections
+		$('.technical-discussion').addClass("display-none");
+
+		// Hide sidenote sections
+		$('.sidenote').addClass("display-none");
+
+		// Hide higher level scripture sections
+		$('.scripture-h').addClass("display-none");
+	}
+	// if user hasn't set cookie, set cookie and use higher writing level
+	else { // writingLevel = ""
+		setCookie('writingLevel', 'higher', 1825);
+	}
+}
+
+initialWritingLevel();
+var localWritingLevel = getCookie("writingLevel");
+</script>
+
+<script>
+function showSummary(selector) {
+	$('.list-item-summary-section.' + selector).removeClass("display-none");
+	$('.list-item-summary-toggle.hide.' + selector).removeClass("display-none");
+	$('.list-item-summary-toggle.show.' + selector).addClass("display-none");
+}
+
+function hideSummary(selector) {
+	$('.list-item-summary-section.' + selector).addClass("display-none");
+	$('.list-item-summary-toggle.show.' + selector).removeClass("display-none");
+	$('.list-item-summary-toggle.hide.' + selector).addClass("display-none");
+}
+
+function showAllSummaries() {
+	$('.list-item-summary-section').removeClass("display-none");
+	$('.list-item-summary-toggle.hide').removeClass("display-none");
+	$('.list-item-summary-toggle.show').addClass("display-none");
+}
+
+function hideAllSummaries() {
+	$('.list-item-summary-section').addClass("display-none");
+	$('.list-item-summary-toggle.show').removeClass("display-none");
+	$('.list-item-summary-toggle.hide').addClass("display-none");
+}
+
+function initialSummariesDisplay() {
+	var summariesPreference=getCookie("summariesPreference");
+	if(summariesPreference == "show")
+	{
+		showAllSummaries();
+	}
+	else if(summariesPreference == "hide")
+	{
+		hideAllSummaries();
+	}
+	// if user hasn't set cookie, set cookie and show summaries
+	else { // summariesPreference = ""
+		setCookie('summariesPreference', 'show', 1825);
+		showAllSummaries();
+	}
+}
+
+function toggleSummaries() {
+
+	// If currently showing summaries
+	if(summariesPreference == "show") {
+		hideAllSummaries();
+		summariesPreference = "hide";
+	}
+
+	// If currently hiding summaries
+	else if(summariesPreference == "hide") {
+		showAllSummaries();
+		summariesPreference = "show";
+	}
+}
+
+initialSummariesDisplay();
+var summariesPreference=getCookie("summariesPreference");
+</script>
+
+<script>
+function showContentSection(selector) {
+    $('.content-section.' + selector).removeClass("display-none");
+    $('.content-section-header.show.' + selector).addClass("display-none");
+	$('.content-section-header.hide.' + selector).removeClass("display-none");
+
+	// Add links relating to content section to TOC
+	$('.content-section.' + selector).each(function(i, el) {
+		$(el).children(':header').each(function(j, header) {
+			var link = $(header).attr('id');
+			var selector = `#toc li a[href="#${link}"]`;
+			$(selector).parent().show(); // show li's not links
+		});
+	});
+}
+
+function hideContentSection(selector) {
+    $('.content-section.' + selector).addClass("display-none");
+    $('.content-section-header.hide.' + selector).addClass("display-none");
+	$('.content-section-header.show.' + selector).removeClass("display-none");
+
+	// Remove links relating to content section from TOC
+	$('.content-section.' + selector).each(function(i, el) {
+		$(el).children(':header').each(function(j, header) {
+			var link = $(header).attr('id');
+			var selector = `#toc li a[href="#${link}"]`;
+			$(selector).parent().hide(); // hide li's not links
+		});
+	});
+}
+
+function showAllContentSections() {
+    $('.content-section').removeClass("display-none");
+    $('.content-section-header.show').addClass("display-none");
+	$('.content-section-header.hide').removeClass("display-none");
+
+	// Add links relating to content sections to TOC
+	$('.content-section').each(function(i, el) {
+		$(el).children(':header').each(function(j, header) {
+			var link = $(header).attr('id');
+			var selector = `#toc li a[href="#${link}"]`;
+			$(selector).parent().show(); // show li's not links
+		});
+	});
+}
+
+function hideAllContentSections() {
+    $('.content-section').addClass("display-none");
+    $('.content-section-header.hide').addClass("display-none");
+	$('.content-section-header.show').removeClass("display-none");
+
+	// Remove links relating to content sections from TOC
+	$('.content-section').each(function(i, el) {
+		$(el).children(':header').each(function(j, header) {
+			var link = $(header).attr('id');
+			var selector = `#toc li a[href="#${link}"]`;
+			$(selector).parent().hide(); // hide li's not links
+		});
+	});
+}
+
+function initialContentSectionsDisplay() {
+    var contentSectionsPreference=getCookie("contentSectionsPreference");
+    if(contentSectionsPreference == "show")
+    {
+        showAllContentSections();
+    }
+    else if(contentSectionsPreference == "hide")
+    {
+        hideAllContentSections();
+    }
+    // if user hasn't set cookie, set cookie and hide content sections
+    else { // contentSectionsPreference = ""
+        setCookie('contentSectionsPreference', 'hide', 1825);
+        hideAllContentSections();
+    }
+}
+
+function toggleContentSections() {
+
+    // If currently showing content sections
+    if(contentSectionsPreference == "show") {
+        hideAllContentSections();
+        contentSectionsPreference = "hide";
+    }
+
+    // If currently hiding content sections
+    else if(contentSectionsPreference == "hide") {
+        showAllContentSections();
+        contentSectionsPreference = "show";
+    }
+}
+
+initialContentSectionsDisplay();
+var contentSectionsPreference=getCookie("contentSectionsPreference");
+</script>
+
+<script>
+function showTranscriptSection(selector) {
+    $('.transcript-section.' + selector).removeClass("display-none");
+    $('.transcript-section-header.show.' + selector).addClass("display-none");
+	$('.transcript-section-header.hide.' + selector).removeClass("display-none");
+
+	// Add links relating to transcript section to TOC
+	$('.transcript-section.' + selector).each(function(i, el) {
+		$(el).children(':header').each(function(j, header) {
+			var link = $(header).attr('id');
+			var selector = `#toc li a[href="#${link}"]`;
+			$(selector).parent().show(); // show li's not links
+		});
+	});
+}
+
+function hideTranscriptSection(selector) {
+    $('.transcript-section.' + selector).addClass("display-none");
+    $('.transcript-section-header.hide.' + selector).addClass("display-none");
+	$('.transcript-section-header.show.' + selector).removeClass("display-none");
+
+	// Remove links relating to transcript section from TOC
+	$('.transcript-section.' + selector).each(function(i, el) {
+		$(el).children(':header').each(function(j, header) {
+			var link = $(header).attr('id');
+			var selector = `#toc li a[href="#${link}"]`;
+			$(selector).parent().hide(); // hide li's not links
+		});
+	});
+}
+
+function showAllTranscriptSections() {
+    $('.transcript-section').removeClass("display-none");
+    $('.transcript-section-header.show').addClass("display-none");
+	$('.transcript-section-header.hide').removeClass("display-none");
+
+	// Add links relating to transcript sections to TOC
+	$('.transcript-section').each(function(i, el) {
+		$(el).children(':header').each(function(j, header) {
+			var link = $(header).attr('id');
+			var selector = `#toc li a[href="#${link}"]`;
+			$(selector).parent().show(); // show li's not links
+		});
+	});
+}
+
+function hideAllTranscriptSections() {
+    $('.transcript-section').addClass("display-none");
+    $('.transcript-section-header.hide').addClass("display-none");
+	$('.transcript-section-header.show').removeClass("display-none");
+
+	// Remove links relating to transcript sections from TOC
+	$('.transcript-section').each(function(i, el) {
+		$(el).children(':header').each(function(j, header) {
+			var link = $(header).attr('id');
+			var selector = `#toc li a[href="#${link}"]`;
+			$(selector).parent().hide(); // hide li's not links
+		});
+	});
+}
+
+function initialTranscriptSectionsDisplay() {
+    var transcriptSectionsPreference=getCookie("transcriptSectionsPreference");
+    if(transcriptSectionsPreference == "show")
+    {
+        showAllTranscriptSections();
+    }
+    else if(transcriptSectionsPreference == "hide")
+    {
+        hideAllTranscriptSections();
+    }
+    // if user hasn't set cookie, set cookie and hide transcript sections
+    else { // transcriptSectionsPreference = ""
+        setCookie('transcriptSectionsPreference', 'hide', 1825);
+        hideAllTranscriptSections();
+    }
+}
+
+function toggleTranscriptSections() {
+
+    // If currently showing transcript sections
+    if(transcriptSectionsPreference == "show") {
+        hideAllTranscriptSections();
+        transcriptSectionsPreference = "hide";
+    }
+
+    // If currently hiding transcript sections
+    else if(transcriptSectionsPreference == "hide") {
+        showAllTranscriptSections();
+        transcriptSectionsPreference = "show";
+    }
+}
+
+initialTranscriptSectionsDisplay();
+var transcriptSectionsPreference=getCookie("transcriptSectionsPreference");
+</script>
+
+<script src="/js/littlefoot.js" type="application/javascript" ></script> 
+<script type="application/javascript"> littlefoot.default({
+  activateOnHover: true,
+  dismissOnUnhover: true,
+  hoverDelay: 200,
+  buttonTemplate: `
+	<button
+	aria-label="Footnote <% number %>"
+	class="littlefoot__button"
+	id="<% reference %>"
+	/>
+	<% number %>
+	</button>
+  `,
+  
+}) </script>
+
+
+<!-- RefTagger -->
+<script>
+
+	var refTagger = {
+		settings: {
+			bibleVersion: "NASB",
+			convertHyperlinks: false,		
+			roundCorners: true,
+			socialSharing: [],
+			tagChapters: true
+		} 
+ 	};
+	
+ 	(function(d, t) { 
+ 	 	var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; 
+ 	 	g.src = '//api.reftagger.com/v2/RefTagger.js'; 
+ 	 	s.parentNode.insertBefore(g, s); 
+ 	}(document, 'script'));
+	
+</script>
+
+{{ partial "google_analytics.html" . }}
+{{ partial "piwik_analytics.html" . }}
+
+</body>
+</html>

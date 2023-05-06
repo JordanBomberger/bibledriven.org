@@ -1,0 +1,106 @@
+baseurl = "https://www.bibledriven.org/"
+title = "BibleDriven.org"
+theme = "spartan"
+author = "Jordan Bomberger"
+canonifyurls = true
+paginate = 10
+
+[indexes]
+  category = "categories"
+  tag = "tags"
+
+
+[params]
+  # Shown in the home page
+  subtitle = "To be determined"
+  googleAnalytics = ""
+  disqus = ""
+  # CSS name for highlight.js
+  highlightjs = "solarized-dark"
+  # additional languages for highlight.js (for all pages)
+  highlightjs_extra_languages = ["lisp", "r", "autohotkey"]
+  dateFormat = "02 Jan 2006"
+
+[blackfriday]
+  fractions = false
+  # Blocking (c) -> copyright symbol, etc.
+  # https://github.com/kaushalmodi/ox-hugo/issues/104
+  # https://gohugo.io/getting-started/configuration-markup
+  smartypants = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  
+[menu]
+
+  # Shown in the side menu.
+  [[menu.navigation]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 1
+    identifier = "home"
+    url = "/"
+  [[menu.navigation]]
+    name = "About the Author"
+    pre = "<i class='fas fa-user fa-fw'></i>"
+    weight = 3
+	  identifier = "about-the-author"
+    url = "/about-the-author/"
+
+
+  [[menu.content]]
+    name = "Large Topical"
+    pre = "<i class='fas fa-file fa-fw'></i>"
+    weight = 1
+    identifier = "large-topical"
+    url = "/large-topical/"
+  [[menu.content]]
+    name = "Small Topical"
+    pre = "<i class='fas fa-file fa-fw'></i>"
+    weight = 2
+    identifier = "small-topical"
+    url = "/small-topical/"
+
+
+  [[menu.community]]
+    name = "Prayer List"
+    pre = "<i class='fas fa-praying-hands fa-fw'></i>"
+    weight = 4
+    identifier = "prayer-list"
+    url = "/prayer-list/"
+
+	
+  [[menu.meta]]
+    name = "Settings"
+    pre = "<i class='fas fa-cog fa-fw'></i>"
+    weight = 4
+    identifier = "settings"
+    url = "/settings/"
+#  [[menu.meta]]
+#    name = "Subject Index"
+#    pre = "<i class='fas fa-list fa-fw'></i>"
+#    weight = 6
+#    identifier = "subject-index"
+#    url = "/subject-index/"
+  [[menu.meta]]
+    name = "Resource Index"
+    pre = "<i class='fas fa-list fa-fw'></i>"
+    weight = 9
+    identifier = "resource-index"
+    url = "/resource-index/"
+  [[menu.meta]]  
+    name = "Mailing List"
+    pre = "<i class='fas fa-envelope fa-fw'></i>"
+    weight = 29
+    identifier = "mailing-list"
+    url = "/mailing-list/"
+  [[menu.meta]]  
+    name = "RSS"
+    pre = "<i class='fas fa-rss fa-fw'></i>"
+    weight = 30
+    identifier = "rss"
+    url = "/rss/"
+	
+	
