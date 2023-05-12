@@ -544,9 +544,7 @@ We have already talked about continued faith as the only condition for salvation
 
 {{% /scripture %}} 
 
-If God cannot be tempted by evil and cannot tempt anyone to sin, how can He choose for certain people to receive Him, but for others to reject Him? 
-
-Our Lord told us a kingdom could not be divided against itself, so why would the Lord oppose His kingdom by keeping people from entering it? Why would He work in the devil's favor in sending some to hell in only dying for the “elect?” Or is Christ divided? 
+If God cannot be tempted by evil and cannot tempt anyone to sin, how can He choose for certain people to receive Him, but for others to reject Him? Our Lord told us a kingdom could not be divided against itself, so why would the Lord oppose His kingdom by keeping people from entering it? Why would He work in the devil's favor in sending some to hell in only dying for the “elect?” Or is Christ divided? 
 
 {{% scripture p="Matthew 12:22-28 (NKJV)" %}}   
 
