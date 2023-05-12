@@ -5,7 +5,6 @@ summary: Many believers today don't understand why they still continue to strugg
 ---
 
 
-
 ## **Introduction**
 
 The following study we will explore revolves around combating and defeating sin in the believer’s life. Hamartiology is the biblical study of sin and what it is, but that is not our topic. Many believers limit their production for the Lord because they do not know the basic principles of spiritual combat. It is not a complicated topic, nor was it meant to be, for every believer must participate in fulfilling the mandate of obedience our Lord requires. Following through and performing is the more difficult part, but with time, patient endurance, and strong and steadfast faith in the Lord, everything is easily possible in the Spirit’s power. What starts as something seemingly extraordinarily difficult eventually becomes something much less challenging and of second nature. This struggle with everyday obstacles and temptations is our basic training. Take courage, don’t lose heart, and follow me now as we examine the process of overcoming sin. It is not impossible because victory always awaits all those who pursue it. 
@@ -458,7 +457,7 @@ Now, you are probably wondering, how do these two aspects (faithfulness and just
 
 
 
-## **6. Discipline- God’s Loving Way of Protecting Us**
+## **6. Discipline - God’s Loving Way of Protecting Us**
 
 {{% scripture p="Matthew 18:11-13 (ESV)" %}} 
 
@@ -680,7 +679,7 @@ Immediately after this section of the passage in the next verse, we see that the
 
 Other passages that show that God’s Spirit would come upon people who were already believers to empower them for specific purposes and tasks **are Numbers 11:24-30, Judges 14:5-6, 6:34, 3:9-11**. The indwelling of the Holy Spirit during Old Testament times was selective and temporary. 
 
-## **8. Our Weaponry in this Fight- The Armor of God** 
+## **8. Our Weaponry in this Fight - The Armor of God** 
 
 {{% scripture p="Ephesians 6:10-18 (NASB)" %}} 
 

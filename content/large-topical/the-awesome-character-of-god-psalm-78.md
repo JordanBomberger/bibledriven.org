@@ -4,8 +4,6 @@ weight: 500
 summary: Psalm 78 has been described as one of the most beautiful and marvelous chapters contained in the book of Psalms. Although that is a subjective matter of opinion, it teaches us huge lessons for today and for the dark days ahead. A God who demonstrates His perfect character in handling humanity should inspire us to follow Him with great zeal faithfully to the end. 
 ---
 
-
-
 ## Introduction
 
 The Bible is entirely sufficient to reveal to every person just the right amount of information about our Lord and Savior, Jesus Christ, who He is, what He is like, what He has done, what He is doing, and what He will do. Scripture reveals everything we need to know in this life to negotiate this world as we should. But how much do we know God? This examination is not a study on Christology (the study of Jesus Christ) but an examination of some of the character qualities of what makes God who He is. The Bible reveals to us the mind of Christ, His thinking, His plan, His revelation, and His character. But the question is, “how much do we think about God?” 
@@ -82,7 +80,7 @@ We will discuss Psalm 78 section by section as an overview of the chapter itself
 
 So this is my challenge to those who doubt God- Taste and see for yourself! There is only one way for a person to come to know the Lord Jesus- through faith. When we trust God, we become “enlightened” to who He is as we grow spiritually. We get to know Him by having a very close relationship with Him. We can’t comprehend somebody if we don’t try to understand them better. Unbelievers cannot see things God’s way because their eyes are darkened to the truth through their failure to accept it in faith. If they slander God’s goodness and character, then they should know that they are not giving the Lord a fair chance. What seems unclear to the casual reader of the Old Testament will be made more apparent when they accept those same truths in faith. But faith is what is required to better “know the Lord.” Unbelief renders a person ignorant and hardened toward the truths of Scripture.  
 
-{{% scripture p="Ephesians 4:17-19 (NIV\)" %}} 
+{{% scripture p="Ephesians 4:17-19 (NIV)" %}} 
 
 **17** So I tell you this, and insist on it in the Lord, that you must no longer live as the Gentiles do, in the futility of their thinking. **18** They are darkened in their understanding and separated from the life of God because of the ignorance that is in them due to the hardening of their hearts. **19** Having lost all sensitivity, they have given themselves over to sensuality so as to indulge in every kind of impurity, and they are full of greed.                                                                 
 
@@ -90,31 +88,31 @@ So this is my challenge to those who doubt God- Taste and see for yourself! Ther
 
 The more a person grows spiritually, the more of God’s real character will begin to unfold right before them in their own life’s experiences. The believer’s own experiences in God’s dealing with them in growing, disciplining, and strengthening their walk will prove to be “proof” in and of itself of just how perfect He is. Salvation and spiritual growth bring with them increased knowledge through experience.  
 
-{{% scripture p="Malachi 3:6 (ESV\)" %}} 
+{{% scripture p="Malachi 3:6 (ESV)" %}} 
 
 **6** “For I the Lord do not change; therefore you, O children of Jacob, are not consumed.                                                                     
 
 {{% /scripture %}}   
 
-{{% scripture p="Numbers 23:19 (NIV\)" %}} 
+{{% scripture p="Numbers 23:19 (NIV)" %}} 
 
 **19** God is not human, that he should lie, not a human being, that he should change his mind. Does he speak and then not act? Does he promise and not fulfill? 
 
 {{% /scripture %}}   
 
-{{% scripture p="Psalm 34:8 (KJV\)" %}} 
+{{% scripture p="Psalm 34:8 (KJV)" %}} 
 
 **8** O taste and see that the Lord is good: blessed is the man that trusts in him. 
 
 {{% /scripture %}}   
 
-{{% scripture p="Proverbs 9:10-11 (NIV\)" %}} 
+{{% scripture p="Proverbs 9:10-11 (NIV)" %}} 
 
 **10** The fear of the Lord is the beginning of wisdom, and knowledge of the Holy One is understanding. **11** For through wisdom your days will be many, and years will be added to your life. 
 
 {{% /scripture %}}   
 
-{{% scripture p="Psalm 119:130 (ESV\)" %}} 
+{{% scripture p="Psalm 119:130 (ESV)" %}} 
 
 **130** The unfolding of your words gives light; it imparts understanding to the simple. 
 
@@ -126,13 +124,13 @@ Another example could be when a believer reverts to unbelief through apostasy. T
 
 We are fallible human beings prone to much significant error, but God is not, for He is complete in every way. He is the Creator who created all there is, and He died on the cross to save all men from the eternal punishment of the lake of fire. So why would the Lord not give everyone the same fair chance to come to Him in faith and inherit eternal life? God is not the problem. It’s man’s hardness of heart. Every person has a chance to repent and follow the Lord in faith to receive an eternal abode in the new heaven and the new earth. But it will always be up to every person to receive Christ while still alive and breathing. Those who squander this opportunity never wanted to get saved. 
 
-{{% scripture p="Deuteronomy 4:32-34 (ESV\)" %}} 
+{{% scripture p="Deuteronomy 4:32-34 (ESV)" %}} 
 
 **32** “For ask now of the days that are past, which were before you, since the day that God created man on the earth, and ask from one end of heaven to the other, whether such a great thing as this has ever happened or was ever heard of. **33** Did any people ever hear the voice of a god speaking out of the midst of the fire, as you have heard, and still live? **34** Or has any god ever attempted to go and take a nation for himself from the midst of another nation, by trials, by signs, by wonders, and by war, by a mighty hand and an outstretched arm, and by great deeds of terror, all of which the Lord your God did for you in Egypt before your eyes?    
 
 {{% /scripture %}}   
 
-{{% scripture p="Deuteronomy 4:35-40 (ESV\)" %}} 
+{{% scripture p="Deuteronomy 4:35-40 (ESV)" %}} 
 
 **35** To you it was shown, that you might know that the Lord is God; there is no other besides him. **36** Out of heaven he let you hear his voice, that he might discipline you. And on earth he let you see his great fire, and you heard his words out of the midst of the fire. **37** And because he loved your fathers and chose their offspring after them and brought you out of Egypt with his own presence, by his great power, **38** driving out before you nations greater and mightier than you, to bring you in, to give you their land for an inheritance, as it is this day, **39** know therefore today, and lay it to your heart, that the Lord is God in heaven above and on the earth beneath; there is no other. **40** Therefore you shall keep his statutes and his commandments, which I command you today, that it may go well with you and with your children after you, and that you may prolong your days in the land that the Lord your God is giving you for all time.”    
 
@@ -142,19 +140,19 @@ We are fallible human beings prone to much significant error, but God is not, fo
 
 So unless a person wants to pursue the Lord, caution is advised for any individual contemplating the decision to follow Jesus, for it is by no means easy (**Luke 14:25-33**). This life we live in is a great test. For unbelievers, it is to see whether they will choose God or not. For believers, it is whether they will continue to hold to their choice to follow the Lord and produce a bountiful crop for Him. Every person on this earth who is mentally capable of free will can cry out to God in faith, any place, any time. The Lord is not far off from anyone, and He is accessible to all. 
 
-{{% scripture p="Jeremiah 9:23-24 (NIV\)" %}}      
+{{% scripture p="Jeremiah 9:23-24 (NIV)" %}}      
 
  **23** This is what the Lord says:“Let not the wise boast of their wisdom or the strong boast of their strength or the rich boast of their riches,**24** but let the one who boasts boast about this: that they have the understanding to know me, that I am the Lord, who exercises kindness, justice and righteousness on earth, for in these I delight,” declares the Lord.    
 
 {{% /scripture %}}    
 
-{{% scripture p="Acts 14:21-22 (ESV\)" %}}                                                
+{{% scripture p="Acts 14:21-22 (ESV)" %}}                                                
 
 **21** When they had preached the gospel to that city and had made many disciples, they returned to Lystra and to Iconium and to Antioch, **22** strengthening the souls of the disciples, encouraging them to continue in the faith, and saying **that through many tribulations we must enter the kingdom of God.** 
 
 {{% /scripture %}}    
 
-{{% scripture p="Acts 17:24-27 (NIV\)" %}}       
+{{% scripture p="Acts 17:24-27 (NIV)" %}}       
 
 **24** “The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples built by human hands. **25** And he is not served by human hands, as if he needed anything. Rather, he himself gives everyone life and breath and everything else. **26** From one man he made all the nations, that they should inhabit the whole earth; and he marked out their appointed times in history and the boundaries of their lands. **27 God did this so that they would seek him and perhaps reach out for him and find him, though he is not far from any one of us** 
 
@@ -162,13 +160,13 @@ So unless a person wants to pursue the Lord, caution is advised for any individu
 
 I, the author, cannot prove God’s existence by magically making Him appear before all those who ask for proof. Yes, we have natural revelation in creation and other wonderful testimonies of God’s reality, which means that, technically, everyone on earth knows about God (**Romans 1:19-21**). On top of that, we have His Word. But no person can simply make God appear out of the blue. And that is a good thing because faith is the evidence of things not seen. That is the whole point of faith, to believe without seeing! So this decision is a test! 
 
-{{% scripture p="John 20:24-29 (NIV\)" %}}   
+{{% scripture p="John 20:24-29 (NIV)" %}}   
 
   **24** Now Thomas (also known as Didymus), one of the Twelve, was not with the disciples when Jesus came. **25** So the other disciples told him, “We have seen the Lord!” But he said to them, “**Unless I see the nail marks in his hands and put my finger where the nails were, and put my hand into his side, I will not believe**.” **26** A week later his disciples were in the house again, and Thomas was with them. Though the doors were locked, Jesus came and stood among them and said, “Peace be with you!” **27** Then he said to Thomas, “Put your finger here; see my hands. Reach out your hand and put it into my side. Stop doubting and believe.” **28** Thomas said to him, “My Lord and my God!” **29** Then Jesus told him, “**Because you have seen me, you have believed; blessed are those who have not seen and yet have believed**.”                                          
 
 {{% /scripture %}}     
 
-{{% scripture p="Hebrews 11:1-3 (KJV\)" %}}  
+{{% scripture p="Hebrews 11:1-3 (KJV)" %}}  
 
 Now faith is the substance of things hoped for, the evidence of things not seen. **2** For by it the elders obtained a good report. **3** Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear.                      
 
@@ -176,19 +174,19 @@ Now faith is the substance of things hoped for, the evidence of things not seen.
 
 To the believer- May this study further strengthen your faith in the One you now profess. The best way to know the Lord is through His Holy Word, the Bible, for it is the Scriptures we rely on for the truth on which we stand. We must always use the Bible as our touchstone in revealing the truth to others. God’s Word is sufficient, and His grace just as much. There is always something to learn for those who want to learn more. It will never be the case that we are “lacking” a sufficient amount of truth to live our lives as we should.  
 
-{{% scripture p="Hebrews 4:12 (NKJV\)" %}}  
+{{% scripture p="Hebrews 4:12 (NKJV)" %}}  
 
 **12** For the word of God *is* living and powerful, and sharper than any two-edged sword, piercing even to the division of soul and spirit, and of joints and marrow, and is a discerner of the thoughts and intents of the heart. 
 
 {{% /scripture %}}    
 
-{{% scripture p="Matthew 4:4 (NKJV\)" %}}  
+{{% scripture p="Matthew 4:4 (NKJV)" %}}  
 
 **4** But He answered and said, “It is written, ‘Man shall not live by bread alone, but by every word that proceeds from the mouth of God.’ ” 
 
 {{% /scripture %}}    
 
-{{% scripture p="Psalm 119:105 (NKJV\)" %}}  
+{{% scripture p="Psalm 119:105 (NKJV)" %}}  
 
 **105** Your word *is* a lamp to my feet  And a light to my path. 
 
@@ -225,7 +223,7 @@ Our God is indeed a God of mysteries, but he never makes His commandments hard t
 
 The Creator never fails to provide for any human being who wishes to accept and know more about Him. Creation is the base evidence and witness of His existence, and acknowledging that will lead to even more revealed truth in some form or another. The Lord does not hide from people to keep them from coming to Him. Most decide to pursue unrighteousness, and a perfect and Holy God can have nothing to do with anything sinful and impure, so He does not associate with any evil whatsoever. Nor can our Lord help anyone who refuses His grace, and for these reasons, He hides from the wicked. God is disgusted by all unrighteousness, and He will never be near any of it. 
 
-{{% scripture p="1 Corinthians 14:33 (KJV\)" %}}  
+{{% scripture p="1 Corinthians 14:33 (KJV)" %}}  
 
 **33** For God is not the author of confusion, but of peace, as in all churches of the saints.  
 
@@ -488,7 +486,7 @@ So when the Israelites questioned God’s character and goodness, assuming He me
 
 These things were only the beginning of the many grievous mistakes Israel would commit. Mistakes will happen, many of which the nation made that are not mentioned in the Bible, for we must remember that every person sins every day (**1 John 1:8**). But pride leading to hardness of heart will only cause a chain reaction of further disobedience down the road. In Israel’s case, many would fall away into apostasy. Although every individual is responsible for their own choice at any time and moment, Israel’s history could have turned out differently had they done what was right from the beginning. Though there was much obedience in the beginning stage of the departure, it wasn’t long before issues regarding God’s purpose and authority began to arise. We see this in the example where the Israelites put God to the test by complaining to Him for water.               
 
-{{% scripture p="Exodous 17:1-7 (NKJV)" %}}    
+{{% scripture p="Exodus 17:1-7 (NKJV)" %}}    
 
 Then all the congregation of the children of Israel set out on their journey from the Wilderness of Sin, according to the commandment of the Lord, and camped in Rephidim; but *there was* no water for the people to drink. **2** Therefore the people contended with Moses, and said, “Give us water, that we may drink.” So Moses said to them, “Why do you contend with me? Why do you tempt the Lord?” **3** And the people thirsted there for water, and the people complained against Moses, and said, “Why *is* it you have brought us up out of Egypt, to kill us and our children and our livestock with thirst?” **4** So Moses cried out to the Lord, saying, “What shall I do with this people? They are almost ready to stone me!” **5** And the Lord said to Moses, “Go on before the people, and take with you some of the elders of Israel. Also take in your hand your rod with which you struck the river, and go. **6** Behold, I will stand before you there on the rock in Horeb; and you shall strike the rock, and water will come out of it, that the people may drink.” And Moses did so in the sight of the elders of Israel. **7** So he called the name of the place Massah and Meribah, because of the contention of the children of Israel, and because they tempted the Lord, saying, “Is the Lord among us or not?” 
 
@@ -780,7 +778,7 @@ But it was far too often the case that instead of remembering the Lord’s power
 
 We see it mentioned in our passage of Psalms just how many amazing things the Lord performed in the sight of His people. We also see the Lord’s loving care for His own in going to the extreme to free the nation of Israel from the hand of their oppressors. The Lord allowed Pharaoh to harden his own heart to such a degree that not even most of the plagues were sufficient to sway his mind to let the people go. The fact that God did not relent in frustrating the Egyptians to cause them to release the Hebrews demonstrates just how much He loved the people He had chosen for Himself. The Lord made a promise to the patriarchs, and He had every intention of keeping them to bless the nation He had chosen to be a light to the world. But His chosen ones decided to work against the benefits that were coming their way! Many Israelites threw away their inheritance by their high-handed conduct to exchange it for increased pain and suffering. They cried out to God about being in slavery to the Egyptians, yet they would choose later to bring even more difficulties into their lives by their willful disobedience. 
 
-{{% scripture p="Exodous 6:6-8 (ESV)" %}}  
+{{% scripture p="Exodus 6:6-8 (ESV)" %}}  
 
  Say therefore to the people of Israel, ‘I am the Lord, and I will bring you out from under the burdens of the Egyptians, and I will deliver you from slavery to them, and I will redeem you with an outstretched arm and with great acts of judgment. **7** I will take you to be my people, and I will be your God, and you shall know that I am the Lord your God, who has brought you out from under the burdens of the Egyptians. **8** I will bring you into the land that I swore to give to Abraham, to Isaac, and to Jacob. I will give it to you for a possession. I am the Lord.’” 
 
@@ -848,7 +846,7 @@ God was so faithful to His people, even when they continued to disobey Him. The 
 
 But Israel, not to mention many of the surrounding nations, had divine revelation manifested in front of their own eyes. Miracles of many kinds the Lord demonstrated. What more proof could a person want? To have all these visible wonders displayed before them and yet still fail to believe in the One true God shows how determined people are to stray from the Creator and do their own thing (**Isaiah 53:6**). 
 
-{{% scripture p="Exodous 14:10-14 (NKJV)" %}}  
+{{% scripture p="Exodus 14:10-14 (NKJV)" %}}  
 
 **10** And when Pharaoh drew near, the children of Israel lifted their eyes, and behold, the Egyptians marched after them. So they were very afraid, and the children of Israel cried out to the Lord. **11** Then they said to Moses, “Because *there were* no graves in Egypt, have you taken us away to die in the wilderness? Why have you so dealt with us, to bring us up out of Egypt? **12** *Is* this not the word that we told you in Egypt, saying, ‘Let us alone that we may serve the Egyptians’? For *it would have been* better for us to serve the Egyptians than that we should die in the wilderness.” **13** And Moses said to the people, “Do not be afraid. Stand still, and see the salvation of the Lord, which He will accomplish for you today. For the Egyptians whom you see today, you shall see again no more forever. **14** The Lord will fight for you, and you shall hold your peace.” 
 

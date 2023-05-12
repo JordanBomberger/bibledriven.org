@@ -598,7 +598,7 @@ To further reinforce what we have briefly commented on above, I encourage the re
 
 For information on the words “image” and “likeness,” please see the link below by **Robert D. Luginbill** (**section 2.1**). 
 
-[https://ichthys.com/3A-Anthro.htm#1.%20The%20Image%20and%20the%20Likeness%20of%20God](https://ichthys.com/3A-Anthro.htm#1. The Image and the Likeness of God) 
+[https://ichthys.com/3A-Anthro.htm#1.%20The%20Image%20and%20the%20Likeness%20of%20God](https://ichthys.com/3A-Anthro.htm#1.%20The%20Image%20and%20the%20Likeness%20of%20God) 
 
 To conclude, being made in the image and likeness of God means having the ability to exercise authority and respond to it through free will choice (see link). 
 

@@ -5,7 +5,6 @@ summary: As mentioned in the study itself, this work is to assure the believer t
 ---
 
 
-
 ## **Introduction** 
 
 As everyone who has read a good bit of this ministry knows well, my goal is to help my listeners advance in their spiritual growth. However, this topic we will discuss may seem a bit wacky and perhaps, out of place. I don't blame anyone who reads this who may find it strange but rest assured there is a crucial reason I decided to write on this subject. The purpose of this work may not be apparent at first, but the longer you read, the more you will understand why I chose to write this. I encourage the reader to read this entire study from start to finish.  
@@ -34,7 +33,7 @@ For this reason, believers should not be surprised when the media and news outle
 
 
 
-## **1. Discovering the Truth- My Story** 
+## **1. Discovering the Truth - My Story** 
 
 **Please note**: Regarding what this writer believes is real (UFO's and Sasquatch as the two primary examples along with a few others), I do hold to these beliefs with reservations since I cannot Scripturally or physically prove their existence (not that that is needed to believe something). Nothing below is being used as proof or evidence for the existence of the things under discussion. I am only sharing my story to explain to the reader (since it is inevitable that some will ask how and why I came to the opinions that I did) how all this came about (the backdrop to all this).  
 

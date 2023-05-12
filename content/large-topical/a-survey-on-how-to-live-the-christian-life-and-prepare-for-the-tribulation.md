@@ -5,7 +5,6 @@ summary: A simple and basic survey explaining what makes living the Christian li
 ---
 
 
-
 ## **Introduction**
 
 The purpose of this examination is to help prepare the believer for the tribulation, the most challenging time that humanity will have ever experienced. Therefore, this work is not a study of the tribulation itself but rather a **survey** on the preparations and changes the believer will need to make for that most strenuous period ahead. 
@@ -160,7 +159,7 @@ We should be storing up our faith like the wise virgins in **Mathew 25:1-13**. T
 
 {{% scripture p="Hebrews 12:1 (NIV)" %}} 
 
-Therefore, since we are surrounded by such a great cloud of witnesses**, let us throw off everything that hinders and the sin that so easily entangles. And let us run with perseverance the race marked out for us,** 
+Therefore, since we are surrounded by such a great cloud of witnesses, **let us throw off everything that hinders and the sin that so easily entangles. And let us run with perseverance the race marked out for us,** 
 
 {{% /scripture %}} 
 

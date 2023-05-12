@@ -1,9 +1,8 @@
 ---
-title: How Believers are Defined- The Worth, Value, and Potential of Every Member of Christ's Church 
+title: How Believers are Defined - The Worth, Value, and Potential of Every Member of Christ's Church
 weight: 600
 summary: All believers have equal value, worth and potential for true spiritual success in this life and great eternal reward in the next. There is no such thing as any follower of Christ who is disadvantaged. 
 ---
-
 
 
 ## **Introduction**
@@ -522,7 +521,7 @@ The point of mentioning all the above is that we should take our ministries seri
 
 To help us better understand the concept about ministry above, we will discuss **1 Corinthians 12:4-31** below, which will be our touchstone for the final section of our discussion on this topic.  
 
-#### **A. 12:4-6** 
+#### **A. 1 Corinthians 12:4-6** 
 
 {{% scripture p="1 Corinthians 12:4-6 (NASB)" %}} 
 
@@ -540,7 +539,7 @@ No matter how many gifts and ministries within the body, they all come from God,
 
 {{% /scripture %}}  
 
-#### **B. 12:7-11** 
+#### **B. 1 Corinthians 12:7-11** 
 
 {{% scripture p="1 Corinthians 12:7-11 (NASB)" %}} 
 
@@ -556,7 +555,7 @@ For verses 8-10, please see the link below. For verse 11, please see above.
 
 **“[The Sign Gifts](/topical/the-sign-gifts/)”**  
 
-#### **C. 12:12-13**
+#### **C. 1 Corinthians 12:12-13**
 
 {{% scripture p="1 Corinthians 12:12-13 (NASB)" %}} 
 
@@ -1378,7 +1377,7 @@ For a husband and wife to behave properly toward one another is for both of them
 
 Regarding this passage above, Robert D. Luginbill States- 
 
-*The truth is that we are all "el", "god" with a small "G" ("**Is it not written in your Law, 'I have said you are gods'**?"* [*John 10:34 NIV*](https://biblia.com/bible/niv/John 10.34)*; cf.* [*Ps.82:6*](https://biblia.com/bible/esv/Ps.82.6)*), in the sense of having been given the God-given ability to choose: something only possible by divine grace. That is the essence of the image: free will. Clearly, not only is free will not lost at the fall, but making choices – and most particularly the choice of whether or not to accept salvation – is why we are here on earth individually and as a species in the first place.* 
+*The truth is that we are all "el", "god" with a small "G" ("**Is it not written in your Law, 'I have said you are gods'**?" **John 10:34 NIV**; cf.**Ps.82:6**), in the sense of having been given the God-given ability to choose: something only possible by divine grace. That is the essence of the image: free will. Clearly, not only is free will not lost at the fall, but making choices – and most particularly the choice of whether or not to accept salvation – is why we are here on earth individually and as a species in the first place.* 
 
 [*https://ichthys.com/mail-Biblical-Anthropology.htm*](https://ichthys.com/mail-Biblical-Anthropology.htm)  
 
