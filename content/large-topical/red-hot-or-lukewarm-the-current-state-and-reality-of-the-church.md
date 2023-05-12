@@ -1,14 +1,13 @@
 ---
-title: The Current State and Reality of the Church-The Purpose of Assembly 
+title: Red Hot or Lukewarm - The Current State and Reality of the Church
 weight: 200
 summary: Describing the current church as it really is and what needs to change for it to improve. The reality of modern Christianity. Please also see The Gospel of Jesus Christ-Water Baptism for the reality of the past 2,000 years of church history since the apostle John's death. 
 ---
 
 
-
 ## **1. The Role and Purpose of Church**
 
-For more information on the subject of this study, please see the following link:  **Knowledge, faith, and Application**  
+For more information on the subject of this study, please see the following link:  **Knowledge, faith, and Application**  TODO
 
 The whole purpose of meeting and assembling in a church, as spoken in Hebrews 10:25, is to receive in-depth Bible teaching and mutual encouragement from our brothers and sisters in Christ, helping us grow spiritually and prepare for our ministry work. Once prepared, we will then be ready to help other believers do likewise. Without hearing and receiving good substantive Bible teaching, our spiritual life will suffer. Pleasing the Lord the most requires the believer to find a place to grow spiritually. Today, most churches do not fulfill the purpose the Bible intends. Most sermons and meetings lack context because they contain too many stories, illustrations, music, and entertainment. As a result, far too much motivational speaking with very little sound exegesis occurs. A good pastor must "pature" his flock by feeding them the Word of God, not giving motivational speeches. The truth must first be discerned and then taught. And whatever the pastor teaches, there must be consistency in the soundness of his teaching. Far too often today, most churches and ministries have one foot in and one foot out—inconsistency resulting in little spiritual growth, both for those teaching and  listening. 
 
@@ -396,8 +395,8 @@ We are after these spiritual treasures, and it is these that we should pursue, n
 
 
 
-**Recommended ministries/**
+**Recommended ministries**
 
-[https://ichthys.com/Tribulation-Part2A.htm#7.%20Laodicea:%20%22The%20Era%20of%20Degeneration%22%20(1882%20to%202026%20=%20144%20years)](https://ichthys.com/Tribulation-Part2A.htm#7. Laodicea: "The Era of Degeneration" (1882 to 2026 = 144 years))
+[https://ichthys.com/Tribulation-Part2A.htm#7.%20Laodicea:%20%22The%20Era%20of%20Degeneration%22%20(1882%20to%202026%20=%20144%20years)](https://ichthys.com/Tribulation-Part2A.htm#7.%20Laodicea:%20%22The%20Era%20of%20Degeneration%22%20(1882%20to%202026%20=%20144%20years))
 
 https://ichthys.com/Coming-Tribulation-Home-Page.htm

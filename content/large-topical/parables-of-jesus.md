@@ -5,7 +5,6 @@ summary: One cannot understand the Gospels without comprehending Jesus's parable
 ---
 
 
-
 ## **Introduction** 
 
 This study aims to help the reader understand most of Jesus’s parables recorded in Matthew, Mark, and Luke.  Although we strive to cover what Scripture provides, there are many parables that Jesus told that we do not have in Scripture, as the passage below confirms. 

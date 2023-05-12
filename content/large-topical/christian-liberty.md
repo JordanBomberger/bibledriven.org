@@ -5,8 +5,6 @@ summary:
    A brief non-comprehensive study pushing back against legalism to demonstrate the freedom believers have in Jesus Christ. But there are other things to consider as well. It is best to avoid extremes of saying everything is a sin to taking certain activities too far. There are many areas of application that will require discernment. 
 ---
 
-
-
 ## **Introduction** 
 
 Legalism is one of the most destructive and divisive dangers in the body of Christ today. The church is already filled with so much false teaching as it is; the last thing it needs is false and unsubstantiated systems to hold its members captive. Unfortunately, legalism has discouraged and disgusted such a large number of believers that many have left the church and denied the faith altogether. 
@@ -15,7 +13,7 @@ For example, it is not uncommon to hear many of the younger generation running a
 
 Unfortunately, I, the writer, have witnessed much legalism attending churches in years past. As a result, many activities became forbidden, and believers slandered one another over things that were not wrong at all. In the end, the church would suffer disunity, distrust, suspicion, self-righteousness, manipulation, and downright coldness. In other words, the congregation would self-destruct. Not only would members leave, but many stayed away for good. 
 
- Legalism is not a good witness to the world because it turns biblical Christianity into a set of rules of dos and don’ts. Thus, it is entirely understandable why many Christians get a bad rep. Unbelievers don’t see Christ’s love; they see religious and ritualistic people bent on making up their own set of rules whenever and wherever they please. They don’t see love and unity among brothers and sisters, but rather, individuals attacking and chasing each away. As **Revelation 3:14-22** shows, this problem comes back to the issue of lukewarmness so rampant in the church today. Truth is not a priority, and for that reason, often twisted and misunderstood.  
+Legalism is not a good witness to the world because it turns biblical Christianity into a set of rules of dos and don’ts. Thus, it is entirely understandable why many Christians get a bad rep. Unbelievers don’t see Christ’s love; they see religious and ritualistic people bent on making up their own set of rules whenever and wherever they please. They don’t see love and unity among brothers and sisters, but rather, individuals attacking and chasing each away. As **Revelation 3:14-22** shows, this problem comes back to the issue of lukewarmness so rampant in the church today. Truth is not a priority, and for that reason, often twisted and misunderstood.  
 
 It is true that just because something isn’t mentioned and condemned in Scripture means it's good and right. But the opposite is also true. If the Bible doesn’t condemn something, then we must use discernment and discretion when making personal applications in these particular areas. We can find the truth if we rely on the Spirit to guide and convict, for if we are heeding His still small voice, then we will know to stop doing a particular activity. Proper spiritual growth is the solution to discovering what we can and cannot do in certain areas of life. But if believers bite and devour one another, they cannot thrive as a church, for no kingdom divided against itself can stand. 
 
@@ -59,7 +57,7 @@ Regardless of whether a church is more traditional or contemporary, the issue of
 
 Considering our topic, let us now survey a list of things often misunderstood in Christian circles. This list is far from comprehensive but consists of some of the church's most controversial issues (all doctrinal disagreements aside). Hopefully, this small list will suffice to demonstrate the idea we have discussed thus far. 
 
-#### **A. Smoking** 
+## **A. Smoking** 
 
 This author does not believe smoking is a good idea. However, by itself, there is nothing wrong with it. But the believer should consider the following below. 
 
@@ -87,7 +85,7 @@ https://www.cdc.gov/tobacco/data_statistics/fact_sheets/health_effects/tobacco_r
 
 {{% /scripture %}} 
 
-#### **B. Tattoos and Piercings** 
+## **B. Tattoos and Piercings** 
 
 The Bible does not say tattoos or piercings are wrong. There is nothing wrong with a believer getting a tattoo. However, we need to make some points here. 
 
@@ -113,7 +111,7 @@ It is most unfortunate that so many Christians in our day and age continue to se
 
 {{% /scripture %}} 
 
-#### **C. Movies and Sports- Entertainment**  
+## **C. Movies and Sports - Entertainment**  
 
 There is nothing wrong with watching movies, sports, or going to movie theatres. However, it depends on the film and the effects it may have on us. Hollywood is polluted with all kinds of anti-God films that promote idolatry, lust, and the list goes on. These things should disturb us. Also, how much attention do we give to entertainment? It is unwise for members of the body of Christ to expose themselves to films with inappropriate content. Films with excessive nudity aren’t much different from pornography and will be impossible to watch without causing the believer to stumble. There is no justifiable reason to expose ourselves to such things. If we continue to do something that causes us to stumble in whatever way because we watch and read things our eyes shouldn’t see, we sin. 
 
@@ -127,7 +125,7 @@ The Devil has used the entertainment industry to his advantage in distracting an
 
 However, this writer is confident that the more a believer grows, the more discerning they will become. If they are living their life for the Lord as they should, they will not stumble into sin because of the world’s distractions. Mature believers know how to handle all things in moderation and, with Spirit’s help, make the best use of their time and personal decisions. 
 
-#### **D. Food** 
+## **D. Food** 
 
 The New Testament does not mention any restrictions on what Christians can or can’t eat. Ever since Jesus ushered in the New Covenant, things have changed. Scripture is clear that believers may eat what they wish. We must never judge others based on their diet. 
 
@@ -155,7 +153,7 @@ Other passages that pertain to our discussion include **1 Corinthians 10:23-33**
 
 
 
-#### **E. Music and Dancing** 
+## **E. Music and Dancing** 
 
 Regarding how believers should relate to secular music, please see the section above “**Movies and Sports-Entertainment**. “I believe that section answers this one as well. So with that said, we will instead discuss Christian music/ worship below. 
 
@@ -185,7 +183,7 @@ There is no doubt that many Christians in many churches do worship as they shoul
 
 **11**. Dancing (along with the music that goes with it) is another area of Christian liberty that believers need to handle with care. This activity is harmless unless it becomes an inappropriate ritual. Assuming there is nothing immoral about it, this is another area of application. 
 
-#### **F.** **Believers and Mental Illness- Antidepressants, Counselors, and Cognitive Behavioral Therapy?**   
+## **F.** **Believers and Mental Illness - Antidepressants, Counselors, and Cognitive Behavioral Therapy?**   
 
 There is no denying the fact that many believers have and continue to suffer from mental illness. But, of course, not everyone who believes they have an issue is suffering from a disorder per se. For example, everyone has a little OCD in them, just as how everybody gets anxious from time to time. But this is not the same as a disorder. People who have disorders suffer so severely that it interferes with their daily lives (depending on the severity).  
 
@@ -229,7 +227,7 @@ For example, some brothers and sisters who served in the military have such terr
 
 **17**. The believer considering SSRIs should pray before they make their decision. All mental health drugs will have side effects. Again, results will vary based on the individual and the particular drug in question. The believer should never continue using a med if it begins to interfere with and damage their relationship with the Lord! They need to consider other health issues. They must contemplate their circumstances carefully in addition to consulting the Lord on the matter first. If a Christian chooses to see a biblical counselor, they must make their choice carefully. The Christian counselor must be someone they trust and must approach their case with biblical truth. If they do not practice their work on solid biblical principles (and this goes for psychiatrists as well), then the client must avoid them. Unfortunately, there are very few good counselors and psychiatrists out there. So the times when the Lord may lead someone down that path are probably rare indeed, though still existent no doubt. Again, if the case of whatever disorder is severe enough, then further measures may need to be taken. 
 
-#### **G. Drinking**
+## **G. Drinking**
 
 The Bible nowhere states that it is wrong to drink. In other words, a believer who drinks a beer hasn’t committed some sin. The Scripture condemns getting drunk, i.e., drinking too much to the point of intoxication. The verse below in no way forbids taking a drink. 
 
@@ -251,7 +249,7 @@ Drunkenness is a sin because it clouds proper judgment. Getting drunk takes away
 
 Should a believer drink? There is nothing wrong with a little here or there, but getting drunk is a sin. As with smoking, all addictions start somewhere. If a believer is strong enough not to stumble over the occasional drink once in a while, then there is no harm in that. However, some can’t handle even the slightest exposure to such beverages because they may become hooked quickly. In that case, they should stay away from alcohol altogether. Additionally, the stronger believer should avoid drinking while a weaker brother is in his midst (**Romans 14:13-23**). 
 
-#### **H. Clothing** 
+## **H. Clothing** 
 
 Clothing is a more difficult gray area to discern than many of the topics we have discussed above. However, we will make some points below. 
 
