@@ -184,7 +184,7 @@ There are no few instances throughout human history of husbands physically and v
 
 
 
-### **5. Logistical Preparations for the Tribulation? Facing Martyrdom** 
+### **5. Should We Make Logistical Preparations for the Tribulation?**
 
 logistical-preparations-for-the-tribulation-facing-martyrdom
 
@@ -223,6 +223,19 @@ We believers are not like the unbelieving world with no hope and every reason to
 **25** “Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes? **26** Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they? **27** Can any one of you by worrying add a single hour to your life? **28** “And why do you worry about clothes? See how the flowers of the field grow. They do not labor or spin. **29** Yet I tell you that not even Solomon in all his splendor was dressed like one of these. **30** If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the fire, will he not much more clothe you—you of little faith? **31** So do not worry, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’ **32** For the pagans run after all these things, and your heavenly Father knows that you need them. **33** But seek first his kingdom and his righteousness, and all these things will be given to you as well. **34** Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.                                    
 
 {{% /scripture %}} 
+
+
+
+
+
+
+
+
+
+
+
+### **Facing Martyrdom** 
+
 
 Related to the topic above is the subject of martyrdom and how the believer should view it. We need to understand that exiting life in this manner is not something we get to choose to do or not. It is entirely God’s choice on whether He destines us to honor Him in this way. The strongest passage to enhance this reality is one we have mentioned multiple times on this ministry: Revelation 13:10, which demonstrates that whatever God wills and predestines cannot be undone. Whatever He has decreed for the believer's life (He knows it will occur through foreknowledge beforehand) is something He will bring to completion. So the believer who obeys their Him as they should will not be capable of overriding God’s will. But, assuming they remain faithful and don’t cower under pressure, they will obey the Lord’s calling. And the Lord knows who will obey and who will rebel. So the choice every individual believer makes never takes God by surprise because He knew about all their decisions before the earth ever came into existence. 
 
@@ -265,6 +278,10 @@ The Lord will bestow great honor to the one who bears up under the ultimate test
 **31** What shall we say about such wonderful things as these? If God is for us, who can ever be against us? **32** Since he did not spare even his own Son but gave him up for us all, won’t he also give us everything else? **33** Who dares accuse us whom God has chosen for his own? No one—for God himself has given us right standing with himself. **34** Who then will condemn us? No one—for Christ Jesus died for us and was raised to life for us, and he is sitting in the place of honor at God’s right hand, pleading for us. **35** Can anything ever separate us from Christ’s love? Does it mean he no longer loves us if we have trouble or calamity, or are persecuted, or hungry, or destitute, or in danger, or threatened with death? **36** (As the Scriptures say, “For your sake we are killed every day; we are being slaughtered like sheep.”) **37** No, despite all these things, overwhelming victory is ours through Christ, who loved us. **38** And I am convinced that nothing can ever separate us from God’s love. Neither death nor life, neither angels nor demons, neither our fears for today nor our worries about tomorrow—not even the powers of hell can separate us from God’s love. **39** No power in the sky above or in the earth below—indeed, nothing in all creation will ever be able to separate us from the love of God that is revealed in Christ Jesus our Lord.                                                            
 
 {{% /scripture %}} 
+
+
+
+
 
 
 
