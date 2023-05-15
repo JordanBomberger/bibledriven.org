@@ -44,7 +44,7 @@ To end this very brief discussion, none of the above in any way suggests we have
 
 
 
-### **3. No Follower of Christ is Missing out on Anything! Coping in a Fallen and Sinful World** 
+### **3. No Follower of Christ is Missing out on Anything!** 
 
 no-follower-of-christ-is-missing-out-on-anything-coping-in-a-fallen-and-sinful-world
 
@@ -92,7 +92,7 @@ Instead of esteeming others, we should credit everything to our Lord and Master,
 
 
 
-### **4. Mourning Death- We are not as Unbelievers- Don’t Commit Apostasy! Reasons for Apostasy and Why not to Give Up!**
+### **4. Mourning Death and Other Reasons for Apostasy - Why not to Give Up!**
 
 mourning-death-we-are-not-as-unbelievers-dont-commit-apostasy-reasons-for-apostasy-and-why-not-to-give-up
 
@@ -124,7 +124,7 @@ The truth is the issue, not the more minor matters that mean far less (especiall
 
 We do not mean to insult other genuine believers as if to harm them by stating all the above. But spiritually weak brothers and sisters will make very poor guides despite being genuinely saved. And this doesn’t just go for more conservative families, but very liberal ones as well. This fact applies to all individuals not well-grounded in the Word period, regardless of how liberal or conservative they are. The real issue is not whether a young wavering believer thinks God is real or whether He is fair and just. The problem is whether they are truly learning the truth about who He is, understanding it, believing it, and applying it. If this process doesn’t occur, then they will never gain any spiritual ground or expect to recover from the disbelief they have fallen into. False information about God will lead to misunderstanding and knowing Him less! That is why the truth is so important! The more we know Jesus, the more we can trust Him. You can never become an actual or closer friend with someone if you never persevere to get to know them better. It is unfair for so many within and outside the church to misrepresent God by believing and teaching so many false and unbiblical things about Him. We must let the Lord and His Word speak for themselves, not allow misguided people to do the talking for us!
 
- There is no excuse for giving up on God at all! The problem with so many is that their faith was in people, events, circumstances, feelings, and emotions. The truth is the issue, not people. Did they fail us in whatever ways? That is on them, but that is not God’s fault. God is not for sin, nor did He create it. Instead, we human beings have brought the mess we are currently in on ourselves. We only have us to blame for that. Yet despite disturbing the natural way God intended things to be through our sinful conduct, our Savior has provided us a way out of it. He will not fail to bring our faith to completion if only we are willing to follow Him faithfully to the very end no matter what betides. No matter what challenges attack our faith, God is greater than all of them. Do we not think He can’t help us make it through safe and sound? He would never have allowed us to face any difficulty if He knew we couldn’t handle it (**1 Corinthians 10:13**) (we are all tougher than we think). Nothing we endure in this life takes God by surprise, and we should never allow any of it to shock us. He knew about everything that has and will occur before He laid the earth’s foundations.  Instead, we should expect and embrace all that God allows to come our way and see it all as it really is, a test meant to grow our faith. And if that is not the case, then we are under Satanic attack and must bear up under it as we would any other episode. 
+There is no excuse for giving up on God at all! The problem with so many is that their faith was in people, events, circumstances, feelings, and emotions. The truth is the issue, not people. Did they fail us in whatever ways? That is on them, but that is not God’s fault. God is not for sin, nor did He create it. Instead, we human beings have brought the mess we are currently in on ourselves. We only have us to blame for that. Yet despite disturbing the natural way God intended things to be through our sinful conduct, our Savior has provided us a way out of it. He will not fail to bring our faith to completion if only we are willing to follow Him faithfully to the very end no matter what betides. No matter what challenges attack our faith, God is greater than all of them. Do we not think He can’t help us make it through safe and sound? He would never have allowed us to face any difficulty if He knew we couldn’t handle it (**1 Corinthians 10:13**) (we are all tougher than we think). Nothing we endure in this life takes God by surprise, and we should never allow any of it to shock us. He knew about everything that has and will occur before He laid the earth’s foundations.  Instead, we should expect and embrace all that God allows to come our way and see it all as it really is, a test meant to grow our faith. And if that is not the case, then we are under Satanic attack and must bear up under it as we would any other episode. 
 
 {{% scripture p="2 Timothy 4:18 (NIV)" %}} 
 
@@ -170,7 +170,7 @@ Just because people in most churches and groups have failed through misinterpret
 
 
 
-### **5. Nothing will Stop God’s Plan- Examples of Satanic Attack from Scripture- Types of Antichrist** 
+### **5. Examples of Satanic Attack from Scripture** 
 
 nothing-will-stop-gods-plan-examples-of-satanic-attack-from-scripture-types-of-antichrist
 
