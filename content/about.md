@@ -1,5 +1,5 @@
 ---
-title: About the Author- The Purpose of this Ministry 
+title: About the Author - The Purpose of this Ministry 
 ---
 
 My name is Jordan Lee Bomberger, and I grew up in Glen Burnie, Maryland but have since moved to central Georgia in January of 2021 (although I may be moving again in the future). I grew up attending Baptist and non-denominational/community churches but have since withdrawn a few years ago. As of writing this sentence, I am preparing to be part of a house church in the same house I share with the owner (a good Christian friend of mine). I am also in contact with other like-minded believers through email and WhatsApp and regularly communicate with some of them. My love for the Lord has grown over the years as I have repeatedly seen Him work wonders in my life. I’ve been saved for most of my life since I was a very young child but didn’t truly begin taking my walk with the Lord seriously until 2016. That year, my love for the Lord increased, and my search for greater truth began. My thirst for answers about many doctrines and truths misunderstood in most churches today was quenched when I accepted the teachings found on Ichthys-Bible Studies for Spiritual Growth in August of 2017. I have since grown under that ministry, and everything else went on from there to this present day.

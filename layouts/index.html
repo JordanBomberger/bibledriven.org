@@ -2,34 +2,35 @@
 <html lang="en">
 
 <head>
-  <title>BibleDocs</title>
-  <meta http-equiv="content-type" content="text/html"; charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<title>BibleDocs</title>
+	<meta http-equiv="content-type" content="text/html" ; charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 
-  <!-- CSS -->
-  {{ $purecss := "https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/" }}
-  <link rel="stylesheet" href="{{ $purecss }}pure-min.css">
-  <link rel="stylesheet" href="{{ $purecss }}grids-responsive-min.css">
-  <link rel="stylesheet" href="/index/assets/css/main.css" />
-  <link rel="stylesheet" href="/index/assets/css/from-hugo-site.css" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+	<!-- CSS -->
+	{{ $purecss := "https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/" }}
+	<link rel="stylesheet" href="{{ $purecss }}pure-min.css">
+	<link rel="stylesheet" href="{{ $purecss }}grids-responsive-min.css">
+	<link rel="stylesheet" href="/index/assets/css/main.css" />
+	<link rel="stylesheet" href="/index/assets/css/from-hugo-site.css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
 </head>
 
 
 <body class="is-preload">
-<div id="layout">
+	<div id="layout">
 
-  {{ partial "sidemenu.html" . }}
+		{{ partial "sidemenu.html" . }}
 
-  <div id="main">
+		<div id="main">
 
-		<!-- Header -->
+			<!-- Header -->
 			<section id="header" class="dark">
 				<div id="opaqueBacking">
 					<header>
-						<h1>BibleDocs</h1>
-						<p>Thy Word is a lamp unto my feet, and a light unto my path.<br/>
-						Psalm 119:105
+						<h1>BibleDriven</h1>
+						<p>The world is passing away along with its desires, but whoever does the will of God abides
+							forever.<br />
+							1 John 2:17
 						</p>
 					</header>
 					<footer>
@@ -48,34 +49,38 @@
 								<section>
 									<h3>Resources</h3>
 									<ol>
-										<li><a href="/shorter-topical-studies">Shorter Topical Studies</a>: concise topical studies, dedicated to brief but thorough treatments of individual concepts.</li>
-										<li><a href="/longer-topical-studies">Longer Topical Studies</a>: in-depth topical studies, in the manner of longform non-fiction books. </li>
-										<li><a href="/longer-topical-studies">Verse-by-verse Studies</a>: detailed Bible study notes, organized by chapter and verse. </li>
-										<li><a href="/questions-and-answers">Q&amp;As</a>: questions and answers by topic. Some of these Q&amp;As come from correspondence with site readers, while others (both questions and answers) are completely of my own creation.</li>
-										
-										<!-- <li><a href="/ministry-info">Ministry Info</a>: preparation and ministry information for specific ministries (e.g., apologetics, evangelism, music).</li>
-										<li><a href="/guides">Guides</a>: video guides on various matters (e.g., using Bible study software).</li>
-										<li><a href="/video-series">Video Series</a>: video Bible studies and recording archives of weekly Zoom meetings.</li>
-										<li><a href="/greek-resources">Greek Resources</a>: resources relating to the study of Ancient Greek.</li>
-										<li><a href="/hebrew-resources">Hebrew Resources</a>: resources relating to the study of Biblical Hebrew.</li> -->
+										<li><a href="/small-topical">Small Topical Studies</a>: concise
+											topical studies, dedicated to brief but thorough treatments of individual
+											concepts.</li>
+										<li><a href="/large-topical">Large Topical Studies</a>: in-depth
+											topical studies, in the manner of longform non-fiction books. </li>
+										<li><a href="/questions-and-answers">Q&amp;As</a>: questions and answers by
+											topic. Some of these Q&amp;As come from correspondence with site readers,
+											while others (both questions and answers) are completely of my own creation.
+										</li>
 									</ol>
-
-									<p>While these four categories of resources are organized independently, across all of them, <a href="/about-the-site/content-organization/#much-content-on-this-site-supports-all-three-communication-mediums-text-video-and-audio">much content supports all three communication mediums: text, video, and audio</a>.</p>
 								</section>
 							</div>
 							<div class="col-6 col-12-narrow">
-								<div class="row">
-									<div class="col-6"><a href="/shorter-topical-studies" class="image fit"><div class="labeled-image"><img src="index/images/shorter-topical-studies-small.jpg" alt="" /><div>Shorter Topical Studies</div></div></a></div>
-									<div class="col-6"><a href="/longer-topical-studies" class="image fit"><div class="labeled-image"><img src="index/images/longer-topical-studies-small.jpg" alt="" /><div>Longer Topical Studies</div></div></a></div>
-									<!-- <div class="col-6"><a href="/pages" class="image fit"><div class="labeled-image"><img src="index/images/pages-small.jpg" alt="" /><div>Pages</div></div></a></div> -->
-									<div class="col-6"><a href="/verse-by-verse-studies" class="image fit"><div class="labeled-image"><img src="index/images/verse-by-verse-studies-small.jpg" alt="" /><div>Verse-by-verse Studies</div></div></a></div>
-									<!-- <div class="col-6"><a href="/study-notes" class="image fit"><div class="labeled-image"><img src="index/images/study-notes-small.jpg" alt="" /><div>Study Notes</div></div></a></div> -->
-									<div class="col-6"><a href="/questions-and-answers" class="image fit"><div class="labeled-image"><img src="index/images/questions-and-answers-small.jpg" alt="" /><div>Q&amp;As</div></div></a></div>
-									<!-- <div class="col-6"><a href="/ministry-info" class="image fit"><div class="labeled-image"><img src="index/images/ministry-info-small.jpg" alt="" /><div>Ministry Info</div></div></a></div>
-									<div class="col-6"><a href="/guides" class="image fit"><div class="labeled-image"><img src="index/images/guides-small.jpg" alt="" /><div>Guides</div></div></a></div>
-									<div class="col-6"><a href="/video-series" class="image fit"><div class="labeled-image"><img src="index/images/microphone-small.jpg" alt="" /><div>Video Series</div></div></a></div>
-									<div class="col-6"><a href="/greek-resources" class="image fit"><div class="labeled-image"><img src="index/images/greek-resources-small.jpg" alt="" /><div>Greek Resources</div></div></a></div>
-									<div class="col-6"><a href="/hebrew-resources" class="image fit"><div class="labeled-image"><img src="index/images/hebrew-resources-small.jpg" alt="" /><div>Hebrew Resources</div></div></a></div> -->
+								<div class="row image-link-grid">
+									<div class="col-6"><a href="/small-topical" class="image fit">
+											<div class="labeled-image"><img
+													src="index/images/static-green-background.png" alt="" />
+												<div>Small Topical</div>
+											</div>
+										</a></div>
+									<div class="col-6"><a href="/large-topical" class="image fit">
+											<div class="labeled-image"><img
+													src="index/images/static-green-background.png" alt="" />
+												<div>Large Topical</div>
+											</div>
+										</a></div>
+									<div class="col-6"><a href="/questions-and-answers" class="image fit">
+											<div class="labeled-image"><img
+													src="index/images/static-green-background.png" alt="" />
+												<div>Q&amp;As</div>
+											</div>
+										</a></div>
 								</div>
 							</div>
 						</div>
@@ -87,83 +92,78 @@
 				<header>
 					<div class="container">
 						<h2>Overview</h2>
-						
-						<p>If you'd like to get a pretty thorough general summary of what this ministry is about, the <a href="https://www.youtube.com/watch?v=OVKDoAWI_20">Ministry Introduction and General Overview</a> video on the <a href="https://www.youtube.com/channel/UCFk7khraAKf68DZ5GeYEFIw">YouTube channel</a> is a good place to start.</p>
 
-						<p>In short, BibleDocs is a site dedicated to in-depth Bible teaching and resources related to Bible study, apologetics, evangelism, and more. All Christians should read their Bible often, no matter what sort of role they occupy in the Body of Christ. However, God has provided gifted individuals in the Church to supply Christians with additional spiritual nourishment (Ephesians 4:11-16). Pastor-teachers, for example, exercise their spiritual gifts to mine truth from scripture and present it in different forms to others, according to the ministries assigned to them by Christ (1 Corinthians 12:4-6). Bible teaching does not replace Bible reading; rather, it supplements it. Likewise, apologetics and evangelism helps never replace the Bible, but are used alongside it to make ministry more effective.</p>
-						
-						<p>The materials on this site are written with this perspective in mind: that scripture is the final authority in all things, and that activities like Bible teaching, apologetics, and evangelism must necessarily stem directly from the Bible, being undertaken by gifted and prepared individuals.</p>
+						<p>If you'd like to get a pretty thorough general summary of what this ministry is about, the <a
+								href="https://www.youtube.com/watch?v=OVKDoAWI_20">Ministry Introduction and General
+								Overview</a> video on the <a
+								href="https://www.youtube.com/channel/UCFk7khraAKf68DZ5GeYEFIw">YouTube channel</a> is a
+							good place to start.</p>
+
+						<p>In short, BibleDocs is a site dedicated to in-depth Bible teaching and resources related to
+							Bible study, apologetics, evangelism, and more. All Christians should read their Bible
+							often, no matter what sort of role they occupy in the Body of Christ. However, God has
+							provided gifted individuals in the Church to supply Christians with additional spiritual
+							nourishment (Ephesians 4:11-16). Pastor-teachers, for example, exercise their spiritual
+							gifts to mine truth from scripture and present it in different forms to others, according to
+							the ministries assigned to them by Christ (1 Corinthians 12:4-6). Bible teaching does not
+							replace Bible reading; rather, it supplements it. Likewise, apologetics and evangelism helps
+							never replace the Bible, but are used alongside it to make ministry more effective.</p>
+
+						<p>The materials on this site are written with this perspective in mind: that scripture is the
+							final authority in all things, and that activities like Bible teaching, apologetics, and
+							evangelism must necessarily stem directly from the Bible, being undertaken by gifted and
+							prepared individuals.</p>
 					</div>
 				</header>
-				<div class="content dark style1 featured">
-					<div class="container">
-						<div class="row">
-							<div class="col-4 col-12-narrow">
-								<section>
-									<span class="feature-icon"><span class="icon"><i class="fas fa-book"></i></span></span>
-									<header>
-										<h3>Bible-centered</h3>
-									</header>
-									<p>All materials on this site strive to keep the focus on the Biblical text. Greek and Hebrew are brought to bear as necessary, along with discussions of hermeneutics and proper exegesis. Arguments from probability and matters of personal application are clearly distinguished from Bible teaching with direct support from scripture. Read more about how this site distinguishes between types of content <a href="/about-the-site/content-organization/#special-content-sections">here</a>.</p>
-								</section>
-							</div>
-							<div class="col-4 col-12-narrow">
-								<section>
-									<span class="feature-icon"><span class="icon"><i class="fas fa-check"></i></span></span>
-									<header>
-										<h3>Application-aware</h3>
-									</header>
-									<p>Christians are called to learn Biblical truth, believe it, apply it in the real world under shot and shell, and then help others do likewise. While the specifics are always personal, by listing out application variables and describing them, this site tries to make application as straightforward as possible. You can read more about how this site handles discussion of application <a href="/about-the-site/content-organization/#application">here</a>.</p>
-								</section>
-							</div>
-							<div class="col-4 col-12-narrow">
-								<section>
-									<span class="feature-icon"><span class="icon"><i class="fas fa-sort-amount-up"></i></span></span>
-									<header>
-										<h3>Level-appropriate</h3>
-									</header>
-									<p>Different Christians are at different places in their spiritual walk. To make content useful to everyone, this site has resources for new believers all the way through resources for very advanced Christians. No matter the spiritual level, writing on this site tries to maximize accessibility by avoiding unnecessary complexity. You can read more about how this site uses content level <a href="/about-the-site/content-organization/#content-level">here</a>, and writing level <a href="/about-the-site/content-organization/#writing-level">here</a>.</p>
-								</section>
-							</div>
-						</div>
-					</div>
-				</div>
 			</section>
-
 			<section id="contact" class="main">
 				<header>
 					<div class="container">
 						<h2>Have questions?</h2>
-						<p>A central part of this ministry is fielding and answering questions from everyday Christians (and then topically organizing and posting the questions and their respective answers once enough of them have accumulated), so please do not be shy to reach out — you'll be helping the site in the long run. You can reach me at <a href="mailto:steven@bibledocs.org">steven@bibledocs.org</a>.</p>
-						<p>(With regard to these Q&amp;As on the site, I anonymize everything not written by me, and I also honor all requests to refrain from posting correspondence).</p>
+						<p>A central part of this ministry is fielding and answering questions from everyday Christians
+							(and then topically organizing and posting the questions and their respective answers once
+							enough of them have accumulated), so please do not be shy to reach out — you'll be helping
+							the site in the long run. You can reach me at <a
+								href="mailto:steven@bibledocs.org">steven@bibledocs.org</a>.</p>
+						<p>(With regard to these Q&amp;As on the site, I anonymize everything not written by me, and I
+							also honor all requests to refrain from posting correspondence).</p>
 
 						<h2 id="mailing-list" style="margin-top: 0.6em;">Stay up to date</h2>
-						<p>This site <a href="/rss">maintains RSS feeds</a> for the main content streams to make it easy to stay up to date.</p>
-						<p>You can also stay up to date with site happenings by signing up for the BibleDocs <a href="/mailing-list">mailing list</a>:</p>
-						<form style="border:1px solid #ccc;margin-top:15px;padding:3px;text-align:center;" action="https://tinyletter.com/BibleDocs" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/BibleDocs', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:100%;margin-bottom:15px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" style="margin-bottom:15px"/></form>
+						<p>This site <a href="/rss">maintains RSS feeds</a> for the main content streams to make it easy
+							to stay up to date.</p>
+						<p>You can also stay up to date with site happenings by signing up for the BibleDocs <a
+								href="/mailing-list">mailing list</a>:</p>
+						<form style="border:1px solid #ccc;margin-top:15px;padding:3px;text-align:center;"
+							action="https://tinyletter.com/BibleDocs" method="post" target="popupwindow"
+							onsubmit="window.open('https://tinyletter.com/BibleDocs', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+							<p><label for="tlemail">Enter your email address</label></p>
+							<p><input type="text" style="width:100%;margin-bottom:15px" name="email" id="tlemail" /></p>
+							<input type="hidden" value="1" name="embed" /><input type="submit" value="Subscribe"
+								style="margin-bottom:15px" />
+						</form>
 					</div>
 				</header>
 			</section>
 
-		<!-- Footer -->
+			<!-- Footer -->
 			<section id="footer">
 				<ul class="icons">
-					<li><a href="mailto:steven@bibledocs.org" class="icon"><i class="fas fa-envelope"></i><span class="label">Email</span></a></li>
-					<li><a href="https://www.youtube.com/channel/UCFk7khraAKf68DZ5GeYEFIw" class="icon"><i class="fab fa-youtube"></i><span class="label">YouTube</span></a></li>
-					<li><a href="https://twitter.com/BibleDocs" class="icon"><i class="fab fa-twitter"></i><span class="label">Twitter</span></a></li>
-					<li><a href="https://www.facebook.com/BibleDocs/" class="icon"><i class="fab fa-facebook"></i><span class="label">Facebook</span></a></li>
-					<li><a href="https://community.bibledocs.org/" class="icon"><i class="fab fa-discourse"></i><span class="label">Discourse</span></a></li>
-					<li><a href="https://github.com/StevenTammen/bibledocs.org" class="icon"><i class="fab fa-github"></i><span class="label">GitHub</span></a></li>
+					<li><a href="mailto:steven@bibledocs.org" class="icon"><i class="fas fa-envelope"></i><span
+								class="label">Email</span></a></li>
+					<li><a href="https://github.com/StevenTammen/bibledocs.org" class="icon"><i
+								class="fab fa-github"></i><span class="label">GitHub</span></a></li>
 				</ul>
 				<div class="copyright">
 					<ul class="menu">
-						<li>Site contents &copy; <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA</a></li><li>Base Theme: <a href="https://html5up.net/tessellate">HTML5 UP</a></li>
+						<li>Site contents &copy; <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC
+								BY-NC-SA</a></li>
+						<li>Design: <a href="https://www.bibledocs.org/">BibleDocs</a></li>
 					</ul>
 				</div>
 			</section>
 			{{ partial "mobile-bar-list-pages.html" . }}
 
-		<!-- Scripts -->
+			<!-- Scripts -->
 			<script src="index/assets/js/jquery.min.js"></script>
 			<script src="index/assets/js/jquery.scrolly.min.js"></script>
 			<script src="index/assets/js/browser.min.js"></script>
@@ -171,33 +171,34 @@
 			<script src="index/assets/js/util.js"></script>
 			<script src="index/assets/js/main.js"></script>
 
-<!-- RefTagger -->
-<script> 
- 	 var refTagger = {
- 	 	 settings: {
-			bibleVersion: "NKJV",
-			convertHyperlinks: false,		
-			roundCorners: true,
-			socialSharing: [],
-			tagChapters: true
- 	 	 }
- 	 };
- 	 (function(d, t) { 
- 	 	 var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; 
- 	 	 g.src = '//api.reftagger.com/v2/RefTagger.js'; 
- 	 	 s.parentNode.insertBefore(g, s); 
- 	 }(document, 'script')); 
- </script>
- 
-			
-<!-- Site Functions -->
-<script src="{{ .Site.BaseURL }}js/site-functions-list-pages.js"></script>
+			<!-- RefTagger -->
+			<script>
+				var refTagger = {
+					settings: {
+						bibleVersion: "NKJV",
+						convertHyperlinks: false,
+						roundCorners: true,
+						socialSharing: [],
+						tagChapters: true
+					}
+				};
+				(function (d, t) {
+					var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+					g.src = '//api.reftagger.com/v2/RefTagger.js';
+					s.parentNode.insertBefore(g, s);
+				}(document, 'script')); 
+			</script>
 
-</div>
-</div>
 
-{{ partial "google_analytics.html" . }}
-{{ partial "piwik_analytics.html" . }}
+			<!-- Site Functions -->
+			<script src="{{ .Site.BaseURL }}js/site-functions-list-pages.js"></script>
+
+		</div>
+	</div>
+
+	{{ partial "google_analytics.html" . }}
+	{{ partial "piwik_analytics.html" . }}
 
 </body>
+
 </html>

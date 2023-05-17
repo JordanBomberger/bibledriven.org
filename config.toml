@@ -43,11 +43,11 @@ paginate = 10
     identifier = "home"
     url = "/"
   [[menu.navigation]]
-    name = "About the Author"
+    name = "About"
     pre = "<i class='fas fa-user fa-fw'></i>"
-    weight = 3
-	  identifier = "about-the-author"
-    url = "/about-the-author/"
+    weight = 2
+	  identifier = "about"
+    url = "/about/"
 
 
   [[menu.content]]
@@ -85,11 +85,11 @@ paginate = 10
 #    identifier = "subject-index"
 #    url = "/subject-index/"
   [[menu.meta]]
-    name = "Resource Index"
+    name = "Resource Recs"
     pre = "<i class='fas fa-list fa-fw'></i>"
     weight = 9
-    identifier = "resource-index"
-    url = "/resource-index/"
+    identifier = "resource-recommendations"
+    url = "/resource-recommendations/"
   [[menu.meta]]  
     name = "Mailing List"
     pre = "<i class='fas fa-envelope fa-fw'></i>"
