@@ -1,5 +1,5 @@
 ---
-title: The Origin of False Religion- Genesis 4:1-7 and Satan's World System 
+title: The Origin of False Religion - Genesis 4:1-7 and Satan's World System
 ---
 
 {{% scripture p="Genesis 4:1-7 (ESV)" %}}  

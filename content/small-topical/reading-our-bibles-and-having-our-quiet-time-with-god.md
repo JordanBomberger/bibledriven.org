@@ -1,5 +1,5 @@
 ---
-title: Reading our Bibles and Having our "Quiet Time" with God 
+title: Reading our Bibles and Having our "Quiet Time" with God
 ---
 
 In other parts of this website, we have discussed the critical need for believers to get into the Word and read it for themselves. The benefits and advantages of doing so are tremendous and form a crucial part of our Christian life. In the church today, the Bible is indispensable for our spiritual growth and service to Christ. For those lacking the complete canon due to persecution and difficult circumstances, the Lord will not fail to provide for the individual who truly wants to grow whenever He sees fit to provide all the necessary tools. Until then, the Lord will not fail to sustain all those who do not have access to a Bible with what little they know since living the Christian life is all about faith. And as we know, the Lord is a rewarder to those who diligently seek Him (**Hebrews 11:6**). 

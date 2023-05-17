@@ -1,5 +1,5 @@
 ---
-title: Living in the Present and Thankfullness 
+title: Living in the Present
 ---
 
 {{% scripture p="Matthew 6:34 (NIV)" %}}  

@@ -1,5 +1,5 @@
 ---
-title: Faith, Hope, and Love- 1 Thessalonians 1:2-3 
+title: Faith, Hope, and Love - 1 Thessalonians 1:2-3
 ---
 
 {{% scripture p="1 Thessalonians 1:2-3 (ESV)" %}}  

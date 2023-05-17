@@ -1,5 +1,5 @@
 ---
-title: The Gift of Apologetics 
+title: The Gift of Apologetics
 ---
 
 {{% scripture p="Acts 18:27-28 (NIV)" %}}  

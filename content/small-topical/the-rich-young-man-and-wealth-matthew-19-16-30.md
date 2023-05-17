@@ -1,5 +1,5 @@
 ---
-title: The Rich Young Man and Wealth- Matthew 19:16-30
+title: The Rich Young Man and Wealth - Matthew 19:16-30
 ---
 
 {{% scripture p="Matthew 19:16-30 (NIV)" %}}  

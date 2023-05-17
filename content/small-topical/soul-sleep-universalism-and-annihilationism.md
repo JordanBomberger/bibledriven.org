@@ -1,8 +1,8 @@
 ---
-title: Universalism, Annihilationism, and Soul Sleep 
+title: Soul Sleep, Universalism, and Annihilationism
 ---
 
-Although the subjects of universalism, annihilationism, and soul sleep are very similar, we will address the latter separately for clarity’s sake. 
+Although the subjects of soul sleep, universalism, and annihilationism are somewhat similar, we will address the former separately for clarity’s sake. 
 
 ## **Soul Sleep** 
 

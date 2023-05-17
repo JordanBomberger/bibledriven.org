@@ -1,5 +1,5 @@
 ---
-title: Zeal without Knowledge: Romans 10:1-4- Truth, Faith, and Application 
+title: Zeal without Knowledge in Romans 10:1-4 - Truth, Faith, and Application 
 ---
 
 ## Zeal without Knowledge- Romans 10:1-4 

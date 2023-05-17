@@ -1,5 +1,5 @@
 ---
-title: Should Christians Ever Lie? What About Submitting to the Government? 
+title: Should Christians Ever Lie? What About Submitting to the Government?
 ---
 
 This question is common in Christian circles because of the fear induced by those who forbid lying regardless of circumstances. The drive behind this thinking involves the many passages that forbid it. Since all sin is sin, how can it ever be a good thing? This reasoning is understandable, but there are times when things prohibited in the Bible are not sinful. For example, the Bible forbids taking the life of another, yet king David (as just one of many examples) slaughtered thousands in battle. We need only consider all our brothers and sisters who have served their time defending their countries. If a Christian can take the life of others to protect their fellow countrymen (most of whom are unbelievers), how much more is it permissible for them to lie to save the life of another brother and sister in Christ? The Bible commands us to love all men, especially those of the household of faith, because we have a special love reserved for them (**2 Peter 1:5-9**). 
