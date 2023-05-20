@@ -289,7 +289,7 @@ span.mixed {
 
 .list-item-summary-toggle,
 .list-item-summary-toggle:visited {
-	background: #ffffff;
+	background: #cccccc;
 	color: #808080;
 }
 
@@ -335,44 +335,17 @@ span.mixed {
 	border-bottom: 1px solid black;
 }
 
-.special-content.cautionary-note {
-	background: #ffe6e6;
-}
-
-.special-content.technical-discussion {
-	background: #ffe0cc;
-}
-
-.special-content.sidenote {
-	background: #fffae6;
-}
-
-.special-content.application {
-	background: #ebfaeb;
-}
-
 .special-content.note {
 	background: #e6ffff
 }
 
-.special-content.indirect-reasoning {
-	background: #e6f5ff;
-}
-
-.special-content.example {
-	background: #f2e6ff;
-}
-
-.special-content.post-hoc-note {
-	background: #ffe6f2;
-}
 
 .special-content.quote {
-	background: #e6e6e6;
+	border: 1px solid black;
 }
 
 .special-content.scripture {
-	background: #f2e6d9;
+	background: #e6e6e6;
 }
 
 

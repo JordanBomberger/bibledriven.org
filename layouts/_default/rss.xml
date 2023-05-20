@@ -15,7 +15,7 @@
         {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{ end }}
 
-    {{ range where (where .Site.Pages ".Section" "shorter-topical-studies") "Kind" "page" }}
+    {{ range where (where .Site.Pages ".Section" "large-topical") "Kind" "page" }}
     <item>
         <title>{{ .Title }}</title>
         <link>{{ .Permalink }}</link>
@@ -26,29 +26,7 @@
     </item>
     {{ end }}
 
-    {{ range where (where .Site.Pages ".Section" "longer-topical-studies") "Kind" "page" }}
-    <item>
-        <title>{{ .Title }}</title>
-        <link>{{ .Permalink }}</link>
-        <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
-            {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
-            <guid>{{ .Permalink }}</guid>
-        <description>{{- .Content | html -}}</description>
-    </item>
-    {{ end }}
-
-    {{ range where (where .Site.Pages ".Section" "verse-by-verse-studies") "Kind" "page" }}
-    <item>
-        <title>{{ .Title }}</title>
-        <link>{{ .Permalink }}</link>
-        <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
-            {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
-            <guid>{{ .Permalink }}</guid>
-        <description>{{- .Content | html -}}</description>
-    </item>
-    {{ end }}
-
-    {{ range where (where .Site.Pages ".Section" "questions-and-answers") "Kind" "page" }}
+    {{ range where (where .Site.Pages ".Section" "small-topical") "Kind" "page" }}
     <item>
         <title>{{ .Title }}</title>
         <link>{{ .Permalink }}</link>

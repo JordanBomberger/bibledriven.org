@@ -15,7 +15,7 @@
         {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{ end }}
 
-    {{ range where (where .Site.Pages ".Section" "shorter-topical-studies") "Kind" "page" }}
+    {{ range where (where .Site.Pages ".Section" "small-topical") "Kind" "page" }}
     <item>
         <title>{{ .Title }}</title>
         <link>{{ .Permalink }}</link>

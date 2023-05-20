@@ -2374,7 +2374,7 @@ button.alt:hover,
 }
 
 .main>header p {
-	margin: 1em 0 0 0;
+	margin: 1.25em 0 0 0;
 	padding: 0 1em 0 1em;
 }
 
@@ -2382,8 +2382,22 @@ button.alt:hover,
 	padding: 2em 1em 2em 1em;
 }
 
+.main>.content h2 {
+	font-size: 2.25em;
+	font-weight: 100;
+	margin-bottom: 0;
+	padding: 0 1em 0 1em;
+	text-align: center;
+}
+
+.main>.content p {
+	margin: 1.25em 0 0 0;
+	padding: 0 1em 0 1em;
+}
+
 .main>.content h3 {
 	font-size: 1.5em;
+	text-align: center;
 }
 
 .main>.content.dark {
@@ -2391,7 +2405,7 @@ button.alt:hover,
 }
 
 .main>.content.style1 {
-	background: url("images/overlay.png"), linear-gradient(45deg, #595959, #808080, #a6a6a6);
+	background: #595959;
 }
 
 .main>.content.style2 {

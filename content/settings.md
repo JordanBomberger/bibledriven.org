@@ -1,68 +1,6 @@
 ---
 title: Settings
-date: 2021-01-10T20:25:12-05:00
-tags: []
-subsection: meta
-weight: 10
-summary: >-
-   This page contains various settings related to this site's functionality. For example, you can choose whether or not summaries are shown in lists of pages, what Bible version is used in the automatic verse tagging on the site, whether or not quotations of scripture show up as embedded windows from a Bible study app or show up as plain text, and other things like these.
 ---
-
-## Writing level
-
-<!-- As explained at [/about-the-site/#level-appropriate](/about-the-site/#level-appropriate), --> This site offers most of its writing in two levels of technical complexity and prose difficulty.
-
-While you can always go back and forth between the higher level version and lower level version for an individual page using the page-level link found in the menu sidebar, most users will probably mostly be looking at content of the same level across pages. For this reason, you can set the writing level here globally, and all content across the site will then default to your chosen writing level.
-
-<div id="writingLevelContainer" class="settingsContainer">
-	<div id="writingLevelDisplay"></div>
-	<div><input id="higherLevel" onclick="javascript:toHigherWritingLevelOption();" type="button" value="View only higher level writings" /></div>
-	<div><input id="lowerLevel" onclick="javascript:toLowerWritingLevelOption();" type="button" value="View only lower level writings" /></div>
-</div>
-
-<style>
-	
-	.settingsContainer {
-		border: 1px solid black;
-		border-radius: 5px;
-	}
-	
-	.settingsContainer > div {
-		padding: 10px;
-	}
-
-	.settingsContainer {
-		font-weight: bold;
-	}
-	
-	#writingLevelContainer input {
-		width: 300px;
-	}
-	
-
-</style>
-
-Keep in mind that if you clear your browser cookies, your preferences here will be lost, and you'll have to select them again.
-
-## STEP Bible app embedded windows
-
-<!-- As explained at [/about-the-site/#step-bible-app-embedded-windows](/about-the-site/#step-bible-app-embedded-windows), --> This site offers the option of viewing most verse quotations in embedded windows from a Bible software application. This allows for a lot of advanced functionality (built right into the webpages of this site), but it does add some complexity that some people may not want. For this reason, this site also offers a simpler option where verse quotations appear as plain text.
-
-While you can always go back and forth between these two display options using the page-level link found in the menu sidebar, most users will probably mostly be interested in having the same display preference active across pages. For this reason, you can set the display option here globally, and all pages across the site will then default to your chosen scripture display setting.
-
-<div id="scriptureDisplayContainer" class="settingsContainer">
-	<div id="scriptureDisplayDisplay"></div>
-	<div><input id="embedded" onclick="javascript:toEmbeddedDisplayOption();" type="button" value="View scripture in embedded windows" /></div>
-	<div><input id="plaintext" onclick="javascript:toPlaintextDisplayOption();" type="button" value="View scripture in plain text" /></div>
-</div>
-
-<style>
-	#scriptureDisplayContainer input {
-		width: 300px;
-	}
-</style>
-
-Keep in mind that if you clear your browser cookies, your preferences here will be lost, and you'll have to select them again.
 
 ## Show or hide all summaries on list pages
 
@@ -79,6 +17,19 @@ While you can always go back and forth between showing summaries and hiding summ
 </div>
 
 <style>
+	.settingsContainer {
+		border: 1px solid black;
+		border-radius: 5px;
+	}
+	
+	.settingsContainer > div {
+		padding: 10px;
+	}
+
+	.settingsContainer {
+		font-weight: bold;
+	}
+
 	#summariesContainer input {
 		width: 300px;
 	}
@@ -153,62 +104,6 @@ Keep in mind that if you clear your browser cookies, your preferences here will 
 	  }
 	  return "";
 	}
-
-	function toHigherWritingLevelOption() {
-		setCookie('writingLevel', 'higher', 1825);
-		displayWritingLevel();
-	}
-
-	function toLowerWritingLevelOption() {
-		setCookie('writingLevel', 'lower', 1825);
-		displayWritingLevel();
-	}
-
-	function displayWritingLevel() {
-		var writingLevel=getCookie("writingLevel");
-		var displayDiv = document.getElementById("writingLevelDisplay");
-		if(writingLevel == "higher")
-		{
-			displayDiv.innerHTML = "Current writing level: higher";
-		}
-		else if(writingLevel == "lower")
-		{
-			displayDiv.innerHTML = "Current writing level: lower";
-		}
-		// if user hasn't set cookie, set cookie and use higher level writing
-		else { // level = ""
-			setCookie('writingLevel', 'higher', 1825);
-			displayDiv.innerHTML = "Current writing level: higher";
-		}
-	}
-	
-	function toEmbeddedDisplayOption() {
-		setCookie('scriptureDisplay', 'embedded', 1825);
-		displayScriptureDisplay();
-	}
-
-	function toPlaintextDisplayOption() {
-		setCookie('scriptureDisplay', 'plaintext', 1825);
-		displayScriptureDisplay();
-	}
-
-	function displayScriptureDisplay() {
-		var scriptureDisplay=getCookie("scriptureDisplay");
-		var displayDiv = document.getElementById("scriptureDisplayDisplay");
-		if(scriptureDisplay == "embedded")
-		{
-			displayDiv.innerHTML = "Current scripture display setting: embedded windows";
-		}
-		else if(scriptureDisplay == "plaintext")
-		{
-			displayDiv.innerHTML = "Current scripture display setting: plain text";
-		}
-		// if user hasn't set cookie, set cookie and display embedded windows
-		else { // scriptureDisplay = ""
-			setCookie('scriptureDisplay', 'embedded', 1825);
-			displayDiv.innerHTML = "Current scripture display setting: embedded windows";
-		}
-	}
 	
 	function toShowingSummariesOption() {
 		setCookie('summariesPreference', 'show', 1825);
@@ -238,7 +133,5 @@ Keep in mind that if you clear your browser cookies, your preferences here will 
 		}
 	}
 	
-	displayWritingLevel();
-	displayScriptureDisplay();
 	displaySummariesPreference();
 </script>
