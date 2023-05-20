@@ -2,121 +2,110 @@
 title: Resource Recommendations 
 ---
 
-## **Recommended Ministries**  
+## Recommended Ministries
+
+### Ichthys - Bible Studies for Spiritual Growth, By Dr. Robert D. Luginbill
+
+- [Text Website](https://ichthys.com/)
+
+A great teaching ministry by Dr. Robert D. Luginbill (a Classics professor at the University of Louisville) dedicated to helping the spiritual growth of other believers. Contains systematic Bible Basics series, the Coming Tribulation, the Peter Series, the Satanic Rebellion, and more. 
+
+### Bible Academy, By Curtis Omo
+
+- [YouTube Channel](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg)
+- [Text Website](https://bibleacademyonline.com/omo/)
+
+A great verse by verse teaching ministry by Curtis M. Omo, covering various books of the Bible.
 
 TODO: might you also want to link to my website, and also Odii's recent YouTube channel or any of his stuff?
 
-**1.**   **Ichthys-Bible Studies for Spiritual Growth- By Robert D. Luginbill**
+## Resources for Teachers and Lay Christians (non-teachers) Both
 
-https://ichthys.com/index.htm  
+### Books about the Bible Itself
 
-A great teaching ministry by Robert D. Luginbill dedicated to helping the spiritual growth of other believers. Contains systematic Bible basic series, the Coming Tribulation, the Peter Series, the Satanic Rebellion, and more. 
+#### “A Students Guide to Textual Criticism of the Bible”- By Paul D. Wegner
 
-**2.**   **Bible Academy- By Curtis Omo** 
-
-https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg  
-
-https://bibleacademyonline.com/omo/  
-
-A great verse by verse teaching ministry covering various books of the Bible by Curtis M. Omo. 
+- [Amazon](https://www.amazon.com/Students-Guide-Textual-Criticism-Bible/dp/0830827315)
 
 
+### Books on Church, Ancient, and Jewish History, Culture, and Society
 
-## Resources for Teachers and Lay Christians (non-teachers)
+#### “A History of the Ancient World" - By Chester G. Starr
 
-### **(Books about the Bible Itself)** 
+- [Amazon](https://www.amazon.com/History-Ancient-World-Chester-Starr/dp/0195066294)
 
-**1. “A Students Guide to Textual Criticism of the Bible”- By Paul D. Wegner** 
+#### "A History of the Christian Church" - By Williston Walker
 
-TODO: this link is broken. Might you consider using Amazon links instead? Maybe Logos links for digital version too, if they exist?
+- [Amazon](https://www.amazon.com/History-Christian-Church-Williston-Walker/dp/0684184176)
 
-[**https://www.abebooks.com/servlet/BookDetailsPL?bi=30720063708&searchurl=an%3Dpaul%2Bwegner%26sortby%3D17%26tn%3Dstudents%2Bguide%2Btextual%2Bcriticism%2Bbible&cm_sp=snippet-_-srp1-_-title1**](https://www.abebooks.com/servlet/BookDetailsPL?bi=30720063708&searchurl=an%3Dpaul%2Bwegner%26sortby%3D17%26tn%3Dstudents%2Bguide%2Btextual%2Bcriticism%2Bbible&cm_sp=snippet-_-srp1-_-title1)  
+#### “New Testament History" - By Richard L. Niswonger
 
-### **(Books on Church, Ancient and Jewish History, culture, and Society)**  
+- [Amazon](https://www.amazon.com/Testament-History-Ph-D-Richard-Niswonger/dp/0310312019)
 
-**1.** **“A History of the Ancient World-By Chester G. Starr** 
+#### “The Greeks: History, Culture, and Society” - By Ian Morris/Barry B. Powell
 
-TODO: this link is broken
+- [Amazon](https://www.amazon.com/Greeks-History-Culture-Society-2nd/dp/0205697348) 
 
-https://www.abebooks.com/History-Ancient-World-Chester-G-Starr/30662068909/bd?cm_mmc=ggl-_-US_Shopp_Trade-_-naa-_-naa&gclid=EAIaIQobChMIgfywmpjH7AIVBL3ICh049whJEAQYAiABEgIHUfD_BwE  
+#### “A History of Israel From the Bronze Age Through the Jewish Wars” - By Walter C. Kaiser Jr. and Paul D. Wegner
 
-**2.** **“A History of the Christian Church- By Williston Walker** 
+- [Amazon](https://www.amazon.com/History-Israel-Bronze-through-Jewish/dp/1433643189)
 
-TODO: this link is broken
+#### “Manners and Customs in Bible Times” - By Ralph Gower
 
-https://www.abebooks.com/servlet/BookDetailsPL?bi=30749075521&searchurl=an%3Dwilliston%2Bwalker%26sortby%3D17%26tn%3Da%2Bhistory%2Bof%2Bthe%2Bchristian%2Bchurch&cm_sp=snippet-_-srp1-_-title14  
+- [Amazon](https://www.amazon.com/New-Manners-Customs-Bible-Times/dp/080245965X)
 
-**3.** **“New Testament History- By Richard L. Niswonger** 
+### Commentaries, Dictionaries, and Surveys
 
-https://www.abebooks.com/9780310312000/New-Testament-History-Richard-Niswonger-0310312000/plp  
+#### “Unger’s Commentary on the Old Testament” - By Merrill F. Unger
 
-**4. “The Greeks: History, Culture, and Society”- By Ian Morris/Barry B. Powell** 
+- [Amazon](https://www.amazon.com/Ungers-Commentary-Testament-Merrill-Unger/dp/0899574157)
 
-TODO: this link is broken
+#### “The Bible Knowledge Commentary” - Old and New Testaments
 
-https://www.abebooks.com/servlet/BookDetailsPL?bi=30766009165&searchurl=kn%3Dthe%2Bgreeks%2Bhistory%2Bculture%2Band%2Bsociety%2B2nd%2Bedition%2Bian%2Bmorris%2Bbarry%2Bb%2Bpowell%26sortby%3D17&cm_sp=snippet-_-srp1-_-title1  
+- Old Testament: [Amazon](https://www.amazon.com/Bible-Knowledge-Commentary-Old-Testament/dp/0882078135)
+- New Testament: [Amazon](https://www.amazon.com/Bible-Knowledge-Commentary-Exposition-Scriptures/dp/0882078127)
 
-**5. “A History of Israel From the Bronze Age Through the Jewish Wars”- By Walter C. Kaiser Jr. and Paul D. Wegner** 
+##### “The New Unger’s Bible Dictionary” - By Merrill F. Unger
 
-**6. “Manners and Customs in Bible Times”- By Ralph Gower** 
+- [Amazon](https://www.amazon.com/New-Ungers-Bible-Dictionary/dp/0802490662)
 
-https://www.abebooks.com/9780802459510/New-Manners-Customs-Bible-Times-080245951X/plp 
+##### “A Survey of Israel’s History” - By Leon J. Wood
 
+- [Amazon](https://www.amazon.com/Survey-Israels-History-Leon-Wood/dp/031034770X)
 
+### Bible Atlases and Geography
 
-### **(Commentaries, Dictionaries, and Surveys)**  
+#### Oxford Bible Atlas” - By Adrian Curtis
 
-**1.**   **“Unger’s Commentary on the Old Testament”- By Merrill F. Unger** 
+- [Amazon](https://www.amazon.com/Oxford-Bible-Atlas-Adrian-Curtis/dp/0199560463)
 
-TODO: this link is broken
+#### “The New Moody Atlas of the Bible” - By Barry J. Beitzel
 
- https://www.abebooks.com/Ungers-Commentary-Old-Testament-Unger-Merrill/30721296660/bd?cm_mmc=ggl-_-US_Shopp_Trade-_-naa-_-naa&gclid=EAIaIQobChMI7LKCmZfH7AIVYeW1Ch2FSAEXEAQYAyABEgKIPvD_BwE 
+- [Amazon](https://www.amazon.com/New-Moody-Atlas-Bible/dp/0802404413)
 
-**2.**   **“The Bible Knowledge Commentary”- Old and New Testaments**
+### Miscellaneous
 
-https://www.amazon.com/Bible-Knowledge-Commentary-Set/dp/089693800X/ref=asc_df_089693800X/?tag=hyprod-20&linkCode=df0&hvadid=312143170987&hvpos=&hvnetw=g&hvrand=8452687048818318507&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9011241&hvtargid=pla-524061410849&psc=1 
-
-**3.**   **“The New Unger’s Bible Dictionary”- By Merrill F. Unger** 
-
-https://www.abebooks.com/9780802490667/New-Ungers-Bible-Dictionary-Unger-0802490662/plp 
-
-**4.**   **“A Survey of Israel’s History”- By Leon J. Wood** 
-
-https://www.abebooks.com/9780310347705/Survey-Israels-History-Wood-Leon-031034770X/plp  
-
-
-
-### **(Bible Atlases and Geography)** 
-
-**1.**   **Oxford Bible Atlas”- By Adrian Curtis** 
-
-TODO: this link is broken
-
-https://www.abebooks.com/Oxford-Bible-Atlas-Curtis-Adrian-University/30763538467/bd?cm_mmc=ggl-_-US_Shopp_Trade-_-naa-_-naa&gclid=EAIaIQobChMI3Znm8KnH7AIViYrICh37EgPsEAQYBCABEgIBj_D_BwE 
-
-**2.**   **“The New Moody Atlas of the Bible”- By Barry J. Beitzel** 
-
-https://www.abebooks.com/9780802404411/New-Moody-Atlas-Bible-Beitzel-0802404413/plp 
-
-
-
-### **(Miscellaneous)**  
-
-http://dcc.dickinson.edu/vocab/core-vocabulary  
+- http://dcc.dickinson.edu/vocab/core-vocabulary  
 
 Vocabulary for Greek and other classical languages  
 
+## Resources Specifically for Teachers
 
+### “Commentaries for Biblical Expositors” - An Annotated Bibliography of Selected Works - By Dr. Jim Rosscup
 
-## **Resources Specifically for Teachers** 
+- [Logos](https://www.logos.com/product/6259/commentaries-for-biblical-expositors) 
 
-**1.**   **“Commentaries for Biblical Expositors”/ An Annotated Bibliography of Selected Works- By Dr. Jim Rosscup** 
+### “The Minister’s Library” - By Cyril J. Barber
 
-[**https://www.logos.com/product/6259/commentaries-for-biblical-expositors**](https://www.logos.com/product/6259/commentaries-for-biblical-expositors) 
+- [Amazon](https://www.amazon.com/Ministers-Library-Cyril-J-Barber/dp/0802452965)
 
-**2.   “The Minister’s Library”- By Cyril J Barber** 
+## Closing
 
-TODO: no link for this one?
+This list is far from comprehensive.
 
-**(please search online for more information regarding the above bibliography^)**  
+{{% note %}}
+
+You may search online for more information regarding works mentioned in the above bibliography
+
+{{% /note %}}
 
