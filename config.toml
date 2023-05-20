@@ -1,5 +1,5 @@
 baseurl = "https://www.bibledriven.org/"
-title = "BibleDriven.org"
+title = "BibleDriven"
 theme = "spartan"
 author = "Jordan Bomberger"
 canonifyurls = true
