@@ -219,7 +219,7 @@ It is ubiquitous in our day and age for people to stress health and fitness. The
 
 Today, most churches lack context, good in-depth, solid teaching, and often have too many big holes and inconsistencies in their teachings, threatening the believer's faith depending on what they are. For example, suppose a church is not providing food the way it should and prioritizes other things over the truth, such as music, entertainment, socializing, social events, etc. In that case, that is no place for a believer who loves God's Word to grow.  And not caring much for the truth will negatively affect the fellowship believers are to have with one another. 
 
-{{% scripture p="1 Peter 2:2 (NKJVV)" %}}  
+{{% scripture p="1 Peter 2:2 (NKJV)" %}}  
 
 **2** as newborn babes, desire the pure milk of the word, that you may grow thereby,               
 
