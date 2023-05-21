@@ -118,12 +118,6 @@ A person receives the Lord by believing In Jesus Christ (which is the same as be
 
 {{% /scripture %}} 
 
-{{% scripture p="Romans 10:9-10 (NASB)" %}} 
-
-If you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. **10** For with the heart one believes and is justified, and with the mouth one confesses and is saved.                           
-
-{{% /scripture %}} 
-
 {{% scripture p="Romans 6:23 (KJV)" %}} 
 
 **23** For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.                                                                     
@@ -188,15 +182,7 @@ Finally, although slightly unrelated, another confusing point we need to clear u
 
 Salvation is by faith through grace alone, but faith must stay in the equation for that person to enter God’s kingdom. Only believers are saved; unbelievers are not because they have rejected the person and work of Christ regardless of whether such people were true believers at one point or not (some do fall away). The word “believes” in John 3:16 is a present active indicative (present tense attributive participle) that tells us that faith must remain until the end for a person to enter the kingdom of heaven. A good understanding of Scripture and a little knowledge of God’s character can help us see why the Lord has designed things this way. Before we look into some of the many passages that show that salvation depends on continuous faith, we need to discuss a few things first. 
 
-For one thing, God is just, and this means that He doesn’t force people to do something they do not wish to do. 
-
-{{% scripture p="1 Corinthians 13:4-5 (NASB)" %}} 
-
-**4** Love is patient, love is kind *and* is not jealous; love does not brag *and* is not arrogant, **5** does not act unbecomingly; it does not seek its own, is not provoked, does not take into account a wrong *suffered*,                                               
-
-{{% /scripture %}} 
-
-If a believer no longer wishes to continue believing and instead turn back and go their own way, the Lord will grant that request, but not without pursuing that individual. God doesn’t merely throw His hands in the air and give up on one of his straying sheep immediately. On the contrary, He pursues them until they either return or refuse to come back. No matter what they do, the Lord knew what their actions were going to be ahead of time, and even for those who refused His rallying cries, He still ran after them out of great love so that they would return. 
+For one thing, God is just, and this means that He doesn’t force people to do something they do not wish to do. If a believer no longer wishes to continue believing and instead turn back and go their own way, the Lord will grant that request, but not without pursuing that individual. God doesn’t merely throw His hands in the air and give up on one of his straying sheep immediately. On the contrary, He pursues them until they either return or refuse to come back. No matter what they do, the Lord knew what their actions were going to be ahead of time, and even for those who refused His rallying cries, He still ran after them out of great love so that they would return. 
 
 {{% scripture p="Matthew 18:11-13 (ESV)" %}} 
 
@@ -216,7 +202,7 @@ The word “will” in the passage above involves God’s “desire” for belie
 
 {{% scripture p="2 Peter 3:9 (NASB)" %}} 
 
-**9** The Lord is not slow about His promise, as some count slowness, but is patient toward you**, not wishing** **for any to perish** but for all to come to repentance.                        
+**9** The Lord is not slow about His promise, as some count slowness, but is patient toward you, not wishing **for any to perish** but for all to come to repentance.                        
 
 {{% /scripture %}} 
 
@@ -384,7 +370,7 @@ Regarding the end times, there is the parable of the wise and foolish virgins, t
 
 {{% /scripture %}} 
 
-Apostasy does not occur by committing a single sin or even a lot of sins (believers can struggle with chronic sin for a long time before they overcome it) because that would mean that salvation would be by faith and works, not by faith and grace alone; please see discussion further below, “**The Lie of no Security Salvation-Works.”** Sin is antithetical to faith in that it damages it, but salvation is only lost when a person has turned back and wholly rejected Christ, i.e., they are officially no longer believers. Of course, sin can contribute to this process because it harms faith by hardening the heart; think of how fire burns paper. Once a person has reached a certain point, the Lord eventually gets pushed out of their lives to the point where they are no longer believers and thus, following Him. Sin can't stay with a person for the rest of their lives without consequences. Continuous, unrepentant, idolatrous sin (as just described) will lead to complete apostasy resulting in loss of eternal life if said individual puts it above God in their lives. Such people have committed idolatry by worshipping another god (idolatry is the same as rejecting Jesus Christ (unbelief) because idolaters will not inherit God's kingdom **1 Corinthians 6:9**). But idolatry is not limited to sin only but can be anything we decide to put above the Lord to the death of our faith, including money, people, etc. 
+Apostasy does not occur by committing a single sin or even a lot of sins (believers can struggle with chronic sin for a long time before they overcome it) because that would mean that salvation would be by faith and works, not by faith and grace alone; please see discussion further below, “**The Lie of no Security Salvation-Works.”** Sin is antithetical to faith in that it damages it, but salvation is only lost when a person has turned back and wholly rejected Christ, i.e., they are officially no longer believers. Of course, sin can contribute to this process because it harms faith by hardening the heart; think of how fire burns paper. Once a person has reached a certain point, the Lord eventually gets pushed out of their lives to the point where they are no longer believers (a free will decision to reject Him) and thus, following Him. Sin can't stay with a person for the rest of their lives without consequences. Continuous, unrepentant, idolatrous sin (as just described) will lead to complete apostasy resulting in loss of eternal life if said individual puts it above God in their lives. Such people have committed idolatry by worshipping another god (idolatry is the same as rejecting Jesus Christ (unbelief) because idolaters will not inherit God's kingdom **1 Corinthians 6:9**). But idolatry is not limited to sin only but can be anything we decide to put above the Lord to the death of our faith, including money, people, etc. 
 
 {{% scripture p="Matthew 6:24 (ESV)" %}} 
 
@@ -408,7 +394,7 @@ We need to also keep in mind that apostasy does not always have to involve sin. 
 
 {{% /scripture %}} 
 
-Other passages which demonstrate the need for perseverance include (but are not limited to) ***Colossians 1:21-23, Hebrews 3:6, 2 Corinthians 13:5, 1 Corinthians 10:12, John 15:5-6, Galatians 5:19-21, 1 Corinthians 6:9-10, Ephesians 5:3-7, Hebrews 10:26-31, 1 John 5:16-17, 1 Timothy 6:9, 1 Timothy 1:18-19, 2 Peter 2:20-22, Hebrews 3:12-19, Romans 6:16, Romans 11:22-23, Hebrews 6:4-6**,*. 
+Other passages which demonstrate the need for perseverance include (but are not limited to) ***Colossians 1:21-23, Hebrews 3:6, 2 Corinthians 13:5, 1 Corinthians 10:12, John 15:5-6, Galatians 5:19-21, 1 Corinthians 6:9-10, Ephesians 5:3-7, Hebrews 10:26-31, 1 Timothy 6:9, 1 Timothy 1:18-19, 2 Peter 2:20-22, Hebrews 3:12-19, Romans 6:16, Romans 11:22-23, Hebrews 6:4-6**,*. 
 
 ### **James 2:14-24 Explained** 
 
