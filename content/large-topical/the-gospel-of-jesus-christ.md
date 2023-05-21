@@ -106,9 +106,9 @@ A person receives the Lord by believing In Jesus Christ (which is the same as be
 
 {{% /scripture %}} 
 
-{{% scripture p="John 3:16 (NASB)" %}} 
+{{% scripture p="John 3:16-18 (NASB)" %}} 
 
-**16** “For God so loved the world, that He gave His only begotten Son, that whoever believes in Him shall not perish, but have eternal life.                      
+**16** “For God so loved the world, that He gave His only begotten Son, that whoever believes in Him shall not perish, but have eternal life.**17** For God did not send the Son into the world to judge the world, but so that the world might be saved through Him. **18** The one who believes in Him is not judged; the one who does not believe has been judged already, because he has not believed in the name of the only Son of God.                     
 
 {{% /scripture %}} 
 
