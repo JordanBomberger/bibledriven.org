@@ -237,7 +237,7 @@ Knowing our status and identity in Christ will help us stay focused on our missi
 
 But believers have a responsibility for this process of growth, progress, and production to work. Through our God-given free will, we must choose to trust, obey, and follow Christ at all times, a process that requires discipline and dedication through our free will choices. These things will constitute our discussion on the first step in this process, spiritual growth. As for the other two categories mentioned, we will consider them later in their order. 
 
-Growth, progress, and production are simple terms (I owe these descriptions and their proper order to **Dr. Robert D. Luginbill of Ichthys-Bible Studies for Spiritual Growth**) to describe what we are discussing here, and these aspects never stop this side of eternity, for they continue as long as we are alive. Therefore, our listing of these processes is not meant to be comprehensive, boxed in definitions. 
+Growth, progress, and production are simple terms (I owe these descriptions and their proper order to **Dr.Luginbill**) to describe what we are discussing here, and these aspects never stop this side of eternity, for they continue as long as we are alive. Therefore, our listing of these processes is not meant to be comprehensive, boxed in definitions. 
 
 Let us strive all the more to make our “*calling and election sure*” (**2 Peter 1:10**) by putting our renewed minds into action through dedicated spiritual growth. God called us to righteousness, so we prepare spiritually, not just to be ready for the tribulation, to survive it with faith intact, but mainly to demonstrate our love for God in this life through **all** our decisions. Christ showed His love for us, so let us as His servants do the same as well. 
 
@@ -357,7 +357,7 @@ If we love God as much as we claim we do, then that love will manifest itself in
 
 {{% /scripture %}} 
 
-Considering this paper's topic, “preparing for the tribulation,” there is no better way to do so than to grow up in the Word unto maturity, heeding its commands, reading all that it has to say, and treasuring it in our hearts. 
+Considering our topic, “preparing for the tribulation,” there is no better way to do so than to grow up in the Word unto maturity, heeding its commands, reading all that it has to say, and treasuring it in our hearts. 
 
 {{% scripture p="Psalm 119:11 (NIV)" %}}  
 
@@ -367,7 +367,7 @@ Considering this paper's topic, “preparing for the tribulation,” there is no
 
 Our hearts are our spiritual “barn,” and the crop stored in them is the spiritually rich food of God’s Word. Let us not forget what occurred in Egypt during Joseph’s time, how the great seven-year famine, representing the seven-year tribulation, ravaged the land (**Genesis 41:28-57**). 
 
-The time we have before the commencement of the most terrible time ever to occur is so short, which is why we need to store up the food of God’s truth in our hearts. This spiritual food is good for us because it transforms, alerts, empowers and strengthens us. Consider, for example, an individual who has not had much to eat for a long while, how tired, weak, and weary they must feel! We do not want to go into the tribulation spiritually malnourished, negatively affecting our spiritual health. 
+The time we have before the commencement of the most terrible time ever to occur is so short, which is why we need to store up the food of God’s truth in our hearts. This spiritual food is good for us because it transforms, alerts, empowers and strengthens us. Consider, for example, an individual who has not had much to eat for a long while, how tired, weak, and weary they must feel! We do not want to go into the tribulation spiritually malnourished. 
 
 {{% scripture p="Matthew 4:4 (KJV)" %}}  
 
@@ -467,7 +467,7 @@ Therefore leaving the elementary teaching about the Christ, let us press on to m
 
 {{% /scripture %}} 
 
-The Bible also encourages believers to make the most of their time through the power of motivation. Jesus should be our #1 incentive, as our love for Him should spurn us on to continue going about the tasks He wants us to carry out. The prospect of eternal rewards awaiting those who have painstakingly earned them should empower and encourage our spirits to thrust forward in our Christian walk all the more aggressively. 
+The Bible also encourages believers to make the most of their time through the power of motivation. Jesus should be our number one incentive, as our love for Him should spurn us on to continue going about the tasks He wants us to carry out. The prospect of eternal rewards awaiting those who have painstakingly earned them should empower and encourage our spirits to thrust forward in our Christian walk all the more aggressively. 
 
 {{% scripture p="Matthew 5:12 (ESV)" %}}  
 
@@ -519,7 +519,7 @@ Scripture reveals to us how we can allow change in our lives. It also uses motiv
 
 {{% scripture p="Revelation 1:1-8 (ESV)" %}}  
 
-**1 The revelation of Jesus Christ, which God gave him to show to his servants the things that must soon take place**. He made it known by sending his angel to his servant John, **2** who bore witness to the word of God and to the testimony of Jesus Christ, even to all that he saw. **3** Blessed is the one who reads aloud the words of this prophecy, and blessed are those who hear, and who keep what is written in it, for the time is near. **4** John to the seven churches that are in Asia: Grace to you and peace from him who is and who was and who is to come, and from the seven spirits who are before his throne, **5** and from Jesus Christ the faithful witness, the firstborn of the dead, and the ruler of kings on earth. To him who loves us and has freed us from our sins by his blood **6** and made us a kingdom, priests to his God and Father, to him be glory and dominion forever and ever. Amen. **7** Behold, he is coming with the clouds, and every eye will see him, even those who pierced him, and all tribes of the earth will wail on account of him. Even so. Amen. **8** “I am the Alpha and the Omega,” says the Lord God, “who is and who was and who is to come, the Almighty.” 
+**1 The revelation of Jesus Christ, which God gave him to show to his servants the things that must soon take place**. He made it known by sending his angel to his servant John, **2** who bore witness to the word of God and to the testimony of Jesus Christ, even to all that he saw. **3** **Blessed is the one who reads aloud the words of this prophecy, and blessed are those who hear, and who keep what is written in it, for the time is near**. **4** John to the seven churches that are in Asia: Grace to you and peace from him who is and who was and who is to come, and from the seven spirits who are before his throne, **5** and from Jesus Christ the faithful witness, the firstborn of the dead, and the ruler of kings on earth. To him who loves us and has freed us from our sins by his blood **6** and made us a kingdom, priests to his God and Father, to him be glory and dominion forever and ever. Amen. **7** Behold, he is coming with the clouds, and every eye will see him, even those who pierced him, and all tribes of the earth will wail on account of him. Even so. Amen. **8** “I am the Alpha and the Omega,” says the Lord God, “who is and who was and who is to come, the Almighty.” 
 
 {{% /scripture %}} 
 
@@ -897,11 +897,11 @@ Getting back to the topic of ministry, God could solve the problem of work and d
 
 Christ's body, the church, consists of every believer alive and breathing, and its growth depends on its members building each other up. Therefore, the goal of ministry is to help our brothers and sisters in Christ advance in any possible way by whatever means the Lord gives us, whether through giving, teaching, encouraging, exhorting, serving, etc. In the case of unbelievers, bringing “new sheep into the flock,” we evangelize, for without new members coming in, the body of Christ would shrink in number and eventually disappear. 
 
-#### **B.  What Qualifies as Ministry? Common Misconceptions** 
+#### **B.  Ministry- Common Misconceptions** 
 
 The fact that every believer has a spiritual gift(s) tells us that there are many ministries, with each in possession of a unique one or more to use for God’s glory. Ministry is a spiritual service, whether to believers or unbelievers. We don’t want to get into specifics, but all ministry means leading people to the truth and helping them grow in the grace and knowledge of the Lord Jesus. It does not entail doing things we deem acceptable in our own eyes when they are nothing but wood, hay, and stubble, things that have no bearing on spiritual matters whatsoever. That is the point. One must be careful not to side with any of the two extremes on this matter, where one says “everything counts as a ministry,” and the other that says “nothing counts at all,” “nothing” in the sense of how the church has defined ministry over the years. 
 
-For example, many conservative evangelical churches often refer to ministry as limited to missionary work overseas or pastoring a church. But there are many more ministries assigned by our Lord that don’t fit the basic mold of what traditionalists have deemed “ministry.” For as long as an individual leads a person to the truth and helps them grow in it, that counts in the Lord’s eyes. Where and how we do this is not what matters, as long as it involves the truth. What is so dangerous about having a limited perspective on Christian service is that it misjudges other genuine ministries, construing the meaning of serving God and discouraging those doing the Lord’s work from continuing to serve Him. Nor is it the case that any particular ministry is more important than another, just as no spiritual gift is better than the next one. That would be partiality, something our God does not show. Our spiritual success depends on our love for God. 
+For example, many conservative evangelical churches often refer to ministry as limited to missionary work overseas or pastoring a church. But there are many more ministries assigned by our Lord that don’t fit the basic mold of what traditionalists have deemed “ministry.” Where and how we do this is not what matters, as long as it involves the truth. What is so dangerous about having a limited perspective on Christian service is that it misjudges other genuine ministries, construing the meaning of serving God and discouraging those doing the Lord’s work from continuing to serve Him. Nor is it the case that any particular ministry is more important than another, just as no spiritual gift is better than the next one. 
 
 It is easy for many Christians to fall into the trap of believing their “work for the Lord” is insufficient compared to others whose work may seem more prevalent, well-spoken of, and noticed. But we need to remember that it’s the Lord’s opinion which matters, not men’s. Christ is the one who judges and rewards our production here on earth, every detail, from its quality to its quantity. Just because some may seem to be more productive; just because something seems a certain way does not make it so. God is perfect, and He notices all the work we do, catching every detail and bit of fruit we produce. Nothing escapes His attention, and only He knows the heart and motivations inside every one of us. He is the perfect judge, so He will never give more to those not worthy of it. Quality is another factor that the Lord will judge perfectly (**1 Corinthians 3:11-13**). 
 
@@ -931,7 +931,7 @@ Every believer receives a spiritual gift at the very moment of salvation for the
 
 #### **D.  The Spiritual Gifts Themselves** 
 
-There are so many spiritual gifts. Likewise, there are gifts within gifts. But particulars aside, they all have the same goal of bringing others to the truth and helping them grow in it, all for the glory and praise of Jesus Christ. We will not get into details, as there are far too many variables concerning the many gifts of the Spirit. For this reason, we will not examine in list form the spiritual gifts mentioned in our passages above, for that would entail an all but impossible task, fundamental understanding of these gifts aside. Our study has to do with preparing for the tribulation through spiritual growth, progress, and production, so to avoid drifting afar off, we will discuss this no further. 
+There are so many spiritual gifts that it would be impossible to know close to all of them. For this reason, we will not examine in list form the spiritual gifts mentioned in our passages above, for that would entail an all but impossible task, fundamental understanding of the gifts we have mentioned in Scripture aside. Our study has to do with preparing for the tribulation through spiritual growth, progress, and production, so to avoid drifting afar off, we will discuss this no further. 
 
 #### **E.  The Spirit’s Role in our Spiritual Gifts and Ministries** 
 
