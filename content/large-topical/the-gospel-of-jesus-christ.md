@@ -92,7 +92,7 @@ The most important (and only) source of information in discovering the gospel is
 
 ### **1.1 Faith in the Person and Work of Jesus Christ** 
 
-A person receives Christ by putting their faith and trust in the person and work of Jesus, that He was the son of God (who took on human flesh by becoming the Godman forever) sent by the Father who died on the cross to pay for all their sins, past, present, and future (indicating the person coming to the Lord already knows they are a sinner- otherwise they wouldn’t come to God in faith at all ). He was then buried and rose again the third day. That is the gospel, plain and simple. Our Lord purchased this salvation with His precious blood by taking the penalty of our sins on Himself for us to receive His free gift of eternal life, which cannot be earned or worked for in any way. In doing this, the Lord Jesus rescued us from eternal death. For all who accept this most gracious offer through faith, God will welcome them into His family. 
+A person receives the Lord by believing In Jesus Christ (which is the same as believing in His person and work). That is the gospel, plain and simple. Our Lord purchased this salvation with His precious blood by taking the penalty of our sins on Himself for us to receive His free gift of eternal life, which cannot be earned or worked for in any way. In doing this, the Lord Jesus rescued us from eternal death. For all who accept this most gracious offer through faith, God will welcome them into His family. 
 
 {{% scripture p="Acts 16:30-31 (NKJV)" %}} 
 
