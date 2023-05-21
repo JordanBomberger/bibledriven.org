@@ -576,17 +576,15 @@ Peter, an apostle of Jesus Christ, To those who are **elect** exiles of the Disp
 
 As seen from this last passage, the elect spoken of in 1 Peter are so **according to God's foreknowledge**. This verse clearly shows that election is based on foreknowledge made possible by predestination. 
 
-So when we think about what we have seen above, there is no such thing as free will after all because free will did not come about by man's will. God created man, and it was Him alone who granted humanity the ability to choose. God created free will, gave man the ability to exercise it, and made it possible by hitting the “start” button, allowing all of His foreknowledge to become a reality through the course of human history. 
+So when we think about what we have seen above, free will did not come about by man's will. God created man, and it was Him alone who granted humanity the ability to choose. God created free will, gave man the ability to exercise it, and made it possible by hitting the “start” button, allowing all of His foreknowledge to become a reality through the course of human history. 
 
 To further reinforce what we have briefly commented on above, I encourage the reader to visit the link below on the biblical terms mentioned in Genesis, “image” and “likeness,” and what it means for man to share these two unique qualities with their Savior. 
 
-For information on the words “image” and “likeness,” please see the link below by **Robert D. Luginbill** (**section 2.1**). 
+For information on the words “image” and “likeness,” please see the link below by **Dr. Luginbill** (**section 2.1**). 
 
 [https://ichthys.com/3A-Anthro.htm#1.%20The%20Image%20and%20the%20Likeness%20of%20God](https://ichthys.com/3A-Anthro.htm#1.%20The%20Image%20and%20the%20Likeness%20of%20God) 
 
 To conclude, being made in the image and likeness of God means having the ability to exercise authority and respond to it through free will choice (see link). 
-
-Finally, for an in-depth teaching and explanation of God hardening Pharaoh’s heart (a common proof example from those who misunderstand the true meaning of predestination often associated with Romans chapter 9) , see the link below. 
 
 
 
@@ -618,7 +616,7 @@ With the above said, what do the passages below mean?
 
 We have already discussed how sin contributes to apostasy. It is not the direct cause, but rather, often (though not always) a significant contributor in that it hardens the heart. The more an individual sins, the weaker their faith grows until, eventually, a person is forced to decide to continue believing or reject Christ; apostasy occurs from this negative side of the decision (idolatry by giving oneself over to sin to serve this new "god"). But sin does not always have to be involved (we have already discussed that above). 
 
-For this reason, people who practice gross immorality will not inherit eternal life because they have rejected Christ by deeming Him less important to them than whatever they pursue. God is not good enough anymore because said individuals have turned away from Him in high-handed rebelliousness without remorse. This scenario is different from someone who struggles with sin or falls into it for a while but overcomes their struggles. God does not throw us out of His family for one or multiple sins, but idolatry (engrossing in whatever worldly pleasures) is the same as unbelief because no servant can serve two masters. A believer can’t put sin first in their lives and try to serve God. Our passages below apply to more than just money; they apply to anything we put above our Lord, whether it's sin, or anything else in life. 
+For this reason, people who practice gross immorality will not inherit eternal life because they have rejected Christ by deeming Him less important to them than whatever they pursue. God is not good enough anymore because said individuals have turned away from Him in high-handed rebelliousness without remorse (a free-will decision on their part which is what causes the breakup). This scenario is different from someone who struggles with sin or falls into it for a while but overcomes their struggles. God does not throw us out of His family for one or multiple sins, but idolatry (engrossing in whatever worldly pleasures) is the same as unbelief because no servant can serve two masters. A believer can’t put sin first in their lives and try to serve God. Our passages below apply to more than just money; they apply to anything we put above our Lord, whether it's sin, or anything else in life. 
 
 {{% scripture p="Matthew 6:24 (NIV)" %}} 
 
