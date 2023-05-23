@@ -7,7 +7,7 @@ summary: All believers have equal value, worth and potential for true spiritual 
 
 ## **Introduction**
 
-Many things in this world can easily hinder the believer's walk with the Lord. Feelings of inadequacy can play very big into this. Many in the body of Christ have the common habit of comparing themselves to others to see how they measure up in worth, value, potential, and usefulness. Much of this is due to a misunderstanding of their own identity in Jesus Christ. This misjudgment most likely stems from a failure to understand their place and purpose in God’s family. And of course, we should never compare ourselves to others. 
+Many things in this world can easily hinder the believer's walk with the Lord. Feelings of inadequacy can play very big into this. Many in the body of Christ have the common habit of comparing themselves to others (something we should never do) to see how they measure up in worth, value, potential, and usefulness. Much of this is due to a misunderstanding of their own identity in Jesus Christ. This misjudgment most likely stems from a failure to understand their place and purpose in God’s family. 
 
 {{% scripture p="Psalm 139:13-16" %}} 
 
@@ -23,17 +23,7 @@ Many things in this world can easily hinder the believer's walk with the Lord. F
 
 Many people like to stress how we are all equally important compared to one another. But although the point of the same value, importance, and usefulness is spoken of and credited to every believer, many born-again Christians only talk the talk, but they don’t walk the walk. That is a big problem with our current church era of Laodicea, which puts so much stock on the things of this world, and praises the well-known, famous, educated, and “seemingly” “more godly” individuals of our day. But we must remember that man’s view of things does not compare to the perfect perspective of our awesome Creator. Unlike man, God has complete knowledge of every believer. It is God's standards that matter.  
 
-{{% scripture p="1 Samuel 16:7 (NKJV)" %}} 
-
-**7** But the Lord said to Samuel, “Do not look at his appearance or at his physical stature, because I have refused him. For *the Lord does* not *see* as man sees; for man looks at the outward appearance, but the Lord looks at the heart.”                                          
-
-{{% /scripture %}} 
-
 This study aims to assure the believer of their worth and value before Jesus Christ and relieve them of the world's misguided mindset. As Christians, our purpose and value are in Christ, not on man’s criteria of evaluating things. 
-
-It baffles this writer that this topic doesn’t get as much attention as it should. That is because so many of today's Christians have put too much stock in worldly things. Since so many believers are indifferent to God’s plan for their lives, too many of them tend to live as if they are almost part of this world, being no different than unbelievers. And with this comes greater compromise. This lifestyle is playing close to the boundary line of worldly behavior, and if one is not careful, they will cross that line sooner or later. 
-
-As believers who have the Holy Spirit living inside us, we have the ability to better understand our Savior who died for our sins on the cross. And yet, most do not take advantage of the time and opportunities they have to get to know Him deeper. Staying out of the Word will only cause the believer’s mind to wander and accept other ways of thinking. That is why it is crucial to remain in the truth every day, understand it, believe it, and apply it. But since most believers have little interest in doing this, is it of any surprise that the values of so many are far off the mark? Indifference to God is the most significant cause of having the wrong standards for oneself and others. Not being interested in the truth won't get anyone the truth. 
 
 All believers are equal, regardless of education, intelligence, spiritual gifts, ministries, status, popularity, etc. But as mentioned previously, the behavior of so many goes against what they preach. In addition to this, this author's impression is that few have taken the time to examine this critical topic more closely and in a more detailed fashion. Why this is the case is no doubt partially because of the misguided thinking, standards, and behaviors of so many lukewarm believers comprising the bulk of today’s church (**Revelation 3:14-22**). Believers can solve the problem of dubbing others' worth and usefulness by man’s standards by an ever-increasing zeal to grow up spiritually in Jesus Christ. That way, our perspectives, standards, treatment, and behavior of others would change drastically. 
 
@@ -51,7 +41,7 @@ We believers only have one shot at this life to make the most of it for the Lord
 
 Our value is not in our abilities, nor are we defined by them. Our true identity is in Christ Jesus, who graciously puts no limits on us for what we can accomplish for Him. Eternity is what matters, and it is to that that we look forward. Our treasures lie in the eternal kingdom. No matter how great the secular accomplishments here on earth, only what’s done for Christ will last. No person created themself, so no one can claim to have given themselves their talents, gifts, and abilities. Every capability possessed by man was granted to him by God. That means that there is no boasting. Although people can further develop their specific skills (they couldn’t further develop them without God’s help), it is always the case that some people are simply better and more apt at certain things. That is not because they made themselves that way, but because God designed them as He did. By taking credit for ourselves, we rob God of His glory and practically make gods of ourselves as if we were somehow capable of something only God can do. 
 
-This examination aims to see these aspects of secular and spiritual life as they truly are. In our lukewarm era of Laodicea, which emphasizes education and careers, we will say that those things, as important as they may be, should not be treated as just as important as our ministry and relationship with the Lord. The goal here is one of emphasis for the sake of priority. However rich or poor, skilled or unskilled, educated or uneducated - nothing in this life should come before God. Nothing comes close to comparing to who He is. God alone is the Judge and the One who defines every individual believer as equal in His eyes. And as we shall see later in this study, the Lord is also the One who determines the quality of our work done for Him. So let us strive to keep the fleeting things of this world in their proper place. 
+This examination aims to see these aspects of secular and spiritual life as they truly are. In our lukewarm era of Laodicea, which emphasizes education and careers, we will say that those things, as important as they may be, should not be treated as just as important as our relationship with the Lord. The goal here is one of emphasis for the sake of priority. However rich or poor, skilled or unskilled, educated or uneducated - nothing in this life should come before God. Nothing comes close to comparing to who He is. God alone is the Judge and the One who defines every individual believer as equal in His eyes. And as we shall see later in this study, the Lord is also the One who determines the quality of our work done for Him. So let us strive to keep the fleeting things of this world in their proper place. 
 
 
 
@@ -157,24 +147,6 @@ But the point of emphasis brought up here is not to put people on the same level
 
 {{% /scripture %}}  
 
-The tribulation will be a terrifying example of this because many whom we grew up with, whether in church, family, or friendship, may very well prove unfaithful to us in the long run. In the tribulation’s first half, one-third of believers alive at that time will commit apostasy in the largest mass falling away the church will have ever seen since its inception roughly 2,000 years ago. “*Many will betray one another and hate one another, for the love of many will grow cold*” (**Matthew 24:12**). 
-
-For this reason, we cannot put our trust in men, for our faith is in the truth of Jesus Christ. But, unfortunately, the sad reality is that those unprepared for the dark days to come will not have sufficient truth stored up in their hearts to stand firm through the testing crucibles the tribulation will present. And after a person has betrayed their fellow believer to follow the antichrist, they will only be seeking the death of their once family member in Christ. 
-
-{{% scripture p="Matthew 24:9-14 (ESV)" %}} 
-
-**9** “Then they will deliver you up to tribulation and put you to death, and you will be hated by all nations for my name's sake. **10** And then many will fall away and betray one another and hate one another. **11** And many false prophets will arise and lead many astray. **12** And because lawlessness will be increased, the love of many will grow cold. **13** But the one who endures to the end will be saved. **14** And this gospel of the kingdom will be proclaimed throughout the whole world as a testimony to all nations, and then the end will come.                                                               
-
-{{% /scripture %}}  
-
-{{% scripture p="Matthew 10:32-39 (NASB)" %}} 
-
-**32** “Therefore everyone who confesses Me before men, I will also confess him before My Father who is in heaven. **33** But whoever denies Me before men, I will also deny him before My Father who is in heaven. **34** “Do not think that I came to bring peace on the earth; I did not come to bring peace, but a sword. **35** For I came to set a man against his father, and a daughter against her mother, and a daughter-in-law against her mother-in-law; **36** and a man’s enemies will be the members of his household. **37** “He who loves father or mother more than Me is not worthy of Me; and he who loves son or daughter more than Me is not worthy of Me. **38** And he who does not take his cross and follow after Me is not worthy of Me. **39** He who has found his life will lose it, and he who has lost his life for My sake will find it.                                   
-
-{{% /scripture %}}  
-
-It is not just our relationship with another person we have to be careful in putting so much stock into, but also other people’s opinions that we may have to discern carefully. Suppose someone is speaking unbiblical things, then that should sound our alarm bells off. But it may also be the case that their negative opinion may cause us to stumble as well despite our godly intentions. 
-
 On the other hand, suppose we are doing what the Lord wants us to do. In that case, we need not worry about the misplaced and misguided views of other people whose limited and imperfect knowledge of us comes nowhere close in comparison to God’s all-knowing omniscience. God knows our hearts and situations better than anyone in this world, and if we are incorrectly doing something, He will reveal that to us one way or another. How the Lord brings about the answers can occur in multiple ways, whether through prayer, reading the Bible on our own, or through our Lord leading us to another mature believer prepared to answer our questions. 
 
 Our passage in Matthew above tells us that our Lord came to bring a sword. Those verses don’t mean that Jesus desired to see most people reject the good news of the gospel (**2 Peter 3:9-10**), but it was this very truth that would divide or cut between those who would accept it and those who wouldn’t. And this not only applies to unbelievers, but it can apply to believers who are not all that interested in growing in the truth. 
@@ -189,7 +161,7 @@ Truth divides and separates people. Those who love it will slowly but surely fin
 
 Finding a good group of believers to benefit from is difficult. Believers are stronger when they are together, but only if those other Christians are genuinely helping each other by doing what they should. The believer is encouraged to find a place where they can grow spiritually. Unfortunately, such places are rare, and since most churches today are doing more harm than good, the believer has few options. But the Lord will not allow any of His children to starve to death, for God will lead said person to a solid ministry with believers who are advancing as they should. Whether this source of fellowship is online or in person, what matters is that we are in touch with other mature believers who can help us grow spiritually. Iron sharpens iron, for one piece of iron cannot sharpen itself. Though a believer may have to go through a period of isolation for an extended period of their life, it will not stay that way. That is what an individual who has chosen to put the Word of God first in their lives can expect, especially in the days we live in now. But let us remember Elijah’s circumstances (**1 Kings 19:1-18**). He was one of the very few among the faithful who remained in all of Israel. Yet, despite his thinking that he was alone, he was not, for God was with Him. Also, the Lord had preserved a remnant of other faithful believers like Elijah to help bring Israel back to God. 
 
-The passage below describes unbelievers who have forsaken the Lord. Lukewarm believers belong to Christ, so we are not comparing marginal believers to unbelievers. A believer is still a believer. The point is that since most Christians today don’t take God seriously, those among the remnant who do may feel as if they are alone since they are the minority. But such is not the case. The Lord will never fail to bring other serious believers to each other, even if they have to wait a while for that to happen. 
+The passage below describes unbelievers who have forsaken the Lord. Lukewarm believers belong to Christ, so we are not comparing marginal believers to unbelievers. A believer is still a believer. The point is that since most Christians today don’t take the truth seriously, those among the remnant who do may feel as if they are alone since they are the minority. But such is not the case. The Lord will never fail to bring other serious believers to each other, even if they have to wait a while for that to happen. 
 
 {{% scripture p="1 Kings 19:15-18 (NIV)" %}} 
 
@@ -211,23 +183,7 @@ There will be many times when we will feel alone, forsaken, and abandoned. But r
 
 {{% /scripture %}}  
 
-So to continue our discussion, it is sadly the case that the spiritual conduct of most who profess faith in Christ today warrants specific individuals to have to part ways. Laodicea is the reason for that. But rest assured, the Lord will provide. He has also promised us a kingdom where we shall have perfect fellowship with Him and all our brothers and sisters in Christ. 
-
-{{% scripture p="Revelation 7:9-11 (NASB)" %}} 
-
-**9** After these things I looked, and behold, a great multitude which no one could count, from every nation and *all* tribes and peoples and tongues, standing before the throne and before the Lamb, clothed in white robes, and palm branches *were* in their hands; **10** and they cry out with a loud voice, saying, “Salvation to our God who sits on the throne, and to the Lamb.” **11** And all the angels were standing around the throne and *around* the elders and the four living creatures; and they fell on their faces before the throne and worshiped God,                        
-
-{{% /scripture %}}  
-
-Truth divides people. It separates believers from unbelievers, and it also distances various believers from one another, the red hot from the lukewarm. If the church is self-destructing, then attending such a place would be a very unwise decision. If a church is stagnant, as most today are, and only growing worse with each passing day, leaving the church is the safest path. For those who do put the truth first,” they shouldn’t expect hardly anyone to understand. They may even face opposition for the decision they have made, even if those who oppose them have good intentions. Family members especially can present great difficulties because they know us better than anyone else. They may think they have the serious believer figured out when that is not the reality. People may have a general understanding of an individual, but that does not mean they know and understand them spiritually. And family members and acquaintances who may even be true believers themselves will take the growing believer less seriously. A reasonably relevant passage that describes this situation is when Jesus visited His hometown of Nazareth. His own people did not accept Him because they had known Him for years. 
-
-{{% scripture p="Matthew 13:53-58 (NIV)" %}} 
-
-**53** When Jesus had finished these parables, he moved on from there. **54** Coming to his hometown, he began teaching the people in their synagogue, and they were amazed. “Where did this man get this wisdom and these miraculous powers?” they asked. **55** “**Isn’t this the carpenter’s son? Isn’t his mother’s name Mary, and aren’t his brothers James, Joseph, Simon and Judas?** **56 Aren’t all his sisters with us**? Where then did this man get all these things?” **57** And they took offense at him. But Jesus said to them, “A prophet is not without honor except in his own town and in his own home.” **58** And he did not do many miracles there because of their **lack of faith**.                      
-
-{{% /scripture %}}  
-
-Such are the difficult times we live in today. But now, more than ever before is the time to care more about what God thinks and less about man’s opinion. We must serve the Lord as much as possible, and we have to do whatever is necessary to do that, despite what other people may think. Though our lukewarm brothers and sisters in Christ should be in our prayers, we do not compromise our mission to appease them as if we serve man and not God. It doesn’t matter how close we may be to our friends, family members, or spouse. Jesus comes first. And if we don’t put Him at the top, how can we ever help those who don’t take their walk seriously? They are not our enemies but our family members in Christ, and it is to them that we will direct much of our ministry. 
+Truth divides people. It separates believers from unbelievers, and it also distances various believers from one another, the red hot from the lukewarm. If the church is self-destructing, then attending such a place would be a very unwise decision. If a church is stagnant, as most today are, and only growing worse with each passing day, leaving the church may be the better option. For those who do put the truth first,” they shouldn’t expect hardly anyone to understand. They may even face opposition for the decision they have made, even if those who oppose them have good intentions. Such are the difficult times we live in today. But now, more than ever before is the time to care more about what God thinks and less about man’s opinion. We must serve the Lord as much as possible, and we have to do whatever is necessary to do that, despite what other people may think. Though our lukewarm brothers and sisters in Christ should be in our prayers, we do not compromise our mission to appease them as if we serve man and not God. It doesn’t matter how close we may be to our friends, family members, or spouse. Jesus comes first. And if we don’t put Him at the top, how can we ever help those who don’t take their walk seriously? They are not our enemies but our family members in Christ, and it is to them that we will direct much of our ministry. 
 
 Unbelievers are another problem growing Christians face, not just lukewarm believers within their ranks. All the unbelievers in Noah’s day no doubt thought he was crazy for spending so many years of labor building an ark to prepare for the flood that was to come. He was undoubtedly mocked and made fun of, yet he continued to walk in faith by obeying the Lord to complete his assigned task. He did not care about others' opinions but just kept working as the Lord had commanded him. If the Lord Jesus is the only true God in our lives, this will show how we prioritize everything else. 
 
@@ -341,65 +297,9 @@ Before we end this section of our study, it is good to look at an example of put
 
 ### **1.3 Ourselves** 
 
-As we have already taken the time to explain above, other people do not come before the Lord. Jesus should be number one in our lives at all times, with that same love for Him translating into love for others, serving them, and looking out for their best interests before our own, hence the meaning of treating others as more important than ourselves. But loving God will also translate into handling with proper care our other responsibilities as well (including our own spiritual health). Examples of this would be jobs, physical health, finances, food, clothing, housing, chores, etc. These are things that a believer is to handle in a godly way.  
+As we have already taken the time to explain above, other people do not come before the Lord. Jesus should be number one in our lives at all times, with that same love for Him translating into love for others, serving them, and looking out for their best interests before our own, hence the meaning of treating others as more important than ourselves. But loving God will also translate into handling with proper care our other responsibilities as well (including our own spiritual health). Examples of this would be jobs, physical health, finances, food, clothing, housing, chores, etc. These are things that a believer is to handle in a godly way. But if we don't care for our spiritual wellbeing as we should, can we really say we care for others (especially our brothers and sisters in Christ) as much as God wants us to? 
 
-For example, a Christian who does not take care of his finances, let's say he is often in debt, could be considered irresponsible if he has the means and ability to pay those to whom he is indebted. Irresponsibility does not speak well for a person who claims to walk with the Lord. Though no man is perfect, and we all lag in one area or another, God wants us to take care of everything we have. 
-
-Our health is an excellent example of this. Our body is not our own. Taking care of our physical sustenance may help to increase the length of our lives and perhaps the length of our ministry as well. You see, a good walk with the Lord will often show itself even in these areas of a person's life. We don’t want to become legalistic about these matters, but if a person has constant health problems due to taking poor care of themselves, that does say something about them. Below is a non-comprehensive list of some significant areas of a person’s life that should still be respected and handled in a godly way. Abusing these things could be a clear sign that we are neglecting our walk with the Lord. Again, legalism is to be avoided, for no person is perfect in their application in any of these things. But we don’t want to take things too far. God never wants us to abuse anything, and He desires us to have the right attitude and mentality in everything we do. 
-
-{{% scripture p="Colossians 3:17 (NIV)" %}} 
-
-**17** And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him.                                   
-
-{{% /scripture %}}  
-
-**1**. **It is not godly to abuse our bodies**
-
-{{% scripture p="1 Corinthians 6:19-20 (NIV)" %}} 
-
-**19** Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own; **20** you were bought at a price. Therefore honor God with your bodies.                                                         
-
-{{% /scripture %}}  
-
-**2**. **It is not godly to abuse our jobs through laziness or a poor work ethic**   
-
-{{% scripture p="Proverbs 18:9 (NASB)" %}} 
-
-**9** He also who is slack in his work Is brother to him who destroys.                                                    
-
-{{% /scripture %}}  
-
-**3**. **It is not godly to abuse our finances and take advantage of other people by continually owing them money.** 
-
-{{% scripture p="Romans 13:8-10 (NKJV)" %}} 
-
-**8** Owe no one anything except to love one another, for he who loves another has fulfilled the law. **9** For the commandments, “You shall not commit adultery,” “You shall not murder,” “You shall not steal,” “You shall not bear false witness,” “You shall not covet,” and if *there is* any other commandment, are *all* summed up in this saying, namely, “You shall love your neighbor as yourself.” **10** Love does no harm to a neighbor; therefore love *is* the fulfillment of the law.                                                                      
-
-{{% /scripture %}}  
-
-**4**. **To sum up, how well we handle our personal matters depends on how we manage our relationship with God.** 
-
-{{% scripture p="1 Timothy 5:8 (NASB)" %}} 
-
-**8** But if anyone does not provide for his own, and especially for those of his household, he has denied the faith and is worse than an unbeliever.                                        
-
-{{% /scripture %}}  
-
-{{% scripture p="Matthew 6:25-33 (ESV)" %}} 
-
-**25** “Therefore I tell you, do not be anxious about your life, what you will eat or what you will drink, nor about your body, what you will put on. Is not life more than food, and the body more than clothing? **26** Look at the birds of the air: they neither sow nor reap nor gather into barns, and yet your heavenly Father feeds them. Are you not of more value than they? **27** And which of you by being anxious can add a single hour to his span of life? **28** And why are you anxious about clothing? Consider the lilies of the field, how they grow: they neither toil nor spin, **29** yet I tell you, even Solomon in all his glory was not arrayed like one of these. **30** But if God so clothes the grass of the field, which today is alive and tomorrow is thrown into the oven, will he not much more clothe you, O you of little faith? **31** Therefore do not be anxious, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’ **32** For the Gentiles seek after all these things, and your heavenly Father knows that you need them all. **33 But seek first the kingdom of God and his righteousness, and all these things will be added to you**                                                                  
-
-{{% /scripture %}}  
-
-The above passage does not in any way suggest we don’t have to work or do a little thinking and planning before making any moves to help ourselves out. It just means that we follow the Spirit’s guidance as we do our part. That means putting our relationship with Christ first and handling every circumstance and difficulty with a godly attitude of faith out of reverent fear for our Lord and Savior. We seek the kingdom by discerning and then obeying God’s best will for our lives. 
-
-{{% scripture p="Jeremiah 29:11 (NIV)" %}} 
-
-**11** For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future.                                  
-
-{{% /scripture %}}  
-
-Although our jobs and finances may not be as important as our spiritual growth and ministry, how we handle those things can be significant indicators of how well we take care of our walk with the Lord. Basic responsibilities, such as work, will open up avenues to further demonstrate our love for God because other people (perhaps customers and fellow employees) will be watching our behavior in how we conduct ourselves. The more we grow spiritually, the more responsible we will become. The Lord commands us to be good stewards with all that we have and be diligent workers in all that we do. If we take care of our relationship with the Lord, striving to walk in the Spirit at all times, then our handling of all these other things will speak for themselves in a godly manner. A good walk and relationship with the Lord (which has to be present for the individual's love for God and others to continuously increase) will cover every other aspect of the life we have to live, which makes for an excellent testimony to others. If we change from within, we will change outwardly, translating even into everyday affairs. 
+And although our jobs and finances (as but only two examples) may not be as important as our spiritual growth and ministry, how we handle those things can be significant indicators of how well we take care of our walk with the Lord. Basic responsibilities, such as work, will open up avenues to further demonstrate our love for God because other people (perhaps customers and fellow employees) will be watching our behavior in how we conduct ourselves. The more we grow spiritually, the more responsible we will become. The Lord commands us to be good stewards with all that we have and be diligent workers in all that we do. If we take care of our relationship with the Lord, striving to walk in the Spirit at all times, then our handling of all these other things will speak for themselves in a godly manner. A good walk and relationship with the Lord (which has to be present for the individual's love for God and others to continuously increase) will cover every other aspect of the life we have to live, which makes for an excellent testimony to others. If we change from within, we will change outwardly, translating even into everyday affairs. 
 
 {{% scripture p="Luke 16:10 (ESV)" %}} 
 
