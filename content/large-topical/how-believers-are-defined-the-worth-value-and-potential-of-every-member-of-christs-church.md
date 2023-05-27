@@ -813,7 +813,7 @@ Our emotions have a nasty tendency to give us a bad or even false report when we
 
 An excellent parallel example regarding the above usage of emotions giving us a bad report about our present demanding situations is Numbers chapter 13. Of the twelve spies sent, only two, Caleb and Joshua, showed faith in God despite the daunting task. They knew that in God’s power, they could overcome the intimidating job that lay before them, and all because they walked in faith, not according to their fleshly perspectives. Yes, there were very tall and mighty people in Canaan, nations larger and more robust than Israel. But these other peoples were not bigger or stronger than God, and it was the Lord who would give His chosen witnesses the victory they needed over their enemies, not the people themselves. 
 
-Unfortunately, the unfaithful spies in the passage below chose to lose sight of God’s role and falsely believed they had no chance because they assumed they would have to face these other nations in their own power. They did not think God was sufficient to deliver them, and this attitude set off a chain reaction for the rest of the people, who began to weep in despair as if defeat was the reality. Allowing just some of our peace in Christ to be disturbed by the false pretensions of our flesh can cause our entire inner self to escalate toward panic, and in the end, failure. And that is what happened in this case; the cowardly spies allowed fear to take over their minds and dominate their thinking. That is why fear is so dangerous- it causes people to do all kinds of irrational things by paralyzing faith and clouding all hope and clear thinking. 
+Unfortunately, the unfaithful spies in the passage below chose to lose sight of God’s role and falsely believed they had no chance because they assumed they would have to face these other nations in their own power. They did not think God was sufficient to deliver them, and this attitude set off a chain reaction for the rest of the people, who began to weep in despair as if defeat was the reality. Allowing just some of our peace in Christ to be disturbed by the false pretensions of our flesh can cause our entire inner self to escalate toward panic, and in the end, failure. And that is what happened in this case; the cowardly spies allowed fear to take over their minds and dominate their thinking. That is why fear is so dangerous---it causes people to do all kinds of irrational things by paralyzing faith and clouding all hope and clear thinking. 
 
 {{% scripture p="Numbers 13:25-33 (ESV)" %}} 
 
@@ -1225,7 +1225,7 @@ For a husband and wife to behave properly toward one another is for both of them
 
 {{% /scripture %}} 
 
-Regarding this passage above, Dr. Luginbill of [Ichthys.com](https://www.ichthys.com) states- 
+Regarding this passage above, Dr. Luginbill of [Ichthys.com](https://www.ichthys.com) states---
 
 *The truth is that we are all "el", "god" with a small "G" ("**Is it not written in your Law, 'I have said you are gods'**?" **John 10:34 NIV**; cf.**Ps.82:6**), in the sense of having been given the God-given ability to choose: something only possible by divine grace. That is the essence of the image: free will. Clearly, not only is free will not lost at the fall, but making choices – and most particularly the choice of whether or not to accept salvation – is why we are here on earth individually and as a species in the first place.* 
 
@@ -1253,7 +1253,7 @@ God never limits any person’s growth, progress, and production based on anythi
 
 **References/Recommendations** 
 
-[*https://ichthys.com/mail-Biblical-Anthropology.htm*](https://ichthys.com/mail-Biblical-Anthropology.htm)  - Dr. Robert D. Luginbill of Ichthys- Bible Studies for Spiritual Growth- Explanation of John 10:33-36- Biblical Anthropology I:  The Nature of Human Beings and Human Life according to the Bible- Response #1 
+[*https://ichthys.com/mail-Biblical-Anthropology.htm*](https://ichthys.com/mail-Biblical-Anthropology.htm)  - Dr. Robert D. Luginbill of Ichthys---Bible Studies for Spiritual Growth---Explanation of John 10:33-36- Biblical Anthropology I:  The Nature of Human Beings and Human Life according to the Bible---Response #1 
 
 https://ichthys.com/index.htm 
 

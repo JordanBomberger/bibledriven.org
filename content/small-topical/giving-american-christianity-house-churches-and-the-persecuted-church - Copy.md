@@ -26,7 +26,7 @@ Tithing is a highly misunderstood, misapplied, and abused practice in the body o
 
 ### Ostentatious giving ought to be avoided
 
-Additionally, nowhere does Scripture mandate passing a plate around a congregation to collect money. If a church wants to collect money, there are far less conspicuous ways to do so than passing a dish around or having people come up in front of the congregation to give. Collection boxes located in a known discreet and secluded corner isn’t a bad idea. In this day of technology, an even better alternative is to give online where no one else can see the act done. Or we can just give to individuals and others one on one in private. The idea is to attract as little attention to ourselves and our donations as possible. As Jesus commanded to the people of His day, so we should echo His statements to our brothers and sisters- 
+Additionally, nowhere does Scripture mandate passing a plate around a congregation to collect money. If a church wants to collect money, there are far less conspicuous ways to do so than passing a dish around or having people come up in front of the congregation to give. Collection boxes located in a known discreet and secluded corner isn’t a bad idea. In this day of technology, an even better alternative is to give online where no one else can see the act done. Or we can just give to individuals and others one on one in private. The idea is to attract as little attention to ourselves and our donations as possible. As Jesus commanded to the people of His day, so we should echo His statements to our brothers and sisters---
 
 {{% scripture p="Matthew 6:1-5 (ESV)" %}} 
 

@@ -232,7 +232,7 @@ The Bible makes it very clear that believers can commit apostasy. We see a prime
 
 The seed sown along the path represents those who refuse the gospel. They reject Christ to go and follow Satan, submitting to his power instead. They are unbelievers headed for the lake of fire. 
 
-The seed sown on rocky soil speaks of a person who was once a genuine believer but commits apostasy later on by turning away from God because of significant testing that comes their way. These people receive the gospel with joy, believe for a while, and abandon their belief in Christ. For faith to be temporary, a true living faith had to exist, and the context clearly shows us here that faith was alive and active at one point in the person’s life, meaning they were a believer at one time. But they fall away from the faith due to some problematic trial or tribulation because their faith (represented by their small and weak root, which could not expand in the shallow rocky soil) was too weak to see them through it. When trial and tribulation come, they are unprepared to endure it. And for those who argue that this rocky soil category isn’t referring to believers must explain why trials and tribulations (testing) come their way? God does not test unbelievers because they have no faith to grow. Testing and tribulation come only to believers, not unbelievers. Luke 8:13 describes this group best- 
+The seed sown on rocky soil speaks of a person who was once a genuine believer but commits apostasy later on by turning away from God because of significant testing that comes their way. These people receive the gospel with joy, believe for a while, and abandon their belief in Christ. For faith to be temporary, a true living faith had to exist, and the context clearly shows us here that faith was alive and active at one point in the person’s life, meaning they were a believer at one time. But they fall away from the faith due to some problematic trial or tribulation because their faith (represented by their small and weak root, which could not expand in the shallow rocky soil) was too weak to see them through it. When trial and tribulation come, they are unprepared to endure it. And for those who argue that this rocky soil category isn’t referring to believers must explain why trials and tribulations (testing) come their way? God does not test unbelievers because they have no faith to grow. Testing and tribulation come only to believers, not unbelievers. Luke 8:13 describes this group best---
 
 {{% scripture p="Luke 8:13 (NIV)" %}} 
 
@@ -240,7 +240,7 @@ The seed sown on rocky soil speaks of a person who was once a genuine believer b
 
 {{% /scripture %}} 
 
-We can sum up this verse with the following points- 
+We can sum up this verse with the following points---
 
 **1**. Someone who receives the Word can only refer to a person who became a believer. Unbelievers, no matter how enthusiastic, have not received the gospel if they are still unbelievers. 
 
@@ -378,7 +378,7 @@ Apostasy does not occur by committing a single sin or even a lot of sins (believ
 
 {{% /scripture %}}  
 
-Regarding sin, apostasy only occurs when a person gives their life over to it completely with no regrets or remorse, i.e., no intention of returning and changing their ways (idolatry). Believers care about their conduct- unbelievers **do not**. No person can continue in sin without that type of behavior damaging (and eventually killing) their faith completely. It is these people (unbelievers) that **1 Corinthians 6:9-10** describes. 
+Regarding sin, apostasy only occurs when a person gives their life over to it completely with no regrets or remorse, i.e., no intention of returning and changing their ways (idolatry). Believers care about their conduct---unbelievers **do not**. No person can continue in sin without that type of behavior damaging (and eventually killing) their faith completely. It is these people (unbelievers) that **1 Corinthians 6:9-10** describes. 
 
 {{% scripture p="1 Corinthians 6:9-10 (ESV)" %}} 
 
@@ -386,7 +386,7 @@ Regarding sin, apostasy only occurs when a person gives their life over to it co
 
 {{% /scripture %}} 
 
-We need to also keep in mind that apostasy does not always have to involve sin. As the parable of the sower (**Matthew 13:18-23**) shows, some believers may turn back because of testing in the form of difficult trials and tribulations meant as tests from our Lord to strengthen their faith. They did not count the cost (**Luke 14:28-35**) and thus, suffer the "shipwreck" of their faith because they ended up facing something that (in their own view) they did not sign up for. But they did sign up for it but failed because they did not count the cost. Spiritual tests from the Lord and difficult life circumstances can all contribute to the process known as apostasy (a believer reverting to an unbeliever). Something difficult may happen in the believers life that causes them to get angry or upset at God and give up on Him later on. There is then the issue of false teaching and being led astray by a false gospel. Or worldly and secular causes could be involved, such as a believer falling for all the arguments for (for example) evolution or atheism- more satanic lies. There are so many potential causes for apostasy that it would be impossible to come up with all of them. Needless to say, the reader should understand this issue by now and be encouraged to never abandon their faith at all. Don't throw away your faith, regardless of what is tempting you to do so! 
+We need to also keep in mind that apostasy does not always have to involve sin. As the parable of the sower (**Matthew 13:18-23**) shows, some believers may turn back because of testing in the form of difficult trials and tribulations meant as tests from our Lord to strengthen their faith. They did not count the cost (**Luke 14:28-35**) and thus, suffer the "shipwreck" of their faith because they ended up facing something that (in their own view) they did not sign up for. But they did sign up for it but failed because they did not count the cost. Spiritual tests from the Lord and difficult life circumstances can all contribute to the process known as apostasy (a believer reverting to an unbeliever). Something difficult may happen in the believers life that causes them to get angry or upset at God and give up on Him later on. There is then the issue of false teaching and being led astray by a false gospel. Or worldly and secular causes could be involved, such as a believer falling for all the arguments for (for example) evolution or atheism---more satanic lies. There are so many potential causes for apostasy that it would be impossible to come up with all of them. Needless to say, the reader should understand this issue by now and be encouraged to never abandon their faith at all. Don't throw away your faith, regardless of what is tempting you to do so! 
 
 {{% scripture p="Hebrews 10:35-36 (NIV)" %}} 
 
@@ -422,7 +422,7 @@ A lack of any obedience or good fruit can reveal someone as an unbeliever since 
 
 {{% /scripture %}} 
 
-**Vs- 15-17** 
+**Vs---15-17** 
 
 {{% scripture p="James 2:15-17 (ESV)" %}} 
 
@@ -444,7 +444,7 @@ Helping others is not something that earns us salvation because it is by faith t
 
 And again, these verses also apply to believers who are not living out their faith as they should (an inactive faith is useless). 
 
-**Vs- 21-24**
+**Vs---21-24**
 
 {{% scripture p="James 2:21-24 (ESV)" %}} 
 
@@ -500,7 +500,7 @@ Christ’s blood was the propitiation for the sins of all people who would ever 
 
 {{% /scripture %}} 
 
-One must ask, how could God send some to the lake of fire if His desire is for all men to come to repentance? The verse makes this clear- God desires the salvation of all people, and those who reject Him did so because they chose to do so, not because the Lord made their decision for them, a concept that does not fit the passage above. 
+One must ask, how could God send some to the lake of fire if His desire is for all men to come to repentance? The verse makes this clear---God desires the salvation of all people, and those who reject Him did so because they chose to do so, not because the Lord made their decision for them, a concept that does not fit the passage above. 
 
 {{% scripture p="Romans 5:1 (ESV)" %}}   
 
@@ -672,7 +672,7 @@ Other passages that show that God’s Spirit would come upon people who were alr
 
 ### **2.2 Water Baptism** 
 
-For a fuller and more thorough and comprehensive teaching on the subject of water baptism, please see the link-  "**[A Special Treatment on Water Baptism](/topical/water-baptism/)**." 
+For a fuller and more thorough and comprehensive teaching on the subject of water baptism, please see the link--- "**[A Special Treatment on Water Baptism](/topical/water-baptism/)**." 
 
 Many people have made the widespread mistake over the past 2,000 years of church history that water baptism is necessary for salvation or that it is something we should be continuing today. Many of those who support its continuation believe it to be a declaration, pledge, or sign of putting one’s faith in Christ, such as we see in many protestant (Baptist) denominations. Others see it as an absolute necessity to be saved (you can't be without it). With that said, we will address this subject. 
 
@@ -720,13 +720,13 @@ Those who claim that water baptism is the new covenant sign just as circumcision
 
 {{% /scripture %}} 
 
-Baptism did continue after Christ’s death on the cross (we see this in the book of Acts). Many believing Jews and gentiles received it because they wanted to be a part of what others got to partake of- getting to perform the ritual that announced and revealed the Messiah to Israel. It was now their turn to have Christ’s coming announced and revealed to them in this way, and the apostles utilized this ritual for evangelization purposes (even though it was not necessary). However, even the apostles would take time to learn that this wasn't something they had to continue doing because learning the truth would not and is never an overnight process. Again, Acts is a book that tells us about the TRANSITION from the old to the new covenant. It is not an epistle and does not prescribe water baptism as some doctrine to accept and be obeyed (we don't see that anywhere in the Bible). That does not mean there aren't any legitimate teachings and doctrines in the book at all, there most certainly are! But there also things that were only for a certain period (we can include the sign gifts here). 
+Baptism did continue after Christ’s death on the cross (we see this in the book of Acts). Many believing Jews and gentiles received it because they wanted to be a part of what others got to partake of---getting to perform the ritual that announced and revealed the Messiah to Israel. It was now their turn to have Christ’s coming announced and revealed to them in this way, and the apostles utilized this ritual for evangelization purposes (even though it was not necessary). However, even the apostles would take time to learn that this wasn't something they had to continue doing because learning the truth would not and is never an overnight process. Again, Acts is a book that tells us about the TRANSITION from the old to the new covenant. It is not an epistle and does not prescribe water baptism as some doctrine to accept and be obeyed (we don't see that anywhere in the Bible). That does not mean there aren't any legitimate teachings and doctrines in the book at all, there most certainly are! But there also things that were only for a certain period (we can include the sign gifts here). 
 
  One of the biggest mistakes those who continue practicing water baptism make is that they rely on 2,000 years of church tradition (scholarship and church fathers) instead of the actual Word of God itself. Many traditionalists will cite that most very intellectual scholars over the years of church history who have studied the Scriptures have concluded that baptism should continue because of their understanding of the text. And yet, we know that tradition does not dictate or come before the truth because they are often (and are, in this case) false and vulnerable to human error. The fact of the matter is, most in the church have gotten it wrong throughout most of her history. But this is not the only thing that the majority of Christians have misinterpreted, and there is little surprise in that since the church has not been conducting itself very well this whole time. In fact, for the first fourteen years of the church age after the apostle John passed away, our Lord rebukes the church era of Ephesus for abandoning their first love, i.e., referring to their original passion and love for the truth. This all in less than fourteen years into the beginning of the 2,000 years we know as church history today. It is sad to say that right after its inception, believers already began running into extensive problems because of the misguided attitudes of most of its members. All was well when the apostles still lived, but major trouble had already begun to infiltrate the church when they had all passed from the scene. As the years went by, the truth became less and less of an issue. After the apostle John's death, it would be easy to see how something like water baptism was revived and carried on from there. 
 
  People who attempt to put most of the 2,000 years of church history in good light are misguided because they have studied it from the lens of human beings, but not Scripture itself. What does the Bible have to say? All that we need to hear, and unfortunately, most of it is not good news despite what many have claimed. Far too many see the church from a human viewpoint, and for this reason, they think they and those before them are/were on good ground doctrinally and theologically. But they are/were not on many points, and our Lord tells us this in His message to the seven church **eras** mentioned in Revelation (they cover all 2,000 years of the church’s existence). Better to trust in God’s evaluation of our history as written in His Holy Word than in secular and fallible books and writings (and this goes for the works of the "church fathers" as well) written from the eyes of imperfect human beings. Given a choice between the two, whose point of view should we take, God’s or man’s? Scripture always comes out on top. All authority is in Jesus Christ, which means that His Word reigns supreme.  
 
-**Ephesus- The Loveless Church** 
+**Ephesus---The Loveless Church** 
 
 {{% scripture p="Revelation 2:1-7 (NIV)" %}}  
 
@@ -738,7 +738,7 @@ These are the words of him who holds the seven stars in his right hand and walks
 
 As seen from the passage above, most believers had forsaken the love and zeal for the truth they once had before the apostles had passed from the scene. So it is easy to see how complacency and false beliefs began to creep into the church from its inception. Although much zeal revived during the era of Smyrna , the church would then start to plummet to even lower levels of spirituality over the next 1,080 years of its existence. As our Lord also says in our passage above, “*if you do not repent, I will come to you and remove your lampstand from its place*.” The church is a lamp because it is a light to the world, as all believers are supposed to let their light shine (**Matthew 5:16**). But because of their growing indifference to the truth, our Lord had to take away the witness of the church era of Ephesus by removing it after only twelve short years of existence. This event would then usher in the church era of Smyrna, an extended period of persecution that our Lord allowed to occur to shake the believers of that period out of their complacency. The ten days represent the ten evil emperors of the Roman empire who heavily persecuted believers during their wicked reigns. Our Lord praised this era for their endurance under persecution because they held fast to their faith.  
 
-**Smyrna- The Persecuted Church** 
+**Smyrna---The Persecuted Church** 
 
 {{% scripture p="Revelation 2:8-11 (NIV)" %}}  
 
@@ -750,7 +750,7 @@ These are the words of him who is the First and the Last, who died and came to l
 
 But this zeal would only last for this particular era. Once the period of Pergamum begun, so many problems crept back into the church again, starting a downward spiral for the next 1,080 years until it consisted of almost no actual genuine believers at all by the era of Sardis. The church at that point was all but dead, with only a small handful of true believers alive during those 360 years. 
 
-**Pergamum- The Compromising Church** 
+**Pergamum---The Compromising Church** 
 
 {{% scripture p="Revelation 2:12:17 (NIV)" %}}   
 
@@ -760,7 +760,7 @@ These are the words of him who has the sharp, double-edged sword. **13** I know 
 
 {{% /scripture %}} 
 
-**Thyatira- The Corrupt Church** 
+**Thyatira---The Corrupt Church** 
 
 {{% scripture p="Revelation 2:18-29 (NIV)" %}}   
 
@@ -770,7 +770,7 @@ These are the words of the Son of God, whose eyes are like blazing fire and whos
 
 {{% /scripture %}} 
 
-**Sardis- The Dead Church** 
+**Sardis---The Dead Church** 
 
 {{% scripture p="Revelation 3:1-6 (NIV)" %}}   
 
@@ -784,7 +784,7 @@ Throughout the past two-thousand years of its history, most of the church has be
 
 Our job as believers in our present time is to continue advancing and perfecting what the believers during the era of Philadelphia had begun. Although they were courageous and got a good few things right, the reformers got a lot of stuff wrong. Philadelphia had a lot of unlearning to do despite their commendable and noble deeds. One might expect that future believers such as those alive today would have learned from their errors and made corrections. Unfortunately, that is not the case because our current church era of Laodicea sits in a pathetically lukewarm state which does not prioritize the truth. During the reformation and beyond, the believers had “little strength,” as our Lord says, less time and resources to properly search and study the Word. Yet, they performed better in proportion to what they had compared to most believers today who have more time and resources to advance in biblical study. 
 
-**Philadelphia- The Faithful Church** 
+**Philadelphia---The Faithful Church** 
 
 {{% scripture p="Revelation 3:7-13 (NIV)" %}}   
 
@@ -802,7 +802,7 @@ Instead of refining the truth and making corrections to all the mistakes that pa
 
 {{% /scripture %}} 
 
-**Laodicea- The Lukewarm Church** 
+**Laodicea---The Lukewarm Church** 
 
 {{% scripture p="Revelation 3:14-22 (NIV)" %}}   
 
@@ -816,7 +816,7 @@ Putting one’s faith and trust in church history as a means to an end when sear
 
 As an additional note on everything we have discussed above, we must remember that Israel had a terrible history of apostasy and moral degeneration long before Jesus came on the scene. We have the time between the testaments during the Maccabean and Hasmonean periods, when the Pharisees, Sanhedrin, and other religious parties arose. These were the highly respected individuals before and during Jesus’s time who put on an outward display of righteousness yet were filled with nothing but “dead man’s bones” (**Matthew 23:27**). They were supposed to be the experts in the Law and yet misunderstood and got so much of it wrong by adding to it their own set of forms, rituals, and traditions. We see with them and Israel a prime example that we should not place our faith and trust in church history, individuals, and tradition. It is for this very reason why we have people asking the question, “but how could most of the church be wrong about water baptism for so many years?” Well, it turns out that most believers have been failing to pursue the Lord as they should have during those two thousand years. As a result, most of church history is replete with spiritually poor Christians. The same thing goes for the sad history of Israel from the period not long after Joshua and David into the time when Christ came to earth. Most people in human history have rejected the Lord, while most who have believed in Him have displayed very little zeal for God (which will be revealed when Christ comes back for His second and final time). This sad reality has been the case ever since the church began with Adam and Eve. 
 
-Things were not well when Christ came on the scene the first time and they aren't good presently either. It is for this reason why the church will have to go through the tribulation in order to rid itself of the apathy it has held toward the truth for so long. Israel was not ready for their Messiah when He first came to them- will we the church be ready for His second coming? The great apostasy will show that many will not be prepared. However, the good news is that most will endure to the end (albeit barely in the case of many). As Luke 18:8b says, "*When the Son of Man comes, will he find faith on the earth*?”" 
+Things were not well when Christ came on the scene the first time and they aren't good presently either. It is for this reason why the church will have to go through the tribulation in order to rid itself of the apathy it has held toward the truth for so long. Israel was not ready for their Messiah when He first came to them---will we the church be ready for His second coming? The great apostasy will show that many will not be prepared. However, the good news is that most will endure to the end (albeit barely in the case of many). As Luke 18:8b says, "*When the Son of Man comes, will he find faith on the earth*?”" 
 
 {{% scripture p="Matthew 15:1-3 (NIV)" %}}   
 
@@ -824,7 +824,7 @@ Then some Pharisees and teachers of the law came to Jesus from Jerusalem and ask
 
 {{% /scripture %}} 
 
-For more in-depth information on the seven church eras, please see the link by **Dr. Luginbill- Ichthys-Bible Studies for Spiritual Growth** below. 
+For more in-depth information on the seven church eras, please see the link by **Dr. Luginbill---Ichthys-Bible Studies for Spiritual Growth** below. 
 
 https://ichthys.com/Tribulation-Part2A.htm  
 
@@ -844,7 +844,7 @@ The final part of verse thirteen speaks of the believer receiving the Holy Spiri
 
 {{% /scripture %}} 
 
-The baptism of John was a temporary act used by John the Baptist to prepare the nation of Israel for the coming Messiah. Therefore, the only baptism a believer needs to undergo today is the Holy Spirit's baptism, something the Spirit automatically does to a person after they put their faith and trust in the Lord. That is the Holy Spirit's baptism, and John anticipates this when he says the following below- 
+The baptism of John was a temporary act used by John the Baptist to prepare the nation of Israel for the coming Messiah. Therefore, the only baptism a believer needs to undergo today is the Holy Spirit's baptism, something the Spirit automatically does to a person after they put their faith and trust in the Lord. That is the Holy Spirit's baptism, and John anticipates this when he says the following below---
 
 {{% scripture p="Matthew 3:11-12 (NIV)" %}}   
 
@@ -1034,7 +1034,7 @@ The title speaks for itself. The miraculous gifts given by the Spirit during the
 
  
 
-**7**.Keeping the old covenant sabbath is not necessary for salvation. The new covenant sabbath is a twenty-four-seven, day by day, moment by moment, walking in the Holy Spirit’s power. It has gone from a physical to spiritual rest- from one day to every day. 
+**7**.Keeping the old covenant sabbath is not necessary for salvation. The new covenant sabbath is a twenty-four-seven, day by day, moment by moment, walking in the Holy Spirit’s power. It has gone from a physical to spiritual rest---from one day to every day. 
 
  
 

@@ -11,7 +11,7 @@ As everyone who has read a good bit of this ministry knows well, my goal is to h
 
 According to Oxford Languages and Google, cryptozoology is "*The search for and study of animals whose existence or survival is disputed or unsubstantiated*." Examples of “so-called” cryptids include the loch ness monster, sasquatch, ropen, chupacabra, thunderbird, mokele-mbembe, the jersey devil, Ogopogo, etc. Whether many of these creatures exist is disputed. 
 
-On the other hand, I believe that some (even many) of these creatures are real. I believe most of them aren't what people think they are (there has been a lot of deception outside the body of Christ and even some within leading people astray into believing other realities exist that disprove the existence of a Creator- or at the very least keep some people from coming to Christ or lead them astray from their relationship with Him), and that is where I play my part to tell the believer (and the unbeliever contemplating this issue) not to worry about the sightings regarding particular creatures. Cryptids (or just the paranormal in general) are not things we need to worry about; nor should we focus on them. We are not here to examine cryptids, very few, because that is not my goal here. My intent for the reader is to help them see how all of these things involving the paranormal should cause them no fear about what they know to be true from the Bible. 
+On the other hand, I believe that some (even many) of these creatures are real. I believe most of them aren't what people think they are (there has been a lot of deception outside the body of Christ and even some within leading people astray into believing other realities exist that disprove the existence of a Creator---or at the very least keep some people from coming to Christ or lead them astray from their relationship with Him), and that is where I play my part to tell the believer (and the unbeliever contemplating this issue) not to worry about the sightings regarding particular creatures. Cryptids (or just the paranormal in general) are not things we need to worry about; nor should we focus on them. We are not here to examine cryptids, very few, because that is not my goal here. My intent for the reader is to help them see how all of these things involving the paranormal should cause them no fear about what they know to be true from the Bible. 
 
 This examination is a sharing of what I believe the Lord has revealed to me after seeking the truth from Him for many years. Throughout the narrative, I will share my personal story, journey, if you will, and how I came to the opinions that I did. I would also like to express my thoughts and beliefs on the topics we will discuss, including showing my take of what others have said on the subject of cryptids, cryptozoology, and their relationship to the spiritual realm. 
 
@@ -29,7 +29,7 @@ All of what I speak here will become more apparent and mesh with what I am sayin
 
 Before we dive into this, I would like to say that my knowledge of cryptids (much like the rest of the world) is limited. I will also note that the topic of this paper is not actually about cryptozoology itself but about how believers need not worry about what their eyes may see and ears hear. I want to assure my brothers and sisters in Christ that the paranormal in no way disproves the Biblical narrative and that the Bible is entirely true from start to finish. By doing this, we return to the theme of preparing for the tribulation. And what better time to talk about this issue than now! 
 
-For this reason, believers should not be surprised when the media and news outlets report sightings of the "unusual" (UFOS), for this is only a sign that we are getting closer to the end. There is much demonic activity in this world, increasing more and more as the years wind down. My warning to believers-  stay focused on the mission the Lord has assigned you to complete. But see the danger as it is! Don't be led astray into unbelief because you mistook what you may have seen or heard for something that it was not. 
+For this reason, believers should not be surprised when the media and news outlets report sightings of the "unusual" (UFOS), for this is only a sign that we are getting closer to the end. There is much demonic activity in this world, increasing more and more as the years wind down. My warning to believers--- stay focused on the mission the Lord has assigned you to complete. But see the danger as it is! Don't be led astray into unbelief because you mistook what you may have seen or heard for something that it was not. 
 
 
 
@@ -39,7 +39,7 @@ For this reason, believers should not be surprised when the media and news outle
 
 The subject of cryptids and cryptozoology has interested me for a long time. When I was in high school (eleventh grade), I wrote a research paper on this very matter in 2013 and 2014. Much to my disappointment (especially when I look back on it now), my work didn't turn out too good. It was nothing but an extensive collection of mysterious sightings and so-called "evidence" of the existence of a small handful of creatures unknown to science. However, this would kickstart my interest in the topic. 
 
-A few years after I had finished eleventh grade, my interest in cryptozoology faded, and I researched it spontaneously- that is, until October of 2020. But this time, the issue was more personal, and I changed from just "researching" **to relying on God to grant more insight**. Big difference! 
+A few years after I had finished eleventh grade, my interest in cryptozoology faded, and I researched it spontaneously---that is, until October of 2020. But this time, the issue was more personal, and I changed from just "researching" **to relying on God to grant more insight**. Big difference! 
 
 ## **2. Cryptozoology has yielded some results** 
 
@@ -91,7 +91,7 @@ At some point in my search in May of 2021, I believed sasquatch was a real creat
 
 As for what sasquatch could be, we will attempt to give a viable explanation. And no, I do not believe these creatures to be descendants of Esau because Scripture does not support that. Esau may have been hairy, but he was not that primitive (yes, we can chuckle at that). So again, that is an explanation that has no biblical basis. 
 
-Jason Mclean writes- 
+Jason Mclean writes---
 
 *"The spirits of Nephilim, instead of descending to Hell were allowed to wander the earth as demons (specifically the evil spirits that possess and oppress humans). The corruption brought by the Watchers and the Nephilim had so corrupted humanity (both genetically as well as morally) and wildlife that God sent the flood to destroy the previous earth.”*
 
@@ -111,7 +111,7 @@ When man began to multiply on the face of the land and daughters were born to th
 
 {{% /scripture %}} 
 
-Jason Mclean states- 
+Jason Mclean states---
 
 *Note-1 Enoch confirms that it wasn't just humans the Watchers copulated with and there are additional texts that this is the origin of "monsters" like Sasquatch and others.* *At the very least we should view this as genetic manipulation and hybridization of human and animals genetics.* 
 
@@ -119,7 +119,7 @@ To clarify Mclean’s view on the book of Jasher he writes below,
 
 *Let me be very clear, the 1840 Jasher is NOT the same Book of Jasher referenced in the Old Testament. That being said, it is based on Jewish oral tradition that was compiled and written down in medieval Spain. It has certain teachings in the first few chapters that match with other traditions and legends found in pagan histories.* 
 
-To add to the above, I, like Mclean, do not believe the book of Enoch to be ""*canon or inerrant*." And nothing physical could have survived the flood sent to destroy all sinful mankind and the Nephilim. So if sasquatch is demonic in origin and physical (it may be both spiritual and physical- although this is hard to say with any certainty), it would had to have been created by the spirits of the Nephilim after the great deluge through genetic manipulation. 
+To add to the above, I, like Mclean, do not believe the book of Enoch to be ""*canon or inerrant*." And nothing physical could have survived the flood sent to destroy all sinful mankind and the Nephilim. So if sasquatch is demonic in origin and physical (it may be both spiritual and physical---although this is hard to say with any certainty), it would had to have been created by the spirits of the Nephilim after the great deluge through genetic manipulation. 
 
 ### **Genetic manipulation, hybridization, the Genesis gap, and the fossil record** 
 
@@ -127,7 +127,7 @@ As a quick additional side discussion of demons practicing "genetic manipulation
 
 We must remember that God initially created the earth for angels who (along with other/prehistoric flora and fauna) inhabited the planet we now live on. This world ended when Satan sinned and rebelled against God, leading one-third of angels (now known as fallen angels) into apostasy. At some point, God then blacked (He did not annihilate it) out the earth and universe and cleansed it, only to recreate/refurbish it to make way for humanity (so no young earth creationism). Humans (among those who would choose for God) would replace Satan and his legions. The purpose was to replace what was lost. By doing this, God would also demonstrate His power, righteousness, justice, and perfection right before the eyes of angels (both elect and fallen). God has already defeated Satan! But history has to run its course first. For more information on the Genesis Gap and the Satanic rebellion, see [Part 2 of the Satanic Rebellion series on Ichthys](https://ichthys.com/sr2-copy.htm). 
 
-Dr. Luginbill states- 
+Dr. Luginbill states---
 
 *Given the demons' longing for physical bodies and the integral part in Satan's plan that the satisfaction of that desire played (see [part 1](https://ichthys.com/SR1copy.htm)), it is not unreasonable to suppose that much of the fascinating fossil record of the archaic earth we now possess is a result of the devil's manipulation and misuse of the earth's original fauna for just such purposes: the Bible's identification of Satan with reptiles (dragons, serpents), and his obvious fascination with the same (cf. Gen.3), make the possibility of this theoretical satanic origin of the terrible, powerful creatures of pre-history all the more conceivable.*
 
@@ -137,7 +137,7 @@ I would like to add that I agree with Robert’s interpretation above. Why would
 
 The coexistence of gigantic and dangerous “lizards” living alongside humans doesn’t make much sense. It seems that these terrifying creatures were never meant to live alongside man. And if they ever did at any point, it must have been during the entire period of the Satanic attack resulting in the Nephilim mentioned in Genesis six. So this would eliminate our arguments above (about the dangers of dinosaurs living with man). Since a group of voluntary fallen angels cohabited with human women, it is also possible that (as already mentioned) genetic manipulation occurred with wildlife as well. This may have resulted in **some** of what we know as dinosaurs and other large, powerful land and aquatic reptilian and mammalian species. However, it is more likely that (to say the least)  dinosaurs and other prehistoric creatures were a result of genetic manipulation that occurred after Satan's rebellion before God blacked out the universe. This would have been long before God "refurbished" the earth and placed man on it (the Genesis Gap). 
 
-However, there is nothing to disprove the possibility that the Genesis six incident explains at least some of the fossil record. These voluntary angels would have simply repeated what they did long before God blacked out the earth for re-recreation. Nevertheless, there is one thing we can know for certain- **there were never any dinosaurs on Noah's ark**. 
+However, there is nothing to disprove the possibility that the Genesis six incident explains at least some of the fossil record. These voluntary angels would have simply repeated what they did long before God blacked out the earth for re-recreation. Nevertheless, there is one thing we can know for certain---**there were never any dinosaurs on Noah's ark**. 
 
 To continue our main discussion, I encourage readers to avoid the Apocrypha. The problem is that many Christians don't have the knowledge or discernment to pick out the good from the bad works (forgery vs. non-forgery). Many mistakes do not agree with Scripture throughout many of the pseudiographical works, so one must be careful while reading through the various books. That is not to say there is no truth and value in the Apocrypha (we just referenced it as a possible clue), but caution must be advised. The book of Enoch and Jasher is not canonical. Therefore, what they say regarding the Spirits of the Nephilim tampering with animal genetics sometime after the flood may be inaccurate. However, we don't need written testimony to theorize that this did indeed happen since there has to be an explanation for many of the cryptozoological creatures we hear of today if some or most of them are in fact real. And it is factual (as we have touched on already) that the spirits of the Nephilim are still in fact present on the earth (they have been ever since the flood). Therefore, this is (as we will discuss below) the most likely explanation. 
 
@@ -149,7 +149,7 @@ To continue, there is no reason why creatures like sasquatch could not exist (an
 
 As an additional note, demons genetically tampering with animals after the flood all the way up to our modern time would (assuming we go with the the theory that dinosaurs were a result of genetic manipulation by Satan's followers) not constitute doing something forbidden by God. The reason for this is because if Satan and his followers did tamper with the wildlife of the old original earth, then an attack on humans (reproducing with human women) would have already been a "no no." This would show us that fallen angels attacking humans (those made in the image and likeness of God) is different than attacking animals (since people have a greater purpose and value in God's eyes). For that and reasons already given above, there is no reason why genetic manipulation didn't occur with wildlife after the flood up to the present. But it is highly unlikely this ever occurred with people. Does this mean there aren't half human and half demonic beings in our world? That is possible, but would unlikely be a result of a demon cohabiting with a person. Fallen angels can probably appear in similar human form on their own. 
 
-Although the above sounds strange, there is much fallen angels can and have done that we are not aware of. How do spiritual beings procreate with physical ones (whether human or animal)? How do they genetically tamper with wildlife? We don’t have to understand these things- we just have to believe them  because the Bible supports them. Robert writes on this point very well in the link below (see response #1). So the details of how all this occurs (as suggested in Robert's response) is going to be unknowable to us. Therefore, there is no point in speculating on that any further. 
+Although the above sounds strange, there is much fallen angels can and have done that we are not aware of. How do spiritual beings procreate with physical ones (whether human or animal)? How do they genetically tamper with wildlife? We don’t have to understand these things---we just have to believe them  because the Bible supports them. Robert writes on this point very well in the link below (see response #1). So the details of how all this occurs (as suggested in Robert's response) is going to be unknowable to us. Therefore, there is no point in speculating on that any further. 
 
 [*https://ichthys.com/mail-nephilim-antichrist-false-prophet-mark-of-the-beast.htm*](https://ichthys.com/mail-nephilim-antichrist-false-prophet-mark-of-the-beast.htm) 
 
@@ -217,7 +217,7 @@ Yet most people choose to put God out of their minds, so they reject Him, despit
 
 {{% /scripture %}}  
 
-Anyway, regarding UFOs, McLean states the following- 
+Anyway, regarding UFOs, McLean states the following---
 
 *On December 16, 2017 the New York Times published an article with a video from an F/A-18F Super Hornet that pursued a UFO in 2004. The video was provided by the United States government which also publicly admitted that:* 
 
@@ -261,7 +261,7 @@ And a great sign appeared in heaven: a woman clothed with the sun, with the moon
 
 {{% /scripture %}}  
 
-“UFOs,” “aliens,” and all other demonic manifestations are the devil's way of trying to distract the world (both believers and unbelievers alike) by dragging their attention away from God and onto lies that, if followed, could lead to eternal separation in the lake of fire. Former family research counselor Tim Dailey made an excellent point regarding bigfoot and the paranormal (aliens and UFOs). Below he states- 
+“UFOs,” “aliens,” and all other demonic manifestations are the devil's way of trying to distract the world (both believers and unbelievers alike) by dragging their attention away from God and onto lies that, if followed, could lead to eternal separation in the lake of fire. Former family research counselor Tim Dailey made an excellent point regarding bigfoot and the paranormal (aliens and UFOs). Below he states---
 
 *"It's part of the devil's modus operandi. He has always used this kind of phenomena to, once again destabilize, to engender fear, to open us up to the possibilities of other realities and other beings and then we begin getting involved with demonic spirits. So yeah, all through history there have been many, many different varieties of beings that are primarily spiritual beings that have terrorized civilizations and peoples and non-Christian cultures are very aware of this."* 
 
@@ -379,7 +379,7 @@ Now concerning the coming of our Lord Jesus Christ and our being gathered togeth
 
 I also do not believe that UFOs and the paranormal will be the leading cause of the great apostasy by themselves. There will be multiple reasons for that, much of which will have to do with false teaching and deception. But the primary cause will result because of the lukewarm attitude of today’s believers who have chosen to put their desires before the truth of God’s Word. This mentality will leave many Christians unprepared for the great test known as the time of Jacob’s trouble (the tribulation). I have mentioned this passage at many points throughout this ministry, and I will repeat it here. The Lord will vomit believers out of His mouth for their indifference to His calling for their lives. 
 
-Thus, the purpose of the apocalypse is twofold- to punish the unbelieving world for its wickedness and to discipline most of the church for being lukewarm. Thankfully, most believers will react accordingly to the circumstances during those dark days and willingly suffer for their Savior, who suffered so much for them! What a wonderful God we serve! 
+Thus, the purpose of the apocalypse is twofold---to punish the unbelieving world for its wickedness and to discipline most of the church for being lukewarm. Thankfully, most believers will react accordingly to the circumstances during those dark days and willingly suffer for their Savior, who suffered so much for them! What a wonderful God we serve! 
 
 {{% scripture p="Revelation 3:14-22 (NIV)" %}} 
 
@@ -401,17 +401,17 @@ Demonic activity, in the form of UFOs, will most certainly contribute to the gre
 
 **References**  
 
-Ichthys- By Dr. Robert D. Luginbill- The Satanic Rebellion- Background to the Tribulation- Part 2- The Genesis Gap- Introduction- https://ichthys.com/sr2-copy.htm 
+Ichthys---By Dr. Robert D. Luginbill---The Satanic Rebellion---Background to the Tribulation---Part 2- The Genesis Gap---Introduction---https://ichthys.com/sr2-copy.htm 
 
-Ichthys- By Dr. Robert D. Luginbill- Nephilim, Antichrist, the False Prophet, and the Mark of the Beast-Response #1- https://ichthys.com/mail-nephilim-antichrist-false-prophet-mark-of-the-beast.htm 
+Ichthys---By Dr. Robert D. Luginbill---Nephilim, Antichrist, the False Prophet, and the Mark of the Beast-Response #1- https://ichthys.com/mail-nephilim-antichrist-false-prophet-mark-of-the-beast.htm 
 
-How UFOs & Bigfoot Prove the Bible is True- by Jason Mclean 
+How UFOs & Bigfoot Prove the Bible is True---by Jason Mclean 
 
 \- Lynn E. Catoe, Senior bibliographer for the Library of Congress, UFOs AND RELATED SUBJECTS: An Annotated Bibliography, 1969; prepared under Airforce Office of Scientific Research project
 
 Order 67-0002 and 68-003 
 
-Tim Dailey on UFOs and Bigfoot- https://www.lgbtqnation.com/2018/07/now-christian-leaders-telling-followers-bigfoot-real-spawned-devil/ 
+Tim Dailey on UFOs and Bigfoot---https://www.lgbtqnation.com/2018/07/now-christian-leaders-telling-followers-bigfoot-real-spawned-devil/ 
 
 https://www.sierraclub.org/maryland/patapsco-valley-state-park 
 

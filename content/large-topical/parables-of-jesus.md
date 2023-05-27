@@ -77,7 +77,7 @@ Jesus spoke to them again in parables, saying, **2** “The kingdom of heaven ma
 
  {{% /scripture %}}                                                  
 
-The King in the parable above represents the Father, and the son, Jesus Christ. The Son came to earth to seek and save the lost (particularly the Jewish people during His three-year ministry- though Christ died for all). The lost represent those called or invited to the wedding feast (unbelievers called to salvation), which symbolizes the millennial kingdom and the great feast that occurs during that period after Christ’s second advent. 
+The King in the parable above represents the Father, and the son, Jesus Christ. The Son came to earth to seek and save the lost (particularly the Jewish people during His three-year ministry---though Christ died for all). The lost represent those called or invited to the wedding feast (unbelievers called to salvation), which symbolizes the millennial kingdom and the great feast that occurs during that period after Christ’s second advent. 
 
 Jesus ministered to His people and called them to repentance for their salvation. But most refused this gracious offer of eternal life. They rejected the Messiah crucifying Him in the end, just as how most in our parable declined the invitation for the wedding dinner. However, this parable can also apply to all unbelievers of all time. Those who never believed in Christ (through ALL of human history) will all suffer the eternal Lake of Fire. 
 
@@ -345,7 +345,7 @@ Yes, the Lord is pleased with all the positive free will choices we make in life
 
 See passage link: **Luke 15:11-32**. 
 
-This parable is linked with those before it in **Luke 14:15-24, 15:1-7** (the lost sheep) **Luke 15:8-10** (the lost coin). The prodigal son represents all the sinners, tax collectors, and people with bad reputations flooding into the kingdom by coming to Christ (they came as unbelievers as those hated and frowned upon in society). However, the parable itself also applies to all believers who have backslidden in their walk with God but who have returned to Him (the other application of this parable). The father represents our heavenly Father. The older son- possibly the Scribes, Pharisees, and other religious people who were angry that Jesus was associating with and helping the worst of sinners in their day. At the same time, he may also have been used by Jesus to represent a bitter believer who refuses to accept a repentant brother back into the fold.  The older sibling was a brother, after all. I (the writer) believe this parable can refer to God’s willingness to forgive wandering believers who return and repent, and also “newcomers” to the faith who come flooding into the kingdom (something that greatly upset the religious elite of those days. 
+This parable is linked with those before it in **Luke 14:15-24, 15:1-7** (the lost sheep) **Luke 15:8-10** (the lost coin). The prodigal son represents all the sinners, tax collectors, and people with bad reputations flooding into the kingdom by coming to Christ (they came as unbelievers as those hated and frowned upon in society). However, the parable itself also applies to all believers who have backslidden in their walk with God but who have returned to Him (the other application of this parable). The father represents our heavenly Father. The older son---possibly the Scribes, Pharisees, and other religious people who were angry that Jesus was associating with and helping the worst of sinners in their day. At the same time, he may also have been used by Jesus to represent a bitter believer who refuses to accept a repentant brother back into the fold.  The older sibling was a brother, after all. I (the writer) believe this parable can refer to God’s willingness to forgive wandering believers who return and repent, and also “newcomers” to the faith who come flooding into the kingdom (something that greatly upset the religious elite of those days. 
 
 What probably upset Christs’ opponents the most was that He told them that sinners and tax collectors were getting into the kingdom while they were not, which led to strife and self-denial on their part. Just as the older son thought he deserved higher honor, the religious officials saw themselves as more worthy of eternal fellowship with God, represented by the great feast the father threw for his son. But because of their pride and misguided thinking, the Scribes and Pharisees were blinded to their own spiritually dead condition. They thought they were morally superior to others, yet they tried to approach God through self-righteous behavior. The younger son represents a true converted Christian who comes to God in genuine faith/repentance (or returns after a long bout with sin). On the other hand, it is likely the older son is partly symbolic of Israel’s religious leaders who thought their years of self-righteous service (works) made them more deserving of God’s kingdom. Yet, no amount of good human works will earn salvation for anyone. 
 
@@ -367,7 +367,7 @@ To conclude, the central theme of the parable is God’s forgiveness. Both the i
 
 {{% /scripture %}} 
 
-The phrase, “*for this son of mine was dead and has come to life again; he was lost and has been found”* is quite interesting. It's not entirely clear what is meant by “was dead and has come to life again.” Was the prodigal son coming out of apostasy, or did he have a very bad downtime spiritually? We can't know with certainty whether he was recuperating from apostasy or not, but the parable's point is not whether or not the young man lost his salvation. God’s forgiveness for all men is what is stressed, and the Lord used the false teachers of His day who thought they needed no forgiveness as a contrast to those who knew they did and sought the only way to receive it- through faith in the person and work of Jesus Christ. 
+The phrase, “*for this son of mine was dead and has come to life again; he was lost and has been found”* is quite interesting. It's not entirely clear what is meant by “was dead and has come to life again.” Was the prodigal son coming out of apostasy, or did he have a very bad downtime spiritually? We can't know with certainty whether he was recuperating from apostasy or not, but the parable's point is not whether or not the young man lost his salvation. God’s forgiveness for all men is what is stressed, and the Lord used the false teachers of His day who thought they needed no forgiveness as a contrast to those who knew they did and sought the only way to receive it---through faith in the person and work of Jesus Christ. 
 
 Something else we can see from this parable is the fact that all human beings have free will. Just as how the father in the parable never forced his son to remain with him, so God never forces believers to remain faithful to Him but gives them a choice to choose where they want to spend eternity. But our Lord’s will is not for us to perish but to live with Him forever, so our heavenly Father will pursue His own until they either return or never come. 
 
@@ -533,7 +533,7 @@ But those with great wealth, worldly possessions, fame, positions, and prosperit
 
 {{% /scripture %}}   
 
-The interpretation of this parable is simple- *“first will be last and last will be first.”* We see this truth play out in this story because those invited last end up feasting at the banquet, but those invited first never participate in the celebration. Many of those viewed as less deserving of eternal life will end up spending eternity with God than those who thought they deserved it more but miss out on it. Jesus’ point is that we should never look down on others for whatever reasons. God does not judge based on man’s criteria because only He knows the heart. Our Lord doesn’t deem any person more worthy of kingdom living over another because not one person deserves eternal life, and that goes for all men equally. Many of those in the world’s eyes to be lower spiritually based on their earthy status will be higher in the kingdom. Not only will many of them be in heaven, but many of them will be among the highest-ranked. 
+The interpretation of this parable is simple---*“first will be last and last will be first.”* We see this truth play out in this story because those invited last end up feasting at the banquet, but those invited first never participate in the celebration. Many of those viewed as less deserving of eternal life will end up spending eternity with God than those who thought they deserved it more but miss out on it. Jesus’ point is that we should never look down on others for whatever reasons. God does not judge based on man’s criteria because only He knows the heart. Our Lord doesn’t deem any person more worthy of kingdom living over another because not one person deserves eternal life, and that goes for all men equally. Many of those in the world’s eyes to be lower spiritually based on their earthy status will be higher in the kingdom. Not only will many of them be in heaven, but many of them will be among the highest-ranked. 
 
 As a final note and reminder, the saying, “*first will be last and last will be first*,” can apply both to believers and unbelievers in all passages of Scripture where our Lord speaks the phrase. Thus, many believers deemed lesser in the church will have higher ranking positions than many of their brothers and sisters in Christ. As for unbelievers, many who thought they stood justified and worthy of eternal life more than others because of whatever attributes and good works they had will end up condemned. 
 
@@ -640,7 +640,7 @@ To build up faith, believers need to grow spiritually in the truth of the Word. 
 
 {{% /scripture %}}   
 
-Jesus spoke this parable in response to the young man’s request to tell his brother to divide the family inheritance with him. Regarding the phrase, “*Man, who appointed Me a judge or arbitrator over you*,” Dr. Luginbill of [Ichthys.com](https://www.ichthys.com) says- 
+Jesus spoke this parable in response to the young man’s request to tell his brother to divide the family inheritance with him. Regarding the phrase, “*Man, who appointed Me a judge or arbitrator over you*,” Dr. Luginbill of [Ichthys.com](https://www.ichthys.com) says---
 
 *This answer shows that if Jesus really is worthy to be judge and arbiter over Israel, then He must be the Messiah; so if the answer is "God the Father Himself", then that means the person asking for this intervention is accepting our Lord as the Lord. However, the fact that this person is tied up in knots over earthly things and is merely trying an additional venue (no doubt having already tried other ways to get what he wants), demonstrates pretty clearly that he does not accept our Lord as the Messiah, the Son of God. This approach is perfectly consistent with what our Lord always did in making the issue the truth and its acceptance (analogous to asking the Pharisees, "Was John's ministry from God or not?", since in that case also a "yes" accepts also the authority of Christ).* 
 
@@ -806,7 +806,7 @@ In conclusion, God and the kingdom He offers are more precious than anything in 
 
 {{% /scripture %}}  
 
-Our passage tells us, *“and upon finding one pearl of great value, he went and sold everything he had and bought it.”* This concept is the same principle Jesus taught throughout His ministry: sacrificial service for the kingdom's sake- **Matthew 19:29; Matthew 16:24-26.** 
+Our passage tells us, *“and upon finding one pearl of great value, he went and sold everything he had and bought it.”* This concept is the same principle Jesus taught throughout His ministry: sacrificial service for the kingdom's sake---**Matthew 19:29; Matthew 16:24-26.** 
 
 
 
@@ -890,7 +890,7 @@ Even though there are many fine law-abiding citizens globally, there is no excus
 
 {{% /scripture %}} 
 
-The seed sown on rocky soil speaks of a person who was once a genuine believer but commits apostasy later on by turning away from God because of significant testing that comes their way. These people receive the gospel with joy, believe for a while, and abandon their belief in Christ. For it to be temporary, a true living faith had to exist, and the context clearly shows us here that faith was alive and active at one point in the person’s life, meaning they were a believer at one time. But they fall away from the faith due to some problematic trial or tribulation because their faith (represented by their small and weak root, which could not expand in the shallow rocky soil) was too weak to see them through it. When trial and tribulation come, they are unprepared to endure it. And for those who argue that this rocky soil category isn’t referring to believers must explain why trials and tribulations (testing) come their way? God does not test unbelievers because they have no faith to grow. Testing comes only to believers, not unbelievers. Luke 8:13 describes this group best- 
+The seed sown on rocky soil speaks of a person who was once a genuine believer but commits apostasy later on by turning away from God because of significant testing that comes their way. These people receive the gospel with joy, believe for a while, and abandon their belief in Christ. For it to be temporary, a true living faith had to exist, and the context clearly shows us here that faith was alive and active at one point in the person’s life, meaning they were a believer at one time. But they fall away from the faith due to some problematic trial or tribulation because their faith (represented by their small and weak root, which could not expand in the shallow rocky soil) was too weak to see them through it. When trial and tribulation come, they are unprepared to endure it. And for those who argue that this rocky soil category isn’t referring to believers must explain why trials and tribulations (testing) come their way? God does not test unbelievers because they have no faith to grow. Testing comes only to believers, not unbelievers. Luke 8:13 describes this group best---
 
 {{% scripture p="Luke 8:13 (NIV)" %}}  
 
@@ -898,7 +898,7 @@ The seed sown on rocky soil speaks of a person who was once a genuine believer b
 
 {{% /scripture %}} 
 
-We can sum up this verse with the following points- 
+We can sum up this verse with the following points---
 
 **1**. Someone who receives the Word can only refer to a person who became a believer. Unbelievers, no matter how enthusiastic, have not received the gospel if they are still unbelievers. 
 
@@ -996,7 +996,7 @@ So this parable in no way means a believer can’t produce anything bad, for tha
 
 {{% /scripture %}} 
 
-The main thrust of the passage has to do with the difference in production between believers and unbelievers. Only believers can and do produce real fruit that is pleasing to God- good works done in faith, such as acts of ministry and or works of obedient righteousness. These unbelievers neither do nor can because they remain under the devil's control and thus belong to the category of worthless trees unable to produce anything. It doesn’t matter how moral an unbeliever is because we can only please God through faith. From the heart of unbelief comes nothing acceptable to God, and all works deemed good in the Lord’s eyes must have as their foundation the one “work” of believing in Jesus Christ. 
+The main thrust of the passage has to do with the difference in production between believers and unbelievers. Only believers can and do produce real fruit that is pleasing to God---good works done in faith, such as acts of ministry and or works of obedient righteousness. These unbelievers neither do nor can because they remain under the devil's control and thus belong to the category of worthless trees unable to produce anything. It doesn’t matter how moral an unbeliever is because we can only please God through faith. From the heart of unbelief comes nothing acceptable to God, and all works deemed good in the Lord’s eyes must have as their foundation the one “work” of believing in Jesus Christ. 
 
 {{% scripture p="John 6:29 (ESV)" %}}  
 

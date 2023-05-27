@@ -34,7 +34,7 @@ Now in case there may be any misunderstandings about everything above, it is app
 
  The above leads us to the question of “what about teachers?” Since pastors are expected to know more of the Word and have more head knowledge and a more consistent application of it (**Luke 12:48**, **James 3:1**), does this mean (assuming they are applying more because they know more) that they are greater believers? Not necessarily. Any other believer could be applying more in proportion to what they know than a teacher. 
 
-Finally, the following is an excerpt from “**The Current State and Reality of the Church- The Purpose of Assembly**.”  
+Finally, the following is an excerpt from “**The Current State and Reality of the Church---The Purpose of Assembly**.”  
 
 *Although this life we live as Christians is all about faith ( and it is all the good choices we made in this life through faith which will earn us all our eternal rewards **Hebrews 11**), the truth (sought out, understood, believed and applied) is necessary for that faith to grow, thrive, and produce as it should. This is why we cannot stress good spiritual nutrition enough (something that is majorly lacking in most churches today). We’ve all heard the saying, “You are what you eat.” The same applies to the spiritual realm because the believer needs serious, in-depth Bible teaching to make the most progress for Christ. And the truth (what we choose to believe) does matter because what we believe tends to shape our lives and dictate how we live them. Getting certain things right or wrong can (depending on how major they are) change the course of our lives for the better or for the worse (and even threaten our faith and potentially endanger our salvation).* 
 
