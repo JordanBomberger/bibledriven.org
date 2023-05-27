@@ -34,7 +34,7 @@ Ministry is all about service. Christ came to serve and not to be served (**Matt
 
 #### The example of Adam and Eve
 
-1 Timothy 2:13-14 describes the relationship between Adam and Eve, and that example still holds just as much today as when Paul first spoke these words some 2,000 years ago. God created Adam first, while He formed Eve to be a helper. Additionally, Eve was deceived, not Adam. In this, Adam and Eve represent humanity generally. Dr. Robert D. Luginbill puts it this way:
+1 Timothy 2:13-14 describes the relationship between Adam and Eve, and that example still holds just as much today as when Paul first spoke these words some 2,000 years ago. God created Adam first, while He formed Eve to be a helper. Additionally, Eve was deceived, not Adam. In this, Adam and Eve represent humanity generally. Dr. Luginbill of [Ichthys.com](https://www.ichthys.com) puts it this way:
 
 {{% quote text="Ichthys" src="https://ichthys.com" %}}
 

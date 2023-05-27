@@ -1225,7 +1225,7 @@ For a husband and wife to behave properly toward one another is for both of them
 
 {{% /scripture %}} 
 
-Regarding this passage above, Robert D. Luginbill States- 
+Regarding this passage above, Dr. Luginbill of [Ichthys.com](https://www.ichthys.com) states- 
 
 *The truth is that we are all "el", "god" with a small "G" ("**Is it not written in your Law, 'I have said you are gods'**?" **John 10:34 NIV**; cf.**Ps.82:6**), in the sense of having been given the God-given ability to choose: something only possible by divine grace. That is the essence of the image: free will. Clearly, not only is free will not lost at the fall, but making choices – and most particularly the choice of whether or not to accept salvation – is why we are here on earth individually and as a species in the first place.* 
 

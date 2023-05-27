@@ -640,7 +640,7 @@ To build up faith, believers need to grow spiritually in the truth of the Word. 
 
 {{% /scripture %}}   
 
-Jesus spoke this parable in response to the young man’s request to tell his brother to divide the family inheritance with him. Regarding the phrase, “*Man, who appointed Me a judge or arbitrator over you*,” Robert D. Luginbill comments below- 
+Jesus spoke this parable in response to the young man’s request to tell his brother to divide the family inheritance with him. Regarding the phrase, “*Man, who appointed Me a judge or arbitrator over you*,” Dr. Luginbill of [Ichthys.com](https://www.ichthys.com) says- 
 
 *This answer shows that if Jesus really is worthy to be judge and arbiter over Israel, then He must be the Messiah; so if the answer is "God the Father Himself", then that means the person asking for this intervention is accepting our Lord as the Lord. However, the fact that this person is tied up in knots over earthly things and is merely trying an additional venue (no doubt having already tried other ways to get what he wants), demonstrates pretty clearly that he does not accept our Lord as the Messiah, the Son of God. This approach is perfectly consistent with what our Lord always did in making the issue the truth and its acceptance (analogous to asking the Pharisees, "Was John's ministry from God or not?", since in that case also a "yes" accepts also the authority of Christ).* 
 

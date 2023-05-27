@@ -18,7 +18,7 @@ Our goal as believers is to advance the kingdom through our spiritual service to
 
 Political involvement is very dangerous in that it does believers little good. Not only will it not somehow prevent the negative “trends” we see today from worsening, but it takes our minds off of the true goal of advancing for Jesus Christ. It is an incredible waste of time and puts our attention on everything but that which actually needs doing. Our work here on Earth involves using what we have received from Christ in spiritual service, not taking matters into our own hands by trying to foolishly accomplish only something that God can do. As believers, we are to let our light shine before men (**Matthew 5:15-16**), but in a way that honors God and demonstrates faith and trust in Him. Political involvement does not accomplish this but sends the wrong message.
 
-The Bible does not command us to vote, campaign, or run for office. There is nothing wrong with voting or not voting. But it is false to believe that the world will get better and stay good if we somehow vote for and elect the right people. As Dr. Robert D. Luginbill of [Ichthys](https://ichthys.com) states:
+The Bible does not command us to vote, campaign, or run for office. There is nothing wrong with voting or not voting. But it is false to believe that the world will get better and stay good if we somehow vote for and elect the right people. As Dr. Luginbill of [Ichthys](https://ichthys.com) states:
 
 {{% quote text="Ichthys" src="https://ichthys.com/mail-eschatology-issues84.htm#:~:text=In%20Christ%2C-,response%20%2322%3A,-On%20the%20first" %}}
 

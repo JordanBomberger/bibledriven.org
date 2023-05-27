@@ -10,7 +10,7 @@ title: Resource Recommendations
 
 A great teaching ministry by Dr. Robert D. Luginbill (a Classics professor at the University of Louisville) dedicated to helping the spiritual growth of other believers. Contains systematic Bible Basics series, the Coming Tribulation, the Peter Series, the Satanic Rebellion, and more. 
 
-### Bible Academy, By Curtis Omo
+### Bible Academy, By Curtis M. Omo
 
 - [YouTube Channel](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg)
 - [Text Website](https://bibleacademyonline.com/omo/)

@@ -883,7 +883,7 @@ The believer who seeks solid truth from a trusted source will find what they are
 
 #### **C. Understanding, Believing, and Applying the Truth**
 
-There are usually three things, each building upon the other, that need to occur for the believer to benefit the most from Scripture. These are reading, understanding, and applying (I owe this phrasing to **Dr. Luginbill**). Before these three aspects, the former process is to seek the truth, something we have already touched on in our discussion on good solid teaching. Now we will talk about what needs to occur during this process. For example, one who searches for the truth but does not understand it will not benefit from their efforts. And if a person does not know what they are reading, how can they believe it?
+There are usually three things, each building upon the other, that need to occur for the believer to benefit the most from Scripture. These are reading, understanding, and applying (I owe this phrasing to Dr. Luginbill of [Ichthys.com](https://www.ichthys.com)). Before these three aspects, the former process is to seek the truth, something we have already touched on in our discussion on good solid teaching. Now we will talk about what needs to occur during this process. For example, one who searches for the truth but does not understand it will not benefit from their efforts. And if a person does not know what they are reading, how can they believe it?
 
 #### **E. Believing and Applying** 
 

@@ -237,7 +237,7 @@ Knowing our status and identity in Christ will help us stay focused on our missi
 
 But believers have a responsibility for this process of growth, progress, and production to work. Through our God-given free will, we must choose to trust, obey, and follow Christ at all times, a process that requires discipline and dedication through our free will choices. These things will constitute our discussion on the first step in this process, spiritual growth. As for the other two categories mentioned, we will consider them later in their order. 
 
-Growth, progress, and production are simple terms (I owe these descriptions and their proper order to **Dr.Luginbill**) to describe what we are discussing here, and these aspects never stop this side of eternity, for they continue as long as we are alive. Therefore, our listing of these processes is not meant to be comprehensive, boxed in definitions. 
+Growth, progress, and production are simple terms (I owe these descriptions and their proper order to Dr.Luginbill of [Ichthys.com](https://www.ichthys.com)) to describe what we are discussing here, and these aspects never stop this side of eternity, for they continue as long as we are alive. Therefore, our listing of these processes is not meant to be comprehensive, boxed in definitions. 
 
 Let us strive all the more to make our “*calling and election sure*” (**2 Peter 1:10**) by putting our renewed minds into action through dedicated spiritual growth. God called us to righteousness, so we prepare spiritually, not just to be ready for the tribulation, to survive it with faith intact, but mainly to demonstrate our love for God in this life through **all** our decisions. Christ showed His love for us, so let us as His servants do the same as well. 
 

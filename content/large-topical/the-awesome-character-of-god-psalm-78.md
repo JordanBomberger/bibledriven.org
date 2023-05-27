@@ -300,7 +300,7 @@ Since Israel was God’s witness to the other peoples of the world, why would th
 
 One needs only look back to the case of Noah’s flood to grasp better why God handled other nations the way He did. God flooded the earth in Noah’s time because wickedness had become so great, much of which had to do with the Nephilim corrupting the human race when angels cohabited with human women to wipe out any chance of a promised seed for the Messiah to exist. But we know how the story goes. God had a remnant of believers, Noah, and his family,  who still feared His name, and it was they who were to continue the human race and make possible the line of the Messiah through Noah’s son Shem. If the Lord had not flooded the earth, all people would have become corrupted, turning away from God altogether. The corrupted line of the demonic Nephilim would have ruled the world so that no person would have (even if they could) ever come to God for salvation. So it was for humanity's sake and the salvation and existence of millions/billions with genuine free will that God caused the flood to destroy the earth to the extent that it did. 
 
-For more information on the Nephilim, please see the link below by **Dr. Luginbill**. 
+For more information on the Nephilim, please see the link below by Dr. Luginbill of [Ichthys.com](https://www.ichthys.com):
 
 https://ichthys.com/Satans-Rebellion-Part5.htm#1.%20Satan 
 

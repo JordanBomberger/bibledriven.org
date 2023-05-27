@@ -212,7 +212,7 @@ https://bibleacademyonline.com/omo/
 
 {{% note %}}
 
-I (Jordan Lee Bomberger) do not myself solicit nor accept financial support -- this website is a not-for-profit ministry, and does not accept donations. If you are looking for good causes, however, please do consider instead the things linked above.
+I do not myself solicit nor accept financial support -- this website is a not-for-profit ministry, and does not accept donations. If you are looking for good causes, however, please do consider instead the things linked above.
 
 {{% /note %}}
 
