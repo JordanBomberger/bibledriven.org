@@ -15,7 +15,9 @@ On the other hand, I believe that some (even many) of these creatures are real. 
 
 This examination is a sharing of what I believe the Lord has revealed to me after seeking the truth from Him for many years. Throughout the narrative, I will share my personal story, journey, if you will, and how I came to the opinions that I did. I would also like to express my thoughts and beliefs on the topics we will discuss, including showing my take of what others have said on the subject of cryptids, cryptozoology, and their relationship to the spiritual realm. 
 
-**Note**- I do not follow, recommend, endorse or support any of the authors (except for Dr. Luginbill of [Ichthys.com](https://www.ichthys.com)) and their works mentioned/quoted in this paper. However, I have chosen not to “throw the baby out with the bathwater” and have carefully selected those quotes that I believe are either correct or possibilities. And of course, this was done with all due respect. 
+{{% note %}}
+I do not follow, recommend, endorse or support any of the authors (except for Dr. Luginbill of [Ichthys.com](https://www.ichthys.com)) and their works mentioned/quoted in this paper. However, I have chosen not to “throw the baby out with the bathwater” and have carefully selected those quotes that I believe are either correct or possibilities. And of course, this was done with all due respect. 
+{{% /note %}}
 
 The subject of cryptozoology is often “under the radar” in Christian circles. This topic has undoubtedly caused at least some believers to waver in their faith. So if there is a problem, it needs to be addressed to whatever extent we can handle it. That is **not** the same thing as getting our minds wrapped around the subject, something I **do not encourage**. Our focus should be on Jesus at all times. 
 
@@ -35,7 +37,9 @@ For this reason, believers should not be surprised when the media and news outle
 
 ## **1. Discovering the Truth - My Story** 
 
-**Please note**: Nothing below is being used as proof or evidence for the existence of the things under discussion. I am only sharing my story to explain to the reader (since it is inevitable that some will ask how and why I came to the opinions that I did) how all this came about (the backdrop to all this).  
+{{% note %}}
+Nothing below is being used as proof or evidence for the existence of the things under discussion. I am only sharing my story to explain to the reader (since it is inevitable that some will ask how and why I came to the opinions that I did) how all this came about (the backdrop to all this).
+{{% /note %}}
 
 The subject of cryptids and cryptozoology has interested me for a long time. When I was in high school (eleventh grade), I wrote a research paper on this very matter in 2013 and 2014. Much to my disappointment (especially when I look back on it now), my work didn't turn out too good. It was nothing but an extensive collection of mysterious sightings and so-called "evidence" of the existence of a small handful of creatures unknown to science. However, this would kickstart my interest in the topic. 
 
@@ -110,6 +114,8 @@ When man began to multiply on the face of the land and daughters were born to th
 **6** And the angels who did not keep their positions of authority but abandoned their proper dwelling—these he has kept in darkness, bound with everlasting chains for judgment on the great Day. **7** In a similar way, Sodom and Gomorrah and the surrounding towns gave themselves up to sexual immorality and perversion. They serve as an example of those who suffer the punishment of eternal fire.                                           
 
 {{% /scripture %}} 
+
+TODO
 
 Jason Mclean states---
 

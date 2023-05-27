@@ -9,7 +9,9 @@ summary: One cannot understand the Gospels without comprehending Jesus's parable
 
 This study aims to help the reader understand most of Jesus’s parables recorded in Matthew, Mark, and Luke.  Although we strive to cover what Scripture provides, there are many parables that Jesus told that we do not have in Scripture, as the passage below confirms. 
 
-**Note**- Some of the parables within the synoptic gospels are absent from this study because I am still examining them. 
+{{% note %}}
+Some of the parables within the synoptic gospels are absent from this study because I am still examining them. 
+{{% /note %}}
 
 {{% scripture p="Matthew 13:34-35 (ESV)" %}} 
 
