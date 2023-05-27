@@ -381,9 +381,7 @@ So there is no boasting about our spiritual gifts because they were given to us 
 
 Concerning the specific gifts mentioned in our Romans passage, the message's thrust is to minister in the area we have been gifted, according to the ministry the Lord wants us to carry out. *In proportion* (ἀναλογία refers to a mathematical ratio) *to his faith* and “*the one who teaches, in his teaching*” means not trying to do something that we don’t have the gifting to do. If the Lord wants a person to teach, then pursuing evangelism as one’s main or only ministry would be going outside of one’s gifting and calling. If called to teach, then teach! Don’t do something the Lord doesn’t want you to do! And we should never attempt to take our spiritual gifts beyond the level of maturity we have achieved. In other words, a teacher who has only been undergoing preparations for a short time, and is limited in his knowledge of the truth, should not attempt to undertake the task of teaching something beyond his understanding. As faith grows, so does one’s experience, and with time and preparation, something that used to be out of our reach is now something that we can handle.
 
-Before we leave our passage, it is necessary to mention that the gift of prophecy (the early version) is no longer in operation as it is no longer required. The same thing also goes for the gift of apostleship, tongues, and healings. Those gifts were for specific times and specific purposes. Please see the link below.
-
- “**[The Sign Gifts](/topical/the-sign-gifts/)**”
+Before we leave our passage, it is necessary to mention that the gift of prophecy (the early version) is no longer in operation as it is no longer required. The same thing also goes for the gift of apostleship, tongues, and healings. Those gifts were for specific times and specific purposes. Please see **[The Sign Gifts](/large-topical/the-sign-gifts/)**.
 
 
 
@@ -451,9 +449,7 @@ In verse seven above, the good spoken of refers to the good works accomplished i
 
 If a believer’s attitude is off in any way during their service to God, what that person did was not good because they didn’t accomplish it in God’s power. Someone with a bad attitude or selfish and prideful motives cannot expect to receive anything at the judgment seat because they served under the control of their flesh, which resulted in a sinful approach to their service. Only God can produce anything good in us; our job is to submit to Him and let Him work through us to accomplish that “common good.” 
 
-For verses 8-10, please see the link below. For verse 11, please see above. 
-
-**“[The Sign Gifts](/topical/the-sign-gifts/)”**  
+For verses 8-10, please see **“[The Sign Gifts](/large-topical/the-sign-gifts/)”**. For verse 11, please see above. 
 
 #### **C. 1 Corinthians 12:12-13**
 
@@ -1077,7 +1073,7 @@ Whether a believer is low, middle or upper class is not what matters. What matte
 
 ### 3.3 Background and Nationality
 
-Some readers of the Old Testament may argue that Israel’s “holy wars” were unfair and unjust because they involved destroying other peoples and nations, but nothing could be further from the truth. For more information regarding God’s dealings with other peoples, please see **[The Awesome Character of God](/topical/the-awesome-character-of-god-psalm-78/)**. There is far too much on that topic to discuss here because time and space do not permit a lengthy discussion on the subject of Israel's confrontations with other nations. 
+Some readers of the Old Testament may argue that Israel’s “holy wars” were unfair and unjust because they involved destroying other peoples and nations, but nothing could be further from the truth. For more information regarding God’s dealings with other peoples, please see **[The Awesome Character of God](/large-topical/the-awesome-character-of-god-psalm-78/)**. There is far too much on that topic to discuss here because time and space do not permit a lengthy discussion on the subject of Israel's confrontations with other nations. 
 
 **1**. <u>**Christ died for all men who have, are, and will ever live. It is not His will that any human being perish. Salvation is universally available to all who are willing to accept it.**</u> 
 
@@ -1227,6 +1223,8 @@ For a husband and wife to behave properly toward one another is for both of them
 
 Regarding this passage above, Dr. Luginbill of [Ichthys.com](https://www.ichthys.com) states---
 
+TODO
+
 *The truth is that we are all "el", "god" with a small "G" ("**Is it not written in your Law, 'I have said you are gods'**?" **John 10:34 NIV**; cf.**Ps.82:6**), in the sense of having been given the God-given ability to choose: something only possible by divine grace. That is the essence of the image: free will. Clearly, not only is free will not lost at the fall, but making choices – and most particularly the choice of whether or not to accept salvation – is why we are here on earth individually and as a species in the first place.* 
 
 [*https://ichthys.com/mail-Biblical-Anthropology.htm*](https://ichthys.com/mail-Biblical-Anthropology.htm)  
@@ -1249,13 +1247,10 @@ God never limits any person’s growth, progress, and production based on anythi
 
 {{% /scripture %}} 
 
-
-
 **References/Recommendations** 
 
-[*https://ichthys.com/mail-Biblical-Anthropology.htm*](https://ichthys.com/mail-Biblical-Anthropology.htm)  - Dr. Robert D. Luginbill of Ichthys---Bible Studies for Spiritual Growth---Explanation of John 10:33-36- Biblical Anthropology I:  The Nature of Human Beings and Human Life according to the Bible---Response #1 
-
-https://ichthys.com/index.htm 
+* [Biblical Anthropology: The Nature of Human Beings and Human Life according to the Bible.](https://ichthys.com/mail-Biblical-Anthropology.htm)
+* [Ichthys: Bible Study for Spiritual Growth](https://ichthys.com/index.htm)
 
 
 

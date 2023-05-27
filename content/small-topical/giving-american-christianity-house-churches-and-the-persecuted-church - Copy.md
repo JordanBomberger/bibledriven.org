@@ -202,17 +202,16 @@ There are many emergencies for so many persecuted believers in this world. We mu
 
 Below are links to two well-known and trusted ministry websites where you can give to persecuted and needy believers worldwide. See the links for more details. 
 
-https://www.persecution.com/ 
-
-https://www.opendoorsusa.org/about-us/
+* [The Voice of the Martyrs](https://www.persecution.com/)
+* [Joint Statement - Open Doors USA](https://www.opendoorsusa.org/)
 
 This next link is from Curtis Omo’s Bible Academy, a serious and in-depth teaching ministry committed to the spiritual growth of children and adults. 
 
-https://bibleacademyonline.com/omo/ 
+* [Bibleacademyonline – Verse-by-Verse Bible Studies from the Original Languages by Pastor and Teacher Curtis M. Omo](https://bibleacademyonline.com/omo/)
 
 {{% note %}}
 
-I do not myself solicit nor accept financial support -- this website is a not-for-profit ministry, and does not accept donations. If you are looking for good causes, however, please do consider instead the things linked above.
+I do not myself solicit nor accept donations. If you are looking for good causes, however, please do consider instead the things linked above.
 
 {{% /note %}}
 

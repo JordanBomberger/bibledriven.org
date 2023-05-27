@@ -1799,9 +1799,8 @@ On the other side of this is worrying about the future. How can we deal with tod
 
 **Ministry/Study Recommendations** 
 
-https://ichthys.com/3B-Hamartio.htm 
-
-https://ichthys.com/6A-Peripateo.htm 
+* [Hamartiology: The Study of Sin: Part 3B of Bible Basics: Essential Doctrines of the Bible](https://ichthys.com/3B-Hamartio.htm)
+* [Peripateology: the Christian Walk: Bible Basics 6A](https://ichthys.com/6A-Peripateo.htm)
 
 
 

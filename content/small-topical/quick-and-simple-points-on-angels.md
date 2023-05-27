@@ -46,11 +46,9 @@ And a great sign appeared in heaven: a woman clothed with the sun, with the moon
 
 Scholars have debated whether **Genesis 6:1-4** (the Nephilim) proves that angels can procreate. However, this is not the same as angels reproducing with other angels but with humans. This terrible act that resulted in highly talented half-human, half angelic offspring resulted in the imprisonment of all the angels involved because they violated God’s ground rules. Passages that demonstrate this are **Jude 1:6, 2 Peter 2:4-5, 1 Peter 3:19-20.** 
 
-Fallen angels pro-created with humans until God ended this practice during and after the flood. But I believe it possible that genetic manipulation resulting in genetic mutations with animals continued after the flood up to today (see link above). This tampering with genetics would be something that only fallen and not elect angels practice. And many of the world’s rulers during the tribulation will likely be half-human/ half demonic beings. There is little doubt that demonic offspring (both human and animal) exists in our world today.
+Fallen angels pro-created with humans until God ended this practice during and after the flood. But I believe it possible that genetic manipulation resulting in genetic mutations with animals continued after the flood up to today. This tampering with genetics would be something that only fallen and not elect angels practice. And many of the world’s rulers during the tribulation will likely be half-human/ half demonic beings. There is little doubt that demonic offspring (both human and animal) exists in our world today.
 
-For more information on the fall of Satan and his followers, please see the following link. 
-
-https://ichthys.com/SR1copy.htm 
+For more information on the fall of Satan and his followers, please see [Part 1 of the Satanic Rebellion series on Ichthys](https://ichthys.com/SR1copy.htm).
 
 **3. <u>There is rank among fallen and elect Angels</u>**
 

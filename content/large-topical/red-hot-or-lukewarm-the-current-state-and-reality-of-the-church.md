@@ -401,6 +401,5 @@ We are after these spiritual treasures, and it is these that we should pursue, n
 
 **Recommended ministries**
 
-[https://ichthys.com/Tribulation-Part2A.htm#7.%20Laodicea:%20%22The%20Era%20of%20Degeneration%22%20(1882%20to%202026%20=%20144%20years)](https://ichthys.com/Tribulation-Part2A.htm#7.%20Laodicea:%20%22The%20Era%20of%20Degeneration%22%20(1882%20to%202026%20=%20144%20years))
-
-https://ichthys.com/Coming-Tribulation-Home-Page.htm
+* [The Seven Churches of Revelation: Part 2A of The Coming Tribulation series: a History of the Apocalypse](https://ichthys.com/Tribulation-Part2A.htm#7.%20Laodicea:%20%22The%20Era%20of%20Degeneration%22%20(1882%20to%202026%20=%20144%20years))
+* [Coming Tribulation Home Page](https://ichthys.com/Coming-Tribulation-Home-Page.htm)

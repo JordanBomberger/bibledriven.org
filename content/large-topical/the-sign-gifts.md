@@ -136,7 +136,9 @@ One of the arguments to support a second coming or empowerment of the spirit to 
 
 The part in bold we have above was not our Lord setting a pattern. The eleven (eventually regrouped as the twelve) were to be apostles and endowed with greater special authority than the rest of the church. The disciples were unique and had a special role to play that the rest of the body of believers did not possess. There were only twelve apostles (as there will only be twelve thrones from which they will judge the church or twelve tribes of Israel **Matthew 19:28**). So what was this “breathing on” of the Spirit, and what did it entail? We understand it was not the coming or baptism of the Spirit recorded in Acts 2:1-4 because those are different events marked by other times and circumstances. The Spirit comes upon believers only ONCE when they receive the gospel, not twice. This special and temporary filling of the spirit given by Jesus to His disciples was selective and fleeting for special empowerment, just as it was for many Old Testament saints who never possessed the permanent indwelling of the Spirit. This type of filling also occurred with Mary in **Luke 1:35**. None of these occurrences refer to a permanent indwelling, as in Acts 2:1-4 and all the instances after that. We see no passages in Scripture that support the so-called “second blessing,” and the burden of proof is on those who claim it. 
 
-As examples of the selective nature of the Spirit (which is the case with our John 20:21-23 context), we have the following passages mentioned in our excerpt below. Text is taken from **[The Gospel of Jesus Christ](/topical/the-gospel-of-jesus-christ/#21-pins-and-needles-salvation-religion)**. 
+As examples of the selective nature of the Spirit (which is the case with our John 20:21-23 context), we have the following passages mentioned in our excerpt below. Text is taken from **[The Gospel of Jesus Christ](/large-topical/the-gospel-of-jesus-christ/)**. 
+
+TODO
 
 *Some may bring up the challenge that king David lost his salvation when he committed adultery with Bathsheba. But, of course, that is not the case.* *The Holy Spirit was given differently during old testament times as opposed to how we receive it today. Ever since the Jewish and Gentile Pentecost, the Spirit has come to indwell the person who has accepted Christ permanently. But the Holy Spirit did not reside in believers in this manner during Old Testament times or before the major believer pentecosts.* 
 
@@ -238,7 +240,11 @@ The Corinthians had so many moral issues that Paul needed to encourage the entir
 
 {{% /scripture %}}  
 
-The biggest question readers of this passage face is, “*What is the ‘perfect’ or ‘complete’ referred to in these verses*?” Four common views for the "perfect" are the eternal state, the closing of the Canon, the believer's death, and the return of Christ at His second advent before the Millennium. We won’t examine all of those here for the sake of time and space. However, I believe the perfect or complete refers to the completion of the Bible and the second advent (**Daniel 9:24**) since verse twelve suggests a concept instead of a concrete thing (as opposed to verse ten). The Greek word for “complete” is to-teleion and means complete, perfect, and mature. But that and the word partial are in the neuter gender, so the “perfect” refers more to a **thing** (by implication), showing us that this word is referring to the completed Bible (vs 10) **in addition to the return of Christ** (vs 12). Dr. Luginbill of [Ichthys.com](https://www.ichthys.com) puts it this way---“*So it's not really that there are two things here but that there is "one thing" which encompasses all of this: no more partial knowledge in the shorter term (Bible replaces temporary gifts) or in the longer term (complete knowledge when we see the Lord in resurrection*)” (Quote taken from a private email between myself and Dr. Luginbill from June of 2022). 
+The biggest question readers of this passage face is, “*What is the ‘perfect’ or ‘complete’ referred to in these verses*?” Four common views for the "perfect" are the eternal state, the closing of the Canon, the believer's death, and the return of Christ at His second advent before the Millennium. We won’t examine all of those here for the sake of time and space. However, I believe the perfect or complete refers to the completion of the Bible and the second advent (**Daniel 9:24**) since verse twelve suggests a concept instead of a concrete thing (as opposed to verse ten). The Greek word for “complete” is to-teleion and means complete, perfect, and mature. But that and the word partial are in the neuter gender, so the “perfect” refers more to a **thing** (by implication), showing us that this word is referring to the completed Bible (vs 10) **in addition to the return of Christ** (vs 12). Dr. Luginbill of [Ichthys.com](https://www.ichthys.com) puts it this way---
+
+TODO
+
+“*So it's not really that there are two things here but that there is "one thing" which encompasses all of this: no more partial knowledge in the shorter term (Bible replaces temporary gifts) or in the longer term (complete knowledge when we see the Lord in resurrection*)” (Quote taken from a private email between myself and Dr. Luginbill from June of 2022). 
 
 Prophecy, knowledge, and tongues were communication gifts that spoke the truth to audiences who lacked the completed Bible. So they are contrasted with the entire Word of God because that is now complete and fully able to communicate everything the Lord wants us to know. All the partial knowledge derived from the sign gifts (all of them including the others not mentioned in our passage) would cease when all the much needed truth was presented in “completed” form through a finished canon. But even with this knowledge available to us, what we know as believers will never be complete until we become perfect at the resurrection. 
 
@@ -406,12 +412,8 @@ If I speak in the tongues of men or of angels, but do not have love, I am only a
 
 {{% /scripture %}}     
 
-
-
 **Recommended Sources** 
 
-https://www.youtube.com/watch?v=qstKsUdvaaU&list=PLMu_1csD4LY8VBl_O9TmAeeUrMwj5TkVs&index=39 
-
-[**https://www.youtube.com/watch?v=OQZ3Ygjy09c&list=PLMu_1csD4LY9JqQgNvDQsVPBu_rQO0oIT**](https://www.youtube.com/watch?v=OQZ3Ygjy09c&list=PLMu_1csD4LY9JqQgNvDQsVPBu_rQO0oIT) 
-
-https://ichthys.com/mail-Gift-of-Tongues2.htm - **Question and Response #5**                                                          
+* [1 Cor. 13:7-13 Lesson 41 - YouTube](https://www.youtube.com/watch?v=qstKsUdvaaU&list=PLMu_1csD4LY8VBl_O9TmAeeUrMwj5TkVs&index=40)
+* [Tongues Special Lesson 1 - YouTube](https://www.youtube.com/watch?v=OQZ3Ygjy09c&list=PLMu_1csD4LY9JqQgNvDQsVPBu_rQO0oIT)
+* [The Gift of Tongues: Part 2., Q/A #5](https://ichthys.com/mail-Gift-of-Tongues2.htm#:~:text=Thanks%20in%20advance!-,Response%20%235,-%3A%C2%A0)                                               

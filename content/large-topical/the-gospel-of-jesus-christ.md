@@ -580,13 +580,9 @@ So when we think about what we have seen above, free will did not come about by 
 
 To further reinforce what we have briefly commented on above, I encourage the reader to visit the link below on the biblical terms mentioned in Genesis, “image” and “likeness,” and what it means for man to share these two unique qualities with their Savior. 
 
-For information on the words “image” and “likeness,” please see the link below by Dr. Luginbill of [Ichthys.com](https://www.ichthys.com) (**section 2.1**). 
+For information on the words “image” and “likeness,” please see [this section on Ichthys](https://ichthys.com/3A-Anthro.htm#1.%20The%20Image%20and%20the%20Likeness%20of%20God).
 
-[https://ichthys.com/3A-Anthro.htm#1.%20The%20Image%20and%20the%20Likeness%20of%20God](https://ichthys.com/3A-Anthro.htm#1.%20The%20Image%20and%20the%20Likeness%20of%20God) 
-
-To conclude, being made in the image and likeness of God means having the ability to exercise authority and respond to it through free will choice (see link). 
-
-
+To conclude, being made in the image and likeness of God means having the ability to exercise authority and respond to it through free will choice (as discussed in the link). 
 
 ## 2. A non-Comprehensive List of some of the Most Prevalent False Teachings
 
@@ -672,7 +668,7 @@ Other passages that show that God’s Spirit would come upon people who were alr
 
 ### **2.2 Water Baptism** 
 
-For a fuller and more thorough and comprehensive teaching on the subject of water baptism, please see the link--- "**[A Special Treatment on Water Baptism](/topical/water-baptism/)**." 
+For a fuller and more thorough and comprehensive teaching on the subject of water baptism, please see "**[A Special Treatment on Water Baptism](/large-topical/a-special-treatment-on-water-baptism/)**." 
 
 Many people have made the widespread mistake over the past 2,000 years of church history that water baptism is necessary for salvation or that it is something we should be continuing today. Many of those who support its continuation believe it to be a declaration, pledge, or sign of putting one’s faith in Christ, such as we see in many protestant (Baptist) denominations. Others see it as an absolute necessity to be saved (you can't be without it). With that said, we will address this subject. 
 
@@ -824,9 +820,7 @@ Then some Pharisees and teachers of the law came to Jesus from Jerusalem and ask
 
 {{% /scripture %}} 
 
-For more in-depth information on the seven church eras, please see the link by **Dr. Luginbill---Ichthys-Bible Studies for Spiritual Growth** below. 
-
-https://ichthys.com/Tribulation-Part2A.htm  
+For more in-depth information on the seven church eras, please see [Part 2A of the Coming Tribulation series on Ichthys](https://ichthys.com/Tribulation-Part2A.htm).
 
 In **1 Corinthians 12:13**, Paul describes how a believer has entered the family of God. He notes that it was by the Holy Spirit's baptism, for nowhere is water baptism attributed to having any of these powers in Scripture. Paul then goes on to say, “*and we were made to drink of one Spirit*." He continues to describe how salvation occurs, or what took place and had to happen for a believer to enter into God's family. If water baptism was needed and crucial in this process, why does Paul not mention it? He would have only been giving a half-truth of the salvation process in this verse because he omitted another critical step. But he didn't include it (water baptism) because it is not necessary. If being immersed in water had some extraordinary power to save and bring an individual into the body of Christ, Paul would have had NO CHOICE but to include it in his description. 
 
@@ -1006,7 +1000,7 @@ Some within the church believe that people who got saved only because they didn�
 
 ### 2.11 Tongues and Other Sign Gifts are not Necessary for Salvation
 
-The title speaks for itself. The miraculous gifts given by the Spirit during the early days of the church are no longer available today. They were never necessary for salvation because the gospel has always been by faith through grace alone. Please see the link, **[The Sign Gifts](/topical/the-sign-gifts/)** for more information. 
+The title speaks for itself. The miraculous gifts given by the Spirit during the early days of the church are no longer available today. They were never necessary for salvation because the gospel has always been by faith through grace alone. Please see **[The Sign Gifts](/large-topical/the-sign-gifts/)** for more information. 
 
 ## **Summary** 
 
@@ -1060,11 +1054,8 @@ The title speaks for itself. The miraculous gifts given by the Spirit during the
 
 **13**.The sign gifts mentioned in Acts and 1 Corinthians 12-14 are no longer operational today. Tongues and other miraculous gifts do not follow or proceed a salvation experience. Not only is that not possible today, but those who believe it necessary to confirm their reception into God's family are adding works to the gospel. Salvation is by faith through grace alone, and true saving faith will demonstrate itself in a changed life to varying degrees. 
 
-
-
 **References** 
 
-[**https://ichthys.com/index.htm**](https://ichthys.com/index.htm) 
-
-[**https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg**](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg) 
+* [Ichthys: Bible Study for Spiritual Growth](https://ichthys.com/index.htm)
+* [Bible Academy - YouTube](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg)
 

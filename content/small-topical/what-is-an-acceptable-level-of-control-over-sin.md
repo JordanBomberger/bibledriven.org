@@ -10,9 +10,7 @@ There is no specific level of control the Bible gives to have over sin, a level 
 
 We don’t want sin to be constant in our lives to a point where we are continuously stumbling in more serious areas all the time. Our Lord commands us to be holy and give our best without compromise (**1 Peter 1:16**). All believers must strive to sin as little as possible, requiring that they take up their crosses and follow the Lord (**Matthew 16:24**). What matters is that we are making an effort (and we should only give our best effort to the Lord). This process in itself may be painful and time-consuming (**Hebrews 12:4**). But we must be willing to suffer (**1 Peter 4:1**). The battle itself is the Lord’s, and only He can accomplish sanctification in our lives. This process starts inwardly and works its way outwardly, not the other way around! 
 
-For information on the process of defeating sin, please see the link below. 
-
-[**Overcoming Sin**](/topical/overcoming-sin/) 
+For information on the process of defeating sin, please see [**Overcoming Sin**](/large-topical/overcoming-sin/).
 
 ## No matter how much we progress, every single one of us still sins every day
 

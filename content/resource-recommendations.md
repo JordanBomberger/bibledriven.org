@@ -17,7 +17,12 @@ A great teaching ministry by Dr. Robert D. Luginbill (a Classics professor at th
 
 A great verse by verse teaching ministry by Curtis M. Omo, covering various books of the Bible.
 
-TODO: might you also want to link to my website, and also Odii's recent YouTube channel or any of his stuff?
+### BibleDocs, By Steven W. Tammen
+
+- [YouTube Channel](https://www.youtube.com/@BibleDocs/featured)
+- [Text Website](https://www.bibledocs.org/)
+
+Another teaching ministry I highly recommend, written by a good friend and peer of mine.
 
 ## Resources for Teachers and Lay Christians (non-teachers) Both
 

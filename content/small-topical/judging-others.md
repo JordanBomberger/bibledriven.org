@@ -40,9 +40,7 @@ As for the one who is weak in faith, welcome him, but not to quarrel over opinio
 
 {{% /scripture %}} 
 
-For more information on the above, please see the link below. 
-
-[**Christian Liberty**](/topical/christian-liberty/) 
+For more information on the above, please see [**Christian Liberty**](/large-topical/christian-liberty/).
 
 With all the above said, what is the judgment referred to in Matthew 7:1?
 
