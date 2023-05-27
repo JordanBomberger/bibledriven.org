@@ -88,7 +88,7 @@ The most important (and only) source of information in discovering the gospel is
 
 
 
-## **1. The Gospel- What it is** 
+## **1. The Gospel - What it is** 
 
 ### **1.1 Faith in the Person and Work of Jesus Christ** 
 
@@ -472,7 +472,7 @@ Think of it this way-works speak for faith. Salvation is not by works. But witho
 
 Salvation is by grace through faith alone. Faith and the Holy Spirit naturally produce righteousness in a believer's life, and all the more so if that faith is growing. But if a person’s faith is decreasing, so will the works, and if apostasy resulting in the complete death of faith occurs, then nothing will be produced by that individual because their faith is dead. No matter what other counterfeit faith a person claims, they will not have works to show before God because they don’t have the Holy Spirit (our present time living under the New Covenant) to produce them. 
 
-### Foreknowledge, Election, and Predestination- How They Work in Salvation 
+### Foreknowledge, Election, and Predestination - How They Work in Salvation 
 
 Predestination and free will cannot exist without each other. However, people still have free will to choose for Christ. In other words, God did not choose some for heaven and some for hell. This teaching is incorrect, for, as we have stated earlier, a person's destiny depends on whom they choose to serve (God or Satan). God is not the author of sin, and He doesn’t force people to reject Him. To believe this is to completely misunderstand God’s character and His plan and purpose for humanity. After all, free will is the very reason we are on this earth (to replace the fallen angels that WIllFULLY rebelled against God). Sin came into the world through a disobedient free will choice made by Adam and Eve, resulting in Christ's need to sacrifice Himself so that all people could have a way unto eternal life. 
 
@@ -538,7 +538,7 @@ If God cannot be tempted by evil and cannot tempt anyone to sin, how can He choo
 
 {{% /scripture %}} 
 
-#### **A. Foreknowledge, Predestination, Calling, and Election- What They Are** 
+#### **A. Foreknowledge, Predestination, Calling, and Election - What They Are** 
 
 Free will and predestination complement each other, meaning you cannot have one without the other. It is for this reason that they are both mentioned in Scripture. God knew and planned for all who would come to Him in faith long before human history ever began. That is foreknowledge, God knowing who would get saved throughout the entire span of human history from start to finish. Predestination is God incorporating those free will decisions of those who would come to Him into His plan, making free will an actual reality. The next thing that takes place is God calling an individual who will receive His offer of grace. Once that person accepts Christ, then that individual is now elected, referring to a person’s status as a member of God’s family and their entrance into it. The passage below demonstrates these concepts we have mentioned. 
 

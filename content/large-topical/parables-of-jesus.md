@@ -29,7 +29,7 @@ So we have it from the Bible itself that there are far more parables that Jesus 
 
 
 
-## **1. The Wise and Foolish Virgins- Matthew 25:1-13** 
+## **1. The Wise and Foolish Virgins - Matthew 25:1-13** 
 
 {{% scripture p="Matthew 25:1-13 (NASB 1995)" %}} 
 
@@ -69,7 +69,7 @@ The final phrase in our parable, “*Be on the alert then, for you do not know t
 
 
 
-## **2. The Wedding Banquet- Matthew 22:1-14**
+## **2. The Wedding Banquet - Matthew 22:1-14**
 
 {{% scripture p="Matthew 22:1-14 (NASB 1995)" %}} 
 
@@ -115,7 +115,7 @@ My little children, I am writing these things to you so that you may not sin. Bu
 
 
 
-## **3. Faithful vs Wicked Servants- Mark 13:34-37; Luke 12:41-48** 
+## **3. Faithful vs Wicked Servants - Mark 13:34-37; Luke 12:41-48** 
 
 {{% scripture p="Luke 12:42-48 (NASB 1995)" %}} 
 
@@ -153,7 +153,7 @@ However, our Lord demands much from all believers in general. Jesus Himself has 
 
 
 
-## **4. The Two Sons- Matthew 21:28-31** 
+## **4. The Two Sons - Matthew 21:28-31** 
 
 {{% scripture p="Matthew 21:28-31 (NASB 1995)" %}} 
 
@@ -185,7 +185,7 @@ Doing God’s will means playing by God’s rules, not our own. There is only on
 
 
 
-## **5. The Wicked Vinedressers- Matthew 21:33-46; Mark 12:1-12; Luke 20:9-19** 
+## **5. The Wicked Vinedressers - Matthew 21:33-46; Mark 12:1-12; Luke 20:9-19** 
 
 {{% scripture p="Matthew 21:33-46 (NASB 1995)" %}} 
 
@@ -205,7 +205,7 @@ Regarding Christ as the cornerstone (**Psalm 118:22-23**), this speaks of Him as
 
 
 
-## **6. The Laborers in the Vineyard- Matthew 20:1-16** 
+## **6. The Laborers in the Vineyard - Matthew 20:1-16** 
 
 {{% scripture p="Matthew 20:1-16 (NASB 1995)" %}} 
 
@@ -257,7 +257,7 @@ However, many whom the church views as worthy of greater reward will receive som
 
 
 
-## **7. The Widow and the Unjust Judge- Luke 18:1-8** 
+## **7. The Widow and the Unjust Judge - Luke 18:1-8** 
 
 {{% scripture p="Luke 18:1-8 (NASB 1995)" %}} 
 
@@ -323,7 +323,7 @@ For this reason, patient endurance is ever so needed. And prayerful reliance on 
 
 
 
-## **8. The Master and his Servant- Luke 17:7-10** 
+## **8. The Master and his Servant - Luke 17:7-10** 
 
 {{% scripture p="Luke 17:7-10 (NASB 1995)" %}} 
 
@@ -341,7 +341,7 @@ Yes, the Lord is pleased with all the positive free will choices we make in life
 
 
 
-## 9. The Prodigal Son- Luke 15:11-32 
+## 9. The Prodigal Son - Luke 15:11-32 
 
 See passage link: **Luke 15:11-32**. 
 
@@ -381,7 +381,7 @@ Something very touching we can see from this story is how the father, who saw hi
 
 
 
-## **10. The Lost Coin- Luke 15:8-10** 
+## **10. The Lost Coin - Luke 15:8-10** 
 
 {{% scripture p="Luke 15:8-10 (NASB 1995)" %}} 
 
@@ -405,7 +405,7 @@ The Lord did not have to die for us, and yet He chose to do so anyway. He hated 
 
 
 
-## **11. The Unmerciful Servant- Matthew 18:21-34**
+## **11. The Unmerciful Servant - Matthew 18:21-34**
 
 {{% scripture p="Matthew 18:23-25 (NASB 1995)" %}} 
 
@@ -453,7 +453,7 @@ When we get saved, we have been crucified with Christ and have become a part of 
 
 
 
-## **12. The Lost Sheep- Matthew 18:12-14; Luke 15:3-7** 
+## **12. The Lost Sheep - Matthew 18:12-14; Luke 15:3-7** 
 
 {{% scripture p="Luke 15:3-7 (NASB 1995)" %}} 
 
@@ -513,7 +513,7 @@ As a final note, this parable has a dual application in that the owner of the sh
 
 
 
-## **13. The Great Banquet- Luke 14:15-24** 
+## **13. The Great Banquet - Luke 14:15-24** 
 
 {{% scripture p="Luke 14:12-24  (ESV)" %}} 
 
@@ -545,7 +545,7 @@ As a final note and reminder, the saying, “*first will be last and last will b
 
 
 
-## **14. The Unfruitful Fig Tree- Luke 13:6-9** 
+## **14. The Unfruitful Fig Tree - Luke 13:6-9** 
 
 {{% scripture p="Luke 13:6-9  (NASB 1995)" %}} 
 
@@ -612,7 +612,7 @@ But the parable’s central theme is the patience and graciousness of God, who i
 
 
 
-## **15. The Master’s Return- Luke 12:35-40** 
+## **15. The Master’s Return - Luke 12:35-40** 
 
 {{% scripture p="Luke 12:35-40  (NASB 1995)" %}} 
 
@@ -632,7 +632,7 @@ To build up faith, believers need to grow spiritually in the truth of the Word. 
 
 
 
-## **16. The Rich Fool- Luke 12:15-21** 
+## **16. The Rich Fool - Luke 12:15-21** 
 
 {{% scripture p="Luke 12:15-21  (NASB 1995)" %}} 
 
@@ -658,7 +658,7 @@ Not only can great riches keep a person from coming to Christ, but it can endang
 
 
 
-## **17. The Friend in Need- Luke 11:5-8** 
+## **17. The Friend in Need - Luke 11:5-8** 
 
 {{% scripture p="Luke 11:5-8  (NASB 1995)" %}} 
 
@@ -686,7 +686,7 @@ One big lesson we can learn from this parable not found in our primary interpret
 
 
 
-## **18. The Good Samaritan- Luke 10:25-32**     
+## **18. The Good Samaritan - Luke 10:25-32**     
 
  {{% scripture p="Luke 10:25-37 (NASB 1995)" %}}                                         
 
@@ -718,7 +718,7 @@ This parable is (in a way) linked with **Luke 10:38-42,** when Jesus visits the 
 
 
 
-## **19. The Moneylender- Luke 7:36-50**
+## **19. The Moneylender - Luke 7:36-50**
 
 See link: **Luke 7:36-50**
 
@@ -742,7 +742,7 @@ The woman’s debt was forgiven because of her faith, meaning that her gratitude
 
 
 
-## **20. Treasures New and Old- Matthew 13:52** 
+## **20. Treasures New and Old - Matthew 13:52** 
 
 {{% scripture p="Matthew 13:52 (NASB 1995)" %}}  
 
@@ -762,7 +762,7 @@ Jesus had just instructed His disciples about the judgment that would come with 
 
 
 
-## 21. The Pearl of Great Price- Matthew 13:45-46 
+## 21. The Pearl of Great Price - Matthew 13:45-46 
 
 {{% scripture p="Matthew 13:45-46 (NASB 1995)" %}}  
 
@@ -810,7 +810,7 @@ Our passage tells us, *“and upon finding one pearl of great value, he went and
 
 
 
-## **22. The Hidden Treasure- Matthew 13:44** 
+## **22. The Hidden Treasure - Matthew 13:44** 
 
 {{% scripture p="Matthew 13:44 (NASB 1995)" %}}  
 
@@ -830,7 +830,7 @@ Those who give up on their faith later in life prove they did not value what the
 
 
 
-## **23. Leaven in the Dough- Matthew 13:33; Luke 13:20-21** 
+## **23. Leaven in the Dough - Matthew 13:33; Luke 13:20-21** 
 
 {{% scripture p="Luke 13:20-21 (NASB 1995)" %}}  
 
@@ -842,7 +842,7 @@ This parable, though small, speaks of gigantic things, things beyond comprehensi
 
 
 
-## **24. The Mustard Seed- Matthew 13:31-32; Mark 4:30-32; Luke 13:18-20** 
+## **24. The Mustard Seed - Matthew 13:31-32; Mark 4:30-32; Luke 13:18-20** 
 
 {{% scripture p="Mark 4:30-32 (NASB 1995)" %}}  
 
@@ -864,7 +864,7 @@ Finally, this brief parable spoken by Jesus can be applied not only to the churc
 
 
 
-## **25. The Sower and the Seed- Matthew 13:3-9; Mark 4:1-9; Luke 8:4-8** 
+## **25. The Sower and the Seed - Matthew 13:3-9; Mark 4:1-9; Luke 8:4-8** 
 
 {{% scripture p="Matthew 13:3-9 (NASB 1995)" %}}  
 
@@ -932,7 +932,7 @@ The seed sown on the good soil are believers who live their time on earth as the
 
 
 
-## **26. The Strongman’s House- Matthew 12:29-30; Luke 11:21-22** 
+## **26. The Strongman’s House - Matthew 12:29-30; Luke 11:21-22** 
 
 {{% scripture p="Luke 11:21-22 (NASB 1995)" %}}  
 
@@ -966,7 +966,7 @@ Additionally, Christ has defeated the devil once and for all at the cross. He wi
 
 
 
-## **27. Tree and its Fruit- Matthew 12:33-37; Luke 6:43-45**
+## **27. Tree and its Fruit - Matthew 12:33-37; Luke 6:43-45**
 
 {{% scripture p="Luke 6:43-45 (NASB 1995)" %}}  
 
@@ -1014,7 +1014,7 @@ And Scripture is clear that we can know the difference between faithful servants
 
 
 
-## **28. The Unclean Spirit- Matthew 12:43-45; Luke 11:24-26** 
+## **28. The Unclean Spirit - Matthew 12:43-45; Luke 11:24-26** 
 
 {{% scripture p="Matthew 12:43-45 (NASB 1995)" %}}  
 
@@ -1068,7 +1068,7 @@ Jesus spoke this parable to the nation of Israel, which was rejecting Him. Howev
 
 
 
-## **29. The Sprouting Seed- Mark 4:26-29** 
+## **29. The Sprouting Seed - Mark 4:26-29** 
 
 {{% scripture p="Mark 4:26-29 (NASB 1995)" %}}  
 
@@ -1123,7 +1123,7 @@ Although not mentioned in our parable, the judgment for all unbelievers alive du
 
 
 
-## **30. The Two Builders- Matthew 7:24-27; Luke 6:46-49** 
+## **30. The Two Builders - Matthew 7:24-27; Luke 6:46-49** 
 
 {{% scripture p="Luke 6:46-49 (NASB 1995)" %}}  
 
@@ -1179,7 +1179,7 @@ Now, brothers and sisters, I want to remind you of the gospel I preached to you,
 
 
 
-## **31. Wineskins, New and Old Cloth- Matthew 9:14-17; Mark 2:18-22; Luke 5:33-39** 
+## **31. Wineskins, New and Old Cloth - Matthew 9:14-17; Mark 2:18-22; Luke 5:33-39** 
 
 {{% scripture p="Luke 5:33-39 (NASB 1995)" %}}  
 
@@ -1201,7 +1201,7 @@ Two great examples of this behavior of bringing back the old and matching it up 
 
 
 
-## **32. The Pharisee and the Tax Collector- Luke 18:9-14**           
+## **32. The Pharisee and the Tax Collector - Luke 18:9-14**           
 
 {{% scripture p="Luke 18:9-14 (NASB 1995)" %}}  
 
@@ -1223,7 +1223,7 @@ To fix a problem, we have to recognize that we have one. But acting as if all is
 
 
 
-## **33. The Shrewd Manager- Luke 16:1-9** 
+## **33. The Shrewd Manager - Luke 16:1-9** 
 
 {{% scripture p="Luke 16:1-9 (NASB 1995)" %}}  
 

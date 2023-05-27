@@ -23,7 +23,7 @@ TODO: might you also want to link to my website, and also Odii's recent YouTube 
 
 ### Books about the Bible Itself
 
-#### “A Students Guide to Textual Criticism of the Bible”- By Paul D. Wegner
+#### “A Students Guide to Textual Criticism of the Bible” - By Paul D. Wegner
 
 - [Amazon](https://www.amazon.com/Students-Guide-Textual-Criticism-Bible/dp/0830827315)
 

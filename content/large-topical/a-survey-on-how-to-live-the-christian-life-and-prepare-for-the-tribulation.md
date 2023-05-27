@@ -215,7 +215,7 @@ How can a believer “throw off all that hinders” while working for the perish
 
 
 
-## **6. The Process of Preparation and How it is Done- Spiritual Growth, Progress, and Production** 
+## **6. The Process of Preparation and How it is Done - Spiritual Growth, Progress, and Production** 
 
 As we have touched on above, having the right attitude, a mindset of repentance and zeal, and great love for God, is the first step in our continued spiritual journey as believers, the precursor to spiritual progress and production. For without the right attitude, growth, along with the following steps, would be stunted. Developing the right mindset comes first for the believer who desires to grow and please His master to the highest possible degree. Repentance starts with a change of heart and mind.  
 
@@ -869,7 +869,7 @@ The Lord has given every believer spiritual gifts to use in the specific ministr
 
 And it is God who chooses our spiritual gifts; in that, we have no choice. But this is a good thing, for the Lord knows our abilities, strengths, and weaknesses better than we do. He knows what we can do and what we can’t. He knows how to assign our ministries according to our strengths in ways that allow us to be the most effective for Him. The service God chooses for the believer has in mind the maximum production and reward in eternity. In other words, God is setting us up for ultimate success in giving us whatever gifts we have received at salvation. Whatever we receive from God, we can be rest assured that it is the perfect fit for us.  
 
-#### **A.  Ministry- Why it is Important** 
+#### **A.  Ministry - Why it is Important** 
 
 {{% scripture p="John 15:5-8 (NIV)" %}}  
 
@@ -897,7 +897,7 @@ Getting back to the topic of ministry, God could solve the problem of work and d
 
 Christ's body, the church, consists of every believer alive and breathing, and its growth depends on its members building each other up. Therefore, the goal of ministry is to help our brothers and sisters in Christ advance in any possible way by whatever means the Lord gives us, whether through giving, teaching, encouraging, exhorting, serving, etc. In the case of unbelievers, bringing “new sheep into the flock,” we evangelize, for without new members coming in, the body of Christ would shrink in number and eventually disappear. 
 
-#### **B.  Ministry- Common Misconceptions** 
+#### **B.  Ministry - Common Misconceptions** 
 
 The fact that every believer has a spiritual gift(s) tells us that there are many ministries, with each in possession of a unique one or more to use for God’s glory. Ministry is a spiritual service, whether to believers or unbelievers. We don’t want to get into specifics, but all ministry means leading people to the truth and helping them grow in the grace and knowledge of the Lord Jesus. It does not entail doing things we deem acceptable in our own eyes when they are nothing but wood, hay, and stubble, things that have no bearing on spiritual matters whatsoever. That is the point. One must be careful not to side with any of the two extremes on this matter, where one says “everything counts as a ministry,” and the other that says “nothing counts at all,” “nothing” in the sense of how the church has defined ministry over the years. 
 
@@ -957,7 +957,7 @@ Yes, the Holy Spirit plays a huge role in our Christian service. He gives and em
 
 Moreover, these convictions are not limited to a specific period. For who knows how long an individual may wrestle with what they have heard from others. Sooner or later, a yes or no decision will come. If yes, through zealous persistence in seeking the truth, the Spirit will not fail to give answers. Those who seek persistently always find.  The same applies to the Spirit’s work with unbelievers as well. When a believer shares the Gospel with an unbeliever, He makes the truth about Himself real to the individual through conviction, and then the decision from the person comes sooner or later. 
 
-#### **F.  Bringing Forth Fruit- Rewards**  
+#### **F.  Bringing Forth Fruit - Rewards**  
 
 {{% scripture p="John 15:16 (NASB)" %}}  
 
