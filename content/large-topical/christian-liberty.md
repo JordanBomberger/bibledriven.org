@@ -109,7 +109,7 @@ Anything that takes our attention off God and becomes a chief priority will only
 
 The Devil has used the entertainment industry to his advantage in distracting and leading many people astray. We live in the cosmos diabolicus, or Satan’s world system. Even things not sinful can become a cause for stumbling if we don’t handle them carefully. So the issue is not whether or not this or that is wrong, but whether it is something the Lord would want us to do. 
 
-However, this writer is confident that the more a believer grows, the more discerning they will become. If they are living their life for the Lord as they should, they will not stumble into sin because of the world’s distractions. Mature believers know how to handle all things in moderation and, with Spirit’s help, make the best use of their time and personal decisions. 
+However, I am confident that the more a believer grows, the more discerning they will become. If they are living their life for the Lord as they should, they will not stumble into sin because of the world’s distractions. Mature believers know how to handle all things in moderation and, with Spirit’s help, make the best use of their time and personal decisions. 
 
 ## **D. Food** 
 
@@ -263,7 +263,7 @@ Suppose a believer is suffering from a very severe case of mental illness. In th
 
 ## **Secular treatment may not work well for everyone** 
 
-Medication (or any other form of treatment) may not work effectively for everyone. The doctor (many primary care physicians can prescribe antidepressants and other meds for basic mental health concerns) will start the patient with a safer but less effective SSRI. If more powerful meds are required, then your physician may prescribe something of greater effectiveness. Some people this writer knows have benefitted quite well on medication. The downside is that many (though not all) may need to continue taking them for the rest of their lives with bad side effects when attempting to withdraw. 
+Medication (or any other form of treatment) may not work effectively for everyone. The doctor (many primary care physicians can prescribe antidepressants and other meds for basic mental health concerns) will start the patient with a safer but less effective SSRI. If more powerful meds are required, then your physician may prescribe something of greater effectiveness. Some people I know have benefitted quite well on medication. The downside is that many (though not all) may need to continue taking them for the rest of their lives with bad side effects when attempting to withdraw. 
 
 ## **All decisions should be thought-out** 
 

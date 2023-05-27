@@ -44,7 +44,7 @@ In regards to exercising and spending time outdoors, they have many great benefi
 
 Parents would do well to encourage their children to spend more time outside instead of indoors glued to tablets or playing video games. While there is maybe nothing sinful with spending more time inside, science suggests (and has perhaps even proven) that spending time outdoors improves a person’s overall physical and mental health. A healthy, active lifestyle is certainly better than keeping one’s body at rest all the time. Some have theorized that more active people live longer than those who sit around and do nothing. However, it is true that some people don’t have the ability (for example, people with severe physical ailments) or the time to do this. If we don’t have the time due to more important matters (whatever they may be), then we don’t have the time. But if we have the opportunities to get outside and enjoy God’s wonderful creation, then we have to ask ourselves, “*Why not*?” 
 
-Below is a non-comprehensive list of some possible (and perhaps proven) benefits of being outdoors. We need to remember that not all of the things in this list are necessarily accurate, but plausible possibilities at the least. So this writer isn’t going along with all this completely dogmatically.
+Below is a non-comprehensive list of some possible (and perhaps proven) benefits of being outdoors. We need to remember that not all of the things in this list are necessarily accurate, but plausible possibilities at the least. So I am not going along with all this completely dogmatically.
 
 According to [one source](https://www.sharp.com/health-news/5-ways-being-outdoors-can-make-you-healthier-and-happier.cfm ), being outdoors **can**: 
 
