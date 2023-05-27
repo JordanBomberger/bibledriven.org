@@ -99,7 +99,7 @@ Acts 1:4-9 demonstrates the Lord’s emphasis on the preeminence of spirit bapti
 
 {{% /scripture %}}  
 
-## **The purpose of Jesus's baptism** 
+## 2. **The purpose of Jesus's baptism** 
 
 All of the above may lead us to ask, “then why was Jesus baptized?” We have the passage below. 
 
@@ -114,6 +114,8 @@ Jesus did not set a pattern for the church to follow for water baptism. The pass
 The word “fulfill” is vital here. Jesus’s baptism was an act of obedience and submission to the Father that represented and symbolized His death, burial, and resurrection. Again, the physical foreshadowed the spiritual that was to come, as our Lord points out (a time **after** being baptized by John) when He says in Luke 12:49-50,” **49** *“I have come to bring fire on the earth, and how I wish it were already kindled!* **50** *But I have a **baptism** to undergo, and what constraint I am under until it is completed*! This “type” of baptism (the death, burial, and resurrection of Christ) was the one necessary “to fulfill all righteousness.” The water baptism that preceded it looked forward to these events that would fulfill everything. 
 
 The best interpretation is that the submerging into water represented Christ identifying Himself with the sins and sinners of the world. Our Lord did this by becoming God and man forever to die on the cross. Jesus’s spiritual death paid for all transgressions, past, resent, and future. His rising out of the water looked forward to His resurrection, which complimented and completed His physical and spiritual death. The descent of the Spirit was a further sign of authority from the Father that Jesus was the true Son of God to carry out all that He had to do. Therefore, the Father said, “*This is my Son whom I love; with Him I am well pleased*.” Likewise, the descending of the Spirit upon Him looked forward to the coming of the Spirit to believers beginning with the day of Pentecost. This reference is for the baptism of the Spirit. 
+
+## 3. The gospels
 
 ### **John 3:5-6** 
 
@@ -165,7 +167,7 @@ Finally, and before we move on, nowhere does the Bible say that water baptism be
 
 
 
-## **2. Acts and the Epistles** 
+## **4. Acts** 
 
 Acts is a transitional and historical book that tells us of many events that occurred during the adjustment period from the old covenant to the new. Therefore, there should be no surprise that this book contains practices not for the modern church. Are there things mentioned in Acts that should have continued? There most certainly are. Communion is one of these practices we see. As far as the context is concerned, this is the only ritual authorized for believers to continue doing until the Lord’s return (**1 Corinthians 11:23-26**). And, of course, the gospel is also present in Acts as well (**Acts 16:31**). So there are valid teachings and practices contained in Luke’s writing of the formation of the church. But some invalid things were still understandably present during the apostle's time. Animal sacrifice, temple worship, water baptism, circumcision, and Sabbath observance continued for a short period into the new covenant even though these things should have no longer continued. We have the book of Hebrews for a reason. No passages tell us that we no longer need to observe the traditional Jewish Sabbath. Does that mean it is for today? We have already discussed that. The apostle Paul circumcised Timothy in **Acts 16:1-3**. So we could reason that we should do it in our modern times. But just because the apostles or others did this or that does not mean they were setting an example for everyone to follow. Such was the case with water baptism throughout this historical book of transition. 
 
@@ -181,7 +183,7 @@ Not everything Peter and the other apostles encouraged and practiced in the earl
 
 A few examples of the apostles showing their need for learning (other than their participation in the water baptism ritual) are **Acts 10:9-16**,**34-36**. Indeed, the Spirit would guide Peter and the others into all truth. But this does not mean they understood everything immediately and got it right from the get-go. Our two passages are examples after Acts 2:38, showing us that Peter still had much to learn. We cannot expect him or any other disciple to have known everything overnight. That is an unrealistic outlook on spiritual growth, a process that takes time and, often, at least a few failures. We all know the old saying, “*Rome wasn’t built in a day*.” Not everything the apostles did is things for us to do. And not everything they did was right or justified, as **Galatians 2:11-13** shows. Should we mimic Peter’s hypocritical behavior that Paul had to push back against? Absolutely not! And how could he or anyone else have understood everything when he (Peter) didn’t even understand the new dietary liberties that came with the new covenant? Peter did not even realize the gospel was for all men until the Spirit prompted him to go to Cornelius’s household! 
 
-## **Acts 2:38** 
+### **Acts 2:38** 
 
 In Acts 2:38, Peter is speaking to a Jewish audience who were familiar with the baptism of John. As an apostle, he had the authority to give this speech to his Jewish brethren. But these words are not a continuous requirement for the church because Peter is speaking to these Jews specifically. The grammar in verse thirty-eight indicates that this was water baptism because the phrase “*be baptized*” is in the third person imperative. This tells us that Peter is not commanding his recipients to receive the ritual, but exhorting and encouraging them to do so as an option. On the other hand, the phrase “*repent*” is in the second person imperative, which is a direct command and not an exhortation. The Spirit baptizes all one believe in Christ immediately. That is to say, these believers were placed into union with Christ immediately upon faith. So since Spirit baptism is not an option but an automatic process, this baptism had to be water. 
 
@@ -219,7 +221,7 @@ Today, all believers are baptized by the Holy Spirit and receive His indwelling 
 
 {{% /scripture %}} 
 
-## **Acts 19:1-7** 
+### **Acts 19:1-7** 
 
 To resume our working through the rest of the New Testament, the Bible tells us what water baptism was for in **John 1:31** and **Luke 3:1-6** (and elsewhere). The purpose was to prepare the nation of Israel for Christ and reveal Him. This preparation involved repentance or a change of mind willing to believe in Christ Jesus. Paul mentions this very fact in Acts 19:4 when he states “*John’s baptism was a baptism of repentance. He told the people to believe in the one coming after him, that is, in Jesus*.” Nowhere does the Bible give any other reasons for water baptism other than the ones already given. Nowhere does the Bible teach two types of water baptism (John’s baptism vs. Christian baptism). A typical passage to support this false notion is Acts 19:5. But the context refutes the interpretation that water was involved in this particular instance. 
 
@@ -249,7 +251,7 @@ Today, there is only one baptism: the Spirit’s. And this occurs immediately up
 
 
 
-## **3. The Epistles and Other New Testament Books** 
+## **5. The Epistles and Other New Testament Books** 
 
 It is necessary to point out that some who believe in the continuation of water baptism don’t see it as a “work” required for salvation but an act of obedience. They see this scenario as similar to Abraham’s case (and all of Israel's) regarding circumcision. However, I see no justification anywhere in the Epistles (let alone the whole New Testament) to continue practicing this ritual. True, Abraham’s compliance to circumcise himself and his family was an act of obedience that demonstrated his faith. We could well ask, “what if he had refused it?” There are no hypotheticals, so that isn’t something we must concern ourselves over. But the issue with our current topic is whether or not the Bible commands us to “dip” people today. There don’t appear to be any indications for this, especially after all the events in Acts. 
 

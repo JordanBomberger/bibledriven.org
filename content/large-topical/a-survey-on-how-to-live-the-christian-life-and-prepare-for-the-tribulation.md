@@ -1025,8 +1025,6 @@ We are on this earth for Jesus, and how much we live and produce for Him will sh
 
 ## **Summary**
 
-### **A Message to Laodicea- Preparing Before the Time**  
-
 The time is now ever so short, for the darkness of the tribulation is fast approaching. What was peeking over the ridge has now climbed over it and preceded to walk closer to us. The New Testament apostles stressed just how little time remained till the Lord’s return in their day, and that was nearly two thousand years ago! Because of today’s Christians' half-hearted attitude, we will have to endure the most terrible time that the earth has ever seen, a period that will occur only once and never again. Many believers will fall away, a large number will endure through martyrdom, and the rest will live on to see the Lord’s return at the second advent during the battle of Armageddon. Because of the nearness of time, we believers should dedicate ourselves to spiritual advance. The fear of the Lord is the beginning of wisdom, and this entails keeping God’s commandments through living a zealous lifestyle for Him. It must then be asked of this lukewarm era if they genuinely desire to hear a “well done good and faithful servant” from our Lord. We only have one shot at this life that we will never get to repeat. 
 
 {{% scripture p="Revelation 22:12 (NASB)" %}}  

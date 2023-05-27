@@ -41,11 +41,11 @@ The subject of cryptids and cryptozoology has interested me for a long time. Whe
 
 A few years after I had finished eleventh grade, my interest in cryptozoology faded, and I researched it spontaneously- that is, until October of 2020. But this time, the issue was more personal, and I changed from just "researching" **to relying on God to grant more insight**. Big difference! 
 
-## **Cryptozoology has yielded some results** 
+## **2. Cryptozoology has yielded some results** 
 
 Before continuing my story, I feel it is worth mentioning that a good handful of cryptozoological animals (or creatures that used to be cryptids) have come to light over the years. Examples are the giant squid (once described as the Kraken), the komodo dragon, the kangaroo, the gorilla, the okapi, the platypus, the bondegezou, the manatee, etc. These are just some of the most prominent examples of cryptids discovered decades to hundreds of years ago. Once thought to be mythological, they turned out to be real! And there are, no doubt, other species of animals that man has yet to discover. So cryptozoology is not a complete joke and has had some success over the years. 
 
-## **Our trust and focus is on Christ, not on what we hear and see** 
+## **3. Our trust and focus is on Christ, not on what we hear and see** 
 
 Unfortunately, some believers have taken their love for the “unknown” too far, resulting in spiritual harm (especially regarding the paranormal which doesn't necessarily involve animals). It is likely that many people get sucked into this kind of stuff only to come to dangerous and unbiblical conclusions. Scripture is the ultimate authority by which we think, speak, and act (**2 Peter 1:16-21**). Believers must not obsess over demonic activity or become overly fascinated with the paranormal. We simply acknowledge the reality and continue striving forward in our relationship with the Lord as if they didn’t exist. We must not allow the invisible, and sometimes visible satanic realm to carry us away from the truth. Our focus is on Jesus, not on this world and all the evil therein. So for those (especially believers) who may have had a "run in" with something unusual that they could not explain (paranormal), there is nothing to fear. There is always an explanation behind everything. Christians should never allow what their eyes, ears and feelings tell them to lead them astray. We walk by the Spirit according to the truth of God's Word rightly understood and believed. For those who do this, they will not be fooled; nor will they stumble. 
 
@@ -61,7 +61,7 @@ The park and the surrounding wilderness that used to exist were once home to Nat
 
 I researched Patapsco Valley State park to gauge its boundaries and see where it went and ended. I was always fascinated with the place because I had hiked it many times and had explored and fished various parts of it. I considered it my playground! I must have explored my favorite sections a million times. Trail running was another favorite of mine, and occasionally trout fishing in the spring when the river contained stocked rainbow and brown trout.
 
- Anyway, I entered "Sykesville" or "Patapsco State Park, Sykesville in the search bar." I then noticed a video entitled "*Hiding Evidence of the Sykesville Monster/ Monsters and Mysteries in America*" (dealing with a sasquatch sighting that occurred back in 1981). So I was glad I found it, clicked on the link, and watched the whole thing from start to finish. It was this incident/sighting that would arouse my curiosity and cause me to go to the Lord for clarity. But there is more that spurned me on. I was astonished by the video I had just watched of this account and wanted to find out more if anything else had occurred in the park. There had been other sightings over the years. I was perplexed about this whole matter and began to go to the Lord for answers. But it was not just this incident that aroused my suspicion, but I had found many others that had taken place! Over the past few hundred years, there have been thousands of sightings and encounters with these creatures in North America and all over the world. They have occurred on multiple continents, including North America, Australia, and Asia. Far too many incidents to discount. But it didn't stop there. 
+Anyway, I entered "Sykesville" or "Patapsco State Park, Sykesville in the search bar." I then noticed a video entitled "*Hiding Evidence of the Sykesville Monster/ Monsters and Mysteries in America*" (dealing with a sasquatch sighting that occurred back in 1981). So I was glad I found it, clicked on the link, and watched the whole thing from start to finish. It was this incident/sighting that would arouse my curiosity and cause me to go to the Lord for clarity. But there is more that spurned me on. I was astonished by the video I had just watched of this account and wanted to find out more if anything else had occurred in the park. There had been other sightings over the years. I was perplexed about this whole matter and began to go to the Lord for answers. But it was not just this incident that aroused my suspicion, but I had found many others that had taken place! Over the past few hundred years, there have been thousands of sightings and encounters with these creatures in North America and all over the world. They have occurred on multiple continents, including North America, Australia, and Asia. Far too many incidents to discount. But it didn't stop there. 
 
 I thought I was done with sasquatch and cryptozoology until I found myself looking at books on the subject. I found one called "*Enoch: A Bigfoot Story"* by Autumn Williams. I ordered it, along with another titled "*How UFOs & Bigfoot Prove the Bible is True* by Jason Mclean. I dove into Autumn William's book first. I read with an open and discerning mind and finished it within a matter of days. When it was all said and done, I came to believe that these creatures do exist, and that there are many of them across the world (as unbelievable as it may seem to those less informed and enlightened, much of this is due to this very subject being misunderstood and clouded by skeptics and hoaxes). This was, for me, a matter of putting two and two together based on the obvious. Therefore, I interpreted all this to mean that this was the reality based on multiple eyewitness reports (in the thousands worldwide) and Native American testimonies going back hundreds of years (perhaps more). This challenged me to think "If these things aren't real, why have so many thousands of people claimed to have seen them over the years? And why do more sightings keep occurring? But why is it no absolute proof of their existence (in whatever form) has been brought to the public's attention?" I think the possible explanation given below (and the fact that the government doesn't want the public to know or say much about what is out there) for what these creatures are help to explain that because if these creatures were ordinary animals, the entire public would know about them and they would not be so hard to spot. 
 
@@ -77,7 +77,7 @@ I completed Autumn William’s book but still had the question of, "*what exactl
 
 With the Lord's help, I came to understand the whole “bigfoot” phenomenon better. Thinking about what they might be made me wonder about the identity of other cryptids. Creatures such as the jersey devil, moth man, and others don't sound like ordinary animals. If dozens or hundreds of people have seen these things over the years, then I have no problem speculating that that is all demonic activity of some sort. 
 
-## **What about other cryptids?** 
+## **4. What about other cryptids?** 
 
 So what about the various lake monsters across the world and the thunderbird etc? I would not find it hard to believe if they were/are fully demonic creatures or demonically created genetic mutations. As far as lake monsters go, Ogopogo is possibly an excellent example of a “cryptid” that would fit the demonic bill pretty well. It just so happens that it is one of the most documented lake monsters in the entire world, with thousands of reported sightings. People have written books and even studied and analyzed a host of photos and videos, with some analysts suggesting positive authenticity without any tampering (despite how blurry and grainy so much of the photos and footage have turned out). Lake Okanagan, the 60-83 mile-long, eight-hundred to thousand-foot-deep lake (maximum) is where the creature is said to live. What is most striking is that many of the First Nations peoples living in that area have given this creature multiple names (something they wouldn’t do if it didn’t exist according to them). They believe it is no ordinary animal and one that isn't supposed to be seen. Some of these people believe it to be a god. But if we put two and two together, we can easily theorize that this is indeed a spiritual creature, just not in the way described. If it is real, it is most likely half-animal and half-demonic, or fully demonic, which could explain why people seldom see it. This answer is the best possibility we can give for something so-well sighted (although no clear proof has been provided), yet never caught (as far as the public is concerned). 
 
@@ -85,11 +85,7 @@ The reasonable explanation for Ogopogo could also explain all the other sighting
 
 Many people (especially in more modern countries and communities) tend to scoff and poke fun at stories from people who claim to have experienced sighting strange and unexplained creatures unknown to us. Of course, it is still best to be cautious and not believe everything we hear, but it is also possible that some of the people who describe these creatures are telling the truth. The problem is when individuals go hunting for them only to come up short and declare that the target never existed at all (that is not a guarantee it isn’t real). There is no doubt that there are many creatures that come from myths, legends, rumors, and traditions passed down over the centuries. But some people could be mistaking demonic creatures for “animal gods” (as is likely the case with Ogopogo). This would be one of the Devil's ways of attempting to lead people astray from the true God (whatever creature is involved in whatever land). The good thing we can get out of all this is that it helps us remember that we are interlopers in Satan’s world system. We are but visitors here on earth who wrestle not against flesh and blood, but against this world's spiritual darkness’s and principalities (**Ephesians 6:12**). Satan and his companions are alive and well and God allows them to have their share of “freedom” and “fun.” 
 
-
-
-
-
-## **2. Possible Answers and Explanations for Sasquatch** 
+## **5. Possible Answers and Explanations for Sasquatch** 
 
 At some point in my search in May of 2021, I believed sasquatch was a real creature and that sizeable populations exist worldwide. But the question of their origin and identity remained. As mentioned previously, I read a book entitled "*How UFOs and Bigfoot Prove the Bible is True"* by Jason Mclean. Although there are many things I disagree with this author on in his book, I found some content reasonable.
 
@@ -125,7 +121,7 @@ To clarify Mclean’s view on the book of Jasher he writes below,
 
 To add to the above, I, like Mclean, do not believe the book of Enoch to be ""*canon or inerrant*." And nothing physical could have survived the flood sent to destroy all sinful mankind and the Nephilim. So if sasquatch is demonic in origin and physical (it may be both spiritual and physical- although this is hard to say with any certainty), it would had to have been created by the spirits of the Nephilim after the great deluge through genetic manipulation. 
 
-## **Genetic manipulation, hybridization, the Genesis gap, and the fossil record** 
+### **Genetic manipulation, hybridization, the Genesis gap, and the fossil record** 
 
 As a quick additional side discussion of demons practicing "genetic manipulation" and "hybridization", Dr. Luginbill states what he does below regarding the fossil record i.e. prehistoric animals, creatures and dinosaurs. Please note that although dinosaurs have nothing to do with “bigfoot”, the purpose of bringing this up is to show the reader that fallen angels could procreate with both humans and genetically manipulate animals (though the Bible already confirms this in Genesis chapter six as far as “reproducing” with humans goes). 
 
@@ -147,7 +143,7 @@ To continue our main discussion, I encourage readers to avoid the Apocrypha. The
 
 We can be sure that all the Nephilim will end up in the lake of fire forever because they opposed God and never believed in Him for salvation. Since they were both human and fallen angel, they had the free will to do so. But their spirits are present on this earth because the rest of the fallen angels still have the freedom to move about freely (except for those involved in the creation of the Nephilim **1 Peter 3:19-20, Jude 6**). This will eventually cease toward the end of time when they are all thrown into the lake of fire.      
 
-## **There are plausible reasons many cryptids are demonic in origin** 
+### **There are plausible reasons many cryptids are demonic in origin** 
 
 To continue, there is no reason why creatures like sasquatch could not exist (and thus, no reason why the spirits of the Nephilim or some fallen angels could not have created them after the flood). They (along with many other cryptids) live in the most remote parts of the world, reproduce within their own species (some "cryptids" are claimed to be capable of reproduction) want little to do with humans, and keep themselves hidden out of sight. A sasquatch (or any other creature) does not compare well with the Nephilim in power, numbers, freedom, and influence. Therefore, God does not need to eradicate them (or prevent their creation) because they pose no threat to man as the Nephilim did. If sasquatch exists, then God (at some point after the flood) allowed the spirits of the Nephilim **or** some group of fallen angels not involved with corrupting the human seed to form the Nephilim  to“ create” these monsters, along with any other demonic creatures that roam our world. **I believe this is the best possible answer we can give**. 
 
@@ -163,7 +159,7 @@ And just because something is categorized as a conspiracy theory does not make i
 
 
 
-## **3. Explaining Aliens and UFOs** 
+## **6. Explaining Aliens and UFOs** 
 
 If “Aliens” and UFOs are real (as I believe they are), they are nothing more than demonic activity. **By themselves, aliens and UFOs do not exist**. Many wish to believe they do to elude the plain and simple truth that there is a God. Many want to believe that aliens are real so they can dismiss The Creator. There is no surprise they do this either because they hate our Savior and don't want Him to be their Lord. 
 
@@ -271,13 +267,13 @@ And a great sign appeared in heaven: a woman clothed with the sun, with the moon
 
 https://www.lgbtqnation.com/2018/07/now-christian-leaders-telling-followers-bigfoot-real-spawned-devil/ 
 
-## **"Alien abduction" or demonic possession?** 
+### **"Alien abduction" or demonic possession?** 
 
 People have reportedly contacted aliens (known as demons) and were “abducted”/possessed by them telepathically through the use of shamanic drugs and other methods. This phenomenon is a modern version of demonic possession, the only difference in this case being that people are going to demons, not demons to people. Whether demons can still take the initiative as they did during biblical times is disputed but of little concern to me. 
 
 Mclean also notes that contactees and abductees are demonically attacked and "*subjected to humiliating and painful procedures to satisfy the desires of their abductors*." This is something that most in the church would find hard to accept, but the Bible nowhere tells us that this can’t or doesn’t occur. So no believer has any right to automatically dismiss such occurrences and say that "the Bible doesn't support such strange behavior in our times." True, but it neither says that it doesn’t occur either. But we know that satanic activity is alive and well for sure and that demonic possession still occurs today (in whatever ways). 
 
-## **The limitations of science** 
+### **The limitations of science** 
 
 Unfortunately, much of the unbelieving scientific community approach these issues with great doubt (about demonic possession and activity) because they are skeptical. This would be the other side of opposition instead of those who accept the reality of some to much of the paranormal but see it as something it isn't to put God out of their minds. Instead, these types of people (perhaps realizing that some are seeing the truth that much of the paranormal is in fact demonic activity) wish to wave their hands and proclaim that none of it is real at all (since the Bible teaches that Satan and his forces oppose this world and the true Ruler of it). Of course, the Tribulation and the short time before it will no doubt change their minds (except that what they see is something they will accept not as demonic but "something else" because of their stubbornness to acknowledge their Creator) . The problem is that we let science (which, more often than not, doesn't mix well with the Bible) dictate too much of what we believe. Yet what shock people often face when it turns out to be wrong. We know, for example, that biblical truth doesn't need science because it is a test of faith! The Bible and the realities of the unseen war around us (**Ephesians 6:12**) involve faith. Of course, that doesn’t mean we can’t use science to point people to Christ, for that we most certainly can. Science is by no means a bad thing if used in a godly, God-honoring way. And, like many other things, it can be used to bring glory to God (**1 Corinthians 10:31**). But science gets a lot of things wrong and cannot explain everything (far from it). 
 
@@ -309,7 +305,7 @@ There is, of course, no guarantee that all of the recorded instances documented 
 
 
 
-## **4. My Encouragement and Exhortation to Believers**   
+## **7. My Encouragement and Exhortation to Believers**   
 
 Back in 2014 (I began my paper in 2013 but finished the following year), I became discouraged with my lack of anything to speak of for cryptids and cryptozoology. My paper was a bust, and I had nothing to show anybody. I had nothing to educate anyone with and felt like I came away empty from the whole experience. But little did I know that the Lord would bring the subject back to my attention many years later. He would revive my enthusiasm and come to use it for His glory through this work I have written. We don’t have to believe everyone and everything, but we need to be respectful and treat others as we want others to treat us (**Luke 6:31**). Yes, there are indeed a lot of fakes, hoaxes and misidentifications. People make things up. But I would ask the reader to consider **everything** written in this study. 
 

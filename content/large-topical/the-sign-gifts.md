@@ -182,7 +182,7 @@ Jesus said to her, “Do not cling to Me, **for I have not yet** **ascended to M
 
 Some of the difficulty over the above no doubt stems from the confusion over the difference between being baptized “with” or “by” the Spirit and “into” Him. But this is a simultaneous act where the Spirit baptizes us into Christ while the believer is filled with the Spirit’s presence. Ultimately, we are baptized into both Jesus Christ and the Spirit. The infusion of the Spirit to indwell us instantly places us into Jesus Christ. So in the end, there is only one coming or baptism of the Spirit. 
 
-### **2.3  1 Corinthians 12-14**
+### **2.3  1 Corinthians chapters 12-14**
 
 The final central biblical context which discusses the sign gifts is found in 1 Corinthians chapters twelve to fourteen. But we need to understand that Paul mentions them in the letter to the Corinthians because of that congregation’s spiritual immaturity, understanding, and misuse of spiritual gifts. These three chapters tell a pretty revealing story about how some of these spiritual manifestations became a distraction and a stumbling block for the early church. We will briefly examine the parts of these three chapters about our subject to better understand the issue. 
 
