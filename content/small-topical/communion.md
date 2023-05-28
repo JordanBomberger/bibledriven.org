@@ -2,7 +2,11 @@
 title: Communion
 ---
 
+## **Communion is still for today** 
+
 Communion is a valid command from our Lord (“*do this in remembrance of me”*) that the church should continue practicing (**Luke 22:18-20**) because it is a way for believers to proclaim the Lord’s death until His return in a manner that demonstrates our faith in the spiritual death of our Lord (that is what the blood represents). The bread symbolizes Christ’s body (who He is), and the wine, His blood (our redemption). Communion is an acknowledgement of our faith in Jesus Christ. Passages that mention it directly include **Matthew 26:26-29, Mark 14:22-25, Luke 22:15-20, 1 Corinthians 10:14-22, 1 Corinthians 11:17-34**). However, it is often misunderstood. 
+
+## **Where and when we practice communion doesn't matter** 
 
 For one thing, it matters little where and when we do it because all that is not as important as that we do it (as long as our motives and attitude are pure). What do we mean by this? Well, we can do it as many times as we want. Additionally, this practice has nothing to do with who we do it with but everything to do with what goes on in our hearts (**1 Corinthians 11:27-29**). What matters is that we don’t sin while we partake and remember what our Lord did for us on the cross, hence the bread to represent His body and the grape juice or wine to symbolize His blood. Communion is something we can do independently, assuming we have no choice. The presence of other believers has nothing to do with the effectiveness of good prayer, reflection, and meditation. We don’t technically need other people with us to celebrate communion for Christ’s sacrifice to mean anything to us. 
 
@@ -10,7 +14,11 @@ However,  we can do it with other believers in a congregation, which is the bett
 
 Common meals are another excellent option we can employ to remember our Lord’s death. Jesus never said how and when we could celebrate it (as in, when where, and how). As already stated, participating in a gathering of believers is the first and best choice. But we don’t have to confine the Lord’s supper to just that alone. We can pray, break bread, and partake of the symbolic beverage at our diner tables. The more, the better! 
 
+## **Communion is for everyone** 
+
 Something we need to address here is, “who does our Lord want to participate in communion?” The answer is everybody! Jesus told His disciples to do it in remembrance of Him and pass the practice down to the church they would establish later on. The question we must pose is, “*Why would anyone not want to remember what Christ did for them*?” When we partake of the “Lord’s supper,” we proclaim His death until He comes (**1 Corinthians 11:26**). It is a legitimate teaching passed down from our Lord to His disciples and then the church (**1 Corinthians 11**). And because of its spiritual significance, it is more than just a ceremonial tradition. 
+
+## **Examining what Scripture has to say about communion** 
 
 Now that we have mentioned everything above let us briefly examine some of the passages that speak of the Lord’s supper. First, we will read Luke 22:16-20, which will speak for and explain the other two instances of communion described in Matthew and Mark. Therefore, we will only examine Luke’s account because that is all that is necessary. Additionally, we will take a look at some other famous passages that involve the Lord’s supper, including its abuse (**1 Corinthians 11:20-22; 27-34**).   
 
@@ -28,11 +36,15 @@ Jesus referred to the millennial feast or wedding supper of the lamb after the t
 
 Our Lord gives the command to His disciples to continue this new ritual which represents and is symbolic of His body (which was given for us) and His blood (which was shed for the remission of sins). Jesus’s blood was the new covenant, which meant that circumcision did not continue or that water baptism did not become the sign of the new covenant. Jesus’s blood was that sign and the fulfillment of the old and the beginning of the new.  
 
+### **Common misunderstandings** 
+
 With the above said, do we literally “eat” Christ’s flesh and “drink” His blood? That is not what **John 6:53-58** means (we will not interpret all of it here). The cup and the bread were symbolic of what would happen to Jesus. The fact that communion was instituted and celebrated BEFORE Christ’s death on the cross proves that no physical or spiritual phenomenon occurs when we participate in the Lord's supper. In other words, we don’t drink our Savior’s literal blood or eat His literal flesh any time we eat the bread and drink the cup. There is not one Bible passage that supports this false conclusion. Communion is a ritual of remembrance or “re-presentation” involving elements that represent the body and blood of Christ. The sacrifices of the OT looked forward to this sacrifice of sacrifices. Today, we look back at what Christ did for us, and communion is another way to help us do that. 
 
 John 6:53-58 doesn’t teach that we should or can eat Jesus’s flesh and drink His blood because no one has done that. The Bible doesn’t mention anyone doing that at all. As we explained above, the bread and the beverage of communion do not transform into these. Instead, we “eat” and “drink” Jesus by surrendering our lives to Him through faith by accepting His person and work. Jesus said that He is the bread and water of life, metaphors to describe His eternal nature and the salvation He offered. Whoever believes in Him will live forever. But whoever does not will suffer both physical and spiritual death. Jesus had just fed the 5,000 by providing them physical bread. But what He wanted to give them was spiritual, eternal life through His death on the cross, something the people had to receive through faith. 
 
 It is astonishing how many people have taken something so simple and turned it into silliness. We can only imagine what Jesus and the apostles would think if they were here to witness all the “mysticism” going around in the world today. So many have and continue to make the same mistakes that Israel made when they misunderstood what Jesus said about Himself. In John 6:63, our Lord said that “*The Spirit gives life; the flesh counts for nothing. The words I have spoken to you-they are full of the Spirit and life*.” 
+
+### **Communion should be done in a biblical, fitting, and orderly way** 
 
 **1 Corinthians 11:20-22** 
 
