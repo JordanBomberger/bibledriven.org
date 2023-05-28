@@ -6,7 +6,13 @@ Should believers involve themselves in political democracy? Are some Christians 
 
 ## Introduction
 
-Political involvement is not the best idea. The question is not whether it is right or wrong, but is it something the Lord wants us to spend our time doing? Watching the news is alright as long as it doesn’t distract us from our relationship with Jesus Christ. All things in moderation. But political participation is a different story than casually keeping up with what is going on in the world, isn't it?
+Political involvement is not the best idea. The question is not whether it is right or wrong, but is it something the Lord wants us to spend our time doing? Watching the news is alright as long as it doesn’t distract us from our relationship with Jesus Christ. All things in moderation. But political participation is a different story than casually keeping up with what is going on in the world, isn't it? 
+
+{{% note  %}} 
+
+Although I am highly skeptical God calls any believer to channel their spiritual gifts and ministries through politics, I am not dogmatic. It is possible that a small few may be called upon to do so. But what we can say with certainty is that **most** believers would do well to stay out of politics.  
+
+{{%/ note  %}} 
 
 ## What does the Bible say? What should our goal be?
 
