@@ -138,33 +138,35 @@ The part in bold we have above was not our Lord setting a pattern. The eleven (e
 
 As examples of the selective nature of the Spirit (which is the case with our John 20:21-23 context), we have the following passages mentioned in our excerpt below. Text is taken from **[The Gospel of Jesus Christ](/large-topical/the-gospel-of-jesus-christ/)**. 
 
-TODO
+{{% quote text="The Gospel of Jesus Christ" src="/large-topical/the-gospel-of-jesus-christ/" %}}
 
-*Some may bring up the challenge that king David lost his salvation when he committed adultery with Bathsheba. But, of course, that is not the case.* *The Holy Spirit was given differently during old testament times as opposed to how we receive it today. Ever since the Jewish and Gentile Pentecost, the Spirit has come to indwell the person who has accepted Christ permanently. But the Holy Spirit did not reside in believers in this manner during Old Testament times or before the major believer pentecosts.* 
+Some may bring up the challenge that king David lost his salvation when he committed adultery with Bathsheba. But, of course, that is not the case.* *The Holy Spirit was given differently during old testament times as opposed to how we receive it today. Ever since the Jewish and Gentile Pentecost, the Spirit has come to indwell the person who has accepted Christ permanently. But the Holy Spirit did not reside in believers in this manner during Old Testament times or before the major believer pentecosts.
 
 {{% scripture p="John 14:15-18 (NIV)" %}} 
 
-***15**“ If you love me, keep my commands. **16** And I will ask the Father, and he will give you another **advocate to help you and be with you forever**— **17 the Spirit of truth**. The world cannot accept him, because it neither sees him nor knows him. But you know him, for he lives with you and will be in you. **18** I will not leave you as orphans; I will come to you.*         
+**15**“ If you love me, keep my commands. **16** And I will ask the Father, and he will give you another **advocate to help you and be with you forever**— **17 the Spirit of truth**. The world cannot accept him, because it neither sees him nor knows him. But you know him, for he lives with you and will be in you. **18** I will not leave you as orphans; I will come to you.     
 
 {{% /scripture %}}  
 
-*We contrast the above passage with the passages below, which show that the Spirit came upon specific believers during old Testament times to empower them for particular tasks the Lord had for them to accomplish. In David’s case, the Spirit came upon him to be God’s chosen king of Israel, and would empower him to carry out the work the Lord had for Him to do, and in addition to this, acting as a sign of his kingship.* 
+We contrast the above passage with the passages below, which show that the Spirit came upon specific believers during old Testament times to empower them for particular tasks the Lord had for them to accomplish. In David’s case, the Spirit came upon him to be God’s chosen king of Israel, and would empower him to carry out the work the Lord had for Him to do, and in addition to this, acting as a sign of his kingship. 
 
 {{% scripture p="1 Samuel 16:10-13 (NASB)" %}}   
 
-***10** Thus Jesse made seven of his sons pass before Samuel. But Samuel said to Jesse, “The Lord has not chosen these.” **11** And Samuel said to Jesse, “Are these all the children?” And he said, “There remains yet the youngest, and behold, he is tending the sheep.” Then Samuel said to Jesse, “Send and bring him; for we will not sit down until he comes here.” **12** So he sent and brought him in. Now he was ruddy, with beautiful eyes and a handsome appearance. And the Lord said, “Arise, anoint him; for this is he.” **13** Then Samuel took the horn of oil and anointed him in the midst of his brothers; **and the Spirit of the** **Lord** **came mightily upon David from that day forward.** And Samuel arose and went to Ramah.*                                                          
+**10** Thus Jesse made seven of his sons pass before Samuel. But Samuel said to Jesse, “The Lord has not chosen these.” **11** And Samuel said to Jesse, “Are these all the children?” And he said, “There remains yet the youngest, and behold, he is tending the sheep.” Then Samuel said to Jesse, “Send and bring him; for we will not sit down until he comes here.” **12** So he sent and brought him in. Now he was ruddy, with beautiful eyes and a handsome appearance. And the Lord said, “Arise, anoint him; for this is he.” **13** Then Samuel took the horn of oil and anointed him in the midst of his brothers; **and the Spirit of the** **Lord** **came mightily upon David from that day forward.** And Samuel arose and went to Ramah.
 
 {{% /scripture %}}  
 
-*Immediately after this section of the passage in the next verse, we see that the Spirit had departed from Saul, indicating that God gave Saul’s kingship to David. Because of his carnal disobedience, the Spirit no longer empowered the once king of Israel to carry out his duties since the Lord had rejected him. As discipline, the Lord sent an evil spirit to torment David’s future foe.*  
+Immediately after this section of the passage in the next verse, we see that the Spirit had departed from Saul, indicating that God gave Saul’s kingship to David. Because of his carnal disobedience, the Spirit no longer empowered the once king of Israel to carry out his duties since the Lord had rejected him. As discipline, the Lord sent an evil spirit to torment David’s future foe.
 
 {{% scripture p="1 Samuel 16:14 (NASB)" %}}  
 
-*14 Now the **Spirit of the Lord departed from Saul**, and an evil spirit from the Lord terrorized him.*                                                                                                                          
+**14** Now the **Spirit of the Lord departed from Saul**, and an evil spirit from the Lord terrorized him.
 
 {{% /scripture %}}  
 
-*Other passages that show that God’s Spirit would come upon people who were already believers to empower them for specific purposes and tasks are **Numbers 11:24-30, Judges 14:5-6, Judges 6:34, and Judges 3:9-11**. The indwelling of the Holy Spirit during Old Testament times was selective and temporary.*                                                          
+Other passages that show that God’s Spirit would come upon people who were already believers to empower them for specific purposes and tasks are **Numbers 11:24-30, Judges 14:5-6, Judges 6:34, and Judges 3:9-11**. The indwelling of the Holy Spirit during Old Testament times was selective and temporary.
+
+{{% /quote %}}
 
 A major problem that exists with the second blessing teaching is encountered in John 7:38-39. 
 
@@ -240,11 +242,13 @@ The Corinthians had so many moral issues that Paul needed to encourage the entir
 
 {{% /scripture %}}  
 
-The biggest question readers of this passage face is, “*What is the ‘perfect’ or ‘complete’ referred to in these verses*?” Four common views for the "perfect" are the eternal state, the closing of the Canon, the believer's death, and the return of Christ at His second advent before the Millennium. We won’t examine all of those here for the sake of time and space. However, I believe the perfect or complete refers to the completion of the Bible and the second advent (**Daniel 9:24**) since verse twelve suggests a concept instead of a concrete thing (as opposed to verse ten). The Greek word for “complete” is to-teleion and means complete, perfect, and mature. But that and the word partial are in the neuter gender, so the “perfect” refers more to a **thing** (by implication), showing us that this word is referring to the completed Bible (vs 10) **in addition to the return of Christ** (vs 12). Dr. Luginbill of [Ichthys.com](https://www.ichthys.com) puts it this way---
+The biggest question readers of this passage face is, “*What is the ‘perfect’ or ‘complete’ referred to in these verses*?” Four common views for the "perfect" are the eternal state, the closing of the Canon, the believer's death, and the return of Christ at His second advent before the Millennium. We won’t examine all of those here for the sake of time and space. However, I believe the perfect or complete refers to the completion of the Bible and the second advent (**Daniel 9:24**) since verse twelve suggests a concept instead of a concrete thing (as opposed to verse ten). The Greek word for “complete” is to-teleion and means complete, perfect, and mature. But that and the word partial are in the neuter gender, so the “perfect” refers more to a **thing** (by implication), showing us that this word is referring to the completed Bible (vs 10) **in addition to the return of Christ** (vs 12). Dr. Luginbill of [Ichthys.com](https://www.ichthys.com) put it this way to me in an email---
 
-TODO
+{{% quote text="Dr. Luginbill" src="https://www.ichthys.com" %}}
 
-“*So it's not really that there are two things here but that there is "one thing" which encompasses all of this: no more partial knowledge in the shorter term (Bible replaces temporary gifts) or in the longer term (complete knowledge when we see the Lord in resurrection*)” (Quote taken from a private email between myself and Dr. Luginbill from June of 2022). 
+So it's not really that there are two things here but that there is "one thing" which encompasses all of this: no more partial knowledge in the shorter term (Bible replaces temporary gifts) or in the longer term (complete knowledge when we see the Lord in resurrection)
+
+{{% /quote %}}
 
 Prophecy, knowledge, and tongues were communication gifts that spoke the truth to audiences who lacked the completed Bible. So they are contrasted with the entire Word of God because that is now complete and fully able to communicate everything the Lord wants us to know. All the partial knowledge derived from the sign gifts (all of them including the others not mentioned in our passage) would cease when all the much needed truth was presented in “completed” form through a finished canon. But even with this knowledge available to us, what we know as believers will never be complete until we become perfect at the resurrection. 
 

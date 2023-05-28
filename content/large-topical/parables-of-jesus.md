@@ -129,7 +129,11 @@ The second servant is symbolic of a believer who also receives punishment for no
 
 Regarding the phrase below: 
 
-*From everyone who has been given much, much will be required; and to whom they entrusted much, of him they will ask all the more* 
+{{% scripture p="Luke 12:48 (NASB95)" %}}
+
+From everyone who has been given much, much will be required; and to whom they entrusted much, of him they will ask all the more
+
+{{% /scripture %}}
 
 Those given much refer to believers who have a heavier responsibility in the church. Those who have greater responsibility but fail to follow through on their tasks will be held to higher standards due to their work weight. We see a prime example of this with Bible teachers who will incur stricter judgment (**James 3:1**). What one teaches matters, and whatever a teacher speaks to another believer can either make or break them depending on what they say, whether it is correct or not. Either a person’s teaching will help another believer’s growth, or it will hinder it. With such critical responsibility, it is no wonder that such people will receive harsher judgment for being lackadaisical in their work. For them to mess up would mean more significant damage done to the body of Christ because the nature of their service can affect people in so many ways, both negatively and positively depending. The principle here is simple; the more damage a believer causes, the greater the loss of eternal reward. The more careless a believer is with a heavier responsibility (more knowledge of the truth), the harsher the judgment for mishandling such an honorable role. 
 
@@ -632,11 +636,11 @@ To build up faith, believers need to grow spiritually in the truth of the Word. 
 
 Jesus spoke this parable in response to the young man’s request to tell his brother to divide the family inheritance with him. Regarding the phrase, “*Man, who appointed Me a judge or arbitrator over you*,” Dr. Luginbill of [Ichthys.com](https://www.ichthys.com) says---
 
-TODO
+{{% quote text="Ichthys" src="https://ichthys.com/luke-questions.htm" %}}
 
-*This answer shows that if Jesus really is worthy to be judge and arbiter over Israel, then He must be the Messiah; so if the answer is "God the Father Himself", then that means the person asking for this intervention is accepting our Lord as the Lord. However, the fact that this person is tied up in knots over earthly things and is merely trying an additional venue (no doubt having already tried other ways to get what he wants), demonstrates pretty clearly that he does not accept our Lord as the Messiah, the Son of God. This approach is perfectly consistent with what our Lord always did in making the issue the truth and its acceptance (analogous to asking the Pharisees, "Was John's ministry from God or not?", since in that case also a "yes" accepts also the authority of Christ).* 
+This answer shows that if Jesus really is worthy to be judge and arbiter over Israel, then He must be the Messiah; so if the answer is "God the Father Himself", then that means the person asking for this intervention is accepting our Lord as the Lord. However, the fact that this person is tied up in knots over earthly things and is merely trying an additional venue (no doubt having already tried other ways to get what he wants), demonstrates pretty clearly that he does not accept our Lord as the Messiah, the Son of God. This approach is perfectly consistent with what our Lord always did in making the issue the truth and its acceptance (analogous to asking the Pharisees, "Was John's ministry from God or not?", since in that case also a "yes" accepts also the authority of Christ).
 
-[*https://ichthys.com/luke-questions.htm*](https://ichthys.com/luke-questions.htm) 
+{{% /quote %}}
 
 Throughout the book of Luke, Jesus used the Scribes and Pharisees as examples of how not to handle wealth, and the disciples were to avoid their behavior. Luke chapter twelve shows us how to manage wealth and how not to. The verses after our parable from verse 22 reveal the discourse between Jesus and His disciples on living life without fear of one’s possessions.  The interpretation of this parable is that believers are to trust in God alone and not wealth and riches. No amount or manner of worldly possessions can ransom the life of a human being. Not only that, but no person knows when and how their time will come about, for it could happen at any moment in various ways. It profits no one to gain the world, only to spend never-ending torment in the lake of fire. (**Mark 8:34-38**). 
 

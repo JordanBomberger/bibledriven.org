@@ -95,9 +95,15 @@ As for what sasquatch could be, we will attempt to give a viable explanation. An
 
 Jason Mclean writes---
 
-*"The spirits of Nephilim, instead of descending to Hell were allowed to wander the earth as demons (specifically the evil spirits that possess and oppress humans). The corruption brought by the Watchers and the Nephilim had so corrupted humanity (both genetically as well as morally) and wildlife that God sent the flood to destroy the previous earth.”*
+{{% quote text="McLean" src="https://www.amazon.com/UFOs-Bigfoot-Prove-Bible-True/dp/179798683X" %}}
 
-There is more to this than what may appear on the surface. Like Jason Mclean, I too am against the Sethite view, which states that the Nephilim were "*corrupted rulers descended from Seth and not the giant hybrid offspring of angels and humans*"- quote by Jason Mclean." However, we have no concrete proof that the spirits of the Nephilim are the specific types of demons that possess and oppress humans. But such a theory is very plausible considering that they probably aren't presently in Hell (only those fallen angels responsible for creating them are currently bound and chained in another underworld compartment **Jude 6-7**, **2 Peter 2:4**). Therefore, like the rest of the fallen angels, it would make sense that the spirits of the Nephilim would be allowed a period of grace (time to wander the earth in freedom) before being dispatched into the lake of fire (which is presently unoccupied). 
+The spirits of Nephilim, instead of descending to Hell were allowed to wander the earth as demons (specifically the evil spirits that possess and oppress humans). The corruption brought by the Watchers and the Nephilim had so corrupted humanity (both genetically as well as morally) and wildlife that God sent the flood to destroy the previous earth.
+
+{{% /quote %}}
+
+There is more to this than what may appear on the surface. Like Jason Mclean, I too am against the Sethite view, which states that the Nephilim were "*corrupted rulers descended from Seth and not the giant hybrid offspring of angels and humans*" [^mclean-quote]. However, we have no concrete proof that the spirits of the Nephilim are the specific types of demons that possess and oppress humans. But such a theory is very plausible considering that they probably aren't presently in Hell (only those fallen angels responsible for creating them are currently bound and chained in another underworld compartment **Jude 6-7**, **2 Peter 2:4**). Therefore, like the rest of the fallen angels, it would make sense that the spirits of the Nephilim would be allowed a period of grace (time to wander the earth in freedom) before being dispatched into the lake of fire (which is presently unoccupied). 
+
+[^mclean-quote]: quote by [Jason Mclean](https://www.amazon.com/UFOs-Bigfoot-Prove-Bible-True/dp/179798683X)
 
 We will post the passages relevant to this topic below to refresh our memory of what happened during this satanic attack before the flood. 
 
@@ -113,17 +119,23 @@ When man began to multiply on the face of the land and daughters were born to th
 
 {{% /scripture %}} 
 
-TODO
-
 Jason Mclean states---
 
-*Note-1 Enoch confirms that it wasn't just humans the Watchers copulated with and there are additional texts that this is the origin of "monsters" like Sasquatch and others.* *At the very least we should view this as genetic manipulation and hybridization of human and animals genetics.* 
+{{% quote text="McLean" src="https://www.amazon.com/UFOs-Bigfoot-Prove-Bible-True/dp/179798683X" %}}
+
+Note-1 Enoch confirms that it wasn't just humans the Watchers copulated with and there are additional texts that this is the origin of "monsters" like Sasquatch and others. At the very least we should view this as genetic manipulation and hybridization of human and animals genetics.
+
+{{% /quote %}}
 
 To clarify Mclean’s view on the book of Jasher he writes below, 
 
-*Let me be very clear, the 1840 Jasher is NOT the same Book of Jasher referenced in the Old Testament. That being said, it is based on Jewish oral tradition that was compiled and written down in medieval Spain. It has certain teachings in the first few chapters that match with other traditions and legends found in pagan histories.* 
+{{% quote text="McLean" src="https://www.amazon.com/UFOs-Bigfoot-Prove-Bible-True/dp/179798683X" %}}
 
-To add to the above, I, like Mclean, do not believe the book of Enoch to be ""*canon or inerrant*." And nothing physical could have survived the flood sent to destroy all sinful mankind and the Nephilim. So if sasquatch is demonic in origin and physical (it may be both spiritual and physical---although this is hard to say with any certainty), it would had to have been created by the spirits of the Nephilim after the great deluge through genetic manipulation. 
+Let me be very clear, the 1840 Jasher is NOT the same Book of Jasher referenced in the Old Testament. That being said, it is based on Jewish oral tradition that was compiled and written down in medieval Spain. It has certain teachings in the first few chapters that match with other traditions and legends found in pagan histories.
+
+{{% /quote %}}
+
+To add to the above, I, like Mclean, do not believe the book of Enoch to be "*canon or inerrant*." And nothing physical could have survived the flood sent to destroy all sinful mankind and the Nephilim. So if sasquatch is demonic in origin and physical (it may be both spiritual and physical---although this is hard to say with any certainty), it would had to have been created by the spirits of the Nephilim after the great deluge through genetic manipulation. 
 
 ### **Genetic manipulation, hybridization, the Genesis gap, and the fossil record** 
 
@@ -133,7 +145,11 @@ We must remember that God initially created the earth for angels who (along with
 
 Dr. Luginbill states---
 
-*Given the demons' longing for physical bodies and the integral part in Satan's plan that the satisfaction of that desire played (see [part 1](https://ichthys.com/SR1copy.htm)), it is not unreasonable to suppose that much of the fascinating fossil record of the archaic earth we now possess is a result of the devil's manipulation and misuse of the earth's original fauna for just such purposes: the Bible's identification of Satan with reptiles (dragons, serpents), and his obvious fascination with the same (cf. Gen.3), make the possibility of this theoretical satanic origin of the terrible, powerful creatures of pre-history all the more conceivable.*
+{{% quote text="SR2" src="https://ichthys.com/sr2-copy.htm" %}}
+
+Given the demons' longing for physical bodies and the integral part in Satan's plan that the satisfaction of that desire played (see [part 1](https://ichthys.com/SR1copy.htm)), it is not unreasonable to suppose that much of the fascinating fossil record of the archaic earth we now possess is a result of the devil's manipulation and misuse of the earth's original fauna for just such purposes: the Bible's identification of Satan with reptiles (dragons, serpents), and his obvious fascination with the same (cf. Gen.3), make the possibility of this theoretical satanic origin of the terrible, powerful creatures of pre-history all the more conceivable.
+
+{{% /quote %}}
 
 As a quick side note, since the time from when Satan rebelled to when God blacked out and then "refurbished" the earth could have spanned eons of time (the Bible doesn't tell us), this would (as mentioned above) eliminate young earth creationism (and could also be to blame for why so many believers abandon Christianity for evolution and atheism). However, as far as man and all the re-created plant and animal life are concerned (the seven days of re-creation mentioned in Genesis), those have only been around for (in my view) roughly six thousand years. For more information on the seven thousand years of human history, please see [Part 5 of the Satanic Rebellion series on Ichthys](https://ichthys.com/Satans-Rebellion-Part5.htm#Seven%20Days%20of%20Human%20History ).
 
@@ -221,25 +237,29 @@ Yet most people choose to put God out of their minds, so they reject Him, despit
 
 Anyway, regarding UFOs, McLean states the following---
 
-*On December 16, 2017 the New York Times published an article with a video from an F/A-18F Super Hornet that pursued a UFO in 2004. The video was provided by the United States government which also publicly admitted that:* 
+{{% quote text="McLean" src="https://www.amazon.com/UFOs-Bigfoot-Prove-Bible-True/dp/179798683X" %}}
 
-*1) UFOs are real*
+On December 16, 2017 the New York Times published an article with a video from an F/A-18F Super Hornet that pursued a UFO in 2004. The video was provided by the United States government which also publicly admitted that:
 
-*2) They invade our airspace with impunity.* 
+1) UFOs are real
 
-*3) Their abilities demonstrate technology significantly more advanced than current US military aircraft.*                                           
+2) They invade our airspace with impunity.
 
-*4) And that the US has spent millions of dollars researching them.*                                                                  
+3) Their abilities demonstrate technology significantly more advanced than current US military aircraft.                                       
+
+4) And that the US has spent millions of dollars researching them.
+
+{{% /quote %}}
 
 So there you have it. Not only have military craft observed these flying objects but, according to some witnesses, they have been known to disappear and then reappear at random. Again, we just have to put two and two together. This is only helping to lay the groundwork for the great deception ahead during the tribulation. As believers, we already know much demonic activity exists in this world; we know that without knowing about UFOs. So demon activity is alive in our world, just in a more subtle, under-the-radar way. 
 
-Regarding UFO's again, Lynn E. Catoe States-
+Regarding UFO's again, Lynn E. Catoe states---
 
-*"A large part of the available UFO literature is closely linked with mysticism and the metaphysical. It deals with subjects mental telepathy, automatic writing and invisible entities as well as phenomenon like poltergeist manifestation and possession. Many of the UFO reports now being published in the popular press recount alleged incidents that are strikingly similar to demonic possession and psychic phenomenon that have long been known to theologians and parapsychologists."* 
+{{% quote text="Lynn E. Catoe" src="https://www.amazon.com/UFOs-related-subjects-annotated-bibliography/dp/B0006BX5SM" %}}
 
-\-     *Lynn E. Catoe, Senior bibliographer for the Library of Congress, UFOs AND RELATED SUBJECTS: An Annotated Bibliography, 1969; prepared under Airforce Office of Scientific Research project* 
+A large part of the available UFO literature is closely linked with mysticism and the metaphysical. It deals with subjects mental telepathy, automatic writing and invisible entities as well as phenomenon like poltergeist manifestation and possession. Many of the UFO reports now being published in the popular press recount alleged incidents that are strikingly similar to demonic possession and psychic phenomenon that have long been known to theologians and parapsychologists.
 
-*Order 67-0002 and 68-003*  
+{{% /quote %}}
 
 Many unbelievers during the tribulation may very well believe that the antichrist, the false prophet, and the rest of the world’s possibly half-human/half demonic world leaders are extraterrestrial alien visitors. Not only that, there have been a lot of UFO reports in the news as of late, so we are beginning to see the evil one and his minions lay the groundwork for the great deception ahead. 
 
@@ -265,11 +285,11 @@ And a great sign appeared in heaven: a woman clothed with the sun, with the moon
 
 “UFOs,” “aliens,” and all other demonic manifestations are the devil's way of trying to distract the world (both believers and unbelievers alike) by dragging their attention away from God and onto lies that, if followed, could lead to eternal separation in the lake of fire. Former family research counselor Tim Dailey made an excellent point regarding bigfoot and the paranormal (aliens and UFOs). Below he states---
 
-TODO
+{{% quote text="Tim Dailey" src="https://www.lgbtqnation.com/2018/07/now-christian-leaders-telling-followers-bigfoot-real-spawned-devil/" %}}
 
-*"It's part of the devil's modus operandi. He has always used this kind of phenomena to, once again destabilize, to engender fear, to open us up to the possibilities of other realities and other beings and then we begin getting involved with demonic spirits. So yeah, all through history there have been many, many different varieties of beings that are primarily spiritual beings that have terrorized civilizations and peoples and non-Christian cultures are very aware of this."* 
+It's part of the devil's modus operandi. He has always used this kind of phenomena to, once again destabilize, to engender fear, to open us up to the possibilities of other realities and other beings and then we begin getting involved with demonic spirits. So yeah, all through history there have been many, many different varieties of beings that are primarily spiritual beings that have terrorized civilizations and peoples and non-Christian cultures are very aware of this.
 
-https://www.lgbtqnation.com/2018/07/now-christian-leaders-telling-followers-bigfoot-real-spawned-devil/ 
+{{% /quote %}}
 
 ### **"Alien abduction" or demonic possession?** 
 
@@ -407,7 +427,7 @@ Demonic activity, in the form of UFOs, will most certainly contribute to the gre
 * [The Genesis Gap: Part 2 of the Satanic Rebellion: Background to the Tribulation](https://ichthys.com/sr2-copy.htm)
 * [Nephilim, Antichrist, the False Prophet and the Mark of the Beast](https://ichthys.com/mail-nephilim-antichrist-false-prophet-mark-of-the-beast.htm)
 * [How UFOs & Bigfoot Prove the Bible is True: McLean, Jason, McLean, Jason: 9781797986838: Amazon.com: Books](https://www.amazon.com/UFOs-Bigfoot-Prove-Bible-True/dp/179798683X)
-* Lynn E. Catoe, Senior bibliographer for the Library of Congress, UFOs AND RELATED SUBJECTS: An Annotated Bibliography, 1969; prepared under Airforce Office of Scientific Research project Order 67-0002 and 68-003 
+* [UFO's and related subjects: An annotated bibliography: Catoe, Lynn E: Amazon.com: Books](https://www.amazon.com/UFOs-related-subjects-annotated-bibliography/dp/B0006BX5SM)
 * [Now Christian leaders are telling followers that Bigfoot is real & spawned by the devil - LGBTQ Nation](https://www.lgbtqnation.com/2018/07/now-christian-leaders-telling-followers-bigfoot-real-spawned-devil/)
 * [Patapsco Valley State Park | Sierra Club](https://www.sierraclub.org/maryland/patapsco-valley-state-park)
 * [Oldest area named for its roaming elk](https://www.baltimoresun.com/news/bs-xpm-2001-02-27-0102270053-story.html)

@@ -655,11 +655,19 @@ The Purpose of giving an order among the spiritual gifts in our Corinthians pass
 
 The list in our passage doesn’t show that there are more important gifts than others since, as we have already seen, that is not the case. These gifts are listed based upon how much authority they carry with them, not by how much importance each one has and how much reward it will guarantee. 
 
-*All are not apostles, are they? All are not prophets, are they? All are not teachers, are they? All are not workers of miracles, are they? All do not have gifts of healings, do they? All do not speak with tongues, do they? All do not interpret, do they?”* 
+{{% scripture p="1 Corinthians 12:29-30 (NASB95)" %}}
+
+All are not apostles, are they? All are not prophets, are they? All are not teachers, are they? All are not workers of miracles, are they? All do not have gifts of healings, do they? All do not speak with tongues, do they? All do not interpret, do they?
+
+{{% /scripture %}}
 
 The Lord is the One who gives believers their spiritual gifts and empowers them for use. The results of our ministries are all pre-determined by God’s planned foreknowledge of human history. The point of verses twenty-nine and thirty is that believers cannot have every spiritual gift since God determines them. So with that said, how do we interpret verse 31 below, which states: 
 
-*But earnestly desire the greater gifts.”* 
+{{% scripture p="1 Corinthians 12:31 (NASB95)" %}}
+
+But earnestly desire the greater gifts.
+
+{{% /scripture %}}
 
 Today’s believers cannot receive the gift of tongues, prophecy, healing, apostleship, and miracles. Such was only for a specific time; the church's beginning in its transitional stage from infancy to adulthood. The verses below confirm this. 
 
@@ -1223,13 +1231,13 @@ For a husband and wife to behave properly toward one another is for both of them
 
 Regarding this passage above, Dr. Luginbill of [Ichthys.com](https://www.ichthys.com) states---
 
-TODO
+{{% quote text="Ichthys" src="https://ichthys.com/mail-Biblical-Anthropology.htm" %}}
 
-*The truth is that we are all "el", "god" with a small "G" ("**Is it not written in your Law, 'I have said you are gods'**?" **John 10:34 NIV**; cf.**Ps.82:6**), in the sense of having been given the God-given ability to choose: something only possible by divine grace. That is the essence of the image: free will. Clearly, not only is free will not lost at the fall, but making choices – and most particularly the choice of whether or not to accept salvation – is why we are here on earth individually and as a species in the first place.* 
+The truth is that we are all "el", "god" with a small "G" ("**Is it not written in your Law, 'I have said you are gods'**?" **John 10:34 NIV**; cf.**Ps.82:6**), in the sense of having been given the God-given ability to choose: something only possible by divine grace. That is the essence of the image: free will. Clearly, not only is free will not lost at the fall, but making choices – and most particularly the choice of whether or not to accept salvation – is why we are here on earth individually and as a species in the first place. 
 
-[*https://ichthys.com/mail-Biblical-Anthropology.htm*](https://ichthys.com/mail-Biblical-Anthropology.htm)  
+{{% /quote %}}
 
- Just as how women are not to pastor local denominations because of the way God has instituted authority between the sexes, so there were and are other areas of leadership that God has reserved for men to demonstrate once again the “husband and wife” relationship we the church as the bride have with Christ as our husband. The authority of men in leading local church congregations and in other areas of leadership, such as we see throughout the Bible, is symbolic of Christ's authority over us. Yet despite this authority, He still loves us and seeks our very best, just as a good husband should be toward his wife. In no way are men more extraordinary believers than women; it is just that God has a different role for every one of us to play in His plan. 
+Just as how women are not to pastor local denominations because of the way God has instituted authority between the sexes, so there were and are other areas of leadership that God has reserved for men to demonstrate once again the “husband and wife” relationship we the church as the bride have with Christ as our husband. The authority of men in leading local church congregations and in other areas of leadership, such as we see throughout the Bible, is symbolic of Christ's authority over us. Yet despite this authority, He still loves us and seeks our very best, just as a good husband should be toward his wife. In no way are men more extraordinary believers than women; it is just that God has a different role for every one of us to play in His plan. 
 
 The Bible contains many great believers of both genders who loved God with all their hearts. And as we have mentioned previously, many great believers have existed from Adam until now, not mentioned in Scripture. Unfortunately, secular books on church history do not contain some of the faith's greatest and most genuine heroes because the pages are all taken up by only the smartest and most educated (and politically involved). This is not to say some of these men were not great or even among the greatest of their time, but what a shock the entire church from Adam to the last believer to draw breath will encounter when many who were deemed last turn out to be first. Many believers, both men, and women have been under the radar for many years. But just because few have seen and acknowledged the greatness of their work does mean that God has not noticed, for He most certainly has. They will be rewarded abundantly and in the most blessed way. 
 

@@ -16,13 +16,17 @@ With all the above said, let us now address the statement we made at the beginni
 
 First, I am not saying that demons can’t possess unbelievers as they did during biblical times by taking the initiative. That is a possibility though possibly far less common today. The demonic possession we speak of here occurs through the use of shamanic drugs and other methods. In [**Cryptozoology and the Bible**](/large-topical/cryptozoology-and-the-bible/), I wrote the following on this subject---
 
-TODO
+{{% quote text="Cryptozoology and the Bible" src="/large-topical/cryptozoology-and-the-bible/" %}}
 
-*People reportedly contact aliens ( known as demons) and are “abducted”/possessed by them telepathically through shamanic drugs. This phenomenon is a modern version of demonic possession. Mclean also notes that contactees and abductees are demonically attacked and "subjected to humiliating and painful procedures to satisfy the desires of their abductors." This is something that most in the church would find hard to accept, but the Bible nowhere tells us that this can’t or doesn’t occur. So no believer has any right to automatically dismiss such occurrences and say that "the Bible doesn't support such strange behavior in our times." True, but it neither says that it DOESN'T occur either. But we know that satanic activity is alive and well for sure. Demonic possession/(unbelievers mistake this for alien abductions) does occur in our modern world in more different, subtle/less obvious ways.* 
+People reportedly contact aliens ( known as demons) and are “abducted”/possessed by them telepathically through shamanic drugs. This phenomenon is a modern version of demonic possession. Mclean also notes that contactees and abductees are demonically attacked and "subjected to humiliating and painful procedures to satisfy the desires of their abductors." This is something that most in the church would find hard to accept, but the Bible nowhere tells us that this can’t or doesn’t occur. So no believer has any right to automatically dismiss such occurrences and say that "the Bible doesn't support such strange behavior in our times." True, but it neither says that it DOESN'T occur either. But we know that satanic activity is alive and well for sure. Demonic possession/(unbelievers mistake this for alien abductions) does occur in our modern world in more different, subtle/less obvious ways.
+
+{{% /quote %}}
 
 Finally, I also stated (while quoting the author involved therein) the following---
 
-*Additionally, Jason Mclean notes that such demonic possession, as described above, would cease when the victims would call upon the name of Jesus. In his book, he writes that “The CE4 Research Group has recorded over 400 cases of individuals who were experiencing abductions and “alien” contacts only to have them ended by calling on the name of Jesus, and this group is by no means alone or unique.” Why is that? Because demons are afraid of God; we know why that is.* (Jason Mclean---How UFOs & Bigfoot Prove the Bible is True. Page numbers not provided)
+{{% quote text="Cryptozoology and the Bible" src="/large-topical/cryptozoology-and-the-bible/" %}}
+
+Additionally, Jason Mclean notes that such demonic possession, as described above, would cease when the victims would call upon the name of Jesus. In his book, he writes that “*The CE4 Research Group has recorded over 400 cases of individuals who were experiencing abductions and “alien” contacts only to have them ended by calling on the name of Jesus, and this group is by no means alone or unique*.” Why is that? Because demons are afraid of God; we know why that is.
 
 {{% scripture p="James 2:18-19 (ESV)" %}} 
 
@@ -30,6 +34,8 @@ Finally, I also stated (while quoting the author involved therein) the following
 
 {{% /scripture %}} 
 
-*Even if those people who cried out to God for help because of the torture they were undergoing never got saved, I doubt it makes any difference to the demons. Just mentioning the name “Jesus” or “God,” in my opinion, is enough to scare away all satanic forces, regardless of whether the person had a salvation experience or not. Fallen angels are terrified of Jesus Christ!*              
+Even if those people who cried out to God for help because of the torture they were undergoing never got saved, I doubt it makes any difference to the demons. Just mentioning the name “Jesus” or “God,” in my opinion, is enough to scare away all satanic forces, regardless of whether the person had a salvation experience or not. Fallen angels are terrified of Jesus Christ!
+
+{{% /quote %}}
 
 Hopefully, all this explains the statement I made above. The best thing for believers to do is acknowledge the spiritual realities around them so that these things do not shock us (as they will do to many during the tribulation) and cause many to turn away from the faith. After we acknowledge them, we can move on and worry about them no longer as if they weren’t even there. As mentioned in the paper in the link above, many unbelievers (including apostates) will undoubtedly fall for the lie that the beast, false prophet, and all the world’s possibly half-human, half demonic world leaders alive at that time (during the tribulation) are extraterrestrial. As Servants of God, we know better than to fall for rubbish like this. Our job is to focus on and complete the mission Christ has assigned us to accomplish through spiritual growth, progress, and production. As followers of Christ, we know what we need to do.        

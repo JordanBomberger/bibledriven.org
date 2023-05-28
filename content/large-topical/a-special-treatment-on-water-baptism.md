@@ -4,11 +4,6 @@ weight: 1000
 summary: Examining the Biblical evidence to show that this ritual is no longer for today. Water baptism should have died out a long time ago. In the present church and in the past, it carried/carries legalistic dangers for all who believe/believed in its necessity. 
 ---
 
-
-TODO: not all scripture references are consistently bolded on this page
-
-TODO: this bit isn't getting tagged right: "Acts 8:12, 8:26-39, 9:18, 10:47-48, 16:15, and 18:8"
-
 ## Introduction 
 
 Water baptism has been one of the most misunderstood issues in all of church history. In this examination, we will answer whether it is for today and if it is necessary for salvation. The reason for this brief evaluation (despite having already discussed it in “**[The Gospel of Jesus Christ](/large-topical/the-gospel-of-jesus-christ/)**”) is because Scripture brings this subject up in multiple areas, contexts, backgrounds, and circumstances. The word “baptism” also causes a lot of confusion and can have numerous meanings throughout the Bible in different places. For all of these reasons and more, this topic is tough to explain without covering a lot of arguments and misunderstandings. Indeed, our goal will not be to address every argument in support of this discontinued ritual because that is not required of anyone defending the biblical position. The truth never changes based on the newest (or oldest) and latest arguments that may cause some to doubt the reality. Likewise, no one is obligated to anticipate every argument against the truth. So we will aim to examine most passages that discusses our present subject irrespective of most of the opposing arguments that could be used for each one (to encounter some is inevitable). There is only one answer, and we are here to explain the truth of God’s Word, rightly studied, understood, and interpreted. And although this subject isn’t the easiest to discern, it is not as complicated as it may seem. 
@@ -135,7 +130,7 @@ The water in John 3:5-6 refers to a spiritual bath or cleansing that occurs with
 
 {{% scripture p="John 1:12-13 (ESV)" %}} 
 
-**12** But to all who did receive him, who believed in his name, he gave the right to become children of God, **13** who were born, **not of blood nor of the will of the flesh nor of the will of man, but of God**.                                                      
+**12** But to all who did receive him, who believed in his name, he gave the right to become children of God, **13** who were born, **not of blood nor of the will of the flesh nor of the will of man, but of God**.
 
 {{% /scripture %}} 
 
@@ -145,7 +140,7 @@ The water represents the truth of Jesus, who is the truth Himself. Other passage
 
 {{% scripture p="Matthew 28:19-20 (NKJV)" %}} 
 
-**19** Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, **20** teaching them to observe all things that I have commanded you; and lo, I am with you always, *even* to the end of the age.” Amen.                                                                 
+**19** Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, **20** teaching them to observe all things that I have commanded you; and lo, I am with you always, *even* to the end of the age.” Amen.
 
 {{% /scripture %}} 
 
@@ -161,7 +156,7 @@ John the Baptist already said why he water baptized, which had nothing to do wit
 
 The only way to make disciples is to share the gospel. Once a person believes in the Lord Jesus Christ, the Spirit baptizes them into the three person’s of the Trinity. So this passage means that we baptize others indirectly by sharing the gospel message that would result in the only baptism that matters (the Holy Spirit). 
 
-Another passage often associated with Matthew 28:19-20 above is Mark 16:16, a verse that I believe is not in the original manuscripts. Most scholars have agreed that this passage isn’t in the Bible, so we have no reason to discuss it (that is a matter of simple textual criticism). 
+Another passage often associated with Matthew 28:19-20 above is **Mark 16:16**, a verse that I believe is not in the original manuscripts. Most scholars have agreed that this passage isn’t in the Bible, so we have no reason to discuss it (that is a matter of simple textual criticism). 
 
 Finally, and before we move on, nowhere does the Bible say that water baptism became the new covenant sign or replacement for circumcision. That is a claim that has no biblical basis. Jesus’s blood and the coming of the Spirit were the sign(s) of the New Covenant. Circumcision was a sign that one followed God during the Old Testament. Today, the Holy Spirit is the new sign and indication that we belong to God. It is what marks us out as belonging to Christ (**Romans 8:9**). For more information, please see **[The Gospel of Jesus Christ - Water Baptism](/large-topical/the-gospel-of-jesus-christ/#22-water-baptism).** 
 
@@ -185,13 +180,13 @@ A few examples of the apostles showing their need for learning (other than their
 
 ### **Acts 2:38** 
 
-In Acts 2:38, Peter is speaking to a Jewish audience who were familiar with the baptism of John. As an apostle, he had the authority to give this speech to his Jewish brethren. But these words are not a continuous requirement for the church because Peter is speaking to these Jews specifically. The grammar in verse thirty-eight indicates that this was water baptism because the phrase “*be baptized*” is in the third person imperative. This tells us that Peter is not commanding his recipients to receive the ritual, but exhorting and encouraging them to do so as an option. On the other hand, the phrase “*repent*” is in the second person imperative, which is a direct command and not an exhortation. The Spirit baptizes all one believe in Christ immediately. That is to say, these believers were placed into union with Christ immediately upon faith. So since Spirit baptism is not an option but an automatic process, this baptism had to be water. 
+In **Acts 2:38**, Peter is speaking to a Jewish audience who were familiar with the baptism of John. As an apostle, he had the authority to give this speech to his Jewish brethren. But these words are not a continuous requirement for the church because Peter is speaking to these Jews specifically. The grammar in verse thirty-eight indicates that this was water baptism because the phrase “*be baptized*” is in the third person imperative. This tells us that Peter is not commanding his recipients to receive the ritual, but exhorting and encouraging them to do so as an option. On the other hand, the phrase “*repent*” is in the second person imperative, which is a direct command and not an exhortation. The Spirit baptizes all one believe in Christ immediately. That is to say, these believers were placed into union with Christ immediately upon faith. So since Spirit baptism is not an option but an automatic process, this baptism had to be water. 
 
 So why did Peter have all these people water baptized?  Like Paul and other apostles (believers), Peter still had a lot of learning to do because of the transition from the old to the new. We must remember that water baptism was a Jewish ritual meant to reveal the Messiah to Israel. It was a baptism of repentance to prepare the nation for her coming King. It was still fresh in the minds of Peter and his audience, so they did not yet understand that this ritual would no longer be necessary. Learning the truth would take time. 
 
 Despite this, there were potentially good reasons for Peter having these believers water baptized. So although he would later learn that it was obsolete, it probably helped familiarize his listeners with the Christ that John had been pointing to through his preaching and water ritual. So it may be impossible to say whether it was wrong for him and the other apostles to baptize. It was practical for stated reasons in the early stage but would have no additional benefits. And as time went on, those familiar with John’s baptism would shrink in number as the years went on.  The only reason Gentiles were water baptized was because it was customary for Jews (water baptism was a Jewish ritual) to do so (we recall Paul having timothy circumcised for the sake of the other Jews in **Acts 16:3**). But the apostles would eventually advance in their learning with the Spirit guiding them into all proper practice and approach. They would finally learn to stop baptizing people with water later on. 
 
-It is these reasons that also help to explain other (both actual and possible) instances of water baptism in Acts, such as **Acts 8:12, 8:26-39**, **9:18**, **10:47-48**, **16:15**, and **18:8**. There is no reason to examine any of them here in this brief study for reasons already explained. 
+It is these reasons that also help to explain other (both actual and possible) instances of water baptism in Acts, such as **Acts 8:12, 8:26-39, 9:18, 10:47-48, 16:15, 18:8**. There is no reason to examine any of them here in this brief study for reasons already explained. 
 
 As a brief side discussion, the believers in Acts 8:15-16 were Spirit baptized into Jesus Christ. They were also (no doubt) water baptized as well (although that wasn’t what was important). The Greek text has *eis* (into) to *onoma.* However, these individuals had not yet received the gift of the Spirit (which is why verse sixteen says they had simply been baptized in the name of the Lord Jesus). **The permanent indwelling is the gift itself**. So these believers never had the Spirit within them at all. For this reason, the apostles laid hands on these Samaritans to mediate the gift of the Spirit. During the early days of the church, it wasn’t uncommon for some to believe (they were saved immediately) and only be baptized “by” the Spirit, not “with.” This “by” placed them into union with Christ but did not always bring about the indwelling of the Spirit in the early days of the church (Acts 8:16 is a prime example). This only occurred during the apostle’s time to help establish and confirm their authority. But Paul writes later in Romans 8:9 that anyone who does not have the Spirit of God does not belong to Him. This means that it eventually became unnecessary for the apostles to mediate the gift of the Spirit by laying on hands. From that point forward, all who believed received the indwelling of the Holy Spirit immediately upon faith in Christ. 
 

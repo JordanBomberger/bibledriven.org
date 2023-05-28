@@ -235,7 +235,7 @@ All this means is that it is wrong, judgmental, and legalistic to condemn antide
 
 ### **Our trust should always be in God and not the people and treatments themselves** 
 
-“*Was it the ravens or God that fed Elijah?” “Did Elijah trust in God to provide bread or the ravens*? The answer is obvious. Although the ravens did bring Elijah bread, it was God who provided it. Yet the Lord used these birds to supply his prophet with food. Many believers who take advantage of medication don’t trust in the medication itself. Yes, they believe these treatments will help to some degree, but they trust that God will work through and use these means to help alleviate their suffering (their mental or physical symptoms). Their trust is still in God and Him alone. However, not all believers are like this. Many do put too much faith and trust in doctors and medicine. That is when we run into sinful habits. 
+"Was it the ravens or God that fed Elijah?" "Did Elijah trust in God to provide bread or the ravens?" The answer is obvious. Although the ravens did bring Elijah bread, it was God who provided it. Yet the Lord used these birds to supply his prophet with food. Many believers who take advantage of medication don’t trust in the medication itself. Yes, they believe these treatments will help to some degree, but they trust that God will work through and use these means to help alleviate their suffering (their mental or physical symptoms). Their trust is still in God and Him alone. However, not all believers are like this. Many do put too much faith and trust in doctors and medicine. That is when we run into sinful habits. 
 
 ### **There is nothing inherently sinful about antidepressants and cognitive behavioral therapy**  
 

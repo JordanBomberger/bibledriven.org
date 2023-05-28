@@ -64,23 +64,11 @@ All believers need to remember that we need only ask God for something once in a
 
 ### God is so more responsive to us than any human could ever be
 
-TODO - you probably need to rework this section to get the edited things put back in the proper order?
-
 Moving on from the points above, we have the parable of the widow and the unjust judge (**Luke 18:1-8**) to help show us that God will grant us help and deliverance in our times of greatest need, all times to be more precise. Unlike the unjust judge and the other reluctant friend, our Lord is fair and loving and will not turn down our requests. God is more eager to give us good things than anyone! That is the point of that parable. He is not unmerciful and uncaring, but just, loving, and compassionate. No mere human can compare to Him. This parable uses extremes (the sleeping friend and the unjust judge as polar opposites of our Savior) to boost our faith in God. Suppose two selfish and reluctant people (individuals most unlikely to lend a helping hand) finally help those in need (albeit with impure motives). How much more likely will God, who will not withhold anything good from His own, provide for us? 
 
 {{% scripture p="1 John 5:14-15 (ESV)" %}} 
 
 **14** And this is the confidence that we have toward him, that if we ask anything according to his will he hears us. **15** And if we know that he hears us in whatever we ask, we know that we have the requests that we have asked of him.
-
-{{% /scripture %}} 
-
-In **Luke 11:9-13**, Jesus continues the dialogue with His disciples on demonstrating their faith through prayer. It is worth mentioning that asking and seeking both go hand in hand because one cannot just search for truth with the intellect but must diligently seek with the heart. Any believer can study the Word of God academically, but how much they understand and apply depends on how they put their heart into their work. We must not “seek” only but must “ask” simultaneously. The Holy Spirit will guide and control our thoughts and minds if we submit to Him, but we must search with humility and an open heart ready to receive the truth. By asking God to help us understand what we are reading, we demonstrate the faith, humility, and complete reliance on Him that we should. But this concept doesn’t mean just uttering empty words; they must be spoken in faith with a zealous desire to discover the truth one is after. 
-
-One big lesson from the parable of the persistent friend (**Luke 11:5-13**) is that faith demonstrated through prayer should not depend on time and circumstances. The man went to his friend in the middle of the night. Yet, that did not stop him from going for help. If this man received support in such circumstances, how can we not expect God to give us aid during what may appear to be “impossible” ones? We can go to God in prayer at anytime, anywhere (as long as it is safe to do so). As believers, we aren’t stuck in a “box” but stand in a “wide-open field” from where we can freely cry out to God at all times. Even if other people refuse and fail us, God will never let us down. If there is something He knows we need, He will give it to us in His own good time. And we must remember that His timing is always perfect. Just like the man in our parable, we believers may have to wait for God to answer. But rest assured, our Lord always wants to give us things He knows we need. He will never refuse our requests or provide them to us begrudgingly as the friend in our parable did at first but will hear them out and grant them according to His will. Our part is to trust in Him that He has heard and is perfectly capable of helping us out. 
-
-{{% scripture p="Matthew 7:7-11 (NIV)" %}} 
-
-**7** “Ask and it will be given to you; seek and you will find; knock and the door will be opened to you. **8** For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened. **9** “Which of you, if your son asks for bread, will give him a stone? **10** Or if he asks for a fish, will give him a snake? **11** If you, then, though you are evil, know how to give good gifts to your children, how much more will your Father in heaven give good gifts to those who ask him!
 
 {{% /scripture %}} 
 

@@ -23,7 +23,11 @@ And it is this lukewarm spiritual state, or attitude (the one we see in the pass
 
 False teaching also plays heavily into this, and it comes from a complacent attitude toward God's Word. In Laodicea's case, the damage of false teaching has taken its' toll because it has convinced many that the lie is the truth and the truth is the lie. In today's era of believers, trying to persuade them that their attitude is wrong, followed by many of their false beliefs, is an arduous task, though it is not our job to try and force the truth on anyone. Change is difficult for people like this as they do not want to believe that they are/were wrong. Mark Twain's wise and famous saying is quite applicable here. 
 
-"*It's **easier to fool** people than to convince them that they have been **fooled***."  
+{{% quote text="Mark Twain" %}}
+
+It's **easier to fool** people than to convince them that they have been **fooled**.
+
+{{% /quote %}}
 
 {{% scripture p="2 Timothy 4:3 (NASB)" %}} 
 

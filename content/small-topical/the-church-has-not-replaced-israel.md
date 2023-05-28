@@ -28,16 +28,18 @@ The book of Ephesians solves this whole issue for us by reconciling both Jews an
 
 The only reason we call the current period “the time of the Gentiles” is because more of them are currently coming to Christ. This trend will reverse during and after the Tribulation when Israel retakes the leading role. And there is no passage in Scripture that in any way states that Gentiles have replaced Jews or that Israel and the church exist as two separate entities. They are both the same. Israel is simply a unique part of Christ’s body of believers. 
 
-The Greek New Testament term for “church” is *ekklesia* (ἐκκλησία) which comes from the verb “to call” and the preposition “out of.” As Dr. Luginbill of [Ichthys.com](https://www.ichthys.com) states---  
+The Greek New Testament term for “church” is *ekklesia* (ἐκκλησία) which comes from the verb “to call” and the preposition “out of.” As Dr. Luginbill of [Ichthys.com](https://www.ichthys.com) states---
 
-TODO
+{{% quote text="Ichthys" src="https://ichthys.com/6B-Ecclesio.htm#A._Definition_of_the_Church" %}}
 
-“*this is the same word used for the assembly of enfranchised citizens in the classical Greek city-states. These notions of special selection and special privilege can also be seen in the adjectival form eklektos, cognate in form and meaning with the Latin word from which our English "elect" is derived. That the Church is thus properly the universal assembly of all who choose to faithfully follow Jesus Christ during the first six millennia of human history, a chosen few (by grace through faith,* *Eph.2:8-9*), an elect group called by God out of the devil's world and into His own family, is a truth not only supported throughout the New Testament (cf.* *Matt.22:14**;* *Rom.8:33**;* *1Cor.1:27*;* *1Thes.1:4*;* *1Pet.1:1*;* *Rev.17:14*), but consistent with the picture given by the Old Testament as well, where ekklesia is the standard translation for Israel's assembly (**קהל**), the qahal.”* 
+[T]his is the same word used for the assembly of enfranchised citizens in the classical Greek city-states. These notions of special selection and special privilege can also be seen in the adjectival form eklektos, cognate in form and meaning with the Latin word from which our English "elect" is derived. That the Church is thus properly the universal assembly of all who choose to faithfully follow Jesus Christ during the first six millennia of human history, a chosen few (by grace through faith, Eph.2:8-9), an elect group called by God out of the devil's world and into His own family, is a truth not only supported throughout the New Testament (cf. Matt.22:14; Rom.8:33; 1Cor.1:27; 1Thes.1:4; 1Pet.1:1; Rev.17:14), but consistent with the picture given by the Old Testament as well, where ekklesia is the standard translation for Israel's assembly (**קהל**), the qahal.
+
+{{% /quote %}}
 
 And finally, he writes,
 
-TODO
+{{% quote text="Ichthys" src="https://ichthys.com/6B-Ecclesio.htm#A._Definition_of_the_Church" %}}
 
-*Central to the idea of our "election" is the purpose for it. For we who are elect are so because of Him who is **the** elect, Jesus Christ, and it is for Him that we have been chosen out of the world, to share eternity together with **the** chosen One (compare* *Is.42:1* *with 44:1; and cf.* *Lk.9:35*;* *23:35*;* *1Pet.2:4*):* 
+Central to the idea of our "election" is the purpose for it. For we who are elect are so because of Him who is **the** elect, Jesus Christ, and it is for Him that we have been chosen out of the world, to share eternity together with **the** chosen One (compare Is.42:1 with Is. 44:1; and cf. Lk.9:35; 23:35; 1Pet.2:4)
 
-[*https://ichthys.com/6B-Ecclesio.htm#A._Definition_of_the_Church*](https://ichthys.com/6B-Ecclesio.htm#A._Definition_of_the_Church) 
+{{% /quote %}}

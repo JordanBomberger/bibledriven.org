@@ -22,9 +22,6 @@ However, we must remember that all believers sin every day and that no one is pe
 
 {{% /scripture %}} 
 
-
-TODO: why is this verse citation duplicated?
-
 {{% scripture p="1 John 1:9 (NKJV)" %}} 
 
 **9** If we confess our sins, He is faithful and just to forgive us *our* sins and to cleanse us from all unrighteousness.
