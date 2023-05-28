@@ -4,42 +4,6 @@ title: Benefits of Being Outdoors - Exercise and God’s Wonderful Creation
 
 
 
-
-However, it is worth noting that knowing the land (its weather, seasons, and topography) is crucial for people today, just as it was in ancient times (the Hebrews, Babylonians, and Egyptians are some of the more well-known examples that come to mind). 
-
-As an example, the Egyptians used the timing of the Nile River inundation to plant crops. Topography has and still determines much of how societies arise, grow, function, and spread. The landscape and layout of any particular land can determine many things such as health, production, military success, growth, commerce, and the list goes on. In Scripture, we see many examples of this, such as Tire and Sidon, which sat by the Mediterranean coast for sea-based commercial trade with other nations. Many fortresses and cities were set high on hills with a close water source for protection and sustenance. Abraham and Lot separated when they chose which land they wanted for themselves (**Genesis 13**). So crucial is a topography that God would send plagues and natural (or divinely sent) disasters on certain lands to punish specific peoples. As the Creator of them, our Lord knows how important and fragile ecosystems are that He would sometimes discipline or punish a people by afflicting the topography. The Bible mentions God sending floods, causing earthquakes, sending hail, drought, and other natural and divine phenomena. 
-
-To state a basic but most-important principle, everyone (especially believers as ambassadors who represent Christ and all He is and has made) needs to obey the command to take care of this world God has entrusted to our care (**Genesis 2:15; Genesis 6:19-20**). The reality is that most people throughout human history have done a pretty poor job at this. Additionally, our Lord wants us to take care of animals (**Proverbs 12:10; Proverbs 27:23; Genesis 1:26**). The earth belongs to God (**Deuteronomy 10:14; 1 Chronicles 29:11; Psalm 24:1-2**), so why would we disrespect our Master’s property? As Christians, we need to be good stewards of all that our Creator has entrusted to our care. 
-
-The Hebrew word for “keep” in **Genesis 2:15** is shamar, שָׁמַר, and means to keep, guard, preserve, keep watch, and save life. God wants us to protect, save, and preserve His creation. The sad thing is that we have destroyed so much of it. 
-
-
-
-
-
-
-
-
-## A personal introduction
-
-TODO: what is this sentence? It came after the bit about playing with sticks and dirt: "Of course, I needed to outgrow some bad habits, and thankfully I did many years ago." Just seems kinda strange to me in context here, but maybe I'm just missing what it was supposed to mean/get at. I like how it sounds just fine with this sentence removed?
-
-Ever since I was a child, I have always enjoyed the outdoors. I never played much with toys or video games, but preferred to spend my time in my family's backyard playing with sticks and dirt (or in the sandbox). As I grew into my teen years and my early and mid-twenties, I came to appreciate this wonderful place that I could almost call a second home. Once I passed my driver’s test, I began to strike out on my own hiking and fishing adventures. I began to try out new trails and explore new parks and recreational areas. I would often go outside in times of stress and spiritual difficulty so that I could unwind, restart, refresh my thoughts, and clear my brain. It was also a good time for me to meditate and talk to the Lord. I participated in various activities such as hiking, trail and distance running, trout fishing, and general exploring. 
-
-Additionally, I grew up camping with my family once a year in various state parks throughout the Eastern United States (if the year allowed). Taking nice long walks through neighborhoods (especially with close friend(s)) is also something else I regularly enjoy. The outdoors has been a big part of my life, and that makes me very happy. 
-
-## Lovely as the great outdoors are, we cannot let anything, even nature, take our focus off of the spiritual
-
-Hobbies are a wonderful thing and perfectly fine to pursue in moderation. However, our relationship with the Lord should take first place in our lives. We want to invest more of our time and energy into our walk with God than anything else. And if we prioritize spiritual growth as we should, we will learn to love and put other people before our own interests. First, we must consider our family members (both physical and spiritual) and then all people in general. But it is good and advisable to leave some time for ourselves, because it is good to have balance in our lives. 
-
-In regards to exercising and spending time outdoors, they have many great benefits. “*But spiritual exercise is valuable in every way*” (**1 Timothy 4:8**). 
-
-{{% scripture p="1 Timothy 4:8 (NKJV)" %}} 
-
-**8** For bodily exercise profits a little, but godliness is profitable for all things, having promise of the life that now is and of that which is to come.                                                  
-
-{{% /scripture %}}
-
 ## The benefits of spending time outside in God's creation
 
 Parents would do well to encourage their children to spend more time outside instead of indoors glued to tablets or playing video games. While there is maybe nothing sinful with spending more time inside, science suggests (and has perhaps even proven) that spending time outdoors improves a person’s overall physical and mental health. A healthy, active lifestyle is certainly better than keeping one’s body at rest all the time. Some have theorized that more active people live longer than those who sit around and do nothing. However, it is true that some people don’t have the ability (for example, people with severe physical ailments) or the time to do this. If we don’t have the time due to more important matters (whatever they may be), then we don’t have the time. But if we have the opportunities to get outside and enjoy God’s wonderful creation, then we have to ask ourselves, “*Why not*?” 
@@ -85,11 +49,21 @@ On the other hand, we need to remember that just because we live a healthy lifes
 
 {{% /scripture %}} 
 
+## Lovely as the great outdoors are, we cannot let anything, even nature, take our focus off of the spiritual
+
+Hobbies are a wonderful thing and perfectly fine to pursue in moderation. However, our relationship with the Lord should take first place in our lives. We want to invest more of our time and energy into our walk with God than anything else. And if we prioritize spiritual growth as we should, we will learn to love and put other people before our own interests. First, we must consider our family members (both physical and spiritual) and then all people in general. But it is good and advisable to leave some time for ourselves, because it is good to have balance in our lives. 
+
+In regards to exercising and spending time outdoors, they have many great benefits. “*But spiritual exercise is valuable in every way*” (**1 Timothy 4:8**). 
+
+{{% scripture p="1 Timothy 4:8 (NKJV)" %}} 
+
+**8** For bodily exercise profits a little, but godliness is profitable for all things, having promise of the life that now is and of that which is to come.                                                  
+
+{{% /scripture %}}
+
 ## Different biomes within nature, and how nature pointing to God has spiritual import for both unbelievers and believers alike
 
-With all the above said, I would like to briefly discuss some of the different biomes of nature. Oxford Languages defines a “biome” as “*a large naturally occurring community of flora and fauna occupying a major habitat, e.g., forest or tundra*.” I will say right off the bat that I haven’t visited every single biome in this world (not even close), and haven’t personally gotten to experience most of them. 
-
-Our goal is not to examine any biome specifically to study flora and fauna contained therein. Our aim is to show how nature can point unbelievers to Christ, and also how it can spiritually benefit believers. We have already demonstrated above the physical and mental advantages of spending time outdoors, so we will not spend too much more time there, but will here try to focus a bit more on the spiritual side of things. 
+With all the above said, I would like to briefly discuss some of the different biomes of nature. Oxford Languages defines a “biome” as “*a large naturally occurring community of flora and fauna occupying a major habitat, e.g., forest or tundra*.” Our goal is not to examine any biome specifically to study flora and fauna contained therein. Our aim is to show how nature can point unbelievers to Christ, and also how it can spiritually benefit believers. We have already demonstrated above the physical and mental advantages of spending time outdoors, so we will not spend too much more time there, but will here try to focus a bit more on the spiritual side of things. 
 
 We can gain some spiritual benefits from spending time outdoors and marveling at God’s beautiful creation. I can personally testify that nature brought me closer to my Heavenly Father. Although just spending time outdoors won’t necessarily inherently grow us spiritually, it can still help us there indirectly: the natural world can help us if it causes us to marvel at the Power and Majesty of our Lord and Savior (**Psalm 19:1-2; Revelation 4:11; Nehemiah 9:6; Psalm 66:4**; etc.). So it is nature can be good for us physically, mentally, *and* spiritually. 
 
@@ -112,6 +86,14 @@ I would note for the above (since this could potentially be misleading) that thi
 **24** “The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples built by human hands. **25** And he is not served by human hands, as if he needed anything. Rather, he himself gives everyone life and breath and everything else. **26** From one man he made all the nations, that they should inhabit the whole earth; and he marked out their appointed times in history and the boundaries of their lands. **27** God did this so that they would seek him and perhaps reach out for him and find him, though he is not far from any one of us. **28** ‘For in him we live and move and have our being.’ As some of your own poets have said, ‘We are his offspring.’ **29** “Therefore since we are God’s offspring, we should not think that the divine being is like gold or silver or stone—an image made by human design and skill. **30** In the past God overlooked such ignorance, but now he commands all people everywhere to repent. **31** For he has set a day when he will judge the world with justice by the man he has appointed. He has given proof of this to everyone by raising him from the dead.”
 
 {{% /scripture %}} 
+
+It is worth noting that knowing the land (its weather, seasons, and topography) is crucial for people today, just as it was in ancient times (the Hebrews, Babylonians, and Egyptians are some of the more well-known examples that come to mind). 
+
+As an example, the Egyptians used the timing of the Nile River inundation to plant crops. Topography has and still determines much of how societies arise, grow, function, and spread. The landscape and layout of any particular land can determine many things such as health, production, military success, growth, commerce, and the list goes on. In Scripture, we see many examples of this, such as Tire and Sidon, which sat by the Mediterranean coast for sea-based commercial trade with other nations. Many fortresses and cities were set high on hills with a close water source for protection and sustenance. Abraham and Lot separated when they chose which land they wanted for themselves (**Genesis 13**). So crucial is a topography that God would send plagues and natural (or divinely sent) disasters on certain lands to punish specific peoples. As the Creator of them, our Lord knows how important and fragile ecosystems are that He would sometimes discipline or punish a people by afflicting the topography. The Bible mentions God sending floods, causing earthquakes, sending hail, drought, and other natural and divine phenomena. 
+
+To state a basic but most-important principle, everyone (especially believers as ambassadors who represent Christ and all He is and has made) needs to obey the command to take care of this world God has entrusted to our care (**Genesis 2:15; Genesis 6:19-20**). The reality is that most people throughout human history have done a pretty poor job at this. Additionally, our Lord wants us to take care of animals (**Proverbs 12:10; Proverbs 27:23; Genesis 1:26**). The earth belongs to God (**Deuteronomy 10:14; 1 Chronicles 29:11; Psalm 24:1-2**), so why would we disrespect our Master’s property? As Christians, we need to be good stewards of all that our Creator has entrusted to our care. 
+
+The Hebrew word for “keep” in **Genesis 2:15** is shamar, שָׁמַר, and means to keep, guard, preserve, keep watch, and save life. God wants us to protect, save, and preserve His creation. The sad thing is that we have destroyed so much of it. 
 
 {{% note %}}
 
