@@ -61,10 +61,7 @@ I do not believe smoking is a good idea. However, by itself, there is nothing si
 
 ### **Smoking isn't great for one's health** 
 
-Smoking is detrimental to our health and causes various issues, including premature deaths (see link below). Those who choose to partake in this activity have chosen to harm themselves. However, all addictions start somewhere, and a single activity can lead to a flurry of problems. Therefore, Christians should avoid this habit altogether because it is not worth the risk of falling into addiction and destroying themselves. All believers can have health problems, but the issues brought on by ongoing smoking are preventative. In the end, this all comes down to choice. 
-
-For an explanation of smoking's detrimental effects on one's health, you might see [this link from the CDC](https://www.cdc.gov/tobacco/data_statistics/fact_sheets/health_effects/tobacco_related_mortality/index.htm).
- 
+Smoking is detrimental to our health and causes various issues, including premature deaths (for example, see [here](https://www.cdc.gov/tobacco/data_statistics/fact_sheets/health_effects/tobacco_related_mortality/index.htm)). Those who choose to partake in this activity have chosen to harm themselves. However, all addictions start somewhere, and a single activity can lead to a flurry of problems. Therefore, Christians should avoid this habit altogether because it is not worth the risk of falling into addiction and destroying themselves. All believers can have health problems, but the issues brought on by ongoing smoking are preventative. In the end, this all comes down to choice. 
 
 ### **Smoking can have a bad witness and influence on others** 
 

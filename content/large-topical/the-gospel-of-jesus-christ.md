@@ -578,9 +578,7 @@ As seen from this last passage, the elect spoken of in 1 Peter are so **accordin
 
 So when we think about what we have seen above, free will did not come about by man's will. God created man, and it was Him alone who granted humanity the ability to choose. God created free will, gave man the ability to exercise it, and made it possible by hitting the “start” button, allowing all of His foreknowledge to become a reality through the course of human history. 
 
-To further reinforce what we have briefly commented on above, I encourage the reader to visit the link below on the biblical terms mentioned in Genesis, “image” and “likeness,” and what it means for man to share these two unique qualities with their Savior. 
-
-For information on the words “image” and “likeness,” please see [this section on Ichthys](https://ichthys.com/3A-Anthro.htm#1.%20The%20Image%20and%20the%20Likeness%20of%20God).
+To further reinforce what we have briefly commented on above, I encourage the reader to visit [this section on Ichthys](https://ichthys.com/3A-Anthro.htm#1.%20The%20Image%20and%20the%20Likeness%20of%20God) discussing the biblical terms mentioned in Genesis, “image” and “likeness,” and what it means for man to share these two unique qualities with their Savior. 
 
 To conclude, being made in the image and likeness of God means having the ability to exercise authority and respond to it through free will choice (as discussed in the link). 
 

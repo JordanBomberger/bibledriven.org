@@ -7,7 +7,7 @@ summary: Describing the current church as it really is and what needs to change 
 
 ## **1. The Role and Purpose of Church**
 
-For more information on the subject of this study, please see the following link:  **Knowledge, faith, and Application**  TODO
+For more information on the subject of this study, please see [**Zeal without Knowledge in Romans 10:1-4 - Truth, Faith, and Application**](/small-topical/zeal-without-knowledge-in-romans-10-1-4-truth-faith-and-application/).
 
 The whole purpose of meeting and assembling in a church, as spoken in Hebrews 10:25, is to receive in-depth Bible teaching and mutual encouragement from our brothers and sisters in Christ, helping us grow spiritually and prepare for our ministry work. Once prepared, we will then be ready to help other believers do likewise. Without hearing and receiving good substantive Bible teaching, our spiritual life will suffer. Pleasing the Lord the most requires the believer to find a place to grow spiritually. Today, most churches do not fulfill the purpose the Bible intends. Most sermons and meetings lack context because they contain too many stories, illustrations, music, and entertainment. As a result, far too much motivational speaking with very little sound exegesis occurs. A good pastor must "pature" his flock by feeding them the Word of God, not giving motivational speeches. The truth must first be discerned and then taught. And whatever the pastor teaches, there must be consistency in the soundness of his teaching. Far too often today, most churches and ministries have one foot in and one foot out—inconsistency resulting in little spiritual growth, both for those teaching and  listening. 
 

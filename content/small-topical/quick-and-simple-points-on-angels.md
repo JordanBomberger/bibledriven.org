@@ -56,9 +56,7 @@ We won’t further explain and go into further detail for this point. But there 
 
 **4. <u>Fallen angels cannot read our minds or possess believers, only unbelievers.</u>**
 
-See the following link for more information. 
-
-**Demon Possession-Past and Present-Satanic Attacks** 
+See [**Demon Possession Past and Present - Satanic Attacks**](/small-topical/demon-possession-past-and-present-satanic-attacks/) for more information.
 
 **5. <u>Elect and fallen angels have access to God’s throne.</u>**
 

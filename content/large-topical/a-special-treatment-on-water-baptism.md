@@ -163,7 +163,7 @@ The only way to make disciples is to share the gospel. Once a person believes in
 
 Another passage often associated with Matthew 28:19-20 above is Mark 16:16, a verse that I believe is not in the original manuscripts. Most scholars have agreed that this passage isn’t in the Bible, so we have no reason to discuss it (that is a matter of simple textual criticism). 
 
-Finally, and before we move on, nowhere does the Bible say that water baptism became the new covenant sign or replacement for circumcision. That is a claim that has no biblical basis. Jesus’s blood and the coming of the Spirit were the sign(s) of the New Covenant. Circumcision was a sign that one followed God during the Old Testament. Today, the Holy Spirit is the new sign and indication that we belong to God. It is what marks us out as belonging to Christ (**Romans 8:9**). For more information, please see the following link---**[The Gospel of Jesus Christ - Water Baptism](/large-topical/the-gospel-of-jesus-christ/#22-water-baptism).** 
+Finally, and before we move on, nowhere does the Bible say that water baptism became the new covenant sign or replacement for circumcision. That is a claim that has no biblical basis. Jesus’s blood and the coming of the Spirit were the sign(s) of the New Covenant. Circumcision was a sign that one followed God during the Old Testament. Today, the Holy Spirit is the new sign and indication that we belong to God. It is what marks us out as belonging to Christ (**Romans 8:9**). For more information, please see **[The Gospel of Jesus Christ - Water Baptism](/large-topical/the-gospel-of-jesus-christ/#22-water-baptism).** 
 
 
 
