@@ -853,7 +853,7 @@ We must remember that every believer’s reward depends on how much and how well
 
 There will always be very gifted people in this world. Whether athletes, doctors, or engineers, there are so many different life skills that various people possess, and no two individuals are ever perfectly alike. God has created human beings with varying degrees of physical and mental abilities. If the Lord wanted to, He could take the least intelligent person on earth and turn them into the most brilliant human being to ever live faster than a blink of an eye. Now that should tell us something! 
 
-This final list isn’t comprehensive, of course, and the goal of bringing these topics up is to get people to see that God does not look at people with partiality. So the author is in no way bashing intelligent and educated people, but simply writing this paper to help inform others that it is not our gifts and abilities which determine our standing with God. So to whoever is reading this, please do not be discouraged from pursuing a highly skilled career. As you continue to read, the emphasis should become more and more apparent.
+This final list isn’t comprehensive, of course, and the goal of bringing these topics up is to get people to see that God does not look at people with partiality. So I am in no way bashing intelligent and educated people, but simply writing this paper to help inform others that it is not our gifts and abilities which determine our standing with God. So to whoever is reading this, please do not be discouraged from pursuing a highly skilled career. As you continue to read, the emphasis should become more and more apparent.
 
 ### **3.1 Intelligence and Education** 
 

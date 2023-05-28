@@ -78,7 +78,7 @@ Few things will damage a believer more than false teaching relating to salvation
 
 {{% /scripture %}} 
 
-The most important (and only) source of information in discovering the gospel is the Bible, which tells us everything we need to know in our current evaluation. But accurate interpretation, as well as a good understanding of Scripture, is required to do this. So the author has taken the highest care to accomplish the desired goal. This is not a soteriology study but a presentation of what the gospel is. We will aim for simplicity, meaning we will confirm the truth and refute the lies as simply as possible. Therefore, with all of this said, let’s examine the gospel of Jesus Christ. 
+The most important (and only) source of information in discovering the gospel is the Bible, which tells us everything we need to know in our current evaluation. But accurate interpretation, as well as a good understanding of Scripture, is required to do this. So  I have taken the highest care to accomplish the desired goal. This is not a soteriology study but a presentation of what the gospel is. We will aim for simplicity, meaning we will confirm the truth and refute the lies as simply as possible. Therefore, with all of this said, let’s examine the gospel of Jesus Christ. 
 
 {{% scripture p="Romans 1:16 (NIV)" %}} 
 

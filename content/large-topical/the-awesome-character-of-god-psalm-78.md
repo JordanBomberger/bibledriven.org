@@ -154,7 +154,7 @@ So unless a person wants to pursue the Lord, caution is advised for any individu
 
 {{% /scripture %}}     
 
-I, the author, cannot prove God’s existence by magically making Him appear before all those who ask for proof. Yes, we have natural revelation in creation and other wonderful testimonies of God’s reality, which means that, technically, everyone on earth knows about God (**Romans 1:19-21**). On top of that, we have His Word. But no person can simply make God appear out of the blue. And that is a good thing because faith is the evidence of things not seen. That is the whole point of faith, to believe without seeing! So this decision is a test! 
+I cannot prove God’s existence by magically making Him appear before all those who ask for proof. Yes, we have natural revelation in creation and other wonderful testimonies of God’s reality, which means that, technically, everyone on earth knows about God (**Romans 1:19-21**). On top of that, we have His Word. But no person can simply make God appear out of the blue. And that is a good thing because faith is the evidence of things not seen. That is the whole point of faith, to believe without seeing! So this decision is a test! 
 
 {{% scripture p="John 20:24-29 (NIV)" %}}   
 
