@@ -36,9 +36,7 @@ On the other side of this are organizations that stand firm and strong in their 
 
 ### Lukewarmness and doctrine aside, legalism and a preponderance of rules can be problematic
 
-In addition to the lukewarmness issue and tendency to either be squishy on doctrinal positions on the one hand, or incredibly stalwart in holding false positions on the other -- in addition to these issues, there exists much legalism and hypocrisy in many Christian education systems. Anyone considering this type of biblical training needs to contemplate whether it is worth attending any place that puts a very large emphasis on rules, regulations, and restrictions. There are times we can “grin and bear it,” but some things are simply intolerable. The prospective student must choose wisely. Although ground rules need to exist in every school, they should never push unbiblical beliefs and agendas designed to control and manipulate people; see the link below for more information. 
-
-TODO: what link?
+In addition to the lukewarmness issue and tendency to either be squishy on doctrinal positions on the one hand, or incredibly stalwart in holding false positions on the other -- in addition to these issues, there exists much legalism and hypocrisy in many Christian education systems. Anyone considering this type of biblical training needs to contemplate whether it is worth attending any place that puts a very large emphasis on rules, regulations, and restrictions. There are times we can “grin and bear it,” but some things are simply intolerable. The prospective student must choose wisely. Although ground rules need to exist in every school, they should never push unbiblical beliefs and agendas designed to control and manipulate people. 
 
 ## On the practical side
 
