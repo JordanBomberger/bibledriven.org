@@ -285,7 +285,7 @@ And a great sign appeared in heaven: a woman clothed with the sun, with the moon
 
 “UFOs,” “aliens,” and all other demonic manifestations are the devil's way of trying to distract the world (both believers and unbelievers alike) by dragging their attention away from God and onto lies that, if followed, could lead to eternal separation in the lake of fire. Former family research counselor Tim Dailey made an excellent point regarding bigfoot and the paranormal (aliens and UFOs). Below he states---
 
-{{% quote text="Tim Dailey" src="https://www.lgbtqnation.com/2018/07/now-christian-leaders-telling-followers-bigfoot-real-spawned-devil/" %}}
+{{% quote text="Tim Dailey" src="https://www.rightwingwatch.org/post/american-family-radio-warns-listeners-of-satanic-conspiracy-behind-bigfoot/" %}}
 
 It's part of the devil's modus operandi. He has always used this kind of phenomena to, once again destabilize, to engender fear, to open us up to the possibilities of other realities and other beings and then we begin getting involved with demonic spirits. So yeah, all through history there have been many, many different varieties of beings that are primarily spiritual beings that have terrorized civilizations and peoples and non-Christian cultures are very aware of this.
 
@@ -428,7 +428,7 @@ Demonic activity, in the form of UFOs, will most certainly contribute to the gre
 * [Nephilim, Antichrist, the False Prophet and the Mark of the Beast](https://ichthys.com/mail-nephilim-antichrist-false-prophet-mark-of-the-beast.htm)
 * [How UFOs & Bigfoot Prove the Bible is True: McLean, Jason, McLean, Jason: 9781797986838: Amazon.com: Books](https://www.amazon.com/UFOs-Bigfoot-Prove-Bible-True/dp/179798683X)
 * [UFO's and related subjects: An annotated bibliography: Catoe, Lynn E: Amazon.com: Books](https://www.amazon.com/UFOs-related-subjects-annotated-bibliography/dp/B0006BX5SM)
-* [Now Christian leaders are telling followers that Bigfoot is real & spawned by the devil - LGBTQ Nation](https://www.lgbtqnation.com/2018/07/now-christian-leaders-telling-followers-bigfoot-real-spawned-devil/)
+* https://www.rightwingwatch.org/post/american-family-radio-warns-listeners-of-satanic-conspiracy-behind-bigfoot/
 * [Patapsco Valley State Park | Sierra Club](https://www.sierraclub.org/maryland/patapsco-valley-state-park)
 * [Oldest area named for its roaming elk](https://www.baltimoresun.com/news/bs-xpm-2001-02-27-0102270053-story.html)
 
