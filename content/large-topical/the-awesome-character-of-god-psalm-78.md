@@ -410,7 +410,11 @@ Sadly, many believers will fail the test of commitment during the tribulation wh
 
 The Ephraimites represent all the tribes of Israel or the nation as a whole. As Merrill F. Unger writes in his commentary on the old testament for verse nine---
 
+{{% quote text="Merrill Unger" src="https://www.amazon.com/Ungers-Commentary-Testament-Merrill-Unger/dp/0899574157" %}}
+
 *“The Ephraimites, representing all the tribes, were archers equipped with bows (1 Chron. 12:2), figuratively describing their noble call and destination. Yet they turned back in the day of battle, failing, when put to the test, to realize their high calling. Their unfaithfulness resulted in their defeat, the capture of the ark by the enemy (vv. 41-42, 56-60), followed by the rejection of Shiloh and the choice of Judah as the place of the sanctuary (vv. 67-69).* (Page 859) 
+
+{{% /quote %}}
 
 The last verses we described told us that the Israelites were unfaithful, while these verses begin to speak of the many ways in which they were disobedient. Despite witnessing the power and wonders of the Lord, they still refused to trust in Him for deliverance. They had something that we, as believers, do not have today. They had visible miracles and signs performed by the Lord Jesus to show them the way, protect them, and deliver them from their enemies. How sad is it then that even with all this convincing proof the Lord displayed, many still chose not to walk by faith? 
 
