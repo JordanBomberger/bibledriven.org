@@ -22,13 +22,13 @@ However, Moses was the most righteous of his generation and one of the greatest 
 
 In part three of our comments, we referenced 1 Timothy 3:1-7 as qualifications for teachers. Here, we will examine this passage more closely. 
 
-{{% scripture p="1 Timothy 3:1-7 (NIV11)" %}} 
+{{% scripture p="1 Timothy 3:1-7" %}} 
 
 Here is a trustworthy saying: Whoever aspires to be an overseer desires a noble task. **2** Now the overseer is to be above reproach, faithful to his wife, temperate, self-controlled, respectable, hospitable, able to teach, **3** not given to drunkenness, not violent but gentle, not quarrelsome, not a lover of money. **4** He must manage his own family well and see that his children obey him, and he must do so in a manner worthy of full respect. **5** (If anyone does not know how to manage his own family, how can he take care of God’s church?) **6** He must not be a recent convert, or he may become conceited and fall under the same judgment as the devil. **7** He must also have a good reputation with outsiders, so that he will not fall into disgrace and into the devil’s trap.                         
 
 {{% /scripture %}} 
 
-{{% scripture p="1 Timothy 3:1 (NIV11)" %}}
+{{% scripture p="1 Timothy 3:1" %}}
 
 Whoever aspires to be an overseer desires a noble task
 
@@ -38,7 +38,7 @@ I believe that elders, bishops, and pastors are the same thing. Only deacons are
 
 Our verse above does not suggest that those in leadership positions have more noble ministries than others. At the very least, this doesn’t mean one is better than the other, but one carries a greater responsibility that will undergo greater scrutiny at the bema seat. 
 
-{{% scripture p="1 Timothy 3:2 (NIV11)" %}}
+{{% scripture p="1 Timothy 3:2" %}}
 
 Now the overseer is to be above reproach, faithful to his wife, temperate, self-controlled, respectable, hospitable, able to teach
 
@@ -70,7 +70,7 @@ No believer is required to share the **everyday** sins they commit (this is some
 
 Discipleship is another word that gets thrown around to mean the same thing, but that is unbiblical. If we want to “disciple” other believers, we need to teach, encourage and exhort them through the truth of God’s Word rightly understood. Additionally, another great way to do this is to point them to a good solid teaching ministry where they can receive all the proper spiritual food they need. Believers grow into disciples through the truth adequately dispensed, a process that cannot occur through some manufactured approach that involves cult-like behavior by trying to encroach into other people’s lives (busybody legalism). 
 
-{{% scripture p="1 Timothy 3:3 (NIV11)" %}}
+{{% scripture p="1 Timothy 3:3" %}}
 
 Not given to drunkenness, not violent but gentle, not quarrelsome, not a lover of money
 
@@ -78,7 +78,7 @@ Not given to drunkenness, not violent but gentle, not quarrelsome, not a lover o
 
 Since only those mature and prepared enough may teach, it is pretty obvious why those who habitually practice the things above are disqualified. And there are already plenty of people out there that teach the health and wealth gospel, a trap any pastor can fall into. 1 Timothy 6:10 states, *“For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.”* Of course, a good pastor deserves his flock's support (both financially and spiritually) (**1 Timothy 5:18**). However, he must not take advantage of this or make that his primary concern because doing so will cause compromise. A good spiritual leader knows that life is all about Jesus Christ and that to serve Him is to carry out one’s duty faithfully, not under compulsion (**1 Peter 5:2**). 
 
-{{% scripture p="1 Timothy 3:4-5 (NIV11)" %}}
+{{% scripture p="1 Timothy 3:4-5" %}}
 
 He must manage his own family well and see that his children obey him, and he must do so in a manner worthy of full respect. (If anyone does not know how to manage his own family, how can he take care of God’s church?)
 
