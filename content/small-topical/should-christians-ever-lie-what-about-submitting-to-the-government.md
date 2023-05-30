@@ -2,6 +2,8 @@
 title: Should Christians Ever Lie? What About Submitting to the Government?
 ---
 
+## **Should Christians ever lie?**
+
 This question is common in Christian circles because of the fear induced by those who forbid lying regardless of circumstances. The drive behind this thinking involves the many passages that forbid it. Since all sin is sin, how can it ever be a good thing? This reasoning is understandable, but there are times when things prohibited in the Bible are not sinful. For example, the Bible forbids taking the life of another, yet king David (as just one of many examples) slaughtered thousands in battle. We need only consider all our brothers and sisters who have served their time defending their countries. If a Christian can take the life of others to protect their fellow countrymen (most of whom are unbelievers), how much more is it permissible for them to lie to save the life of another brother and sister in Christ? The Bible commands us to love all men, especially those of the household of faith, because we have a special love reserved for them (**2 Peter 1:5-9**). 
 
 So yes, the Bible supports that there are times when not telling the truth is justifiable. A prime example of this is Rahab mentioned in both the Old and New Testament for her exemplary behavior. She lied to her fellow citizens to hide two Israelites from among God’s chosen people. In so doing, she demonstrated her faith in God that she not only supported His servants but trusted in Him for the deliverance of herself and her family (**Joshua 2:1-21**). That is why James 2:25-26 mentions that she was justified by faith (corresponding to her deeds). Her actions were an act of faith. If she had not acted, then she would have had no faith. 
@@ -19,6 +21,8 @@ True, how many of us can say we have ever been in the same or similar circumstan
 **18** On my account you will be brought before governors and kings as witnesses to them and to the Gentiles. **19** But when they arrest you, do not worry about what to say or how to say it. At that time you will be given what to say, **20** for it will not be you speaking, but the Spirit of your Father speaking through you.                  
 
 {{% /scripture %}}  
+
+## **What about submitting to the government?** 
 
 Similar to everything above is the issue of submitting to governmental authority. We have, on occasion, mentioned that Christians need to submit to the government unless what they ask of us is unbiblical (**Romans 13:1-7**, **Titus 3:1**, **1 Peter 2:13-15**). And regardless of what some may think, it is not the constitution or any written document to which we are to submit if those in charge have either altered it or are demanding something contrary to it. In other words, if the constitution says one thing, but those in authority are demanding something else contrary to what is says, we are still to submit to those in charge regardless of what the “written code” may say because the law of any country is in the hands of the people in power, which means they have the power to change it at any time if they choose to do so. The Bible commands us to submit to those in authority so that if everyone (or those in the highest positions) in the government agrees to do something not permitted by any written code, then we are to obey the leaders, not the written document itself on whatever particular points have been altered. This is the right thing to do because that is what the Bible means by submitting to governmental authority (we only disobey when asked to do something sinful or unbiblical). 
 
