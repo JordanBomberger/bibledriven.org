@@ -1,5 +1,7 @@
 ---
 title: Church Programs
+summary: 
+   As written within the study itself, there is nothing wrong about having programs in the church. But the emphasis needs to be on the truth and helping others grow in it. There are many issues within them that need to be cleaned up so that many programs would either disappear or change forms if the Bible really became the central issue. 
 ---
 
 ## Introduction
