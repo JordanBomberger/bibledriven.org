@@ -1,5 +1,7 @@
 ---
 title: Dealing with Family---Matthew 13:53-58
+summary: 
+   Family can bring the worst out of us so that it would be good to understand how to cope with those who may present a big challenge to our faith. This page deals with biblical principles that we can implent to help smooth the process out, even if family experiences are not always fun or easy to endure. 
 ---
 
 {{% scripture p="Matthew 13:53-58 (NIV)" %}}  
