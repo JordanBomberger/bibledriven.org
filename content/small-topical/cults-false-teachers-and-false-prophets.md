@@ -1,5 +1,7 @@
 ---
 title: Cults, False Teachers, and False Prophets
+summary:
+   This page will examine the dangers, characteristics, and behaviors of cults, and false teachers and prophets. We will take a look at some of the "warning signs" to look out for. 
 ---
 
 ## **Cults** 
