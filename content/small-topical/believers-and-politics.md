@@ -1,5 +1,7 @@
 ---
 title: Believers and Politics
+summary:
+   Should Christians involve themselves in politics? This brief work argues for why believers should avoid them at all costs. 
 ---
 
 Should believers involve themselves in political democracy? Are some Christians called to channel their spiritual gifts through politics?
