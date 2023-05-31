@@ -1,5 +1,7 @@
 ---
-title: Demon Possession Past and Present - Satanic Attacks
+title: Demon Possession in our Modern Day and Satanic Attacks
+summary: 
+   A topic revolving around the questions of whether or not demon's still possess unbelievers today and how they may do so. But there is a difference between demonic attack and demonic possession. Believers can only be attacked, not possessed, as discusssed on this page. 
 ---
 
 Demon possession still occurs today in our modern world. However, we will get to that a little bit further below. First, we need to clarify that believers cannot suffer from demon possession because they have the indwelling Holy Spirit. This truth does not mean that we can’t suffer a demonic attack in other ways (Satan and his followers will challenge and oppose every bit of growth, progress, and production we believers make in this life). But that is not the same thing as having demons inside us controlling much of what we do. Nothing in Scripture even remotely suggests that Christians can suffer demonic control of the kind described in the New Testament. 
