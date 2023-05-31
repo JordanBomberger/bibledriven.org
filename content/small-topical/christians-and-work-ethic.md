@@ -1,5 +1,7 @@
 ---
 title: Christians and Work Ethic
+summary: 
+   Believers are ambassadors of Christ and represent Him. Therefore, we need to allow our light to shine before men in everything we think, say, and do. Our work ethic can speak volumes! We should strive to give our very best in everything we do, and this study will discuss many of the reasons on why we should. 
 ---
 
 ## **The believer's standards** 
