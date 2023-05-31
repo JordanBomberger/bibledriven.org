@@ -1,5 +1,7 @@
 ---
 title: Dealing with Opposition - Christian Suffering
+summary: 
+   Suffering and opposition are all part of the Christian experience. How we handle them will determine how far we will go in our spiritual journey. We will look into some biblical truths to remember at all times in all circumstances. 
 ---
 
 It is already a prominent and well-known fact that believers will suffer in this life, or is it? Almost everyone who has read through this ministry will know that the church is highly indifferent to the reality of the Christian life. So most believers don’t know what it is like to go through tough times because they seldom face them since they are less of a threat to Satan’s cause. The evil one is more clever than we know and will concentrate most of his efforts on thwarting and destroying the pain-staking work and actions of those who are walking in faith and pursuing the truth as they should. Our enemy does this not because the assaults have anything to do with us personally (as if Satan loves to pick on specific individuals), but because these people live in highest obedience to his arch-enemy, God. 
