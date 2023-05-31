@@ -1,5 +1,7 @@
 ---
 title: Believers and Jobs/Careers
+summary:
+   This topic discusses how the workforce may/can/should relate to our ministry and relationship with God. There are many variables because all believers are called to different things.  
 ---
 
 ## Introduction
