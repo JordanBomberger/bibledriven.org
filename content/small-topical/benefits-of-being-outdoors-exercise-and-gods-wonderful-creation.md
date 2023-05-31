@@ -1,5 +1,7 @@
 ---
 title: Benefits of Being Outdoors - Exercise and God’s Wonderful Creation
+summary: 
+   The title speaks for itself! We will examine the many physical, mental, and spiritual benefits of being outdoors. 
 ---
 
 
