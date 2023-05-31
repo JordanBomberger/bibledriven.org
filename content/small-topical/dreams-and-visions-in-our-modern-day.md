@@ -1,5 +1,7 @@
 ---
 title: Dreams and Visions in Our Modern Day
+summary: 
+   This page contains my views on whether dreams and visions still occur within and outside the church today. I believe it is possible, but there are other things stressed and addressed in this study. Experiences (whether true or false; satanic or from God) can be dangerous if mishandled.  
 
 ---
 
