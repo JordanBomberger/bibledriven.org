@@ -1,5 +1,7 @@
 ---
 title: Christian Colleges and Universities
+summary:
+   Christian colleges, universities, and seminaries have their advantages and disadvantages. This list contains advice and things to consider for the prospective attendee contemplating this choice.   
 ---
 
 ## Introduction
