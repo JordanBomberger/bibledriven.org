@@ -1,5 +1,7 @@
 ---
-title: 1 John 5:16-17 and "Sin Leading to Death"
+title: 1 John 5:16-17 and "Sin Leading to Death" 
+summary:
+   1 John 5:16-17 is a difficult passage to interpret and one that has confused many, including teachers. This study aims to explain the passage's meaning within bounds of the surrounding context. Once chapter five is properly understood, the interpretation offered in this writing should make sense and speak for itself. 
 ---
 
 {{% scripture p="1 John 5:16-17 (ESV)" %}}  
