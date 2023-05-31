@@ -1,5 +1,7 @@
 ---
 title: Communion
+summary: 
+   Communion is the only ritual the Bible commands us to practice today. Truth be told, there is a lot of confusion surrounding how, when, and where it should be done. What is communion about and what does it symbolize? We will answer all these questions and more in this examination.  
 ---
 
 ## **Communion is still for today** 
