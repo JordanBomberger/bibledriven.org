@@ -1,5 +1,7 @@
 ---
 title: Christians and Suicide
+summary: 
+   The following is what I believe on the issue of suicide within the church and whether true believers can commit it. 
 ---
 
 It is not improper to ask whether true believers can commit suicide---that is, can completely give up and fail to trust in the Lord by taking their own lives. I would answer yes because King Saul most likely did during his final battle on Mount Gilboa. We’ll take a look at it below.
