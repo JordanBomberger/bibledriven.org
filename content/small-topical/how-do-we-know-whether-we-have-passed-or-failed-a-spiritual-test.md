@@ -1,5 +1,7 @@
 ---
-title: How Do we Know Whether We Have Passed or Failed a Spiritual Test?
+title: How Do we Know Whether We Have Passed or Failed a Spiritual Test? 
+summary: 
+   Title says it all! How do we know whether we have passed or failed a spiritual test? 
 ---
 
 ## Introduction
