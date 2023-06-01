@@ -1,5 +1,7 @@
 ---
 title: Examples of Satanic Attack from Scripture
+summary:
+   This survey briefly reviews some of the most prominent instances of major satanic/demonic attacks on the human race. The sole purpose of these assaults was to thwart God's plan by destroying the Messiah's physical bloodline and all of His spiritual seed. Also discussed --- there are different biblical characters mentioned throughout the old testament that symbolize the antichrist in their unbelief and wicked actions towards God's people, especially the Jews. We will briefly examine those in this paper as well. 
 ---
 
 ## **Introduction** 
