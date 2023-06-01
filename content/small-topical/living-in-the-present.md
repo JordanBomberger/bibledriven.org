@@ -1,5 +1,7 @@
 ---
 title: Living in the Present
+summary: 
+   It is imperative for believers to learn how to live in the moment of each and every passing day for reasons intimated by Matthew 6:34. This subject discusses the importance of doing so and the dangers of allowing worry and stress to override our spiritual senses. 
 ---
 
 {{% scripture p="Matthew 6:34 (NIV)" %}}  
