@@ -1,5 +1,7 @@
 ---
 title: Mission Trips
+summary: 
+   The church is big on missions trips. Not a bad thing, but a few things believers need to remember when considering them. 
 ---
 
 ## Introduction
