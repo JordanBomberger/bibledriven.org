@@ -1,5 +1,7 @@
 ---
 title: Homosexuality and Transgenderism 
+summary: 
+   The following is a basic biblical examination on the issue of homosexuality and transgenderism. This work is not apologetic in nature but states basic truths that most believers should already know and understand. For those who may find some of this information new and informative, hopefully some of this content will be helpful. 
 ---
 
 {{% scripture p="1 Corinthians 6:9-11" %}}  
@@ -114,7 +116,7 @@ Of course, Solomon was right when he said there is nothing new under the sun. Th
 
 {{% /scripture %}} 
 
-No, we are not here to change the world or make it a better place (a point we will discuss in more detail in our following comment). That is not what we are espousing here. Quite the opposite comes from thinking, speaking, and living according to God’s holy Word. The passage above tells us what truly makes the biggest difference in this world. Since Christ is the only solution, we (like the nation of Israel was called upon to do) are to emulate Him to the best degree to point people to the only real solution to sin, death, and suffering. Time is of the essence, and worldly, political solutions won’t save anyone from eternal death. Only the gospel message and the testimony of Scripture proclaimed in the believer’s life can mend the real inner problem of the human heart for those willing to accept the truth. 
+No, we are not here to change the world or make it a better place. That is not what we are espousing here. Quite the opposite comes from thinking, speaking, and living according to God’s holy Word. The passage above tells us what truly makes the biggest difference in this world. Since Christ is the only solution, we (like the nation of Israel was called upon to do) are to emulate Him to the best degree to point people to the only real solution to sin, death, and suffering. Time is of the essence, and worldly, political solutions won’t save anyone from eternal death. Only the gospel message and the testimony of Scripture proclaimed in the believer’s life can mend the real inner problem of the human heart for those willing to accept the truth. 
 
 {{% scripture p="2 Timothy 4:5 (NIV)" %}}  
 
