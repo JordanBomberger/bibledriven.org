@@ -1,5 +1,7 @@
 ---
 title: Letting Go of the Past 
+summary: 
+   Believers must learn not to let any of their negative past experiences sour their present and future relationship with God and others. That is what this topic is about. 
 ---
 
 We’ve all been around people with bad tempers who don’t handle stress too well. The truth is that there are believers who act this way, just as there are unbelievers who do the same. That may sound shocking since those born of God will produce the fruits of the Spirit to some extent, but we should never assume that those who struggle with what we will discuss in this comment are not saved because Christians can struggle with those things too! But the issue here is people who allow their struggles to get way out of control to the point where they continuously and consistently harm themselves and others. 
