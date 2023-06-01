@@ -1,5 +1,7 @@
 ---
 title: Mourning Death and Other Reasons for Apostasy - Why Not to Give Up!
+summary: 
+   The believer will gain nothing abandoning their faith in Christ. This page will discuss some of the most common reasons for apostasy within the church. The most important decision for every Christian after getting saved is to remain in Jesus Christ through committed spiritual growth, progress, and production. The reasons to stay true to the faith are innumerable.   
 ---
 
 {{% scripture p="1 Thessalonians 4:13-14 (NIV)" %}} 
