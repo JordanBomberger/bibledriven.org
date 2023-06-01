@@ -1,7 +1,7 @@
 ---
 title: Faith, Hope, and Love - 1 Thessalonians 1:2-3
 summary: 
-Here I discuss the meaning of 1 Thessalonians 1:2-3 and how faith, hope, and love operate in the Christian life. 
+Here I discuss how faith, hope, and love operate in the Christian life. 
 ---
 
 {{% scripture p="1 Thessalonians 1:2-3 (ESV)" %}}  
