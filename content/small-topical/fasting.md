@@ -1,5 +1,7 @@
 ---
-title: Fasting
+title: Fasting 
+summary: 
+   A writing containing some important points on fasting. 
 ---
 
 ## **The Bible nowhere requires us to fast** 
