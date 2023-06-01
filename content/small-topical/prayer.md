@@ -1,5 +1,7 @@
 ---
 title: Prayer
+summary: 
+   The following study lists some important points regarding prayer. 
 ---
 
 ## Introduction
