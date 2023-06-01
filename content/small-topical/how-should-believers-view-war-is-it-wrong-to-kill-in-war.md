@@ -1,5 +1,7 @@
 ---
-title: How Should Believers View War? Is it Wrong to Kill in War?
+title: How Should Believers View War? Is it Wrong to Kill in War? 
+summary: 
+   The answers to the two questions in the title of this small topical study have some variables which we will address. Additionally, this page will take a look at some other things worth mentioning. 
 ---
 
 The answer to this topic may seem pretty straightforward. But there are some things we need to emphasize, meaning this subject requires a bit more thought than perhaps realized. 
