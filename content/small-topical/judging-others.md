@@ -1,5 +1,7 @@
 ---
 title: Judging Others
+summary: 
+   How should believers judge others and how should they not judge? I answer these questions in this topic. 
 ---
 
 Judging others unrighteously usually means looking down on others as if one was better (though this may not always be involved). That is a terrible sin in and of itself and best avoided at all costs. However, there tend to be misunderstandings on this topic. It is not uncommon to hear many people say, “*don’t judge*,” or “*don’t judge me*.” That isn’t necessarily wrong, nor is it necessarily correct. This issue depends on certain factors. We Christians must judge both good and bad things biblically. We are supposed to evaluate situations, circumstances, beliefs, teachings, and even people. Jesus said, “*Stop judging by mere appearances, but instead, judge correctly*” (**John 7:24**). Believers have to make judgment calls all the time because many situations requiring us to choose the right course of action demand discernment and proper perception. These are good things that we should never discourage people from exercising as long as they go about it properly with pure motives. 
