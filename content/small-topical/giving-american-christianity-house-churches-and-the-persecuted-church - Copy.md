@@ -1,5 +1,7 @@
 ---
-title: Giving, American Christianity, House Churches, and the Persecuted Church
+title: Giving, American Christianity, House Churches, and the Persecuted Church 
+summary: 
+   The things listed in the title are commonly misunderstood, neglected, and overlooked. Since that is the case (and these matters are very important), we will say some things about each one of them that need to be emphasized. 
 ---
 
 ## Introduction
