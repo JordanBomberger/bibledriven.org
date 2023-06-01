@@ -1,5 +1,7 @@
 ---
 title: No Follower of Christ is Missing out on Anything!
+summary: 
+   What the world esteems is of little or no value compared to the spiritual treasures that await all believers in eternity. So even though living the Christian life is far from easy and takes a lot of sacrifice, there is everything to be gained through our growing faith and service to Jesus Christ. The treasures and pleasures of this world are fleeting and temporary. Therefore, I discuss how this is not the case for the wealth awaiting the believer in God's kingdom. 
 ---
 
 {{% scripture p="1 Samuel 30:6 (KJV)" %}} 
