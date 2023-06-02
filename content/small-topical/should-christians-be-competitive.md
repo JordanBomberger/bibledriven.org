@@ -1,5 +1,7 @@
 ---
-title: Should Christians be Competitive?
+title: Should Christians be Competitive? 
+summary: 
+   What do we mean by the word "competitive" and should believers have this mind set? This page will discuss these questions in detail. 
 ---
 
 Some within the church have wondered whether it is sinful or not to have a competitive attitude, and the answer ultimately depends on what and where such a mindset is directed (and how it is employed). It also depends on what we mean by the word “competitive.” There are times when competing against others is necessary to obtain the prize and achieve the goal one is after (such as sports and what have you). In such instances, the players or athletes do their best to win by doing whatever it takes to overcome and beat their opponent(s). A quick search of obvious biblical parallels and examples reveals the famous verses in **1 Corinthians 9:24-27** (regarding the ancient games of Rome and Greece before, during, and after Paul’s time). But that is not how it is to be between fellow brothers and sisters in Christ when running the spiritual race God has called us to. 
