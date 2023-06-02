@@ -1,5 +1,7 @@
 ---
 title: Teaching Styles and Teacher Authority - Preparations for Pastor Teachers   
+summary: 
+   There are various styles and approaches to teaching God's Word because there is no one size fits all. Likewise, the various preparations required to teach will vary from individual to individual because there is a division of labor among pastors. All believers are called to different things. 
 ---
 
 ## Introduction
