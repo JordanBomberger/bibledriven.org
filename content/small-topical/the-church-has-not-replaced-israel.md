@@ -1,5 +1,7 @@
 ---
-title: The Church Has Not Replaced Israel
+title: The Church Has Not Replaced Israel 
+summary: 
+   Israel is just as much a part of the church as every believer since Adam has been. This page will discuss this important truth to clear up the confusion that states otherwise. Although Israel is unique in its own right, it is still part of the church. 
 ---
 
 Romans 11 clarifies that the church and Israel (Jews) are one and the same. Indeed, the nation of Israel began long before the time of the Gentiles consisting of the past two thousand years. But the church consists of all born again believers ever since Adam and Eve up to our present time. So the first believers were gentiles, not Jews or Israelites. But the Lord went on to choose a people that would spread His name, beginning with Abraham and his descendants. So Romans eleven isn’t stating that the Jews were the first converts, but that they were the first chosen group of people to act as ambassadors for Christ here on earth. Jesus was the rock and foundation of the church, and He was Jewish. Therefore, the church was still founded by Jews, not Gentiles. As mentioned in Romans, there is much advantage of being a Jew from Israel (**Romans 3:1-2; Romans 1:16; 2:9; 2:10**). But not all Israel is true Israel, a fact discerned by faith because only those who believe in Jesus Christ are the true “chosen ones” of God. Since God chose Israel to be the apple of His eye, how can unbelieving Israelites constitute the chosen? Only believers fall in this category.  
