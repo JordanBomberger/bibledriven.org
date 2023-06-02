@@ -179,7 +179,7 @@ And just because something is categorized as a conspiracy theory does not make i
 
 ## **6. Explaining Aliens and UFOs** 
 
-If “Aliens” and UFOs are real (as I believe they are), they are nothing more than demonic activity (bigfoot and UFO sightings are reportedly linked and associated with each other --- that should tell us something right there) . **By themselves, aliens and UFOs do not exist**. Many wish to believe they do to elude the plain and simple truth that there is a God. Many want to believe that aliens are real so they can dismiss The Creator. There is no surprise they do this either because they hate our Savior and don't want Him to be their Lord. 
+If “Aliens” and UFOs are real (as I believe they are), they are nothing more than demonic activity (bigfoot and UFO sightings are often reportedly linked and associated with each other --- that should tell us something right there) . **By themselves, aliens and UFOs do not exist**. Many wish to believe they do to elude the plain and simple truth that there is a God. Many want to believe that aliens are real so they can dismiss The Creator. There is no surprise they do this either because they hate our Savior and don't want Him to be their Lord. 
 
 {{% scripture p="John 3:17-21 (NKJV)" %}} 
 
