@@ -1,5 +1,7 @@
 ---
 title: Teacher Standards, Church Discipline, and Accountability Partners
+summary: 
+   Since teachers will receive a stricter judgment (James 3:1), what type of standards apply especially to them? We will present the answer to that question through the lens of 1 Timothy 3:1-7. Also, church discipline and accountabilty partners are unbiblical depending on what people mean by them. We will touch on a few important points with the sole purpose to steer the believer out of legalism. 
 ---
 
 In another part of our comment series, we have, to some extent, discussed the standards that Bible teachers need to live their lives around. However, the point of this section is to talk about the issue a little more in-depth. 
