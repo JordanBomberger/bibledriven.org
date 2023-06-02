@@ -1,5 +1,7 @@
 ---
 title: Quick and Simple Points on Angels
+summary: 
+   This page contains basic yet important information on Angels. 
 ---
 
 ## **We must not worship Angels because we worship God and Him alone**
