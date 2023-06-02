@@ -1,5 +1,7 @@
 ---
 title: Soul Sleep, Universalism, and Annihilationism
+summary: 
+   Here we will debunk the false teachings of soul sleep, universalism, and annihilationism. We will also examine the very big dangers they present.  
 ---
 
 Although the subjects of soul sleep, universalism, and annihilationism are somewhat similar, we will address the former separately for clarity’s sake. 
