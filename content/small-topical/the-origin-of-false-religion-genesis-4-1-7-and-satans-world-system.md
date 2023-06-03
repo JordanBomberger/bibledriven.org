@@ -1,5 +1,7 @@
 ---
 title: The Origin of False Religion - Genesis 4:1-7 and Satan's World System
+summary: 
+   A topic describing when false religion first began and the ensuing kingdom of darkness that Satan established after Adam and Eve's fall. 
 ---
 
 {{% scripture p="Genesis 4:1-7 (ESV)" %}}  
