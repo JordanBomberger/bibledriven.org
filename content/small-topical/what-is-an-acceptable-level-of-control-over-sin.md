@@ -1,5 +1,7 @@
 ---
 title: What is an Acceptable Level of Control Over Sin?
+summary: 
+   The question of this topic is what this page will address. 
 ---
 
 ## Trying to parse specific lines is not the right approach
