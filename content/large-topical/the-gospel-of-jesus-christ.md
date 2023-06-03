@@ -430,7 +430,7 @@ A lack of any obedience or good fruit can reveal someone as an unbeliever since 
 
 {{% /scripture %}} 
 
-Helping others is not something that earns us salvation because it is by faith through grace alone. Instead, works are an indication of belonging to Christ. However, even believers still fail, which means that they don't always walk in faith. So not helping out a brother in need (as is the case in our verse) could indicate a believer not living out their faith as they should or an unbeliever who isn't saved at all. 
+Helping others is not something that earns us salvation because it is by faith through grace alone. Instead, works are an indication (evidence) of belonging to Christ (true faith in Him which backs up the claim of possessing it). However, even believers still fail, which means that they don't always walk in faith. So not helping out a brother in need (as is the case in our verse) could indicate a believer not living out their faith as they should or an unbeliever who isn't saved at all. 
 
 **Vs-18-20** 
 
@@ -440,7 +440,7 @@ Helping others is not something that earns us salvation because it is by faith t
 
 {{% /scripture %}} 
 
- True saving faith produces, whereas a simple belief or appreciation for the existence of God is not sufficient for salvation. Because of this, it will have nothing to show. The demons are a perfect example because they do nothing good for God and even oppose Him! So even though an unbeliever may be a good law-abiding citizen who is kind toward others, nothing he does means a thing to God. No matter how friendly or pleasant they may be, they are still God’s enemies who stand condemned because they have not believed (committed themselves to Jesus Christ by following Him faithfully to the end in true saving faith). 
+ True saving faith produces (is evidenced by works), whereas a simple belief or appreciation for the existence of God is not sufficient for salvation. Because of this, it will have nothing to show. The demons are a perfect example because they do nothing good for God and even oppose Him! So even though an unbeliever may be a good law-abiding citizen who is kind toward others, nothing he does means a thing to God. No matter how friendly or pleasant they may be, they are still God’s enemies who stand condemned because they have not believed (committed themselves to Jesus Christ by following Him faithfully to the end in true saving faith). 
 
 And again, these verses also apply to believers who are not living out their faith as they should (an inactive faith is useless). 
 
@@ -452,7 +452,7 @@ And again, these verses also apply to believers who are not living out their fai
 
 {{% /scripture %}} 
 
-Abraham’s faith was “declared” by his obedience to the Lord because of what he did. But Abraham was already saved long before he offered his son Isaac on the altar (most likely when he first obeyed the Lord to leave his homeland). Thus, his most incredible act of faith in offering up his son Isaac was a declaration of it in addition to all the other times Abraham had acted in belief toward God. Abraham’s faith would continuously be demonstrated throughout his lifetime as obedient work after obedient work continued to declare his righteous genuine standing with God. But Abraham was justified the first moment he believed (the passage below). 
+Abraham’s faith was “declared” by his obedience to the Lord because of what he did. But Abraham was already saved long before he offered his son Isaac on the altar (most likely when he first obeyed the Lord to leave his homeland). Thus, his most incredible act of faith in offering up his son Isaac was a declaration of it in addition to all the other times Abraham had acted in belief toward God. Abraham’s faith would continuously be demonstrated throughout his lifetime as obedient work after obedient work continued to declare his righteous genuine standing with God. But Abraham was justified the first moment he believed. 
 
 {{% scripture p="Genesis 15:5-6 (NASB)" %}} 
 
