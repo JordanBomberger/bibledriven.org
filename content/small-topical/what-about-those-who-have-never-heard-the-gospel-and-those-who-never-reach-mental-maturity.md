@@ -1,5 +1,7 @@
 ---
 title: What About Those Who Have Never Heard the Gospel, and Those Who Never Reach Mental Maturity?
+summary: 
+   What is the eternal destiny for those who have never heard the gospel and the mentally handicapped? What about babies that die young? This page will address these issues. 
 ---
 
 This topic we will discuss has ruffled many people's feathers, both believers and unbelievers. The problem with these individuals is a lack of trust in God and a desire to complicate something so simple. Sometimes, there is nothing worse than those who wish to throw the multitudes into confusion by overcomplicating every truth because it hinders rather than helps people. Confusion (which has already hindered the faith of many) has done enough damage in Laodicea! 
