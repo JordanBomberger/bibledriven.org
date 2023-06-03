@@ -1,5 +1,7 @@
 ---
 title: The Rich Young Man and Wealth - Matthew 19:16-30
+summary: 
+   A subject involving the interpretation of Matthew 19:16-30 
 ---
 
 {{% scripture p="Matthew 19:16-30 (NIV)" %}}  
