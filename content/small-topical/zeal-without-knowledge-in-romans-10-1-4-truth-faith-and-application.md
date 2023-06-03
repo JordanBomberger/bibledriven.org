@@ -1,5 +1,7 @@
 ---
 title: Zeal without Knowledge in Romans 10:1-4 - Truth, Faith, and Application 
+summary: 
+   A topic revolving around the meaning of Romans 10:1-4 and the relationship between the truth, faith, and application in the Christian life. 
 ---
 
 ## Zeal without Knowledge - Romans 10:1-4 
