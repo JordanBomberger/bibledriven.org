@@ -1,5 +1,7 @@
 ---
 title: The Danger of Pride and Arrogance
+Summary: 
+   Pride was the first and original sin that Lucifer committed before God expelled him. Therefore, it is imperative that believers take pains to avoid falling into it themselves (even though we all stumble in many ways). This page will discuss the dangers of such an attitude. 
 ---
 
 Pride is one of the most dangerous sins possible because it is at the height of human folly to assume we are better than others or are something we are not. Unfortunately, this type of thinking has manifested itself more now than at any other time in history (most likely at least). The more wealthy and advanced we become as a society, the less people feel inclined to rely on God and serve Him with all their hearts. And this problem isn’t limited only to the secular world but also to most of the true church of Jesus Christ consisting of all born-again believers who have become complacent (sound familiar) about fulfilling the mission they were born to complete. 
