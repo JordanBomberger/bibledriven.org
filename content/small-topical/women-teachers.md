@@ -1,5 +1,7 @@
 ---
-title: Women Teachers
+title: Women Teachers 
+summary: 
+   Women are not to "pasture" a local church congregation and this study will examine the biblical evidence for why this is. However, there are a few other things that need examination that this page will address. 
 ---
 
 Should women teach men or lead a local church congregation? We will answer this question with the following points. 
