@@ -1,5 +1,8 @@
 ---
-title: The Gift of Apologetics
+title: The Gift of Apologetics 
+summary: 
+   A brief discussion on the gift of apologetics. 
+   
 ---
 
 {{% scripture p="Acts 18:27-28 (NIV)" %}}  
