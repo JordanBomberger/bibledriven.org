@@ -25,7 +25,7 @@ Many people like to stress how we are all equally important compared to one anot
 
 This study aims to assure the believer of their worth and value before Jesus Christ and relieve them of the world's misguided mindset. As Christians, our purpose and value are in Christ, not on man’s criteria of evaluating things. 
 
-All believers are equal, regardless of education, intelligence, spiritual gifts, ministries, status, popularity, etc. But as mentioned previously, the behavior of so many goes against what they preach. In addition to this, this author's impression is that few have taken the time to examine this critical topic more closely and in a more detailed fashion. Why this is the case is no doubt partially because of the misguided thinking, standards, and behaviors of so many lukewarm believers comprising the bulk of today’s church (**Revelation 3:14-22**). Believers can solve the problem of dubbing others' worth and usefulness by man’s standards by an ever-increasing zeal to grow up spiritually in Jesus Christ. That way, our perspectives, standards, treatment, and behavior of others would change drastically. 
+All believers are equal, regardless of education, intelligence, spiritual gifts, ministries, status, popularity, etc. But as mentioned previously, the behavior of so many goes against what they preach. In addition to this, my impression is that few have taken the time to examine this critical topic more closely and in a more detailed fashion. Why this is the case is no doubt partially because of the misguided thinking, standards, and behaviors of so many lukewarm believers comprising the bulk of today’s church (**Revelation 3:14-22**). Believers can solve the problem of dubbing others' worth and usefulness by man’s standards by an ever-increasing zeal to grow up spiritually in Jesus Christ. That way, our perspectives, standards, treatment, and behavior of others would change drastically. 
 
 But there is an unhelpful thinking pattern circulating within the church that discourages its members' growth and service. Some include the idea that one has to be very educated, intelligent, etc., to serve the Lord properly. A fine example of this is the all too common view of ministry in our day and age. This bad habit of limiting legitimate Christian service (or just ministry overall) to specific ministries with specific "qualifications" and "preparations" to harm other legitimate ministries requiring different preparations and spiritual gifts is all too common today. Since our identity is in Christ, how shameful it is to sweep under the carpet the work of another member of His flock who goes about preparing for and serving in ministry outside of the accepted “ways of doing things.” 
 
@@ -345,7 +345,7 @@ At the same time, however, being irresponsible in what we do and with what we ha
 
 ### **2.1 Spiritual Gifts**
 
-Every believer has a role to play in Christ’s church, and not one person is any less important than another. All who have put their faith and trust in Jesus Christ have received a spiritual gift(s) to use for building up Christ’s church. And it is believed by this author that a person can have more than one. The Lord does not limit every person to one gift per se but endows many believers with multiple ways for them to minister. Some believers may have various gifts while others only have one, but this does not make them any more or less effective. 
+Every believer has a role to play in Christ’s church, and not one person is any less important than another. All who have put their faith and trust in Jesus Christ have received a spiritual gift(s) to use for building up Christ’s church. And I believe that a person can have more than one. The Lord does not limit every person to one gift per se but endows many believers with multiple ways for them to minister. Some believers may have various gifts while others only have one, but this does not make them any more or less effective. 
 
 So even if a person has only one gift and one ministry, that does not excuse them from occasionally doing other work when needed, and such moments will occur for every believer! 
 
@@ -381,9 +381,7 @@ So there is no boasting about our spiritual gifts because they were given to us 
 
 Concerning the specific gifts mentioned in our Romans passage, the message's thrust is to minister in the area we have been gifted, according to the ministry the Lord wants us to carry out. *In proportion* (ἀναλογία refers to a mathematical ratio) *to his faith* and “*the one who teaches, in his teaching*” means not trying to do something that we don’t have the gifting to do. If the Lord wants a person to teach, then pursuing evangelism as one’s main or only ministry would be going outside of one’s gifting and calling. If called to teach, then teach! Don’t do something the Lord doesn’t want you to do! And we should never attempt to take our spiritual gifts beyond the level of maturity we have achieved. In other words, a teacher who has only been undergoing preparations for a short time, and is limited in his knowledge of the truth, should not attempt to undertake the task of teaching something beyond his understanding. As faith grows, so does one’s experience, and with time and preparation, something that used to be out of our reach is now something that we can handle.
 
-Before we leave our passage, it is necessary to mention that the gift of prophecy (the early version) is no longer in operation as it is no longer required. The same thing also goes for the gift of apostleship, tongues, and healings. Those gifts were for specific times and specific purposes. Please see the link below.
-
- “**[The Sign Gifts](/topical/the-sign-gifts/)**”
+Before we leave our passage, it is necessary to mention that the gift of prophecy (the early version) is no longer in operation as it is no longer required. The same thing also goes for the gift of apostleship, tongues, and healings. Those gifts were for specific times and specific purposes. Please see **[The Sign Gifts](/large-topical/the-sign-gifts/)**.
 
 
 
@@ -451,9 +449,7 @@ In verse seven above, the good spoken of refers to the good works accomplished i
 
 If a believer’s attitude is off in any way during their service to God, what that person did was not good because they didn’t accomplish it in God’s power. Someone with a bad attitude or selfish and prideful motives cannot expect to receive anything at the judgment seat because they served under the control of their flesh, which resulted in a sinful approach to their service. Only God can produce anything good in us; our job is to submit to Him and let Him work through us to accomplish that “common good.” 
 
-For verses 8-10, please see the link below. For verse 11, please see above. 
-
-**“[The Sign Gifts](/topical/the-sign-gifts/)”**  
+For verses 8-10, please see **“[The Sign Gifts](/large-topical/the-sign-gifts/)”**. For verse 11, please see above. 
 
 #### **C. 1 Corinthians 12:12-13**
 
@@ -659,11 +655,19 @@ The Purpose of giving an order among the spiritual gifts in our Corinthians pass
 
 The list in our passage doesn’t show that there are more important gifts than others since, as we have already seen, that is not the case. These gifts are listed based upon how much authority they carry with them, not by how much importance each one has and how much reward it will guarantee. 
 
-*All are not apostles, are they? All are not prophets, are they? All are not teachers, are they? All are not workers of miracles, are they? All do not have gifts of healings, do they? All do not speak with tongues, do they? All do not interpret, do they?”* 
+{{% scripture p="1 Corinthians 12:29-30 (NASB95)" %}}
+
+All are not apostles, are they? All are not prophets, are they? All are not teachers, are they? All are not workers of miracles, are they? All do not have gifts of healings, do they? All do not speak with tongues, do they? All do not interpret, do they?
+
+{{% /scripture %}}
 
 The Lord is the One who gives believers their spiritual gifts and empowers them for use. The results of our ministries are all pre-determined by God’s planned foreknowledge of human history. The point of verses twenty-nine and thirty is that believers cannot have every spiritual gift since God determines them. So with that said, how do we interpret verse 31 below, which states: 
 
-*But earnestly desire the greater gifts.”* 
+{{% scripture p="1 Corinthians 12:31 (NASB95)" %}}
+
+But earnestly desire the greater gifts.
+
+{{% /scripture %}}
 
 Today’s believers cannot receive the gift of tongues, prophecy, healing, apostleship, and miracles. Such was only for a specific time; the church's beginning in its transitional stage from infancy to adulthood. The verses below confirm this. 
 
@@ -813,7 +817,7 @@ Our emotions have a nasty tendency to give us a bad or even false report when we
 
 An excellent parallel example regarding the above usage of emotions giving us a bad report about our present demanding situations is Numbers chapter 13. Of the twelve spies sent, only two, Caleb and Joshua, showed faith in God despite the daunting task. They knew that in God’s power, they could overcome the intimidating job that lay before them, and all because they walked in faith, not according to their fleshly perspectives. Yes, there were very tall and mighty people in Canaan, nations larger and more robust than Israel. But these other peoples were not bigger or stronger than God, and it was the Lord who would give His chosen witnesses the victory they needed over their enemies, not the people themselves. 
 
-Unfortunately, the unfaithful spies in the passage below chose to lose sight of God’s role and falsely believed they had no chance because they assumed they would have to face these other nations in their own power. They did not think God was sufficient to deliver them, and this attitude set off a chain reaction for the rest of the people, who began to weep in despair as if defeat was the reality. Allowing just some of our peace in Christ to be disturbed by the false pretensions of our flesh can cause our entire inner self to escalate toward panic, and in the end, failure. And that is what happened in this case; the cowardly spies allowed fear to take over their minds and dominate their thinking. That is why fear is so dangerous- it causes people to do all kinds of irrational things by paralyzing faith and clouding all hope and clear thinking. 
+Unfortunately, the unfaithful spies in the passage below chose to lose sight of God’s role and falsely believed they had no chance because they assumed they would have to face these other nations in their own power. They did not think God was sufficient to deliver them, and this attitude set off a chain reaction for the rest of the people, who began to weep in despair as if defeat was the reality. Allowing just some of our peace in Christ to be disturbed by the false pretensions of our flesh can cause our entire inner self to escalate toward panic, and in the end, failure. And that is what happened in this case; the cowardly spies allowed fear to take over their minds and dominate their thinking. That is why fear is so dangerous---it causes people to do all kinds of irrational things by paralyzing faith and clouding all hope and clear thinking. 
 
 {{% scripture p="Numbers 13:25-33 (ESV)" %}} 
 
@@ -857,7 +861,7 @@ We must remember that every believer’s reward depends on how much and how well
 
 There will always be very gifted people in this world. Whether athletes, doctors, or engineers, there are so many different life skills that various people possess, and no two individuals are ever perfectly alike. God has created human beings with varying degrees of physical and mental abilities. If the Lord wanted to, He could take the least intelligent person on earth and turn them into the most brilliant human being to ever live faster than a blink of an eye. Now that should tell us something! 
 
-This final list isn’t comprehensive, of course, and the goal of bringing these topics up is to get people to see that God does not look at people with partiality. So the author is in no way bashing intelligent and educated people, but simply writing this paper to help inform others that it is not our gifts and abilities which determine our standing with God. So to whoever is reading this, please do not be discouraged from pursuing a highly skilled career. As you continue to read, the emphasis should become more and more apparent.
+This final list isn’t comprehensive, of course, and the goal of bringing these topics up is to get people to see that God does not look at people with partiality. So I am in no way bashing intelligent and educated people, but simply writing this paper to help inform others that it is not our gifts and abilities which determine our standing with God. So to whoever is reading this, please do not be discouraged from pursuing a highly skilled career. As you continue to read, the emphasis should become more and more apparent.
 
 ### **3.1 Intelligence and Education** 
 
@@ -1077,7 +1081,7 @@ Whether a believer is low, middle or upper class is not what matters. What matte
 
 ### 3.3 Background and Nationality
 
-Some readers of the Old Testament may argue that Israel’s “holy wars” were unfair and unjust because they involved destroying other peoples and nations, but nothing could be further from the truth. For more information regarding God’s dealings with other peoples, please see **[The Awesome Character of God](/topical/the-awesome-character-of-god-psalm-78/)**. There is far too much on that topic to discuss here because time and space do not permit a lengthy discussion on the subject of Israel's confrontations with other nations. 
+Some readers of the Old Testament may argue that Israel’s “holy wars” were unfair and unjust because they involved destroying other peoples and nations, but nothing could be further from the truth. For more information regarding God’s dealings with other peoples, please see **[The Awesome Character of God](/large-topical/the-awesome-character-of-god-psalm-78/)**. There is far too much on that topic to discuss here because time and space do not permit a lengthy discussion on the subject of Israel's confrontations with other nations. 
 
 **1**. <u>**Christ died for all men who have, are, and will ever live. It is not His will that any human being perish. Salvation is universally available to all who are willing to accept it.**</u> 
 
@@ -1225,13 +1229,15 @@ For a husband and wife to behave properly toward one another is for both of them
 
 {{% /scripture %}} 
 
-Regarding this passage above, Robert D. Luginbill States- 
+Regarding this passage above, Dr. Luginbill of [Ichthys.com](https://www.ichthys.com) states---
 
-*The truth is that we are all "el", "god" with a small "G" ("**Is it not written in your Law, 'I have said you are gods'**?" **John 10:34 NIV**; cf.**Ps.82:6**), in the sense of having been given the God-given ability to choose: something only possible by divine grace. That is the essence of the image: free will. Clearly, not only is free will not lost at the fall, but making choices – and most particularly the choice of whether or not to accept salvation – is why we are here on earth individually and as a species in the first place.* 
+{{% quote text="Ichthys" src="https://ichthys.com/mail-Biblical-Anthropology.htm" %}}
 
-[*https://ichthys.com/mail-Biblical-Anthropology.htm*](https://ichthys.com/mail-Biblical-Anthropology.htm)  
+The truth is that we are all "el", "god" with a small "G" ("**Is it not written in your Law, 'I have said you are gods'**?" **John 10:34 NIV**; cf.**Ps.82:6**), in the sense of having been given the God-given ability to choose: something only possible by divine grace. That is the essence of the image: free will. Clearly, not only is free will not lost at the fall, but making choices – and most particularly the choice of whether or not to accept salvation – is why we are here on earth individually and as a species in the first place. 
 
- Just as how women are not to pastor local denominations because of the way God has instituted authority between the sexes, so there were and are other areas of leadership that God has reserved for men to demonstrate once again the “husband and wife” relationship we the church as the bride have with Christ as our husband. The authority of men in leading local church congregations and in other areas of leadership, such as we see throughout the Bible, is symbolic of Christ's authority over us. Yet despite this authority, He still loves us and seeks our very best, just as a good husband should be toward his wife. In no way are men more extraordinary believers than women; it is just that God has a different role for every one of us to play in His plan. 
+{{% /quote %}}
+
+Just as how women are not to pastor local denominations because of the way God has instituted authority between the sexes, so there were and are other areas of leadership that God has reserved for men to demonstrate once again the “husband and wife” relationship we the church as the bride have with Christ as our husband. The authority of men in leading local church congregations and in other areas of leadership, such as we see throughout the Bible, is symbolic of Christ's authority over us. Yet despite this authority, He still loves us and seeks our very best, just as a good husband should be toward his wife. In no way are men more extraordinary believers than women; it is just that God has a different role for every one of us to play in His plan. 
 
 The Bible contains many great believers of both genders who loved God with all their hearts. And as we have mentioned previously, many great believers have existed from Adam until now, not mentioned in Scripture. Unfortunately, secular books on church history do not contain some of the faith's greatest and most genuine heroes because the pages are all taken up by only the smartest and most educated (and politically involved). This is not to say some of these men were not great or even among the greatest of their time, but what a shock the entire church from Adam to the last believer to draw breath will encounter when many who were deemed last turn out to be first. Many believers, both men, and women have been under the radar for many years. But just because few have seen and acknowledged the greatness of their work does mean that God has not noticed, for He most certainly has. They will be rewarded abundantly and in the most blessed way. 
 
@@ -1249,13 +1255,10 @@ God never limits any person’s growth, progress, and production based on anythi
 
 {{% /scripture %}} 
 
-
-
 **References/Recommendations** 
 
-[*https://ichthys.com/mail-Biblical-Anthropology.htm*](https://ichthys.com/mail-Biblical-Anthropology.htm)  - Dr. Robert D. Luginbill of Ichthys- Bible Studies for Spiritual Growth- Explanation of John 10:33-36- Biblical Anthropology I:  The Nature of Human Beings and Human Life according to the Bible- Response #1 
-
-https://ichthys.com/index.htm 
+* [Biblical Anthropology: The Nature of Human Beings and Human Life according to the Bible.](https://ichthys.com/mail-Biblical-Anthropology.htm)
+* [Ichthys: Bible Study for Spiritual Growth](https://ichthys.com/index.htm)
 
 
 

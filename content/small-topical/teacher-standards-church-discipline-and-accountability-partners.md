@@ -1,5 +1,7 @@
 ---
 title: Teacher Standards, Church Discipline, and Accountability Partners
+summary: 
+   Since teachers will receive a stricter judgment (James 3:1), what type of standards apply especially to them? We will present the answer to that question through the lens of 1 Timothy 3:1-7. Also, church discipline and accountabilty partners are unbiblical depending on what people mean by them. We will touch on a few important points with the sole purpose to steer the believer out of legalism. 
 ---
 
 In another part of our comment series, we have, to some extent, discussed the standards that Bible teachers need to live their lives around. However, the point of this section is to talk about the issue a little more in-depth. 
@@ -14,7 +16,7 @@ The problem is that some may attempt to define what “close to perfection” me
 
 Overall, telling teachers they need to be **close** to perfect isn’t the best way to word things because this will never happen (nor has) with anybody. The passage we just referenced in Psalms certainly doesn’t seem to suggest close to “perfectionism.” Yes, our Lord commanded all believers to be holy because He is holy (**1 Peter 5:16**). But God knows that we are flesh and all fall short of His glory (**Romans 3:23**). The phrase above in no way suggests that believers don’t sin but gives a vibe that humans can come almost as close to perfect as Jesus was (because He was perfect), an untenable impossibility. Plus, as just stated, this may cause many believers to fall into despair because they rightfully know this will never happen. The fact that everyone sins every day confirms this fact. The statement does create a good incentive for them to put in all their effort through God’s strength, but could be better worded as “*Teachers need to be especially self-controlled and disciplined because they are role models to those they teach*.” The Lord asks and expects them to do more, which is why He holds them to higher standards resulting in a stricter degree of judgment. “*To whom more has been given, much is expected*.”
 
-Yes, continuous spiritual growth, progress, and production will lead to a higher level of holiness throughout an individual's lifetime. Therefore, we must all strive for perfection by giving our very best. But this writer believes it is false and unrealistic to believe this will result in someone getting close to Jesus's perfection. For this very reason, we have grace (**2 Corinthians 12:9**) because we humans are but flesh. 
+Yes, continuous spiritual growth, progress, and production will lead to a higher level of holiness throughout an individual's lifetime. Therefore, we must all strive for perfection by giving our very best. But I believe it is false and unrealistic to believe this will result in someone getting close to Jesus's perfection. For this very reason, we have grace (**2 Corinthians 12:9**) because we humans are but flesh. 
 
 The above does not excuse sin in any way, of course. But it does challenge us to give our very best efforts. A good comparison we can use is Moses and our Lord. We reference Moses because he spent forty days on Mount Sinai in prayer and contemplation. In contrast, our Lord spent forty days in the wilderness where He was tested and tempted, unlike any other person in all of history. If we were to compare the two honestly, do we think Moses would have come close to our Lord’s handling of His circumstances in the wilderness? He would have done better than most or all, but still a far cry from Jesus. Our Savior was perfect, while Moses was not. 
 
@@ -22,19 +24,27 @@ However, Moses was the most righteous of his generation and one of the greatest 
 
 In part three of our comments, we referenced 1 Timothy 3:1-7 as qualifications for teachers. Here, we will examine this passage more closely. 
 
-{{% scripture p="1 Timothy 3:1-7 (NIV)" %}} 
+{{% scripture p="1 Timothy 3:1-7" %}} 
 
-Here is a trustworthy saying: Whoever aspires to be an overseer desires a noble task. **2** Now the overseer is to be above reproach, faithful to his wife, temperate, self-controlled, respectable, hospitable, able to teach, **3** not given to drunkenness, not violent but gentle, not quarrelsome, not a lover of money. **4** He must manage his own family well and see that his children obey him, and he must do so in a manner worthy of full respect. **5** (If anyone does not know how to manage his own family, how can he take care of God’s church?) **6** He must not be a recent convert, or he may become conceited and fall under the same judgment as the devil. **7** He must also have a good reputation with outsiders, so that he will not fall into disgrace and into the devil’s trap.                                                                          
+Here is a trustworthy saying: Whoever aspires to be an overseer desires a noble task. **2** Now the overseer is to be above reproach, faithful to his wife, temperate, self-controlled, respectable, hospitable, able to teach, **3** not given to drunkenness, not violent but gentle, not quarrelsome, not a lover of money. **4** He must manage his own family well and see that his children obey him, and he must do so in a manner worthy of full respect. **5** (If anyone does not know how to manage his own family, how can he take care of God’s church?) **6** He must not be a recent convert, or he may become conceited and fall under the same judgment as the devil. **7** He must also have a good reputation with outsiders, so that he will not fall into disgrace and into the devil’s trap.                         
 
 {{% /scripture %}} 
 
-“*Whoever aspires to be an overseer desires a noble task*”
+{{% scripture p="1 Timothy 3:1" %}}
 
-This writer believes that elders, bishops, and pastors are the same thing. Only deacons are a distinct office. Therefore, an overseer in the passage above would refer to a teacher. Also, pastors and teachers are the same because teachers “pasture” the flock of Christ through instructing them in God’s Word. They are not separate gifts. The principle applies to teaching and preaching because those are also the same. A teacher primarily teaches but can do a little bit of preaching (exhortation) by encouraging his listeners to apply the truth he has just taught them from Scripture. A pastor is both a teacher (primarily) and a preacher. A person who preaches but can’t teach is no pastor because he lacks the proper knowledge of the Word. A good pastor focuses primarily on explaining the meaning of the text while being flexible enough to enhance it’s importance through further explanation. 
+Whoever aspires to be an overseer desires a noble task
+
+{{% /scripture %}}
+
+I believe that elders, bishops, and pastors are the same thing. Only deacons are a distinct office. Therefore, an overseer in the passage above would refer to a teacher. Also, pastors and teachers are the same because teachers “pasture” the flock of Christ through instructing them in God’s Word. They are not separate gifts. The principle applies to teaching and preaching because those are also the same. A teacher primarily teaches but can do a little bit of preaching (exhortation) by encouraging his listeners to apply the truth he has just taught them from Scripture. A pastor is both a teacher (primarily) and a preacher. A person who preaches but can’t teach is no pastor because he lacks the proper knowledge of the Word. A good pastor focuses primarily on explaining the meaning of the text while being flexible enough to enhance it’s importance through further explanation. 
 
 Our verse above does not suggest that those in leadership positions have more noble ministries than others. At the very least, this doesn’t mean one is better than the other, but one carries a greater responsibility that will undergo greater scrutiny at the bema seat. 
 
-*Now the overseer is to be above reproach, faithful to his wife, temperate, self-controlled, respectable, hospitable, able to teach* 
+{{% scripture p="1 Timothy 3:2" %}}
+
+Now the overseer is to be above reproach, faithful to his wife, temperate, self-controlled, respectable, hospitable, able to teach
+
+{{% /scripture %}}
 
 We have already stressed that teachers need to live more disciplined lives because of their “role model” status, meaning their level of spiritual maturity needs to be exceptionally high due to the nature of their work. And, of course, we have already mentioned that teachers need to be adequately prepared and gifted to carry out their ministry.
 
@@ -62,11 +72,19 @@ No believer is required to share the **everyday** sins they commit (this is some
 
 Discipleship is another word that gets thrown around to mean the same thing, but that is unbiblical. If we want to “disciple” other believers, we need to teach, encourage and exhort them through the truth of God’s Word rightly understood. Additionally, another great way to do this is to point them to a good solid teaching ministry where they can receive all the proper spiritual food they need. Believers grow into disciples through the truth adequately dispensed, a process that cannot occur through some manufactured approach that involves cult-like behavior by trying to encroach into other people’s lives (busybody legalism). 
 
-*not given to drunkenness, not violent but gentle, not quarrelsome, not a lover of money* 
+{{% scripture p="1 Timothy 3:3" %}}
+
+Not given to drunkenness, not violent but gentle, not quarrelsome, not a lover of money
+
+{{% /scripture %}}
 
 Since only those mature and prepared enough may teach, it is pretty obvious why those who habitually practice the things above are disqualified. And there are already plenty of people out there that teach the health and wealth gospel, a trap any pastor can fall into. 1 Timothy 6:10 states, *“For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.”* Of course, a good pastor deserves his flock's support (both financially and spiritually) (**1 Timothy 5:18**). However, he must not take advantage of this or make that his primary concern because doing so will cause compromise. A good spiritual leader knows that life is all about Jesus Christ and that to serve Him is to carry out one’s duty faithfully, not under compulsion (**1 Peter 5:2**). 
 
-*He must manage his own family well and see that his children obey him, and he must do so in a manner worthy of full respect. (If anyone does not know how to manage his own family, how can he take care of God’s church?)* 
+{{% scripture p="1 Timothy 3:4-5" %}}
+
+He must manage his own family well and see that his children obey him, and he must do so in a manner worthy of full respect. (If anyone does not know how to manage his own family, how can he take care of God’s church?)
+
+{{% /scripture %}}
 
 There is a common misunderstanding about this passage above. For one thing, Proverbs 22:6 does say to “*train up a child in the way he should go, and when he is old, he will not depart from it*.” So if a father isn’t rearing his children as he should, he has no business managing a church since he cannot bring up his own kids. For him, this would be hypocritical since pastor-teachers must be “above reproach.” So the parents need to put in the effort in a godly way. 
 

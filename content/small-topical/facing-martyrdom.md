@@ -1,5 +1,7 @@
 ---
 title: Facing Martyrdom
+summary: 
+   There are certain ways that believers should and should not view giving up their lives for Jesus Christ. I discuss them on this page. 
 ---
 
 Martyrdom -- how should we as believers view it?

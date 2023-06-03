@@ -1,5 +1,7 @@
 ---
 title: Imposter Syndrome 
+summary: 
+   Believers don't need to feel like unqualified "phonies" as long as they're doing what the Lord wants them to do. Therefore, what we (and others) may think of ourselves in that regard matters little. 
 ---
 
 Some believers may feel that they aren’t doing enough within the body of Christ (even though they probably already are). These individuals may feel they are somehow less important, impactful, or qualified than they really are based on their own criteria. So yes, much of it is “just in their heads” and not in touch with reality (assuming they are spiritually mature). A feeling of anxiety (assuming our conscience has nothing to be disturbed about) over something is no more a feeling than a tree is a plant. It is good to be humble, but humility doesn’t mean we have to allow a dark cloud of doubt to follow us wherever we go. Yes, we can be happy and content with our progressing skills and abilities. We can also be confident (there is a reasonable confidence all believers are to have that they know they are doing what they should be doing) in our ability to use them. How much more our spiritual gifts! But in that “domain,” the Lord works everything through us to do everything He wishes us to accomplish. All we have to do is participate through faith (which will lead to everything else), and God will do the rest. 

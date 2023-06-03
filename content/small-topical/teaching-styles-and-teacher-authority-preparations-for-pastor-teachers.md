@@ -1,5 +1,7 @@
 ---
 title: Teaching Styles and Teacher Authority - Preparations for Pastor Teachers   
+summary: 
+   There are various styles and approaches to teaching God's Word because there is no one size fits all. Likewise, the various preparations required to teach will vary from individual to individual because there is a division of labor among pastors. All believers are called to different things. 
 ---
 
 ## Introduction
@@ -12,7 +14,7 @@ There are many different types of teaching gifts/ministries that have produced t
 
 ### Having only one primary teacher makes sense
 
-As for how non-teachers should relate to their pastors, everyone has the right to use other sources for casual study or occasional reference. But a believer's primary teaching/learning should probably come from one teacher alone. For instance, (as one example) most commentaries (which still count as teaching) are inconsistent and confused in their content (no surprise since we live in lukewarm Laodicea, **Revelation 3:14-22**). There are some good ones, but not many that this writer could recommend. Very few believers without the gift of pastor teacher (both are the same gift) have the knowledge and discernment to pick out the good from the bad.
+As for how non-teachers should relate to their pastors, everyone has the right to use other sources for casual study or occasional reference. But a believer's primary teaching/learning should probably come from one teacher alone. For instance, (as one example) most commentaries (which still count as teaching) are inconsistent and confused in their content (no surprise since we live in lukewarm Laodicea, **Revelation 3:14-22**). There are some good ones, but not many that I could recommend. Very few believers without the gift of pastor teacher (both are the same gift) have the knowledge and discernment to pick out the good from the bad.
 
 So I advise that lay Christians use them with care. The same applies to multiple websites, books, and other teaching sources. Jumping from source to source is a good way to fall into many a false teaching that can also cause instability in what one believes (like the double-minded man in **James 1:5-8**). Besides that, the believer’s primary teacher can recommend a good few tried and trusted sources for further biblical and academic study. In the day and age in which we live, just about anyone can write whatever they want on a website or in a book. And academic credentials and formal education by themselves, though helpful, don't determine the quality of the "product". Good sound teaching is hard to find because of the scarcity of quality Bible teachers (itself largely a result of the lukewarm attitude so prevalent within the Church). 
 
@@ -42,7 +44,7 @@ However, if a believer is new to the faith but believes they have the gift of te
 
 ### Preparations for pastor teachers: not all teachers are necessarily called to learn Greek and Hebrew, and they are not lesser for it
 
-Not all teachers should learn the languages or attend Bible college or seminary -- though this writer believes most will more than likely be led to do so (that makes very good sense). However, this does *not* make those without language knowledge less effective as specific kinds of tools in the hands of the Lord, nor does it disqualify them outright. Realistically, there will be limits to what said prospective individual can find out absenting the languages. But each person has their own strengths and weaknesses. The word "effective" does not belong in this discussion since only the Lord can determine and knows the impact another can make. To go down that path is impossible and would only open up a can of worms. One may ask, "define effective?"
+Not all teachers should learn the languages or attend Bible college or seminary -- though I believe most will more than likely be led to do so (that makes very good sense). However, this does *not* make those without language knowledge less effective as specific kinds of tools in the hands of the Lord, nor does it disqualify them outright. Realistically, there will be limits to what said prospective individual can find out absenting the languages. But each person has their own strengths and weaknesses. The word "effective" does not belong in this discussion since only the Lord can determine and knows the impact another can make. To go down that path is impossible and would only open up a can of worms. One may ask, "define effective?"
 
 Possessing or not possessing knowledge of biblical Greek and Hebrew (assuming the Lord did not lead someone down that path) will *not* affect the believer’s/teacher’s eternal reward in any way. Suppose the Lord does not call a teacher to learn the languages. In that case, that individual will actually increase their productivity for Christ by not pursuing them because whatever God has for us to do is what is best. Our Lord sets us up for maximum success because He would never limit us and He always has reasons for everything He does. 
 

@@ -1,12 +1,14 @@
 ---
 title: Judging Others
+summary: 
+   How should believers judge others and how should they not judge? I answer these questions in this topic. 
 ---
 
 Judging others unrighteously usually means looking down on others as if one was better (though this may not always be involved). That is a terrible sin in and of itself and best avoided at all costs. However, there tend to be misunderstandings on this topic. It is not uncommon to hear many people say, “*don’t judge*,” or “*don’t judge me*.” That isn’t necessarily wrong, nor is it necessarily correct. This issue depends on certain factors. We Christians must judge both good and bad things biblically. We are supposed to evaluate situations, circumstances, beliefs, teachings, and even people. Jesus said, “*Stop judging by mere appearances, but instead, judge correctly*” (**John 7:24**). Believers have to make judgment calls all the time because many situations requiring us to choose the right course of action demand discernment and proper perception. These are good things that we should never discourage people from exercising as long as they go about it properly with pure motives. 
 
-Let us be clear that we should never intentionally look for opportunities to judge because those chances will come independently. We should never go on a “witch hunt” and try to find fault in people purposefully because we should only judge when we need to. Our time here on earth is too short for us to go sticking our noses into other matters or, worse yet, other people’s business when we shouldn’t. That is sinful (**1 Timothy 5:13; 1 Thessalonians 4:11; 2 Thessalonians 3:11**). The time to make a proper call will become evident and apparent when we exercise discernment and walk by the Spirit (**Galatians 5:25; Philippians 1:9-10**). Therefore, judging others must entail all we have listed below, most of which correspond with the fruits of the spirit. 
+Let us be clear that we should never intentionally look for opportunities to judge because those chances will come independently. We should never go on a “witch hunt” and try to find fault in people purposefully because we should only judge when we need to. Our time here on earth is too short for us to go sticking our noses into other matters or, worse yet, other people’s business when we shouldn’t. That is sinful (**1 Timothy 5:13; 1 Thessalonians 4:11; 2 Thessalonians 3:11**). The time to make a proper call will become evident and apparent when we exercise discernment and walk by the Spirit (**Galatians 5:25; Philippians 1:9-10**). Therefore, judging others must entail all we have mentioned below, most of which correspond with the fruits of the spirit. 
 
-<u>**1. If we judge, what we speak must be true. It must be based on facts, not an opinion (even though we may have opinions) that is not entirely sure of itself or correct.**</u>  
+## If we judge, what we speak must be true. It must be based on facts, not an opinion (even though we may have opinions) that is not entirely sure of itself or correct  
 
 {{% scripture p="Ephesians 4:15 (ESV)" %}} 
 
@@ -20,11 +22,11 @@ Let us be clear that we should never intentionally look for opportunities to jud
 
 {{% /scripture %}} 
 
-<u>**2. If we judge, we must do so with love and through pure motives.**</u>
+## **If we judge, we must do so with love and through pure motives**
 
 See Ephesians 4:15 above ^. 
 
-**3. <u>If we judge, we must do so without hypocrisy.</u>** 
+## **If we judge, we must do so without hypocrisy** 
 
 {{% scripture p="Matthew 7:1-5 (ESV)" %}} 
 
@@ -32,7 +34,7 @@ See Ephesians 4:15 above ^.
 
 {{% /scripture %}} 
 
-**4. <u>Some judgment calls may be suitable for some but not others. That is a big one! One person makes a decision that they feel is right for them, and it isn’t wrong or sinful in any way. Another person chooses to do the opposite of the other person while not committing a single sin. There are many areas of application in the Christian life where choices will differ. We must not be legalistic and condemn others for doing perfectly fine things. Cults and legalists love to do this. Nor should we judge those for doing something fine but wrong to them in their conscience. Examples of situations like these are found in the passages below.</u>**
+##  There are many areas of application in the Christian life where choices will differ. We must not be legalistic and condemn others for doing perfectly fine things. Nor should we judge those for doing something fine but wrong to them in their conscience. Examples of situations like these are found in the passages below.
 
 {{% scripture p="Romans 14:1-9 (ESV)" %}} 
 
@@ -40,9 +42,7 @@ As for the one who is weak in faith, welcome him, but not to quarrel over opinio
 
 {{% /scripture %}} 
 
-For more information on the above, please see the link below. 
-
-[**Christian Liberty**](/topical/christian-liberty/) 
+For more information on the above, please see [**Christian Liberty**](/large-topical/christian-liberty/).
 
 With all the above said, what is the judgment referred to in Matthew 7:1?
 

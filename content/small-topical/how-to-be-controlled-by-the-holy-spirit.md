@@ -1,5 +1,7 @@
 ---
 title: How to be Controlled by the Holy Spirit
+summary: 
+   The subject in this paper (how to walk by the Spirit) is not a complicated one to understand and is something all growing believers will naturally learn how to do as they progress in their walk with the Lord. 
 ---
 
 {{% scripture p="Galatians 5:16 (ESV)" %}} 

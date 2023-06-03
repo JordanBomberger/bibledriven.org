@@ -1,12 +1,18 @@
 ---
 title: Examples of Satanic Attack from Scripture
+summary:
+   This survey briefly reviews some of the most prominent instances of major satanic/demonic attacks on the human race. The sole purpose of these assaults was to thwart God's plan by destroying the Messiah's physical bloodline and all of His spiritual seed. Also discussed --- there are different biblical characters mentioned throughout the old testament that symbolize the antichrist in their unbelief and wicked actions towards God's people, especially the Jews. We will briefly examine those in this paper as well. 
 ---
+
+## **Introduction** 
 
 As every believer knows, Satan has opposed God’s plan since the beginning of creation. We have already discussed that humans are a replacement for Lucifer and all his followers because they forfeited their place in God’s presence. The Lord created people to demonstrate His perfect and righteous character to all the doubters (Satan and the other fallen angels). So God created human beings in His own image and likeness (the ability to exercise authority and respond to it through free will) who could and would be willing to respond to Him through faith. The Lord made this possible by giving Himself up on the cross to pay for every person’s past, present, and future sins. The devil believed that God had no way of reconciling the human race to Himself in a way that maintained His perfect character. However, Satan was wrong and taken by surprise when our Lord made all this possible by giving Himself up on the cross; a feat carried out perfectly from His birth until His death. Therefore, Christ has won the victory! Satan is technically already defeated even though the rest of history still has to run its course. The book of Revelation tells us how this will all play out to the very last days right before eternity commences. 
 
+## **Examples** 
+
 With the above said, let’s now briefly survey some of the most prominent examples of Satanic attack on God’s plan. The below is not meant to be a comprehensive list. There are other examples in the Bible not mentioned here, but we will focus on the more prominent ones to give the reader a good idea of the pattern seen in Scripture. 
 
-**Adam and Eve-** 
+### **Adam and Eve** 
 
 The first example we have from Scripture comes from the temptation and fall of Adam and Eve. 
 
@@ -20,7 +26,7 @@ From what we have written above, we know that God created man to replace Satan a
 
 Adam and Eve began the replacement process. So to keep people from choosing for God, Satan thought it best to attack the first people whose seed would continue throughout history. He was partially successful in his endeavor here, but not entirely. Sin entered the world so that near perfection was no longer a reality. So what would God do now that the devil had aided in humanity's destruction? No one could choose for God if no way of escape and atonement for sins were ever provided (**Romans 6:23**). Men were now destined for physical and spiritual (eternal) death. Satan thought he had outwitted God by cornering him, but he failed to remember that our Lord foreknew everything in eternity past so that He would not have done something without knowing what He was doing. Why would He create man if He knew He could not save them after their rebellion? The first humans did sin, but God promised them that He would provide a way out of the mess created by this first transgression that carries into the rest of history. The solution would come through the death, burial, and resurrection of God’s Son, Jesus Christ. That is why God gave Adam and Eve the coats of skin for them to wear (**Genesis 3:21**), clothing they accepted in faith demonstrating their belief and acceptance in Christ's future atoning work. At that very point, the first humans got saved by receiving the salvation promised to them, even if they didn’t fully understand the details or what it would entail. From their standpoint, Adam and Eve didn’t know how all this would happen. They believed God that it would occur, resulting in their salvation. Instead of trying to continue working their way to their Creator by holding onto the fig leaf clothes they had worked to create, they relinquished them to accept God’s grace that could not be earned or worked for in any way. Salvation and sanctification are always God’s work, not ours! Since the cross, all people now had a way to access God and spend eternity with Him from there on out. Satan’s first attack, though partially successful, was, in all reality, a failure. 
 
-**The Nephilim-** 
+### **The Nephilim** 
 
 The second major attack from Satan on the human race occurred during the demonic rebellion involving angelic reproduction with human women resulting in the Nephilim. We see this event mentioned in Genesis chapter six when it says what it does below. Only some of the fallen angels were involved (they were either chosen or volunteered). 
 
@@ -34,7 +40,7 @@ And yes, these “sons of God” were, in fact, angels who came to earth and pro
 
 This second attack on God’s plan from Satan occurred the way it did because the future promised Messiah who would die on the cross to pay for the sins of humanity would require pure seed to come about. In other words, Jesus would be born in the line of David from pure human origin. Satan failed the first time, now he tries a second approach. The Messiah cannot be born without a pure bloodline to bring it about, so why not infiltrate the human race by corrupting all human seed? As our passage describes, people were wicked in those days, so it is no surprise why so many went along with this idea to reproduce with spiritual beings. After all, their offspring were highly talented, so who wouldn’t want children like that (says the mind of the unbeliever)? So corrupt had the minds of almost all human beings become at that time that nothing seemed wrong or sinful. Therefore, they quickly succumbed to persuasion, and the rest is history. 
 
-Once again, however, God had long ago anticipated Satan’s next move so that He already had a solution in mind. The seed of the Messiah would be preserved through Noah and his family, whom the Lord would spare on the ark. Noah, along with his wife and three sons, Shem, Ham, and Japheth (and their wives), were righteous and thus fit to be preserved through the great deluge. The flood would destroy all the demonic offspring (the Nephilim) so that no more people would succumb to this “illegal” activity on the part of all the fallen angels thus involved. God imprisoned those who partook of these crimes while their half- human offspring he physically wiped out in the flood. But Noah and his family were saved by their faith (represented by the ark). Noah trusted God that He would provide a way out of the current mess, just as Adam and Eve did. Now, for the second time, Satan’s goal of “outsmarting” the Almighty failed. 
+Once again, however, God had long ago anticipated Satan’s next move so that He already had a solution in mind. The seed of the Messiah would be preserved through Noah and his family, whom the Lord would spare on the ark. Noah, along with his wife and three sons, Shem, Ham, and Japheth (and their wives), were righteous and thus fit to be preserved through the great deluge. The flood would destroy all the demonic offspring (the Nephilim) so that no more people would succumb to this “illegal” activity on the part of all the fallen angels thus involved. God imprisoned those who partook of these crimes while their half---human offspring he physically wiped out in the flood. But Noah and his family were saved by their faith (represented by the ark). Noah trusted God that He would provide a way out of the current mess, just as Adam and Eve did. Now, for the second time, Satan’s goal of “outsmarting” the Almighty failed. 
 
 {{% scripture p="Genesis 6:11-20 (NIV)" %}} 
 
@@ -42,7 +48,7 @@ Once again, however, God had long ago anticipated Satan’s next move so that He
 
 {{% /scripture %}} 
 
-**The Tower of Babel** 
+### **The Tower of Babel** 
 
 {{% scripture p="Genesis 11:1-9 (NIV)" %}} 
 
@@ -54,11 +60,11 @@ Elsewhere on this ministry site, we have discussed the tower of Babel and the da
 
 Thankfully, God foreknew and eliminated this threat by confusing the languages so that people had no choice but to separate and form different nations and cultures. After this point, the human race was no longer as easy to attack and was far less susceptible to self-destruction. Satan wanted to force people to choose his side by setting up a society that would dominate and decide how they lived. But once again, he failed. However, he will attempt this again during the tribulation, a subject we will discuss later below. 
 
-**Israel and the church- (Both are part of the Church)** 
+### **Israel and the church---(Both are part of the Church)** 
 
 We will be brief with this section simply because it speaks for itself. The main reason is that there are so many examples of anti-Jewish behavior throughout history that time and space do not permit us to discuss them here, nor is it necessary for us to do so. Antisemitism has existed as long as the nation of Israel has and will continue only until after the Gog and Magog rebellion (see below for our brief discussion on that). The Lord used many nations to punish and discipline the Jewish people (we see that from both the old and new testaments). But there were many instances where Israel was the innocent victims targeted because they were God’s special people in whom the prophecies and their fulfillment would occur. Before the cross, Satan was extremely aggressive in attempting to wipe out the Jews so that the Messiah could never come and complete the work of redemption for which He was sent. After Christ’s first advent, the evil one has concentrated on destroying all those part of the church (persecution, war, resistance, false teaching etc.), both Jews and Gentiles. He does this so that the biblical prophecies portending to the end times would end with the result of faith being quenched and snuffed out. But we know from Revelation that he and his followers will meet their ultimate doom ending in the lake of fire. In the end, God will triumph, and we (His followers) will share in that victory. 
 
-**The Tribulation** 
+### **The Tribulation** 
 
 {{% scripture p="Matthew 24:21 (ESV)" %}} 
 
@@ -84,7 +90,7 @@ In the end, Satan’s plot during the difficult years of the tribulation will fa
 
 {{% /scripture %}} 
 
-**The Gog and Magog Rebellion** 
+### **The Gog and Magog Rebellion** 
 
 {{% scripture p="Revelation 20:1-10 (NIV)" %}} 
 
@@ -112,11 +118,11 @@ Additionally, there will be more quality pastors and teachers to spread and teac
 
 To sum up, the Gog and Magog rebellion will be a desperate, last-ditch effort from Satan to thwart God’s plan. But Our Lord will vanquish it quickly and with ease. 
 
-**Types of Antichrist** 
+## **Types of Antichrist** 
 
 In addition to giving us the biggest examples of Satanic attacks on the plan of God, Scripture also gives us a few biblical parallels to the antichrist spoken of in Revelation, and it is no accident the Bible does this either. God wants us to benefit from the examples of the past because we believers can learn from years gone by to help us prepare for the future that is yet to come. The great believers of old faced their opposition with steadfast faith and courage, knowing that the Lord would see them through their trials. Of course, they were never perfect in their application, but they fared better than anyway else before, during, and after them. Thus, they stand as the ultimate examples and role models. With that, let’s briefly examine and survey the most prominent cases of this type of situation where an extremely hardened unbeliever was symbolic of the eschatological Antichrist. 
 
-**Nimrod** 
+### **Nimrod** 
 
 {{% scripture p="Genesis 10:8-13 (NIV)" %}} 
 
@@ -130,11 +136,13 @@ Verse nine states that Nimrod was a mighty warrior on earth. The Hebrew word for
 
 Nimrod’s analogous plan failed just as the antichrist’s will during his time on earth. He and the beast want/wanted nothing to do with God and would rather give their allegiance to their father the devil. 
 
-**Pharaoh**
+### **Pharaoh**
 
 Exodus chapters 2-14 tell us of the Pharaoh’s behavior toward the Israelites when he refused to let them go. He is very analogous to the “lawless one” of the tribulation because he opposed and persecuted God’s people. The beast will do the same in a roughly similar manner when he imprisons, tortures, and kills believers for standing steadfast in their faith. 
 
-God never forced this Egyptian ruler to reject Him because the Pharaoh had already done that himself. Since that was the case (he had no intention of changing his mind), God hardened his heart to an extraordinary degree by allowing Pharaoh the ability to close himself off like few (if any) humans had done up to that point. Our Lord did this to bring glory to Himself, just as how the rebellion of the beast and all unbelievers during the tribulation will accomplish this same purpose-demonstrating God’s righteous character toward those who disobey Him. Please see that topic in the link below by Robert D. Luginbill for more information on that particular subject. This same phenomena we saw with Pharaoh will also occur during the tribulation when the Holy Spirit’s restraint (referring to our Lord only permitting humanity to do so much evil) will be withdrawn so that people may act as evil and wicked as they possibly could without God’s hand keeping them in check. 
+God never forced this Egyptian ruler to reject Him because Pharaoh [had already done that himself](https://ichthys.com/e2.htm#:~:text=%22And%20I%20will%20harden%20Pharaoh%27s%20heart%20and%20he%20will%20pursue%20after%20them%20so%20that%20I%20may%20gain%20glory%20through%20Pharaoh%20and%20through%20his%20force%20and%20so%20that%20the%20Egyptians%20may%20know%20that%20I%20am%20the%20Lord.%22%20And%20they%20did%20so.). Since that was the case (he had no intention of changing his mind), God hardened his heart to an extraordinary degree by allowing Pharaoh the ability to close himself off like few (if any) humans had done up to that point. Our Lord did this to bring glory to Himself, just as how the rebellion of the beast and all unbelievers during the tribulation will accomplish this same purpose---demonstrating God’s righteous character toward those who disobey Him.
+
+This same phenomena we saw with Pharaoh will also occur during the tribulation when the Holy Spirit’s restraint (referring to our Lord only permitting humanity to do so much evil) will be withdrawn so that people may act as evil and wicked as they possibly could without God’s hand keeping them in check. 
 
 Not only was Pharaoh bent on opposing God (like the beast will be), but he was so adamant about afflicting God’s people unfairly. There is a reason the Bible describes the beast as “the man of lawlessness.” The Pharaoh demonstrated extreme pride and arrogance by opposing and exalting himself above the lordship of God by acting as if he was “God” himself! 
 
@@ -146,7 +154,7 @@ Not only was Pharaoh bent on opposing God (like the beast will be), but he was s
 
 Worse yet, Pharaoh never repented of his ways despite all the miraculous plagues that God sent to ravage his kingdom. These plagues are analogous to those that will occur during the tribulation (the trumpet, bowl, and thunder judgments). The beast will not repent of his evil ways despite all the terror that God will unleash during that time. 
 
-**The King of Assyria** 
+### **The King of Assyria** 
 
 Scripture mentions the wicked king of Assyria in Isaiah chapters 7-39 and elsewhere as God’s means to chasten His sinning people in the northern and southern kingdoms, but only for that purpose. The way this king carried out his task makes him stand out as very similar to the beast of Revelation. He demonstrated extreme pride and arrogance against God and those around him and refused to be moved or persuaded to behave otherwise. The fate of him and his army is practically a pre-enactment of what will happen to the antichrist and his hordes when they invade Jerusalem at the battle of Armageddon. All the future inhabitants of the holy city during the time of Jacob’s trouble will be hemmed inside by the beast’s armies with nowhere else to turn. They will come close to losing all hope and giving up. But just as it appears that they will be overcome, the Lord will return and destroy all of those who oppose Him and His followers. This situation was very similar with Hezekiah and all the inhabitants of Jerusalem when they desperately prayed to God for help and deliverance as they waited cornered within Jerusalem’s walls. It seemed to the people as if all hope was lost due to the enormous forces of Sennacherib’s armies. Finally, however, the Lord intervened and massacred all those who threatened to destroy His people. Sennacherib would go back to his own land where he would later die at the hand of his own sons in Nineveh. The passage below describes this destruction of his forces and how it came about. 
 
@@ -172,11 +180,11 @@ Most notable of Sennacherib was the blasphemy he spoke against God, something th
 
 As a final comment, Isaiah chapter nineteen expresses a near and far-term prophecy. That is to say, the giving of Egypt “into the hands of a cruel master” spoken of in verse four refers not only to the Assyrian domination of Egypt during biblical times, but also the beast’s conquest and success against the southern alliance (which Egypt will be part of) during the tribulation. Thus, the military campaigns of Sennacherib and the Assyrians are a prototype of the Antichrist and his forces overcoming the last major threat to his regime-the southern alliance. 
 
-**Nebuchadnezzar King of Babylon** 
+### **Nebuchadnezzar King of Babylon** 
 
 The Babylon of antiquity represents the future, evil mystery Babylon (most likely the United States) spoken of in Revelation (**Revelation 14:8** as a subtle reference). Isaiah 14:4-23 seems to compare this king to Satan, the origin of the lawless one. The Babylon of the future will be the beast’s headquarters and base of operation from which he launches his plans elsewhere. King Nebuchadnezzar was the king of the old Babylonian empire and exalted himself above God by erecting a statue of himself for everyone to bow to and worship. He was a self-proclaimer who forced everyone to worship himself instead of the One true God. And (much like the beast will do during the tribulation), he would kill anyone who would not worship his image. From Daniel and Matthew, we know it as the “abomination of spiritual desolation” which he will compel all people to worship (**Daniel 9:7; Matthew 24:15-16**). The past king of Babylon had his own version of this and a similar (though less extreme) goal in mind; to bring glory and honor to himself and not God. 
 
-**Antiochus Epiphanes** 
+### **Antiochus Epiphanes** 
 
 Antiochus Epiphanes was the king and ruler of the Seleucid empire, and another prototype of the eschatological Antichrist. **Daniel 8:23-26; 11:21-36** prophecies about him as a near distant “thorn in the flesh” of Israel who will oppose God and do as he wishes. But this passage also has a dual application in that it is also a far distant prophecy that refers to the ultimate agitator of Israel, the Antichrist.
 

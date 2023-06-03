@@ -9,9 +9,15 @@
 </strong>
 	
 {{ else }}
+{{ if (.Get "text")}}
+<strong>
+	<a href="/about-the-site/content-organization/#quotes">Quote</a> from {{ .Get "text" }}
+</strong>
+{{ else }}
 <strong>
 	<a href="/about-the-site/content-organization/#quotes">Quote</a>
 </strong>
+{{ end }}
 {{ end }}
 
 {{ .Inner }}

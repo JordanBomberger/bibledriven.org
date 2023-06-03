@@ -1,10 +1,12 @@
 ---
-title: The Church Has Not Replaced Israel
+title: The Church Has Not Replaced Israel 
+summary: 
+   Israel is just as much a part of the church as every believer since Adam has been. This page will discuss this important truth to clear up the confusion that states otherwise. Although Israel is unique in its own right, it is still part of the church. 
 ---
 
 Romans 11 clarifies that the church and Israel (Jews) are one and the same. Indeed, the nation of Israel began long before the time of the Gentiles consisting of the past two thousand years. But the church consists of all born again believers ever since Adam and Eve up to our present time. So the first believers were gentiles, not Jews or Israelites. But the Lord went on to choose a people that would spread His name, beginning with Abraham and his descendants. So Romans eleven isn’t stating that the Jews were the first converts, but that they were the first chosen group of people to act as ambassadors for Christ here on earth. Jesus was the rock and foundation of the church, and He was Jewish. Therefore, the church was still founded by Jews, not Gentiles. As mentioned in Romans, there is much advantage of being a Jew from Israel (**Romans 3:1-2; Romans 1:16; 2:9; 2:10**). But not all Israel is true Israel, a fact discerned by faith because only those who believe in Jesus Christ are the true “chosen ones” of God. Since God chose Israel to be the apple of His eye, how can unbelieving Israelites constitute the chosen? Only believers fall in this category.  
 
-Romans 9:25-26 states- ***25** as He also says in Hosea:“I will call those who were not My people, ‘My people,’ And her who was not beloved, ‘beloved.’” **26** “And it shall be that in the place where it was said to them, ‘you are not My people,’ There they shall be called sons of the living God.”*
+Romans 9:25-26 states---***25** as He also says in Hosea:“I will call those who were not My people, ‘My people,’ And her who was not beloved, ‘beloved.’” **26** “And it shall be that in the place where it was said to them, ‘you are not My people,’ There they shall be called sons of the living God.”*
 
 The “those” referred to above consist of Gentile believers, who would become more open to the gospel message after most Jews came to reject it. This and Romans eleven tells us that Gentiles have merged with the Jews as part of the church, not separated. 
 
@@ -28,10 +30,18 @@ The book of Ephesians solves this whole issue for us by reconciling both Jews an
 
 The only reason we call the current period “the time of the Gentiles” is because more of them are currently coming to Christ. This trend will reverse during and after the Tribulation when Israel retakes the leading role. And there is no passage in Scripture that in any way states that Gentiles have replaced Jews or that Israel and the church exist as two separate entities. They are both the same. Israel is simply a unique part of Christ’s body of believers. 
 
-The Greek New Testament term for “church” is *ekklesia* (ἐκκλησία) which comes from the verb “to call” and the preposition “out of.” As **Robert D. Luginbill** states,  “*this is the same word used for the assembly of enfranchised citizens in the classical Greek city-states. These notions of special selection and special privilege can also be seen in the adjectival form eklektos, cognate in form and meaning with the Latin word from which our English "elect" is derived. That the Church is thus properly the universal assembly of all who choose to faithfully follow Jesus Christ during the first six millennia of human history, a chosen few (by grace through faith,* [*Eph.2:8-9*](https://biblia.com/bible/nkjv/Eph.2.8-9)*), an elect group called by God out of the devil's world and into His own family, is a truth not only supported throughout the New Testament (cf.* [*Matt.22:14*](https://biblia.com/bible/nkjv/Matt.22.14)*;* [*Rom.8:33*](https://biblia.com/bible/nkjv/Rom.8.33)*;* [*1Cor.1:27*](https://biblia.com/bible/nkjv/1 Cor.1.27)*;* [*1Thes.1:4*](https://biblia.com/bible/nkjv/1 Thess.1.4)*;* [*1Pet.1:1*](https://biblia.com/bible/nkjv/1 Pet.1.1)*;* [*Rev.17:14*](https://biblia.com/bible/nkjv/Rev.17.14)*), but consistent with the picture given by the Old Testament as well, where ekklesia is the standard translation for Israel's assembly (**קהל**), the qahal.”* 
+The Greek New Testament term for “church” is *ekklesia* (ἐκκλησία) which comes from the verb “to call” and the preposition “out of.” As Dr. Luginbill of [Ichthys.com](https://www.ichthys.com) states---
 
-And finally, he writes, 
+{{% quote text="Ichthys" src="https://ichthys.com/6B-Ecclesio.htm#A._Definition_of_the_Church" %}}
 
-*Central to the idea of our "election" is the purpose for it. For we who are elect are so because of Him who is **the** elect, Jesus Christ, and it is for Him that we have been chosen out of the world, to share eternity together with **the** chosen One (compare* [*Is.42:1*](https://biblia.com/bible/nkjv/Isa.42.1) *with 44:1; and cf.* [*Lk.9:35*](https://biblia.com/bible/nkjv/Luke.9.35)*;* [*23:35*](https://biblia.com/bible/nkjv/Lk 23.35)*;* [*1Pet.2:4*](https://biblia.com/bible/nkjv/1 Pet.2.4)*):* 
+[T]his is the same word used for the assembly of enfranchised citizens in the classical Greek city-states. These notions of special selection and special privilege can also be seen in the adjectival form eklektos, cognate in form and meaning with the Latin word from which our English "elect" is derived. That the Church is thus properly the universal assembly of all who choose to faithfully follow Jesus Christ during the first six millennia of human history, a chosen few (by grace through faith, Eph.2:8-9), an elect group called by God out of the devil's world and into His own family, is a truth not only supported throughout the New Testament (cf. Matt.22:14; Rom.8:33; 1Cor.1:27; 1Thes.1:4; 1Pet.1:1; Rev.17:14), but consistent with the picture given by the Old Testament as well, where ekklesia is the standard translation for Israel's assembly (**קהל**), the qahal.
 
-[*https://ichthys.com/6B-Ecclesio.htm#A._Definition_of_the_Church*](https://ichthys.com/6B-Ecclesio.htm#A._Definition_of_the_Church) 
+{{% /quote %}}
+
+And finally, he writes,
+
+{{% quote text="Ichthys" src="https://ichthys.com/6B-Ecclesio.htm#A._Definition_of_the_Church" %}}
+
+Central to the idea of our "election" is the purpose for it. For we who are elect are so because of Him who is **the** elect, Jesus Christ, and it is for Him that we have been chosen out of the world, to share eternity together with **the** chosen One (compare Is.42:1 with Is. 44:1; and cf. Lk.9:35; 23:35; 1Pet.2:4)
+
+{{% /quote %}}

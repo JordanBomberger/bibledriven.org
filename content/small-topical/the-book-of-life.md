@@ -1,5 +1,7 @@
 ---
-title: The Book of Life
+title: The Book of Life 
+summary: 
+   A brief explanantion of the book of life --- its nature and purpose 
 ---
 
 Contrary to some beliefs, there are no “two books” of life. There is only one, and it contains the names of every believer that will have ever lived once history has run its entire course. The book of life is God’s book and, therefore, the “Lamb’s book of life.” Both titles refer to the same thing. 

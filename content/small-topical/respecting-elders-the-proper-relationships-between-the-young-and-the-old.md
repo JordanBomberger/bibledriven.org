@@ -1,5 +1,7 @@
 ---
 title: Respecting Elders - The Proper Relationships Between the Young and the Old
+summary: 
+   This study discusses some common issues (including some typical misconceptions) on how older and younger people are to relate to one another. 
 ---
 
 Younger believers need to submit to and respect their elders. But what does this mean, and what does this not mean?

@@ -1,5 +1,7 @@
 ---
-title: Giving, American Christianity, House Churches, and the Persecuted Church
+title: Giving, American Christianity, House Churches, and the Persecuted Church 
+summary: 
+   The things listed in the title are commonly misunderstood, neglected, and overlooked. Since that is the case (and these matters are very important), we will say some things about each one of them that need to be emphasized. 
 ---
 
 ## Introduction
@@ -26,7 +28,7 @@ Tithing is a highly misunderstood, misapplied, and abused practice in the body o
 
 ### Ostentatious giving ought to be avoided
 
-Additionally, nowhere does Scripture mandate passing a plate around a congregation to collect money. If a church wants to collect money, there are far less conspicuous ways to do so than passing a dish around or having people come up in front of the congregation to give. Collection boxes located in a known discreet and secluded corner isn’t a bad idea. In this day of technology, an even better alternative is to give online where no one else can see the act done. Or we can just give to individuals and others one on one in private. The idea is to attract as little attention to ourselves and our donations as possible. As Jesus commanded to the people of His day, so we should echo His statements to our brothers and sisters- 
+Additionally, nowhere does Scripture mandate passing a plate around a congregation to collect money. If a church wants to collect money, there are far less conspicuous ways to do so than passing a dish around or having people come up in front of the congregation to give. Collection boxes located in a known discreet and secluded corner isn’t a bad idea. In this day of technology, an even better alternative is to give online where no one else can see the act done. Or we can just give to individuals and others one on one in private. The idea is to attract as little attention to ourselves and our donations as possible. As Jesus commanded to the people of His day, so we should echo His statements to our brothers and sisters---
 
 {{% scripture p="Matthew 6:1-5 (ESV)" %}} 
 
@@ -36,7 +38,7 @@ Additionally, nowhere does Scripture mandate passing a plate around a congregati
 
 ### Giving must come from the heart
 
-Giving within the church is a personal matter that must come from a pure and right heart. This author believes that as a believer grows spiritually, the Holy Spirit will naturally soften their attitudes and grant them discernment of when and when not to give (and to whom). One could say giving is a work of the Holy Spirit, which means that the believer in question must follow His leading. If they do, then helping someone out who genuinely needs it will be no problem for them. God is love, and since He dwells within us, we will naturally want to share His love with others (especially with those in greatest need). Therefore, we must give as we feel led, heeding our Lord’s still small voice. 
+Giving within the church is a personal matter that must come from a pure and right heart. I believe that as a believer grows spiritually, the Holy Spirit will naturally soften their attitudes and grant them discernment of when and when not to give (and to whom). One could say giving is a work of the Holy Spirit, which means that the believer in question must follow His leading. If they do, then helping someone out who genuinely needs it will be no problem for them. God is love, and since He dwells within us, we will naturally want to share His love with others (especially with those in greatest need). Therefore, we must give as we feel led, heeding our Lord’s still small voice. 
 
 Unfortunately, giving has turned into something it shouldn’t be. But giving to others who genuinely need it is highly encouraged. In many circumstances, it is our Christian duty! But there is no rule on how much and how often we should engage in this generous activity. Giving is an area of application based on what we feel the Lord would want us to do. If there is a need God wants us to fill, then He will lead us to give aid.
 
@@ -202,17 +204,16 @@ There are many emergencies for so many persecuted believers in this world. We mu
 
 Below are links to two well-known and trusted ministry websites where you can give to persecuted and needy believers worldwide. See the links for more details. 
 
-https://www.persecution.com/ 
-
-https://www.opendoorsusa.org/about-us/
+* [The Voice of the Martyrs](https://www.persecution.com/)
+* [Joint Statement - Open Doors USA](https://www.opendoorsusa.org/)
 
 This next link is from Curtis Omo’s Bible Academy, a serious and in-depth teaching ministry committed to the spiritual growth of children and adults. 
 
-https://bibleacademyonline.com/omo/ 
+* [Bibleacademyonline – Verse-by-Verse Bible Studies from the Original Languages by Pastor and Teacher Curtis M. Omo](https://bibleacademyonline.com/omo/)
 
 {{% note %}}
 
-I (Jordan Lee Bomberger) do not myself solicit nor accept financial support -- this website is a not-for-profit ministry, and does not accept donations. If you are looking for good causes, however, please do consider instead the things linked above.
+I do not myself solicit nor accept donations. If you are looking for good causes, however, please do consider instead the things linked above.
 
 {{% /note %}}
 
@@ -230,6 +231,6 @@ Examples of house churches are found in **Philemon 1-3, 1 Corinthians 16:19-20, 
 
 ### Priorities in giving
 
-The principle is simple -- a building equals more time, money, distraction, and priority. The issues then extend into other areas of church life, such as giving (tithing as it is known today). As we have [already taken the time to explain](TODO), the New Testament nowhere commands this practice. Much of the money put in the offering plate goes toward far less important things such as building projects, activities, music, etc. But what about the persecuted church? What about those amidst the free church that do need help? Why not give to an organization that is actually making a difference in the body of Christ?
+The principle is simple -- a building equals more time, money, distraction, and priority. The issues then extend into other areas of church life, such as giving (tithing as it is known today). As we have [already taken the time to explain](/small-topical/giving-american-christianity-house-churches-and-the-persecuted-church-copy/#tithing-versus-giving), the New Testament nowhere commands this practice. Much of the money put in the offering plate goes toward far less important things such as building projects, activities, music, etc. But what about the persecuted church? What about those amidst the free church that do need help? Why not give to an organization that is actually making a difference in the body of Christ?
 
 Additionally, why not give to teaching ministries that actually teach the Word of God seriously? Why, as a church, do we continue to waste our time and money on things we don’t need and on ministries that continue to squander and misuse what we give? The Lord wants us to give, but He wants us to give to those who need it. That is how things worked during the early church, and that is how it should work now.

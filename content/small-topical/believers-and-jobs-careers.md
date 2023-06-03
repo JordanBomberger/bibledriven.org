@@ -1,5 +1,7 @@
 ---
 title: Believers and Jobs/Careers
+summary:
+   This topic discusses how the workforce may/can/should relate to our ministry and relationship with God. There are many variables because all believers are called to different things.  
 ---
 
 ## Introduction
@@ -8,7 +10,7 @@ This subject we will discuss has been a stumbling block for so many in the churc
 
 Nonetheless, almost every member of Christ’s body will have to decide what to do to support themselves and their family (if married). One of the most daunting and difficult decisions in life is choosing a suitable job/ career. Children attend grade school and then pursue their area of interest after they graduate. Many often switch majors, and some drop out of college altogether. Some young people know what they want to do before they graduate, while others have no clue what interests them. Every person is different. 
 
-The topic of jobs and careers is a thorny issue that one must approach without dogmatism or any agenda. Why? We will see in the points below. There is no “one way” to approach it because God calls us all to different things. This author (and no other person) can choose the right path for another brother or sister. That decision is between them and the Lord.
+The topic of jobs and careers is a thorny issue that one must approach without dogmatism or any agenda. Why? We will see in the points below. There is no “one way” to approach it because God calls us all to different things. I cannot choose the right path for another brother or sister. That decision is between them and the Lord.
 
 But someone may want advice regarding the questions, “*what job should I take*? *How should I go about this*? *How Should I view the job I currently have*?" Hopefully, the following points will help in considering these matters. But no person can ever give a direct answer (unless it becomes obvious said career will negatively affect the believer’s walk with the Lord). So below are some things to consider. All the points below are realistic circumstances and possibilities that may or may not apply to some individuals. However, at least some of them apply to everyone.  Ultimately, the best way to discern what the Lord wants us to do is to grow spiritually. But the points below should still be helpful. 
 

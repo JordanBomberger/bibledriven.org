@@ -10,20 +10,25 @@ title: Resource Recommendations
 
 A great teaching ministry by Dr. Robert D. Luginbill (a Classics professor at the University of Louisville) dedicated to helping the spiritual growth of other believers. Contains systematic Bible Basics series, the Coming Tribulation, the Peter Series, the Satanic Rebellion, and more. 
 
-### Bible Academy, By Curtis Omo
+### Bible Academy, By Curtis M. Omo
 
 - [YouTube Channel](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg)
 - [Text Website](https://bibleacademyonline.com/omo/)
 
 A great verse by verse teaching ministry by Curtis M. Omo, covering various books of the Bible.
 
-TODO: might you also want to link to my website, and also Odii's recent YouTube channel or any of his stuff?
+### BibleDocs, By Steven W. Tammen
+
+- [YouTube Channel](https://www.youtube.com/@BibleDocs/featured)
+- [Text Website](https://www.bibledocs.org/)
+
+Another teaching ministry I highly recommend, written by a good friend and peer of mine.
 
 ## Resources for Teachers and Lay Christians (non-teachers) Both
 
 ### Books about the Bible Itself
 
-#### “A Students Guide to Textual Criticism of the Bible”- By Paul D. Wegner
+#### “A Students Guide to Textual Criticism of the Bible” - By Paul D. Wegner
 
 - [Amazon](https://www.amazon.com/Students-Guide-Textual-Criticism-Bible/dp/0830827315)
 

@@ -1,12 +1,20 @@
 ---
 title: Believers and Politics
+summary:
+   Should Christians involve themselves in politics? This brief work argues for why believers should avoid them at all costs. 
 ---
 
 Should believers involve themselves in political democracy? Are some Christians called to channel their spiritual gifts through politics?
 
 ## Introduction
 
-Political involvement is not the best idea. The question is not whether it is right or wrong, but is it something the Lord wants us to spend our time doing? Watching the news is alright as long as it doesn’t distract us from our relationship with Jesus Christ. All things in moderation. But political participation is a different story than casually keeping up with what is going on in the world, isn't it?
+Political involvement is not the best idea. The question is not whether it is right or wrong, but is it something the Lord wants us to spend our time doing? Watching the news is alright as long as it doesn’t distract us from our relationship with Jesus Christ. All things in moderation. But political participation is a different story than casually keeping up with what is going on in the world, isn't it? 
+
+{{% note  %}} 
+
+Although I am highly skeptical God calls any believer to channel their spiritual gifts and ministries through politics, I am not dogmatic. It is possible that a small few may be called upon to do so. But what we can say with certainty is that **most** believers would do well to stay out of politics.  
+
+{{%/ note  %}} 
 
 ## What does the Bible say? What should our goal be?
 
@@ -18,7 +26,7 @@ Our goal as believers is to advance the kingdom through our spiritual service to
 
 Political involvement is very dangerous in that it does believers little good. Not only will it not somehow prevent the negative “trends” we see today from worsening, but it takes our minds off of the true goal of advancing for Jesus Christ. It is an incredible waste of time and puts our attention on everything but that which actually needs doing. Our work here on Earth involves using what we have received from Christ in spiritual service, not taking matters into our own hands by trying to foolishly accomplish only something that God can do. As believers, we are to let our light shine before men (**Matthew 5:15-16**), but in a way that honors God and demonstrates faith and trust in Him. Political involvement does not accomplish this but sends the wrong message.
 
-The Bible does not command us to vote, campaign, or run for office. There is nothing wrong with voting or not voting. But it is false to believe that the world will get better and stay good if we somehow vote for and elect the right people. As Dr. Robert D. Luginbill of [Ichthys](https://ichthys.com) states:
+The Bible does not command us to vote, campaign, or run for office. There is nothing wrong with voting or not voting. But it is false to believe that the world will get better and stay good if we somehow vote for and elect the right people. As Dr. Luginbill of [Ichthys.com](https://ichthys.com) states:
 
 {{% quote text="Ichthys" src="https://ichthys.com/mail-eschatology-issues84.htm#:~:text=In%20Christ%2C-,response%20%2322%3A,-On%20the%20first" %}}
 

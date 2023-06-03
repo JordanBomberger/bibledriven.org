@@ -215,7 +215,7 @@ How can a believer “throw off all that hinders” while working for the perish
 
 
 
-## **6. The Process of Preparation and How it is Done- Spiritual Growth, Progress, and Production** 
+## **6. The Process of Preparation and How it is Done - Spiritual Growth, Progress, and Production** 
 
 As we have touched on above, having the right attitude, a mindset of repentance and zeal, and great love for God, is the first step in our continued spiritual journey as believers, the precursor to spiritual progress and production. For without the right attitude, growth, along with the following steps, would be stunted. Developing the right mindset comes first for the believer who desires to grow and please His master to the highest possible degree. Repentance starts with a change of heart and mind.  
 
@@ -237,7 +237,7 @@ Knowing our status and identity in Christ will help us stay focused on our missi
 
 But believers have a responsibility for this process of growth, progress, and production to work. Through our God-given free will, we must choose to trust, obey, and follow Christ at all times, a process that requires discipline and dedication through our free will choices. These things will constitute our discussion on the first step in this process, spiritual growth. As for the other two categories mentioned, we will consider them later in their order. 
 
-Growth, progress, and production are simple terms (I owe these descriptions and their proper order to **Dr.Luginbill**) to describe what we are discussing here, and these aspects never stop this side of eternity, for they continue as long as we are alive. Therefore, our listing of these processes is not meant to be comprehensive, boxed in definitions. 
+Growth, progress, and production are simple terms (I owe these descriptions and their proper order to Dr.Luginbill of [Ichthys.com](https://www.ichthys.com)) to describe what we are discussing here, and these aspects never stop this side of eternity, for they continue as long as we are alive. Therefore, our listing of these processes is not meant to be comprehensive, boxed in definitions. 
 
 Let us strive all the more to make our “*calling and election sure*” (**2 Peter 1:10**) by putting our renewed minds into action through dedicated spiritual growth. God called us to righteousness, so we prepare spiritually, not just to be ready for the tribulation, to survive it with faith intact, but mainly to demonstrate our love for God in this life through **all** our decisions. Christ showed His love for us, so let us as His servants do the same as well. 
 
@@ -295,7 +295,7 @@ It is good to praise the Lord and make music to your name, O Most High,
 
 Whatever the reason for prayer may be, it's crucial in the Christian’s walk. We often go to God for comfort; during difficult times, we go to Him for strength; in times of joy, we go to Him in praise and worship. We go to Him for forgiveness, requests, and or to talk with our best friend in life. Also remarkable about all this is that we can pray for our brothers and sisters in Christ and others' salvation. 
 
-Regarding what it has to do with our spiritual growth, prayer keeps us walking closer with God. God speaks to us through His Word- we talk to Him through prayer. It keeps us in touch with the Lord, and through this communication, shields us from the dangers that threaten our faith. Through a prayer of faith, we can overcome any obstacles we encounter.  
+Regarding what it has to do with our spiritual growth, prayer keeps us walking closer with God. God speaks to us through His Word---we talk to Him through prayer. It keeps us in touch with the Lord, and through this communication, shields us from the dangers that threaten our faith. Through a prayer of faith, we can overcome any obstacles we encounter.  
 
 {{% scripture p="1 Thessalonians 5:16-18 (ESV)" %}}  
 
@@ -491,9 +491,7 @@ To our current church era, consisting of believers alive today, we have the pass
 
  Worth noting is that though they may have come just short of living a wasted life, all believers will be rewarded with eternal life itself and for all good works of spiritual fruit they produced with their time on earth. Every believer who enters the kingdom will have something to show for their time on earth.  
 
-For more information on eternal rewards and the three crowns of reward for believers to win, please see the link below. 
-
-[**How Believers are Defined- The Worth, Value, and Potential of Every Member of Christ's Church**](/topical/how-believers-are-defined--the-worth-value-and-potential-of-every-member-of-christs-church/)
+For more information on eternal rewards and the three crowns of reward for believers to win, please see [**How Believers are Defined - The Worth, Value, and Potential of Every Member of Christ's Church**](/large-topical/how-believers-are-defined-the-worth-value-and-potential-of-every-member-of-christs-church/).
 
 Scripture reveals to us how we can allow change in our lives. It also uses motivation through promised blessings to encourage us to push ahead. The Bible shows us the benefits of continued spiritual growth, progress, and production. It also warns us against the many negatives in failing to grow, the other side of our “coin of motivation.” Scripture so very clearly warns us of the consequences of abusing our salvation. Though many lukewarm believers today will endure and make it safely to the heavenly kingdom, complacency always runs the risk of more serious spiritual damage. This damage may be so severe that its results may produce pre-mature physical death, or even worse than that, apostasy resulting in eternal separation forever and ever. The warning passages below are just a few of the many verses in the Bible that admonish us to continue in the Christian life by warning us of the consequences of falling away. 
 
@@ -619,7 +617,7 @@ As we have already examined in this paper, a change of attitude is first needed.
 
 {{% /scripture %}} 
 
-This whole process of searching takes considerable discernment, and we should be praying for that as well. Finding answers in a spiritual safe- haven may take time and pain because the process can be gruesome. But what is needed is endurance, the patience to wait on the Lord for Him to bring the answers (**Isaiah 40:31, Psalm 27:13-14, Lamentations 3:25**). 
+This whole process of searching takes considerable discernment, and we should be praying for that as well. Finding answers in a spiritual safe---haven may take time and pain because the process can be gruesome. But what is needed is endurance, the patience to wait on the Lord for Him to bring the answers (**Isaiah 40:31, Psalm 27:13-14, Lamentations 3:25**). 
 
 The Bible also advises on things believers can do searching for answers, a small handful of verses shown below. For one thing, we should stay away from anything that would weaken our resolve. These include things that would distract us, especially false teaching and anything that would thwart our mission. As the believer grows, so will their priorities. The mature believer knows what is more important to them, and they will go out of their way to put the Lord first, even with all the suffering entailed. 
 
@@ -825,7 +823,7 @@ As believers grow, so do the tests that further challenge their walk with the Lo
 
 {{% /scripture %}} 
 
-God wants us to go the distance. He wants us to run this race as fast as we can. We should never be content to stay put at any level of maturity, no matter how high it may be. Growth, progress, and production never stop until we meet the Lord face to face, and because of this, we must allow our faith to continue growing till the day the Lord takes us home, no matter the cost. It's not easy, and one may very well think that since the challenges grow, then sooner or later, the tests and trials they will have to face will become so many and so strenuous that they will all be like a balloon about to pop. But we must keep in mind this fact- our level of faith will determine our level of testing. That is to say that the Lord would have never put us in any situation if He knew we wouldn’t be able to handle it. God is in control, and through His Holy Spirit's restraint on the dark satanic forces of this world, He determines the difficulty of the tests we face, knowing very well what we as individuals can or can’t handle. 
+God wants us to go the distance. He wants us to run this race as fast as we can. We should never be content to stay put at any level of maturity, no matter how high it may be. Growth, progress, and production never stop until we meet the Lord face to face, and because of this, we must allow our faith to continue growing till the day the Lord takes us home, no matter the cost. It's not easy, and one may very well think that since the challenges grow, then sooner or later, the tests and trials they will have to face will become so many and so strenuous that they will all be like a balloon about to pop. But we must keep in mind this fact---our level of faith will determine our level of testing. That is to say that the Lord would have never put us in any situation if He knew we wouldn’t be able to handle it. God is in control, and through His Holy Spirit's restraint on the dark satanic forces of this world, He determines the difficulty of the tests we face, knowing very well what we as individuals can or can’t handle. 
 
 {{% scripture p="1 Corinthians 10:13 (NIV)" %}}  
 
@@ -869,7 +867,7 @@ The Lord has given every believer spiritual gifts to use in the specific ministr
 
 And it is God who chooses our spiritual gifts; in that, we have no choice. But this is a good thing, for the Lord knows our abilities, strengths, and weaknesses better than we do. He knows what we can do and what we can’t. He knows how to assign our ministries according to our strengths in ways that allow us to be the most effective for Him. The service God chooses for the believer has in mind the maximum production and reward in eternity. In other words, God is setting us up for ultimate success in giving us whatever gifts we have received at salvation. Whatever we receive from God, we can be rest assured that it is the perfect fit for us.  
 
-#### **A.  Ministry- Why it is Important** 
+#### **A.  Ministry - Why it is Important** 
 
 {{% scripture p="John 15:5-8 (NIV)" %}}  
 
@@ -893,11 +891,11 @@ What *does it* profit, my brethren, if someone says he has faith but does not ha
 
 {{% /scripture %}} 
 
-Getting back to the topic of ministry, God could solve the problem of work and do it all Himself, but that is not how He operates. Our Savior often manifests His truth, not only through creation-natural revelation but through prepared and qualified men- divine revelation. Our duty as believers is to do the Lord’s work He has for us to do, which plays a significant role in demonstrating our love for God before men and angels, allowing our lights to shine in this darkened world. As representatives of Christ Jesus, our goal is to serve others in whatever capacity our Savior has gifted us.  
+Getting back to the topic of ministry, God could solve the problem of work and do it all Himself, but that is not how He operates. Our Savior often manifests His truth, not only through creation-natural revelation but through prepared and qualified men---divine revelation. Our duty as believers is to do the Lord’s work He has for us to do, which plays a significant role in demonstrating our love for God before men and angels, allowing our lights to shine in this darkened world. As representatives of Christ Jesus, our goal is to serve others in whatever capacity our Savior has gifted us.  
 
 Christ's body, the church, consists of every believer alive and breathing, and its growth depends on its members building each other up. Therefore, the goal of ministry is to help our brothers and sisters in Christ advance in any possible way by whatever means the Lord gives us, whether through giving, teaching, encouraging, exhorting, serving, etc. In the case of unbelievers, bringing “new sheep into the flock,” we evangelize, for without new members coming in, the body of Christ would shrink in number and eventually disappear. 
 
-#### **B.  Ministry- Common Misconceptions** 
+#### **B.  Ministry - Common Misconceptions** 
 
 The fact that every believer has a spiritual gift(s) tells us that there are many ministries, with each in possession of a unique one or more to use for God’s glory. Ministry is a spiritual service, whether to believers or unbelievers. We don’t want to get into specifics, but all ministry means leading people to the truth and helping them grow in the grace and knowledge of the Lord Jesus. It does not entail doing things we deem acceptable in our own eyes when they are nothing but wood, hay, and stubble, things that have no bearing on spiritual matters whatsoever. That is the point. One must be careful not to side with any of the two extremes on this matter, where one says “everything counts as a ministry,” and the other that says “nothing counts at all,” “nothing” in the sense of how the church has defined ministry over the years. 
 
@@ -957,7 +955,7 @@ Yes, the Holy Spirit plays a huge role in our Christian service. He gives and em
 
 Moreover, these convictions are not limited to a specific period. For who knows how long an individual may wrestle with what they have heard from others. Sooner or later, a yes or no decision will come. If yes, through zealous persistence in seeking the truth, the Spirit will not fail to give answers. Those who seek persistently always find.  The same applies to the Spirit’s work with unbelievers as well. When a believer shares the Gospel with an unbeliever, He makes the truth about Himself real to the individual through conviction, and then the decision from the person comes sooner or later. 
 
-#### **F.  Bringing Forth Fruit- Rewards**  
+#### **F.  Bringing Forth Fruit - Rewards**  
 
 {{% scripture p="John 15:16 (NASB)" %}}  
 
@@ -1024,8 +1022,6 @@ We are on this earth for Jesus, and how much we live and produce for Him will sh
 
 
 ## **Summary**
-
-### **A Message to Laodicea- Preparing Before the Time**  
 
 The time is now ever so short, for the darkness of the tribulation is fast approaching. What was peeking over the ridge has now climbed over it and preceded to walk closer to us. The New Testament apostles stressed just how little time remained till the Lord’s return in their day, and that was nearly two thousand years ago! Because of today’s Christians' half-hearted attitude, we will have to endure the most terrible time that the earth has ever seen, a period that will occur only once and never again. Many believers will fall away, a large number will endure through martyrdom, and the rest will live on to see the Lord’s return at the second advent during the battle of Armageddon. Because of the nearness of time, we believers should dedicate ourselves to spiritual advance. The fear of the Lord is the beginning of wisdom, and this entails keeping God’s commandments through living a zealous lifestyle for Him. It must then be asked of this lukewarm era if they genuinely desire to hear a “well done good and faithful servant” from our Lord. We only have one shot at this life that we will never get to repeat. 
 
@@ -1103,7 +1099,7 @@ For example, revelation guides those reading it, enlightening all who take the t
 
  Living the Christian life is not easy, but it is entirely doable through God’s strength, for nothing is impossible with God. Our Lord is just, and because of this fact, He would never allow us to be tempted above what we are able. Nor would He have put us in a situation if He knew we couldn’t handle it. He will never put a burden on us that we can’t carry, and He is the one who sustains us through whatever difficulties we have to face. When we are at our weakest, we are at our strongest. While being in a situation where we feel hopeless, we are at our best as Christians. Why? Because it is in moments like that where we see to the greatest degree just how weak we are without Jesus, and for this reason, we cry out to Him all the more. 
 
- Think about it this way- In times of prosperity when life’s difficulties are not pressing on us all that much, we are often easily tempted to slack off and become over-confident in ourselves and our situations. But these can be some of the most dangerous times for the believer, for as soon as we feel we need God less due to a great moment of prosperity, we stumble. Satan is not stupid, for he also observes these things and knows all too well that pride and self-sufficiency lead to complacency. Any time the Christian is not of an alert and sober mind, the dangers of attack and defeat become greater. 
+ Think about it this way---In times of prosperity when life’s difficulties are not pressing on us all that much, we are often easily tempted to slack off and become over-confident in ourselves and our situations. But these can be some of the most dangerous times for the believer, for as soon as we feel we need God less due to a great moment of prosperity, we stumble. Satan is not stupid, for he also observes these things and knows all too well that pride and self-sufficiency lead to complacency. Any time the Christian is not of an alert and sober mind, the dangers of attack and defeat become greater. 
 
  On the other hand, if we are in such difficult times, those are often when the believer cries out the most to God in such a strong faith that tells our Lord we are reliant on Him. That is the kind of faith the Lord wants to see from us all the time, the mindset that we cannot do anything apart from Him. That is the humble way, the ONLY way!  
 
@@ -1269,13 +1265,8 @@ And may His grace be with you!!!
 
 {{% /scripture %}} 
 
-
-
 **Recommended Study Sources** 
 
-https://ichthys.com/Coming-Tribulation-Home-Page.htm
-
-https://ichthys.com/index.htm
-
-https://ichthys.com/6A-Peripateo.htm 
-
+* [Coming Tribulation Home Page](https://ichthys.com/Coming-Tribulation-Home-Page.htm)
+* [Ichthys: Bible Study for Spiritual Growth](https://ichthys.com/index.htm)
+* [Peripateology: the Christian Walk: Bible Basics 6A](https://ichthys.com/6A-Peripateo.htm)
