@@ -1,5 +1,7 @@
 ---
-title: The Meaning of 1 Corinthians 10:31
+title: The Meaning of 1 Corinthians 10:31 
+summary: 
+   What is the meaning of 1 Corinthians 10:31 and how does it apply to the everyday life of the believer? We will answer these questions here. 
 ---
 
 Spiritual growth, progress, and production should occur any time at any place (and should not be separated from life in general). Spiritual growth is intertwined with every aspect of life because just praying, reading our Bibles, and being fed from a good teaching source is insufficient to get any believer anywhere by themselves. Without proper application of the truth, we would never grow spiritually. Therefore, growth, progress, and production can and will occur no matter where we are (whether we are at school, work, or somewhere else). 
