@@ -13,5 +13,5 @@ Anyone who wishes to submit prayer requests may email me at jordan@bibledriven.o
 
 1. For pastor Curtis Omo and [Bible Academy](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg/playlists)
 2. For Dr. Robert Luginbill and [Ichthys](https://ichthys.com/) 
-3. For Steven Tammen and [https://www.bibledocs.org/](https://www.bibledocs.org/?fbclid=IwAR3ovxtr0t1atO9Sp7k5Cf75GeEymd78Y8iPQv1D7WsK9aoTtVvjO6MzxQo) 
+3. For Steven Tammen and [BibleDocs](https://www.bibledocs.org/) 
 4. For our other brothers and sisters Odii, Abby, and Dadi. Prayers for their jobs and continued spiritual growth, progress, and production would be appreciated. 
