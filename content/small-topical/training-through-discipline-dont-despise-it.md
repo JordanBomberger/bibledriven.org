@@ -1,5 +1,7 @@
 ---
 title: Training through Discipline - Don’t Despise it!
+summary: 
+   All believers will receive discipline throughout their lives. Therefore, this page will discuss why it is imperative to handle it as the Lord intends us to. 
 ---
 
 {{% scripture p="Hebrews 12:5-11 (NIV)" %}} 
