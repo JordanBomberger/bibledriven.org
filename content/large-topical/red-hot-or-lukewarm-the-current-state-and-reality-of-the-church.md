@@ -1,5 +1,5 @@
 ---
-title: Red Hot or Lukewarm - The Current State and Reality of the Church
+title: The Current State and Reality of the Church
 weight: 200
 summary: Describing the current church as it really is and what needs to change for it to improve. The reality of modern Christianity. Please also see The Gospel of Jesus Christ-Water Baptism for the reality of the past 2,000 years of church history since the apostle John's death. 
 ---
