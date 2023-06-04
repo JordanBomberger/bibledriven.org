@@ -416,11 +416,7 @@ Since salvation is by faith through grace alone, and Christ covered all our sins
 
 A lack of any obedience or good fruit can reveal someone as an unbeliever since all true believers will manifest a changed life to at least some extent. The believer's faith will be evidenced or manifested by good works (obedience in resisting sin and temptation and in bringing forth fruit through ministry). 
 
-{{% note %}}
-
-The works mentioned here in James are **not** the works of the Law Paul mentions in Romans. True saving faith naturally expresses itself through obedience and spiritual production (bringing forth fruit John 15:8). 
-
-{{% note %}}
+{{% note %}}                                                                                                                                                                                                                  The works mentioned here in James are **not** the works of the Law Paul mentions in Romans. True saving faith naturally expresses itself through obedience and spiritual production (bringing forth fruit John 15:8).                                                                                    {{% note %}}
 
 However, James 2:14-24 applies to both believers and unbelievers. If believers aren't walking in fellowship with God through faith, then not having active faith is useless because no good work can be done. If we aren't walking in the Spirit through faith, our faith is momentarily dead because it is inactive when it shouldn't be (such as the man who says "go in peace, be warmed and filled").  On the other side of the coin are unbelievers who claim faith but have nothing to show for it since they do not actually believe in and follow Christ. In their case, no works are an indication that they have no saving faith in Christ at all. Our James passage is addressing both believers and unbelievers. 
 
