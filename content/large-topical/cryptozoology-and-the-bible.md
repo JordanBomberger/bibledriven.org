@@ -17,7 +17,7 @@ This examination is a sharing of what I believe the Lord has revealed to me afte
 
 {{% note %}}
 I do not follow, recommend, endorse or support any of the authors (except for Dr. Luginbill of [Ichthys.com](https://www.ichthys.com)) and their works mentioned/quoted in this paper. However, I have chosen not to “throw the baby out with the bathwater” and have carefully selected those quotes that I believe are either correct or possibilities. And of course, this was done with all due respect. 
-{{% /note %}}
+{{% /note %}} 
 
 The subject of cryptozoology is often “under the radar” in Christian circles. This topic has undoubtedly caused at least some believers to waver in their faith. So if there is a problem, it needs to be addressed to whatever extent we can handle it. That is **not** the same thing as getting our minds wrapped around the subject, something I **do not encourage**. Our focus should be on Jesus at all times. 
 
