@@ -386,7 +386,7 @@ We need to also keep in mind that apostasy does not always have to involve sin. 
 
 {{% /scripture %}} 
 
-Other passages which demonstrate the need for perseverance include (but are not limited to) ***Colossians 1:21-23, Hebrews 3:6, 2 Corinthians 13:5, 1 Corinthians 10:12, John 15:5-6, Galatians 5:19-21, 1 Corinthians 6:9-10, Ephesians 5:3-7, Hebrews 10:26-31, 1 Timothy 6:9, 1 Timothy 1:18-19, 2 Peter 2:20-22, Hebrews 3:12-19, Romans 6:16, Romans 11:22-23, Hebrews 6:4-6**,*. 
+Other passages which demonstrate the need for perseverance include (but are not limited to) **Colossians 1:21-23, Hebrews 3:6, 2 Corinthians 13:5, 1 Corinthians 10:12, John 15:5-6, Galatians 5:19-21, 1 Corinthians 6:9-10, Ephesians 5:3-7, Hebrews 10:26-31, 1 Timothy 6:9, 1 Timothy 1:18-19, 2 Peter 2:20-22, Hebrews 3:12-19, Romans 6:16, Romans 11:22-23**. 
 
 ### **James 2:14-24 Explained** 
 
