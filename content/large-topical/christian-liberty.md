@@ -195,7 +195,7 @@ What about worship with specific instruments and with a particular beat? As long
 
 Outward manifestations of praise to God don't determine a believer's spiritual maturity. Many unbelievers attending church today are all enthusiastic about the music and sing their hearts out. Unfortunately, for those less genuine, music has become a dominant ritual in most congregations, just as how the sacrificial system in ancient Israel became more religious and less spiritual. The truth of God’s Word should be the priority of every believer in assembly. 
 
-### **The whole purpose of assembly is to fed the Word and for mutual encouragement and ministry** 
+### **The whole purpose of assembly is to be fed the Word and for mutual encouragement and ministry** 
 
 The whole point of “church” is not music but rather to hear the Word taught and to minister it to others in the spiritual gifts the Lord has given everyone of us. 
 
