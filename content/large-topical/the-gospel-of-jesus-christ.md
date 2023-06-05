@@ -192,14 +192,6 @@ For one thing, God is just, and this means that He doesn’t force people to do 
 
 Looking at this verse above, we see the phrase, “if he finds it,”  showing us that there is a possibility our Lord may not find the lost sheep. Luke’s version “*until he finds it*” (ἕως εὕρῃ αὐτό) focuses on a more positive outcome but in no way suggests by approaching it this way that the shepherd will find every sheep.  A believer who stubbornly refuses the Lord’s chastisement and gives up on their faith cannot be brought back because coming back is entirely up to the individual themselves, something they may choose not to do. Our Lord pursues them because He loves them, and it was not His will that they should perish. For that discussion, we look to the passages below. But God never forces anyone to come back because that would be violating their free will. We shall discuss this topic more in-depth later in this study, but we need to understand the fundamental truth that free will is why we are here on this earth to choose either for or against God. It is part of our makeup as human beings, and as we shall see later, it's one of the ways we share in the “image” and “likeness” of God. 
 
-{{% scripture p="John 6:37-39 (NIV)" %}} 
-
-**37** All those the Father gives me will come to me, and whoever comes to me I will never drive away. **38** For I have come down from heaven not to do my will but to do the will of him who sent me. **39** And this is the **will** of him who sent me, that I shall lose none of all those he has given me, but raise them up at the last day.                                
-
-{{% /scripture %}} 
-
-The word “will” in the passage above involves God’s “desire” for believers not to depart from Him. The Lord’s “desire” for His own does not take away their free will to choose to turn back, and we can see this in the verse below. Even though God’s will is for all to come to the knowledge of the truth, we know that most will reject His gift of salvation. In this case, of course, God does not want any of His followers to turn away from Him. But many have, can and will. 
-
 {{% scripture p="2 Peter 3:9 (NASB)" %}} 
 
 **9** The Lord is not slow about His promise, as some count slowness, but is patient toward you, not wishing **for any to perish** but for all to come to repentance.                        
