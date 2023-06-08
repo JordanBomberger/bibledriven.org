@@ -1349,7 +1349,7 @@ To the believer currently running this race, all who belong to Christ are in Him
 
 {{% /scripture %}}   
 
-The “belt of truth” is none other than the Word of God, or Jesus Christ Himself, for He is the way, **the truth**, and the life **(John 14:6**). In essence, using the sword of the Spirit means taking the truth we have stored in our hearts (see the belt of truth earlier  above) and applying it in the power of the Spirit. Much of what it entails we have already discussed (for sake of time and space) with the belt of truth since they are both very similar. 
+In essence, using the sword of the Spirit means taking the truth we have stored in our hearts (see the belt of truth earlier  above) and applying it in the power of the Spirit. Much of what it entails we have already discussed (for sake of time and space) with the belt of truth since they are both very similar. 
 
 When faced with temptation, we must recall the truths we have learned by storing up God's Word in our hearts (**Psalm 119:11**).  With that, we will end this section with the following questions: 
 
