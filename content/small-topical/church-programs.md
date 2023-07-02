@@ -10,9 +10,9 @@ There are many diverse programs in churches worldwide, too many to count. I atte
 
 I have attended multiple churches: Baptist churches, traditional non-denominational churches, contemporary community churches, etc. However, I can say without a shadow of a doubt (based on my own experience) that I got very little out of every church, sermon, and ministry I attended throughout my life until I discovered **[Ichthys - Bible Studies for Spiritual Growth](https://ichthys.com/index.htm) by Dr. Robert D. Luginbill**, a website dedicated to providing in-depth Bible teaching.
 
-I realized many years later that most churches are lukewarm with very little teaching content present in them. Of course, the reader of this site should be familiar with all of this already (**Revelation 3:14-22**). This lukewarmness was a contributing factor to my lack of spiritual growth over the years. Nonetheless, I take full responsibility for all the years I spent living a life of wasted potential. For God does not hold people at lukewarm churches forcefully -- the choice to stay in such places is always on us, not God.
+I realized many years later that most churches are lukewarm with very little teaching content present in them. Of course, the reader of this site should be familiar with all of this already (**Revelation 3:14-22**). This lukewarmness was a contributing factor to my lack of spiritual growth over the years. 
 
-### The focus *must* be on the truth as contained in the Word of God, taught at more than a surface level
+### The focus *must* be on the truth as contained in God's Word, taught at more than a surface level
 
 There is nothing wrong with having church programs or even the occasional activity here or there. But, of course, it depends on what a church means by “program.” Programs should involve serious ministry to bring people to the truth and help them grow therein. If the truth was top priority, many current programs would either cease to exist or take on different forms. What do I mean by “forms?” I mean that the Bible would take center stage and become the dominant issue. 
 
@@ -20,7 +20,7 @@ Many church programs mean well but are far off the mark regarding sound teaching
 
 #### Those selected to teach the Bible seriously need to be qualified and up to the task
 
-And this requires people who are qualified for the task, not just any member(s) in the church. Yes, God calls all believers to ministry. But not everyone asked by others to “step up” to the podium is led by the Spirit to take on the job. Christian service should *never* be a forced issue so that it becomes a chore. The point is not getting people out of their comfort zones, but whether or not they actually have the gift and calling (from God) to do what things others may be prodding them to do. We follow the Holy Spirit, not men.
+And this requires people who are qualified for the task, not just any member(s) in the church. Yes, God calls all believers to ministry. But not everyone asked by others to “step up” to the podium is led by the Spirit to take on the job. Christian service should *never* be a forced issue so that it becomes a chore. The point is not getting people out of their comfort zones, but whether or not they actually have the gift and calling (from God) to do what others may be prodding them to do. We follow the Holy Spirit, not men.
 
 Additionally, a believer’s primary ministry may involve evangelism or other believers partially or wholly outside the narrow defines of their local congregation. Although anyone can minister anywhere and at any time, the main work the Lord calls some to may involve ministering behind the scenes in other ways, instead of serving visibly in their particular local church. Websites and blogs are just one example. Others may teach off on the side in their homes. In the end, there are many possibilities.
 
