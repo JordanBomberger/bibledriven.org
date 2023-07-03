@@ -6,7 +6,7 @@ summary:
 
 Martyrdom -- how should we as believers view it?
 
-We need to understand that exiting life in this manner is not something we get to choose to do or not. It is entirely God’s choice on whether He destines us to honor Him in this way. The strongest passage to enhance this reality is one we have mentioned multiple times on this ministry: Revelation 13:10, which demonstrates that whatever God wills and predestines cannot be undone. Whatever He has decreed for the believer's life (He knows it will occur through foreknowledge beforehand) is something He will bring to completion. So the believer who obeys their Him as they should will not be capable of overriding God’s will. But, assuming they remain faithful and don’t cower under pressure, they will obey the Lord’s calling. And the Lord knows who will obey and who will rebel. So the choice every individual believer makes never takes God by surprise because He knew about all their decisions before the earth ever came into existence. 
+We need to understand that exiting life in this manner is not something we get to choose to do or not. It is entirely God’s choice on whether He destines us to honor Him in this way. The strongest passage to enhance this reality is one we have mentioned multiple times on this ministry: Revelation 13:10, which demonstrates that whatever God wills and predestines cannot be undone. Whatever He has decreed for the believer's life (He knows it will occur through foreknowledge beforehand) is something He will bring to completion.
 
 {{% scripture p="Revelation 13:5-10 (ESV)" %}} 
 
