@@ -54,7 +54,7 @@ For more information on the fall of Satan and his followers, please see [Part 1 
 
 ## **There is rank among fallen and elect Angels**
 
-We won’t further explain and go into further detail for this point. But there is a ranking order that exists among demons and heavenly angels. The highest-ranking of the elect are the cherubim, followed by the angelic elders and then archangels. There most likely exists a hierarchy among Satan’s followers as well. 
+There is a ranking order that exists among demons and heavenly angels. The highest-ranking of the elect are the cherubim, followed by the angelic elders and then archangels. There most likely exists a hierarchy among Satan’s followers as well. 
 
 ## **Fallen angels cannot read our minds or possess believers, only unbelievers**
 
