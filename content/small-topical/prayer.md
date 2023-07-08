@@ -16,7 +16,7 @@ However, our subject involves how to approach prayer. The question is, what shou
 
 ### Praying without ceasing does not mean praying every single minute of the day
 
-There is no specific amount of time we have to pray in a twenty-four-hour period, nor is there any particular length a single prayer must be. Additionally, it is not sinful to pray only a little each day. However, more prayer is almost always better. The believer should make it a habit to strive to communicate with their Savior without wavering. The more we do so, the more we grow, progress, and produce. Therefore, it is best to stay consistent in our good habits.  
+There is no specific amount of time we have to pray in a twenty-four-hour period, nor is there any particular length a single prayer must be. Additionally, it is not sinful to pray only a little each day. However, more prayer is almost always better. The believer should make it a habit to strive to communicate with their Savior without wavering. The more we do so, the more we will grow, progress, and produce. Therefore, it is best to stay consistent in our good habits.  
 
 ### So how often and how long should we pray?
 
@@ -36,7 +36,7 @@ During these experiences, we will need to go to the Lord for strength and healin
 
 #### To get the most out of our daily Bible study, we need to make sure we have given ourselves over to the Spirit
 
-It is easy to get distracted, and this requires us to “cede” our focus and attention over to God. When we get distracted (everyone gets distracted every day), we must go to God in prayer for strength. When faced with obstacles vying for our attention, it is always better to rely on Him instead of trying to force ourselves to concentrate in the power of our flesh. 
+It is easy to get distracted, and this requires us to “cede” our focus and attention over to God. When we get distracted (everyone loses their focus at some point each and every day), we must go to God in prayer for strength. When faced with obstacles vying for our attention, it is always better to rely on Him instead of trying to force ourselves to concentrate in the power of our flesh. 
 
 #### Praying daily for our brothers and sisters in the Church
 
