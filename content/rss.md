@@ -14,4 +14,4 @@ Subscribe to updates according to content type:
 
 - [Large Topical Studies](/large-topical/index.xml)
 - [Small Topical Studies](/small-topical/index.xml)
-
+- [Verse-by-verse Studies](/verse-by-verse/index.xml)
