@@ -67,9 +67,11 @@ And, of course, it was also during this time when Christ descended to the lower 
 
 {{% /scripture %}}  
 
+{{% scripture p="Jude 1:6 (NIV)" %}}  
+
 **6** And the angels who did not keep their positions of authority but abandoned their proper dwelling—these he has kept in darkness, bound with everlasting chains for judgment on the great Day.                                                           
 
-{{% scripture p="Jude 1:6 (NIV)" %}}  
+  {{% /scripture %}}  
 
 And as we can glean from all we have written above, Jesus did not descend into Hell and suffer (burn) there for those three days. We have already explained the purpose of His descent into the lower reaches of the earth above. Therefore, there is no scriptural basis for such an unbiblical position. 
 
