@@ -180,7 +180,29 @@ Finally, although slightly unrelated, another confusing point we need to clear u
 
 ### 1.3 The Need for Endurance 
 
-Salvation is by faith through grace alone, but faith must stay in the equation for that person to enter God’s kingdom. Only believers are saved; unbelievers are not because they have rejected the person and work of Christ regardless of whether such people were true believers at one point or not (some do fall away). The word “believes” in John 3:16 is a present active indicative (present tense attributive participle) that tells us that faith must remain until the end for a person to enter the kingdom of heaven. A good understanding of Scripture and a little knowledge of God’s character can help us see why the Lord has designed things this way. Before we look into some of the many passages that show that salvation depends on continuous faith, we need to discuss a few things first. 
+Salvation is by faith through grace alone, but faith must stay in the equation for that person to enter God’s kingdom. Only believers are saved; unbelievers are not because they have rejected the person and work of Christ regardless of whether such people were true believers at one point or not (some do fall away). The word “believes” in John 3:16 is a present active indicative (present tense attributive participle) that tells us that faith must remain until the end for a person to enter the kingdom of heaven. 
+
+Likewise, the three passages below show beyond a shadow of a doubt that all believers are in the process of **being saved** (present action). This means that although we are saved positionally (being a believer at present means staying in the sphere of "justified"), there is a chance we may deliberately fall from that place by choosing to turn back. Since this is the case, believers are those who must continue to believe, since we are not, as of yet, experiencing our eternal life. 
+
+{{% scripture p="1 Corinthians 1:18 (NIV)" %}} 
+
+**18** For the message of the cross is foolishness to those who are perishing, but to us who **are being saved** it is the power of God. 
+
+{{% /scripture %}}  
+
+{{% scripture p="1 Corinthians 15:2" %}} 
+
+**2** By this gospel you **are being saved**, if you hold firmly to the word I preached to you. Otherwise, you have believed in vain.
+
+{{% /scripture %}} 
+
+{{% scripture p="1 Corinthians 2:15 (NIV)" %}} 
+
+**15** For we are to God the pleasing aroma of Christ among those who **are being saved** and those who are perishing. 
+
+{{% /scripture %}} 
+
+A good understanding of Scripture and a little knowledge of God’s character can help us see why the Lord has designed things this way. Before we look into some of the many passages that show that salvation depends on continuous faith, we need to discuss a few things first. 
 
 For one thing, God is just, and this means that He doesn’t force people to do something they do not wish to do. If a believer no longer wishes to continue believing and instead turn back and go their own way, the Lord will grant that request, but not without pursuing that individual. God doesn’t merely throw His hands in the air and give up on one of his straying sheep immediately. On the contrary, He pursues them until they either return or refuse to come back. No matter what they do, the Lord knew what their actions were going to be ahead of time, and even for those who refused His rallying cries, He still ran after them out of great love so that they would return. 
 
@@ -294,9 +316,37 @@ The words above (whether read in Greek or English) studied within the context cl
 
  The believing audience to whom Paul addresses these words had fallen back into sacrificing animals as if Christ never came and the old covenant never ended with the new. To continue sinning in this manner was to refuse Christ’s sacrifice on the cross and could only lead to apostasy (something Paul was attempting to save his audience from) resulting in the complete death of faith (since continuing in the mosaic rituals was an act of unbelief). Under the old covenant, sacrifices demonstrated the believer’s faith in the coming Messiah (even though they did not take away sins by themselves **Hebrews 10:4**). But since He already came and died for them, the killing of animals was no longer an act of faith but of unbelief. 
 
- So our passage describes those who have already crossed the line into apostasy (Paul uses those individuals as a warning example for his audience) because of the words, “*who has trampled underfoot the Son of God, and has profaned the blood of the covenant by which he was sanctified, and has outraged the Spirit of grace*.” These sentences describe past actions as already having taken place. And this is further reinforced by the example of those who set aside the Law of Moses. The Law stated that the punishment for such a crime was physical death. So our Hebrews passage contrasts the physical death of those under the old covenant to the spiritual death of those under the new. That is why the context states, “***How much worse punishment**," do you think, will be deserved by the one who has trampled underfoot the Son of God, and has profaned the blood of the covenant by which he was sanctified, and has outraged the Spirit of grace*?” The point is that eternal spiritual death is a far worse punishment than a physical death by stoning or what have you. It is true that some of those who profaned the Mosaic Covenant were apostates. But there is no question that some of them were already unbelievers. And there is no mention about what would occur for those who wished to repent because that is not the passage’s point. It is comparing the more tolerable physical death of those who were under the Law to the unbearable future eternal death that awaits those under the new covenant which they have come to despise. 
+ So our passage describes those who have already crossed the line into apostasy (Paul uses those individuals as a warning example for his audience) because of the words, “*who has trampled underfoot the Son of God, and has profaned the blood of the covenant by which he was sanctified, and has outraged the Spirit of grace*.” These sentences describe past actions as already having taken place. And this is further reinforced by the example of those who set aside the Law of Moses. The Law stated that the punishment for such a crime was physical death. So our Hebrews passage contrasts the physical death of those under the old covenant to the spiritual and eternal death of those under the new. That is why the context states, “***How much worse punishment**," do you think, will be deserved by the one who has trampled underfoot the Son of God, and has profaned the blood of the covenant by which he was sanctified, and has outraged the Spirit of grace*?” The point is that eternal spiritual death is a far worse punishment than a physical death by stoning or what have you. It is true that some of those who profaned the Mosaic Covenant were apostates. But there is no question that some of them were already unbelievers. And there is no mention about what would occur for those who wished to repent because that is not the passage’s point. It is comparing the more tolerable physical death of those who were under the Law to the unbearable future eternal death that awaits those under the new covenant which they have come to despise. 
 
- Those who set aside the Law of Moses mentioned in verse twenty-eight were those in ancient Israel who rejected Christ’s ways and laws for their own of worshipping idols (you shall have no other gods before me (**Exodus 20:3**). This sentence is a reference to **Deuteronomy 17:2-8** which describes what we said in the last sentence. So some of those who did this and never chose to repent committed apostasy by departing from the living God (that is, to despise the old covenant Law). To do the same under the new was worse because it was made possible by the blood of Jesus Himself! During the old covenant days, the believers looked forward to Christ’s death on the cross through animal sacrifices. To deny Christ then already had its own consequences, but how much more to deny Him after He endured all that He went through to fulfill the promise of eternal life with His own blood and spiritual death on the cross? 
+ Those who set aside the Law of Moses mentioned in verse twenty-eight were those in ancient Israel who rejected Christ’s ways and laws for their own of worshipping idols (you shall have no other gods before me (**Exodus 20:3**). This sentence is a reference to **Deuteronomy 17:2-8** which describes what we said in the last sentence. So some of those who did this and never chose to repent committed apostasy by departing from the living God (that is, to despise the old covenant Law). To do the same under the new was worse because it was made possible by the blood of Jesus Himself! During the old covenant days, the believers looked forward to Christ’s death on the cross through animal sacrifices. To deny Christ then already had its own consequences, but how much more to deny Him after He endured all that He went through to fulfill the promise of eternal life with His own physical and spiritual death on the cross? 
+
+{{% scripture p="Hebrews 6:4-6 (NIV)" %}} 
+
+**4** It is impossible for those who have once been enlightened, who have tasted the heavenly gift, who have shared in the Holy Spirit, **5** who have tasted the goodness of the word of God and the powers of the coming age **6** and who have **fallen away**, to be brought back to **repentance**. <u>To their loss</u> **they are crucifying the Son of God all over again and subjecting him to public disgrace**.
+
+{{% /scripture %}} 
+
+Likewise, **Hebrews 6:4-6** also presents the same warning as that of **Hebrews 10:26**. But we need to point out what this passage **is not saying**. It is not saying that a believer who temporarily strays from the flock has no chance or ability to repent. Instead, these verses are talking about a person who has stopped believing altogether and deliberately continues to remain in that state (they don't care about their sins of unbelief and have since made up their mind). As with Hebrews 10:26, to <u>keep on sinning</u> in a manner that expresses unbelief in Christ (acting as if He never came and died on the cross through continuance of the now obsolete rituals of animal sacrifice- as is seen from the theme and topic of the surrounding context) was to continue to "re-crucify" the Son of God, an act already accomplished by Jesus Himself. 
+
+The descriptive phrases and words, those who have "*been enlightened*," "*tasted of the heavenly gift*," "*who have shared in the Holy Spirit*," and "*who have tasted the goodness of the word of God*" can only refer to those who once believed (born again believers). No unbeliever (unless they had at one point believed) has ever had a share in the Holy Spirit because they never possessed the Holy Spirit at any point in their lives. Romans 8:9b testifies to this when it says "*And if anyone does not have the Spirit of Christ, they do not belong to Christ*." Likewise, there is also the passage below. 
+
+{{% scripture p="1 Corinthians 2:14-16 (ESV)" %}}
+
+**14** The natural person does not accept the things of the Spirit of God, for they are folly to him, and he is not able to understand them because they are spiritually discerned. **15** The spiritual person judges all things, but is himself to be judged by no one. **16** “For who has understood the mind of the Lord so as to instruct him?” But we have the mind of Christ.
+
+{{% /scripture %}}  
+
+To have the mind of Christ referred to in verse sixteen in our passage above means to possess the Holy Spirit. Paul contrasts those who have it (believers) as opposed to those who don't (unbelievers). 
+
+Regarding Hebrews 6:4-6 again, verse six clarifies that they have "*fallen away*." And the words, "*to bring them back to repentance*" means they were on the right path but have left (departed from it through apostasy). They cannot "*be brought back*" because they refuse to do so **as long as they keep acting as if Christ had never come and died on the cross** by continuing to sacrifice animals and practice all the other obsolete practices of the Mosaic Law (acts of unbelief and rejection) which looked forward to Christ's death. This behavior is the same as saying to God, "Jesus never died on the cross," even though He did. Therefore, Hebrews 6:4-6 describes apostates that Paul used as an example to his reading/listening audience as a warning for them to continue on in the faith. Believers cannot continue to re-crucify the Son of God all over again and subject Him to public disgrace because that behavior bespeaks unbelief. 
+
+{{% scripture p="Hebrews 2:1-4 (NIV)" %}}
+
+We must pay the most careful attention, therefore, to what we have heard, so that we do not drift away. **2** For since the message spoken through angels was binding, and every violation and disobedience received its just punishment, **3** how shall we escape if we ignore so great a salvation? This salvation, which was first announced by the Lord, was confirmed to us by those who heard him. **4** God also testified to it by signs, wonders and various miracles, and by gifts of the Holy Spirit distributed according to his will.
+
+{{% /scripture %}}  
+
+The verses above are very clear... neglecting our faith is to neglect our salvation because we must hold fast to our faith to the very end. The words, "*so that we do not drift away*" show that this is indeed a possibility for any believer (otherwise there would be no need for a warning). If we throw our salvation away through apostasy, then there is "no escape" from eternal judgment." Only believers are saved; unbelievers are not. 
 
 {{% scripture p="Hebrews 3:12 (ESV)" %}} 
 
@@ -304,7 +354,7 @@ The words above (whether read in Greek or English) studied within the context cl
 
 {{% /scripture %}} 
 
-There is a conditional responsibility in the verse above. Believers are to “take care,” meaning that it is their responsibility to make sure they continue to believe. That is their job, not the Lord’s. He does the work of saving us, but we have to keep believing if His grace will benefit us in any way. Grace cannot be absent of faith. It is part of God’s loving character, His unmerited gift. 
+To continue, there is a conditional responsibility in the verse above. Believers are to “take care,” meaning that it is their responsibility to make sure they continue to believe. That is their job, not the Lord’s. He does the work of saving us, but we have to keep believing if His grace will benefit us in any way. Grace cannot be absent of faith. It is part of God’s loving character, His unmerited gift. 
 
 Something vital we need to remember in this discussion is that long before man ever came on the scene, one-third of angels had rebelled against God and departed from Him; we know them as demons or fallen angels. Since then, they have made up their minds not to return to their Creator. However, we must remember that any straying believer can come back if they so desire. But fallen angels have no such longing, for they would rather spend eternity away from God because they have already made up their minds and have no intentions of changing them. 
 
