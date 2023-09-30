@@ -79,7 +79,7 @@ Finally in our non-comprehensive list of reasons is that the Tribulation is clos
 
 {{% scripture p="Colossians 3:1-4 (ESV)" %}} 
 
-If then you have been raised with Christ**, seek the things that are above, where Christ is, seated at the right hand of God**. **2 Set your minds on things that are above, not on things that are on earth**. **3** For you have died, and your life is hidden with Christ in God. **4** When Christ who is your life appears, then you also will appear with him in glory.                                                                          
+If then you have been raised with Christ, seek the things that are above, where Christ is, seated at the right hand of God. **2 Set your minds on things that are above, not on things that are on earth**. **3** For you have died, and your life is hidden with Christ in God. **4** When Christ who is your life appears, then you also will appear with him in glory.                                                                          
 
 {{% /scripture %}}   
 
