@@ -83,7 +83,21 @@ If then you have been raised with Christ, seek the things that are above, where 
 
 {{% /scripture %}}   
 
-Now, believers still have to engage in this world and utilize various things within it to help them advance in their spiritual walk and ministries (we will discuss this further below). But the main point of **1 Corinthians 5:10** is that we are to react to the evil around us in a godly way without compromising our biblical beliefs and behaviors. To be more precise, all Paul intended to communicate in verse ten is that we cannot entirely avoid immoral people and situations/circumstances. He wasn’t suggesting anything other than that (and this is where too many have taken this passage too far out of context). He was simply clarifying what he meant. So it would be improper to take this verse and throw it at others by legalistically encouraging (the road to spiritual peril is often paved by good intentions **Proverbs 19:2**) them to get themselves wrapped up in things that most likely don’t pertain to their spiritual calling. And some of what is preached as “service in the name of Christ” are things we should have little to do with, period. 
+Now, believers still have to engage in this world and utilize various things within it to help them advance in their spiritual walk and ministries (we will discuss this further below). The "monk" mentality of isolation from both the world and the church is unbiblical because it makes spiritual growth, progress, and production almost entirely impossible. And it is a selfish and self-centered approach that makes life all about the individual who participates in such behavior. We must still navigate this world in a godly way, just as we need to be in contact with other believers (whether in person, online, or what have you) to properly please the Lord and be the "salt" and "light" of the earth. Taking the "lone wolf" path is bound to spell spiritual disaster! 
+
+{{% scripture p="Hebrews 10:24-25 (KJV)" %}} 
+
+**24** And let us consider one another to provoke unto love and to good works: **25** Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching.
+
+{{% /scripture %}}  
+
+{{% scripture p="Proverbs 18:1 (NKJV)" %}} 
+
+A man who isolates himself seeks his own desire; He rages against all judgment.
+
+{{% /scripture %}}  
+
+However, the main point of **1 Corinthians 5:10** is that we are to react to the evil around us in a godly way without compromising our biblical beliefs and behaviors. To be more precise, all Paul intended to communicate in verse ten is that we cannot entirely avoid immoral people and situations/circumstances. He wasn’t suggesting anything other than that (and this is where too many have taken this passage too far out of context). He was simply clarifying what he meant. So it would be improper to take this verse and throw it at others by legalistically encouraging (the road to spiritual peril is often paved by good intentions **Proverbs 19:2**) them to get themselves wrapped up in things that most likely don’t pertain to their spiritual calling. And some of what is preached as “service in the name of Christ” are things we should have little to do with, period. 
 
 However, it is true that there are things in the world that will pertain to the service of various believers. And we are all called to be witnesses to those around us wherever we are (work, recreation, the grocery store, etc.) When it comes to how believers engage this world, there will be variables that will involve things that would not constitute a threat to their spiritual welfare. 
 
