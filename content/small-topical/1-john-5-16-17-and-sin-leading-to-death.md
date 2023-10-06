@@ -102,7 +102,11 @@ Now there was a man of the Pharisees, named Nicodemus, a ruler of the Jews; **2*
 
 Those born again in the true lasting sense will fight the good fight all the way into eternity. **1 John 5:4** (same chapter as our two verses under discussion) confirms this when it says “*for everyone **born of God overcomes the world**. This is the victory that has overcome the world, even our faith*.” Those born again in the ultimate and meaningful sense are those who endure in their faith. So although a person can believe for a time and be born again positionally for a while before falling away, they will no longer be born again if they come to reject Christ later on so that verse eighteen can no longer apply to them. Regarding verse eighteen, Dr. Luginbill says the following below (quotes taken from a private email between Dr. Luginbill and myself)...
 
+{{% quote text="Luginbill" src="Dr. Luginbill" %}}
+
  "*In the first part of the verse where it says "is born [again]", what we have here is an attributive participial phrase in the **perfect** tense, meaning, a bit more literally, "the one who is in the state of having been born again". Perfect participles are not usually used in this sense, so its occurrence is significant. I take this to mean that while a person is presently a believer, continual gross sin will not be a situation which can continue indefinitely*."
+
+{{% /quote %}}
 
 And finally, he writes...
 
