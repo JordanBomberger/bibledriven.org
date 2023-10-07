@@ -5,7 +5,11 @@ weight: 200
 
 ## **Matthew 5:3** 
 
+{{% scripture p="Matthew 5:3 (NIV)" %}} 
+
 “*Blessed are the poor in spirit, for theirs is the kingdom of heaven*.” 
+
+{{% /scripture %}} 
 
 The Beatitudes refer to believers (specifically those within Israel during our Lord’s time but still apply to all born-again individuals of every period) because the meaning of each one has applications that do not describe an individual within a state of unbelief. It is also important to point out that the beatitudes all build on each other and are connected (or related). Most of them have to do with the peaceful (tranquil), happy, and joyful state the believer can (or should experience) through all the difficulties they will encounter here in Satan’s world system (his cosmos diabolicus). Thus, these verses contrast the justified state and reality of the believing individual to that of the unregenerate person. The unbeliever sees the believer’s situation as a misfortunate disgrace. However, things are not what they seem, from the worldly perspective that is. Only the believer can truly see everything for what it really is. 
 
@@ -19,7 +23,11 @@ Nevertheless, all believers (regardless of their level of spiritual maturity) na
 
 ## **Matthew 5:4**
 
+{{% scripture p="Matthew 5:4 (NIV)" %}} 
+
 "*Blessed are those who mourn,* *for they will be comforted.*" 
+
+{{% /scripture %}} 
 
 Verse four in our present context links well with **1 Thessalonians 4:13**, which says, “*Brothers and sisters, we do not want you to be uninformed about those who sleep in death, **so that you do not grieve like the rest of mankind, who have no hope***.” The unbeliever has and will not receive any spiritual comfort from Christ as long as they continue in a state of unbelief. And because of this rejection of Him, they have no hope (which means they have no spiritual blessing for any of their personal losses). So what this verse is saying is that although the believer may lose some things in this world (whether friends, family, relatives, friendships, possessions, etc.), none of the present sufferings compare to the eternal weight of glory that awaits them on the other side in eternity (**Romans 8:18**). Not only will they receive consolation from God in this life, but they will get to experience the greatest comfort of all to an incomprehensible degree in the following (eternity).  
 
@@ -35,7 +43,11 @@ The believer naturally has the comfort of hope they possess through the salvatio
 
 ## **Matthew 5:5** 
 
+{{% scripture p="Matthew 5:5 (NIV)" %}} 
+
 "*Blessed are the meek,* *for they will inherit the earth.*"
+
+{{% /scripture %}}  
 
 The Greek word “meek” often translates as humble or gentle. Humility (an inner strength as opposed to a weakness as many have correctly noted) is the best way to describe this word, a spiritual attribute that only believers can possess since all unbelievers (no matter how humble in other ways) are too proud to see their need for a Savior and thus believe in Him for salvation. Only those who humble themselves in the true spiritual sense (leading to their salvation and continued spiritual growth and endurance thereafter) will be exalted. Nothing “good” any unbeliever does for another (perhaps even “in the name of” Christ) will count in God’s eyes because everything they did, they “accomplished” in the power of their flesh absent God’s strength. If one does good things but not as a follower of Jesus Christ, nothing they do will mean a thing in the end. 
 
@@ -47,7 +59,11 @@ However, we must understand that the believers to whom Jesus spoke these words h
 
 ## **Matthew 5:6** 
 
+{{% scripture p="Matthew 5:6 (NIV)" %}} 
+
 "*Blessed are those who hunger and thirst for righteousness,* *for they will be filled.*"
+
+{{% /scripture %}}  
 
 This verse applies to both believers and unbelievers. Regarding believers, these individuals are those who not only seek the truth out but they understand, believe, and apply it. God will not turn away His own (**John 6:37**) or anyone who comes to Him who wishes to be “filled.” As long as there is a desire to believe (a prospective convert) or keep advancing in the truth to live a more righteous life (a truly committed believer), the Lord will grant them that which they desire. 
 
@@ -71,7 +87,11 @@ God would bless Israel if (for those unbelievers) they accepted their Messiah in
 
 ## **Matthew 5:7** 
 
+{{% scripture p="Matthew 5:7 (NIV)" %}} 
+
 "*Blessed are the merciful,* *for they will be shown mercy.*" 
+
+{{% /scripture %}}    
 
 The merciful described above refers to believers. Unbelievers cannot be shown mercy by inheriting eternal life for the simple reason that they reject Jesus Christ. Although it is true that any person (regardless of where they stand in relation to God) can demonstrate this virtuous behavior at any point in their life, our present context has to do with the born-again individual receiving mercy from God in this life and the next. The believer has received eternal life and will never perish (**John 10:28-29**). They can, however, still receive a stricter judgment at the Bema seat (an evaluation only for believers to determine their eternal rewards) for failure to show mercy toward others as they should have, as the passage below (which can apply to both Christians and non-Christians) vividly indicates. 
 
@@ -85,7 +105,11 @@ But as we have already shown, nothing any unbeliever does in this life means a t
 
 ## **Matthew 5:8** 
 
+{{% scripture p="Matthew 5:8 (NIV)" %}} 
+
 *"Blessed are the pure in heart,* *for they will see God".* 
+
+{{% /scripture %}}    
 
 The word pure in the Greek in verse eight means being pure and clean (the current state of someone who has been regenerated in Christ) because all believers have had their sins cleansed and washed away by the blood (the Lord’s spiritual death for us on the cross) of Jesus. Thus, the pure in heart are believers with the right attitude and standing before God. 
 
@@ -107,7 +131,11 @@ In light of our explanation above, to have a pure heart is to have one's attitud
 
 ## **Matthew 5:9** 
 
+{{% scripture p="Matthew 5:9 (NIV)" %}} 
+
 "*Blessed are the peacemakers,* *for they will be called children of God.*"
+
+{{% /scripture %}}    
 
 Again, our word “blessed” (in the true meaningful sense of the word “happy and “joyful”) refers to believers who rest in the spiritual realm accessed only by faith in Christ alone. The meaning is that although many outside of Christ’s body can act peacefully toward others and as “peacemakers” in the general sense of the word, one cannot be a true “peacemaker” for Christ unless they have peace with Him in their lives. The only way to have this true peace is to possess salvation through faith in Jesus. Those who reject God’s offer of eternal life are not part of His family and cannot be called “*children of God*.” The Lord has said, “*Whoever is not with me is against me*” (**Luke 11:23**). 
 
@@ -141,7 +169,11 @@ As it is written: “How beautiful are the feet of those who bring good news!”
 
 ## **Matthew 5:10-12** 
 
-**10**"*Blessed are those who are persecuted because of righteousness,* *for theirs is the kingdom of heaven. **11**.Blessed are you when people insult you, persecute you and falsely say all kinds of evil against you because of me. **12** Rejoice and be glad, because great is your reward in heaven, for in the same way they persecuted the prophets who were before you.*"
+{{% scripture p="Matthew 5:10-12 (NIV)" %}} 
+
+**10**"*Blessed are those who are persecuted because of righteousness,* *for theirs is the kingdom of heaven. **11**.Blessed are you when people insult you, persecute you and falsely say all kinds of evil against you because of me. **12** Rejoice and be glad, because great is your reward in heaven, for in the same way they persecuted the prophets who were before you.*" 
+
+{{% /scripture %}}  
 
 Persecution is a sign that one belongs to Jesus Christ and presently possesses and will inherit eternal life because they are a follower of Him. However, it is true that many claim faith and are ill-treated for their religious tendencies despite lacking the Holy Spirit. In their case, their persecution means nothing other than that they suffer unfair mistreatment for something their enemies despise. But without true saving faith, the religious man does not rest in the true blessed state and possess the kingdom of heaven. 
 

@@ -5,7 +5,11 @@ weight: 300
 
 ## **Matthew 5:13-16** 
 
+{{% scripture p="Matthew 5:13-16 (NIV)" %}} 
+
 **13** “*You are the salt of the earth. But if the salt loses its saltiness, how can it be made salty again? It is no longer good for anything, except to be thrown out and trampled underfoot*. **14** “*You are the light of the world. A town built on a hill cannot be hidden*. **15** *Neither do people light a lamp and put it under a bowl*. *Instead they put it on its stand, and it gives light to everyone in the house*. **16** *In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven*.
+
+{{% /scripture %}}  
 
 Jesus now moves on from describing the blessed state of the believer (the beatitudes) to the influence they should have on all people around them. Although Christians differ from everyone else because of their polar opposite position in Christ, they must still set a good example and share this blessed state with others so that they too, may partake of all the spiritual blessings rewarded to those who believe. The “you” at the beginning of verse thirteen can only indicate the state of born-again individuals whom the Lord expects to witness to all men through their godly thinking, speech, and behavior. And yes, this still applies to the church today.
 

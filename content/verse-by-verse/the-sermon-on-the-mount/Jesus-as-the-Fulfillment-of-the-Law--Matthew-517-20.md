@@ -5,7 +5,11 @@ weight: 400
 
 ## **Matthew 5:17-18** 
 
+{{% scripture p="Matthew 5:17-18 (NIV)" %}} 
+
  ***17**“ Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them.* ***18** For truly I tell you, until heaven and earth disappear, not the smallest letter, not the least stroke of a pen, will by any means disappear from the Law until everything is accomplished.*
+
+{{% /scripture %}}  
 
 Jesus now moves on from telling the believers in His audience how they should reflect Christ to the world through their lifestyles to explaining His purpose in coming to earth. He did not come to liberate the Jewish nation of Israel from the oppression of their Roman “overlords.” The Jews expected a conquering king riding on a white war horse but instead, got a suffering servant (the bull part of the Cherubim symbolizes this aspect of Christ’s work as the One who laid down His life as a sacrificial offering for all **Ezekiel 10:14**, **Revelation 4:7**). The only way to fulfill the whole purpose and meaning of the Law was for God’s Son (also the Son of Man because of the incarnation) to lay down His life for the sins of all people (past, present, and future) **1 John 2:2**. 
 
@@ -51,7 +55,11 @@ In summary, when Jesus said that He came to fulfill instead of abolish the Law, 
 
 ## **Matthew 5:19-20** 
 
+{{% scripture p="Matthew 5:19-20 (NIV)" %}} 
+
 **19** *Therefore anyone who sets aside one of the least of these commands and teaches others accordingly will be called least in the kingdom of heaven, but whoever practices and teaches these commands will be called great in the kingdom of heaven.* ***20** For I tell you that unless your righteousness surpasses that of the Pharisees and the teachers of the law, you will certainly not enter the kingdom of heaven.*
+
+{{% /scripture %}}    
 
 The word “therefore” connects with the previous verses above when Jesus stressed the significance of the Law. Because of its great importance, it would be dangerous to mess with it in any way (regardless of intentions). “Anyone” refers to all members within the body of Christ. Verse nineteen seems clear that Jesus had believers in mind here because of the words “in *the kingdom of heaven*.” Teachers (those leaders with the highest level of authority in the church today) should especially take warning (**James 3:1**) since it is their job to teach (after much diligent study, **2 Timothy 2:15**, ). However, the word “anyone” could not be more explicit. No believer should ever disregard and thus fail to live out what still applies to them today. 
 
