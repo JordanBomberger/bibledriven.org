@@ -11,7 +11,9 @@ weight: 300
 
 {{% /scripture %}}  
 
-Jesus now moves on from describing the blessed state of the believer (the beatitudes) to the positive influence they should have on all people around them (as opposed to Pharisees and others who were leading people away from the Kingdom **Matthew 23:13**). Although Christians differ from everyone else because of their polar opposite position in Christ, they must still set a good example and share this blessed state with others so that they too, may partake of all the spiritual blessings rewarded to those who believe. The “you” at the beginning of verse thirteen can only indicate the state of born-again individuals whom the Lord expects to witness to all men through their godly thinking, speech, and behavior. And yes, this still applies to the church today.
+Jesus now moves on from describing the blessed state of the believer (the beatitudes) to the positive influence they should have on all people around them (as opposed to Pharisees and others who were leading people away from the Kingdom **Matthew 23:13**). Most within Israel at this time were not putting on a good witness since most of them were unbelievers relying on the Law to be saved (had very little flavor in this case) and were, therefore, not producing as they should have been (see the parable of the unfruitful fig tree in **Luke 13:6-9**). That was the primary reason Jesus said these words. However, as we will mention below, this teaching still applies to the church today in various ways. 
+
+Although Christians differ from everyone else because of their polar opposite position in Christ, they must still set a good example and share this blessed state with others so that they too, may partake of all the spiritual blessings rewarded to those who believe. The “you” at the beginning of verse thirteen can only indicate the state of born-again individuals whom the Lord expects to witness to all men through their godly thinking, speech, and behavior. And yes, this still applies to the church today.
 
 But as to why Jesus used two illustrations to make His point was probably just for the sake of emphasizing a critical truth through repetition (and to clarify the meaning of what He said to His listening audience). I believe both “salt” and “light” refer to our general conduct in thought, speech, and action around others and our direct service to them through our spiritual gifts in the ministries God has assigned to every believer. 
 
@@ -35,7 +37,7 @@ So what of those who lose their saltiness and brightness? Assuming the person is
 
 ## **1 Corinthians 5:9-11**
 
-We need to clarify something here before we study the next section in our present context. I want to point out that **1 Corinthians 5:9-11** has commonly been pushed beyond the proper limits of how believers should interact with the world (we will provide some examples below). I bring this up because some within the body of Christ have reasoned that since we are the salt of the earth, this must mean doing and participating in certain things that are (in my view) counterproductive to faith. I will explain below. 
+We need to clarify something here before we study the next section in our present context. I want to point (to teach an important application for the church today) that **1 Corinthians 5:9-11** has commonly been pushed beyond the proper limits of how believers should interact with the world (we will provide some examples below). I bring this up because some within the body of Christ have reasoned that since we are the salt of the earth, this must mean doing and participating in certain things that are (in my view) counterproductive to faith. I will explain below. 
 
 {{% scripture p="1 Corinthians 5:9-11 (NIV)" %}} 
 
