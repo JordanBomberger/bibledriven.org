@@ -1,7 +1,7 @@
 ---
 title: Adultery- Matthew 5:27-30 
 weight: 600 
-summary: We will interpret our two verses on divorce here. Again, there is more meaning and purpose behind this passage (much like most of the sermon on the mount) then what appears on the surface. 
+summary: We will interpret our two verses on adultery here. Again, there is more meaning and purpose behind this passage (much like most of the sermon on the mount) then what appears on the surface. 
 ---
 
 ## **Matthew 5:27-28** 
