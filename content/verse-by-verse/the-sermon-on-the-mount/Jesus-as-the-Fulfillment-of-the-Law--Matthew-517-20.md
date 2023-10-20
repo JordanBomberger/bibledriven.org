@@ -1,6 +1,7 @@
 ---
 title: Jesus as the Fulfillment of the Law- Matthew 5:17-20 
 weight: 400
+summary: Matthew 5:17-20 is the heart of Jesus's message and explains why He came to earth behaving and teaching as He did. We will explain the meaning of these verses here. 
 ---
 
 ## **Matthew 5:17-18** 

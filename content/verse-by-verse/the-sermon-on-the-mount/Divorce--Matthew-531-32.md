@@ -1,6 +1,7 @@
 ---
 title: Divorce- Matthew 5:31-32
 weight: 700 
+summary: A commonly misunderstood topic, divorce is something that must be explained in light of what the Bible has to say about marriage relationships. We will unravel all of this on this page. 
 ---
 
 ## **Matthew 5:31-32** 

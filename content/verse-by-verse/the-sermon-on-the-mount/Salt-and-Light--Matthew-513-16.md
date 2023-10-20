@@ -1,6 +1,7 @@
 ---
 title: Salt and Light- Matthew 5:13-16 
 weight: 300 
+summary: All believers of every age are the salt and light of the world (and should always be striving to do better). We will explain what that means and what it doesn't mean in this section. In this specific context, Israel was not putting on a good witness (even though most Israelites were supposed to be believers but were not) because the majority were not actually saved and, thus, not producing (being the salt and light of the world) as they should have been. Our Lord exposes this problem with this teaching which we will examine here. 
 ---
 
 ## **Matthew 5:13-16** 

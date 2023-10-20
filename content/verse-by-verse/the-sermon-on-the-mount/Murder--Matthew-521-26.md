@@ -1,6 +1,7 @@
 ---
 title: Murder- Matthew 5:21-26 
 weight: 500 
+summary: Why did Jesus bring up these words? What is the meaning behind the issue of Murder? There is more to these verses than what appears on the surface. Read here to find out. 
 ---
 
 ## **Matthew 5:21-22** 

@@ -1,6 +1,7 @@
 ---
 title: The Beatitudes- Matthew 5:3-12 
 weight: 200 
+summary: The beatitudes explained; their specific meaning and interpretation as contrasted to the unregenerate state of the self-righteous (especially the Scribes and Pharisees). Jesus used these to help the nation of Israel see their poor spiritual state and need for a Savior through describing the opposite condition of one who lacks all the spiritual qualities He laid out. Those who trusted in themselves through trying to keep the Law for salvation needed to believe in Jesus to experience these blessings. Those who already had them should have rejoiced that their salvation rested in Christ alone. Despite some of these implications being only applicable to the Jews of those days, our Lord's words (like the rest of the sermon) still apply to believers today. 
 ---
 
 ## **Matthew 5:3** 
