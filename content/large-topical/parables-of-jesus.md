@@ -143,9 +143,7 @@ As the parable of the man without proper wedding attire (parable of the wedding)
 
 Doing God’s will means playing by God’s rules, not our own. There is only one way to heaven, and that is through Jesus Christ. And after we get saved, we are left here on this earth to grow, progress, and produce. That is what it means to do the Lord’s will! 
 
-
-
-## **4. The Wicked Vinedressers - Matthew 21:33-46; Mark 12:1-12; Luke 20:9-19** 
+## 4.**The Wicked Vinedressers - Matthew 21:33-46; Mark 12:1-12; Luke 20:9-19** 
 
 {{% scripture p="Matthew 21:33-46 (NASB 1995)" %}} 
 
@@ -215,8 +213,6 @@ Jesus looked up and saw the rich putting their gifts into the offering box, **2*
 
 However, many whom the church views as worthy of greater reward will receive some of the highest rewards in the kingdom. So those who seemed unproductive may not have accomplished much at all. On the other hand, those seen to have achieved a tremendous amount of spiritual work will have accomplished a lot and will be among the “first” and not the “last.” So our Lord is not teaching that man’s perception will be inaccurate in every case for sure. But human judgment is often incorrect, and that will prove true at the Bema. The parable’s point is that Christ is the ultimate judge and that we are not to play God and become judges unto ourselves. The Lord is the One who will evaluate the work of every believer, not man. Many will have misjudged the life and work of so many believers, and this will prove true when every one of us stands at the judgment seat only to be greatly shocked and surprised to see the results turn out differently than we expected. 
 
-
-
 ## **6. The Widow and the Unjust Judge - Luke 18:1-8** 
 
 {{% scripture p="Luke 18:1-8 (NASB 1995)" %}} 
@@ -283,8 +279,6 @@ For this reason, patient endurance is ever so needed. And prayerful reliance on 
 
  Persistent prayer demonstrates faith in what God is and will continue to do. But we must never approach direct communication with our Savior in a demanding attitude of “*give me what I ask*.” If it is the Lord’s will for this or that to occur, then we must humbly submit to His plan. If God wants us to suffer martyrdom, imprisonment (during the tribulation) or live on till His return, that is ultimately His decision (**Revelation 13:10; Matthew 6:9-13; James 4:13-15**). 
 
-
-
 ## **7. The Master and his Servant - Luke 17:7-10** 
 
 {{% scripture p="Luke 17:7-10 (NASB 1995)" %}} 
@@ -300,8 +294,6 @@ For example, the Bible commands us to obey the law and submit to authority when 
 The same thing goes for using our spiritual gifts in the ministries the Lord has assigned us. Ministry is not just service to Christ; it is our duty! And we could never do our job correctly unless we rely on God, who gets all the glory for all we do. Living for the Lord and not ourselves is what God expects from us! Believers must understand their dutiful relationship to Christ and how it should dictate their lives. We should not see ourselves as gods to deserve special treatment and glory from Him that we do not deserve. This arrogance only leads to pride and the believer going their way because they did not keep their status with God adequately aligned. God owes us nothing, but we owe Him everything! Yet, despite not deserving eternal life, Christ has done all the work of redemption for us by dying on the cross to pay for our sins. The price that should have been ours to pay (a debt we could never have paid off) has been paid in full by Jesus Christ. God needs nothing from us, but we need everything from Him! He is our Creator, our master. He was the potter who formed us, so what makes us think He even needs us and that He owes us something (**Romans 9:14-24**)? 
 
 Yes, the Lord is pleased with all the positive free will choices we make in life, but free will by itself is nothing without the grace of our Lord to empower it (**2 Corinthians 12:10**). Our job is to submit to Christ in faith and let Him do the rest. That is why our Master created us; to walk in the good works He has prepared for us beforehand (**Ephesians 2:10**).
-
-
 
 ## 8. The Prodigal Son - Luke 15:11-32 
 
@@ -341,8 +333,6 @@ Something else we can see from this parable is the fact that all human beings ha
 
 Something very touching we can see from this story is how the father, who saw his son from a distance, didn’t even say a word but ran right up to his son and embraced him in his arms. That is how God welcomes all men when they come to Him for forgiveness, regardless of whether they are straying believers or unbelievers first coming to Christ. He takes our sins and throws them behind His back (**Isaiah 38:17**), remembering them no more. 
 
-
-
 ## **9. The Lost Coin - Luke 15:8-10** 
 
 {{% scripture p="Luke 15:8-10 (NASB 1995)" %}} 
@@ -364,8 +354,6 @@ The whole point of the parable is to demonstrate God’s love for humanity, and 
 This parable is linked with **Luke 15:11-32; Matthew 18:10-14** in that Jesus was responding to the criticism of the Scribes and Pharisees. They grumbled and complained over the way Jesus was receiving the sinners and tax collectors unto Himself. Why eat with them? Yet how else was the Lord supposed to help them? But why receive them if they didn’t follow the Law as the religious leaders did? The reason is that there is nothing we can give back to God. We cannot earn salvation, but the legalists of Israel thought that only people who tried to do so could enter the kingdom. In other words, “my way, or the highway!” Their thinking was that salvation lay with them and no one else, not even Christ Himself! 
 
 The Lord did not have to die for us, and yet He chose to do so anyway. He hated sin and death so much that He staked His life against it. So to see anyone come to/return to Him brings Him joy that we cannot comprehend. The Lord’s will is for none to perish and for all to come to repentance, **2 Peter 3:9**. 
-
-
 
 ## **10. The Unmerciful Servant - Matthew 18:21-34**
 
@@ -426,8 +414,6 @@ When we get saved, we have been crucified with Christ and have become a part of 
 **12** So speak, and so act, as those who are to be judged by *the* law of freedom. **13** For judgment *will be* merciless to one who has shown no mercy; mercy triumphs over judgment.                                                 
 
 {{% /scripture %}}   
-
-
 
 ## **11. The Lost Sheep - Matthew 18:12-14; Luke 15:3-7** 
 
@@ -570,8 +556,6 @@ To build up faith, believers need to grow spiritually in the truth of the Word. 
 
 {{% /scripture %}}   
 
-
-
 ## **14. The Rich Fool - Luke 12:15-21** 
 
 {{% scripture p="Luke 12:15-21  (NASB 1995)" %}} 
@@ -597,8 +581,6 @@ Throughout the book of Luke, Jesus used the Scribes and Pharisees as examples of
 {{% /scripture %}}   
 
 Not only can great riches keep a person from coming to Christ, but it can endanger their salvation as well. If anyone decides to put money over God, then they have fallen into idolatry. This life we live is all about Jesus Christ, not ourselves. We are not to horde away wealth while disregarding our relationship with God and other’s needs. Christ comes first, and He will provide for us. How can we be rich toward God and others when we are more concerned for ourselves? 
-
-
 
 ## **15. The Friend in Need - Luke 11:5-8** 
 
@@ -658,8 +640,6 @@ The parable’s main point is that we must love all people unconditionally, not 
 
 This parable is (in a way) linked with **Luke 10:38-42,** when Jesus visits the home of Mary and Martha in the verses following our present context.  Mary took the time to listen to our Lord’s words. She was more interested in Jesus than she was in the less important details as Martha was. Martha’s example is reminiscent of the lawyer caught up in the details but who missed the big picture; Jesus. The religious leader would have done well to listen to our Lord and heed his words instead of listening to his false perceptions of what he thought was true love for God and others. Because he misinterpreted the truth, he misinterpreted himself and his need for Christ in his life. And though this wasn’t the case with Martha, her situation links to that of the lawyers in that we must listen to God, not ourselves. The lawyer saw himself as righteous; Martha thought she was doing a better thing than her sister. But to do good works for Christ properly, a person first has to learn the truth about God and themselves, i.e., their need for a Savior. The only way to do this is to listen FIRST and then “go and do likewise.” Martha was most likely already a believer, but we can learn from her mistake. 
 
-
-
 ## **17. The Moneylender - Luke 7:36-50**
 
 See link: **Luke 7:36-50**
@@ -681,8 +661,6 @@ The woman’s debt was forgiven because of her faith, meaning that her gratitude
 **28** Then they said to him, “What must we do, to be doing the works of God?” **29** Jesus answered them, “This is the work of God, that you believe in him whom he has sent.” 
 
 {{% /scripture %}}   
-
-
 
 ## 18. The Pearl of Great Price - Matthew 13:45-46 
 
@@ -730,8 +708,6 @@ In conclusion, God and the kingdom He offers are more precious than anything in 
 
 Our passage tells us, *“and upon finding one pearl of great value, he went and sold everything he had and bought it.”* This concept is the same principle Jesus taught throughout His ministry: sacrificial service for the kingdom's sake---**Matthew 19:29; Matthew 16:24-26.** 
 
-
-
 ## **19. The Hidden Treasure - Matthew 13:44** 
 
 {{% scripture p="Matthew 13:44 (NASB 1995)" %}}  
@@ -750,21 +726,7 @@ Those who give up on their faith later in life prove they did not value what the
 
 {{% /scripture %}}  
 
-
-
-## **20. Leaven in the Dough - Matthew 13:33; Luke 13:20-21** 
-
-{{% scripture p="Luke 13:20-21 (NASB 1995)" %}}  
-
-**20** And again He said, “To what shall I compare the kingdom of God? **21** It is like leaven, which a woman took and hid in three pecks of flour until it was all leavened.”                          
-
-{{% /scripture %}}  
-
-This parable, though small, speaks of gigantic things, things beyond comprehension. The theme is the church's growth throughout the world. God’s kingdom has been growing ever since Adam, but the gospel has spread worldwide through the church's efforts. Many believers have come to Christ, and many more are and will continue to do so. Additionally, a great number of people (especially Jews) will come to God during and after His return, especially during the millennium (**Romans 11:11-24; 11:25-32**). But the tribulation’s end will mark the end of the church age, also known as the time of the Gentiles. 
-
-
-
-## **23. The Mustard Seed - Matthew 13:31-32; Mark 4:30-32; Luke 13:18-20** 
+## 20. The Mustard Seed - Matthew 13:31-32; Mark 4:30-32; Luke 13:18-20 
 
 {{% scripture p="Mark 4:30-32 (NASB 1995)" %}}  
 
@@ -772,7 +734,7 @@ This parable, though small, speaks of gigantic things, things beyond comprehensi
 
 {{% /scripture %}}  
 
-The kingdom of God started small from Old Testament times and during Jesus’ period on earth and had humble beginnings but has since grown into a large and mighty “tree” as people have been coming to Christ over the years and spreading the gospel. There are many ways God has chosen to spread the truth of His Word; missionaries are but one example while teachers could be another etc. All believers play a vital role in advancing God’s kingdom, but all the glory goes to God, who works through believers to carry out His will (**Philippians 2:13**). Natural revelation relates to creation as undeniable evidence of God’s existence. Divine revelation refers to other ways God reveals Himself through a nation (Israel) or individual (a missionary). There are also miracles and wonders which God has used in times past. Miracles still occur today but in different forms than they did during Old Testament times. 
+This parable has the same meaning as that of the leaven in the dough (see **Matthew 13:33** and **Luke 13:20-21** for that parable).The kingdom of God started small from Old Testament times (ever since Adam and Eve) and during Jesus’ period on earth and had humble beginnings but has since grown into a large and mighty “tree” as people have been coming to Christ over the years and spreading the gospel. There are many ways God has chosen to spread the truth of His Word (the true meaning of dispensationalism and dispensations) ; missionaries are but one example while teachers could be another etc. All believers play a vital role in advancing God’s kingdom, but all the glory goes to God, who works through believers to carry out His will (**Philippians 2:13**). Natural revelation relates to creation as undeniable evidence of God’s existence. Divine or special revelation refers to other ways God reveals Himself through a nation (Israel) or individual (a missionary). There are also miracles and wonders which God has used in times past. Miracles still occur today but in different forms than they did during Old Testament times. 
 
 Nothing will hinder God’s kingdom from growing to full maturity! Unlike a seedling or even a full-grown tree vulnerable to disease and other natural causes of death, the kingdom of heaven will never die or fade away (**Daniel 2:31-45**). Instead, it will grow to full maturity once all believers foreknown and predestined to come to Christ have crossed the finish line by the end of time. 
 
@@ -784,9 +746,7 @@ Nothing will hinder God’s kingdom from growing to full maturity! Unlike a seed
 
 Finally, this brief parable spoken by Jesus can be applied not only to the churches growth, but to the growing influence of the Spirit in the believer’s life as they continue to advance spiritually. So we can take this passage to apply collectively (to the entire church) and individually (to single believers).                                         
 
-
-
-## **24. The Sower and the Seed - Matthew 13:3-9; Mark 4:1-9; Luke 8:4-8** 
+## 21. The Sower and the Seed - Matthew 13:3-9; Mark 4:1-9; Luke 8:4-8 
 
 {{% scripture p="Matthew 13:3-9 (NASB 1995)" %}}  
 
@@ -794,7 +754,7 @@ Finally, this brief parable spoken by Jesus can be applied not only to the churc
 
 {{% /scripture %}}  
 
-Our Lord explains this parable for us further in the context of Matthew chapter thirteen, verses eighteen to twenty-three. 
+Our Lord explains this parable for us further in the context of Matthew chapter thirteen, verses eighteen to twenty-three. This parable applies to all believers of every age including the nation of Israel (in what category did all the Jews in Israel fall?) to whom Christ spoke these words. 
 
 {{% scripture p="Matthew 13:18-23 (NASB 1995)" %}}  
 
@@ -802,7 +762,7 @@ Our Lord explains this parable for us further in the context of Matthew chapter 
 
 {{% /scripture %}}  
 
-The first group mentioned as those who do not understand the kingdom reject Jesus Christ and choose to remain servants of Satan because they have hardened their hearts to the truth. Because they have given themselves over to the lie, they are now under Satan’s control as long as they continue to resist the Holy Spirit. 
+The first group mentioned as those who do not understand the kingdom reject Jesus Christ and choose to remain servants of Satan because they have hardened their hearts to the truth. Because they have given themselves over to the lie, they remain under Satan’s control as long as they continue to resist the Holy Spirit. 
 
 Even though there are many fine law-abiding citizens globally, there is no excuse for not believing in Jesus. All people know about God and are therefore without excuse. And just a simple belief in God (theism) is not enough to enter the kingdom, for even the demons believe, and yet they tremble (**James 2:19**). To put one’s faith in the person and work of Jesus Christ is a commitment, not just a matter of mouthing empty words with no genuine desire to change or follow the Lord. Faith and repentance are both two sides of the same coin because believing in Christ is giving one’s life over to God in complete submission. But the people referred to in this group want nothing to do with God. Therefore, they reject Him. 
 
@@ -812,7 +772,7 @@ Even though there are many fine law-abiding citizens globally, there is no excus
 
 {{% /scripture %}} 
 
-The seed sown on rocky soil speaks of a person who was once a genuine believer but commits apostasy later on by turning away from God because of significant testing that comes their way. These people receive the gospel with joy, believe for a while, and abandon their belief in Christ. For it to be temporary, a true living faith had to exist, and the context clearly shows us here that faith was alive and active at one point in the person’s life, meaning they were a believer at one time. But they fall away from the faith due to some problematic trial or tribulation because their faith (represented by their small and weak root, which could not expand in the shallow rocky soil) was too weak to see them through it. When trial and tribulation come, they are unprepared to endure it. And for those who argue that this rocky soil category isn’t referring to believers must explain why trials and tribulations (testing) come their way? God does not test unbelievers because they have no faith to grow. Testing comes only to believers, not unbelievers. Luke 8:13 describes this group best---
+The seed sown on rocky soil speaks of a person who was once a genuine believer but commits apostasy later on by turning away from God because of significant testing that comes their way. These people receive the gospel with joy, believe for a while, but abandon the faith later on. For it to be temporary, a true living faith had to exist, and the context clearly shows us here that faith was alive and active at one point in the person’s life, meaning they were a believer at one time. But they fall away from the faith due to some problematic trial or tribulation because their faith (represented by their small and weak root, which could not expand in the shallow rocky soil) was too weak to see them through it. When trial and tribulation come, they are unprepared to endure it. And for those who argue that this rocky soil category isn’t referring to believers must explain why trials and tribulations (testing) come their way? God does not test unbelievers because they have no faith to grow. Testing comes only to believers, not unbelievers. Luke 8:13 describes this group best---
 
 {{% scripture p="Luke 8:13 (NIV)" %}}  
 
@@ -852,9 +812,7 @@ The seed sown on the good soil are believers who live their time on earth as the
 
 {{% /scripture %}} 
 
-
-
-## **25. The Strongman’s House - Matthew 12:29-30; Luke 11:21-22** 
+## **22. The Strongman’s House - Matthew 12:29-30; Luke 11:21-22** 
 
 {{% scripture p="Luke 11:21-22 (NASB 1995)" %}}  
 
@@ -862,7 +820,7 @@ The seed sown on the good soil are believers who live their time on earth as the
 
 {{% /scripture %}} 
 
-Jesus gave this parable in answer to those who claimed He drove out demons in the power of demons (Beelzebub). But as our Lord answered in verses 17 and 18, a kingdom cannot be divided against itself. Satan cannot cast out Satan because that would be defeating his evil purposes. Such a kingdom could not stand! So Satanic forces cannot be attributed to Christ’s working miracles because His kingdom and that of the devils are opposed to one another, which means that only Christ Himself in His power could be casting out demons. 
+Jesus gave this parable in answer to those who claimed He drove out demons in the power of demons (Beelzebub). But as our Lord answered in verses seventeen and eighteen, a kingdom cannot be divided against itself. Satan cannot cast out Satan because that would be defeating his evil purposes. Such a kingdom could not stand! So Satanic forces cannot be attributed to Christ’s working miracles because His kingdom and that of the devils are opposed to one another, which means that only Christ Himself in His power could be casting out demons. 
 
 In our specific context, Jesus represents the One stronger than the strongman (Satan) overpowering the strongman guarding his own house and possessions. The meaning of this is clear. How could our Lord be controlled by a force contrary to His will and purpose? And why would Satan and his demons attack their own powers? 
 
@@ -886,9 +844,7 @@ Additionally, Christ has defeated the devil once and for all at the cross. He wi
 
 {{% /scripture %}} 
 
-
-
-## **26. Tree and its Fruit - Matthew 12:33-37; Luke 6:43-45**
+## **23. Tree and its Fruit - Matthew 12:33-37; Luke 6:43-45**
 
 {{% scripture p="Luke 6:43-45 (NASB 1995)" %}}  
 
@@ -896,7 +852,15 @@ Additionally, Christ has defeated the devil once and for all at the cross. He wi
 
 {{% /scripture %}} 
 
-The passage above contrasts believers and unbelievers. But even believers are not always bringing forth good fruit as they should, especially when controlled by their flesh and not by the Spirit. Only bad fruit, otherwise known as wood, hay, and stubble, will result if that is the case, as the passage below shows. 
+These words from our Lord come not long after He corrected the Pharisees about Him having a demon and a kingdom being divided against itself (see the parable of the strongman right above). Jesus used the parable of the tree and its fruit to expose the Pharisees as liars (bad trees) void of salvation who produced bad fruit based on all the false accusations they hurled against Him. They "blasphemed the Spirit" by attributing Christ's words and works to demons, which was to call the spirit a liar about all He testified of the Son. In short, the unpardonable (unforgivable) sin is a rejection of the person and work of Jesus Christ because it is a rejection of the Holy Spirit. That is to say, you cannot believe in Christ if you reject any one of the members of the Trinity (the Holy Spirit included). The Pharisees not only rejected the Spirit and the Son, but did so simultaneously with the Father as well. If they rejected the Son, then they rejected the Father they claimed to believe in. If they rejected the Spirit, they did the same with both the Father and the Son and vice versa, etc., etc.
+
+{{% scripture p="1 John 2:23 (NIV)" %}}  
+
+**23** No one who denies the Son has the Father; whoever acknowledges the Son has the Father also. 
+
+{{% /scripture %}} 
+
+To continue the general interpretation of our parable, the passage above contrasts believers (the good trees bearing good fruit) and unbelievers (all the bad trees producing bad fruit). But even believers are not always bringing forth good fruit as they should, especially when controlled by their flesh and not by the Spirit. Only bad fruit, otherwise known as wood, hay, and stubble, will result if that is the case, as the passage below shows. 
 
 {{% scripture p="1 Corinthians 3:-11-15 (ESV)" %}}  
 
@@ -904,7 +868,7 @@ The passage above contrasts believers and unbelievers. But even believers are no
 
 {{% /scripture %}} 
 
-So this parable in no way means a believer can’t produce anything bad, for that they most certainly can, do, and will (if anyone's work is burned up, he will suffer loss). All believers sin. Many pastors/teachers have their fair share of incorrect teachings and doctrines in our day, which are the same as bad fruit because they are false, misleading, and even exceptionally dangerous in some cases. But what the passage is telling us is that believers generally produce good things most of the time, though not always as much as they should, as the case of the thorny soil in the parable of the Sower clearly shows. All believers who endure in their faith until the very end will have something to show for their time on earth no matter how little, and what they will have brought forth will be good and acceptable in God’s eyes. But it is most unfortunate that even though most believers of our day will have some good fruit to show, they will not have much or even close to a full crop because the majority will have wasted so much of their time on earth due to their lackadaisical approach to the life God has called them to live. “Unfruitful” in Matthew 13:22 below does not always necessarily mean nothing whatsoever. In the case of believers who fall into the thorny soil category, it simply means not producing as it should in those who stay faithful to Jesus but live a mostly wasted life. 
+So this parable in no way means a believer can’t produce anything bad, for that they most certainly can, do, and will (if anyone's work is burned up, he will suffer loss). All believers sin. Many pastors/teachers have their fair share of incorrect teachings and doctrines in our day, which are the same as bad fruit because they are false, misleading, and even exceptionally dangerous in some cases. But what the passage is telling us is that believers generally produce good things most of the time, though not always as much as they should, as the case of the thorny soil in the parable of the Sower clearly shows. All believers who endure in their faith until the very end will have something to show for their time on earth no matter how little, and what they will have brought forth will be good and acceptable in God’s eyes. But it is most unfortunate that even though most believers of our day will have some good fruit to show, they will not have much or even close to a full crop because the majority will have wasted so much of their time on earth due to their lackadaisical approach to the life God has called them to live. “Unfruitful” in **Matthew 13:22** below does not always necessarily mean nothing whatsoever. In the case of believers who fall into the thorny soil category, it simply means not producing as it should in those who stay faithful to Jesus but live a mostly wasted life. 
 
 {{% scripture p="Matthew 13:22 (ESV)" %}}  
 
@@ -934,9 +898,7 @@ And Scripture is clear that we can know the difference between faithful servants
 
 {{% /scripture %}} 
 
-
-
-## **27. The Unclean Spirit - Matthew 12:43-45; Luke 11:24-26** 
+## **24. The Unclean Spirit - Matthew 12:43-45; Luke 11:24-26** 
 
 {{% scripture p="Matthew 12:43-45 (NASB 1995)" %}}  
 
@@ -944,13 +906,9 @@ And Scripture is clear that we can know the difference between faithful servants
 
 {{% /scripture %}} 
 
-Jesus told this parable in response to the unbelief of the Pharisees and teachers of the law, **Matthew 12:38-42**. The people of Jesus’ day, especially the religious crowd, had rejected the Messiah even though He was right in their presence, giving them the truth. Jesus was the promised Christ and would grant eternal life to all who believed in Him. He cast out many demons but was the Savior for all men, people who had the chance to free their lives from satanic forces and fill them (their hearts represent the house in our parable) with the Holy Spirit. But most of “this generation” (referring to the people of Jesus’ day in particular) refused to accept Christ. Here was Jesus in the people’s presence, yet even visual manifestations from God’s very own Son were not enough to sway them from unbelief. The generation of that nation who had the Savior right before them but who only rejected Him could only go from bad to worse, and the end will indeed be worse than the beginning. Jesus made a similar parallel in **Matthew 11:20-24.** 
+We must interpret this parable in light of the two that just came before (see our two previous parables above). Again, Jesus spoke these words to counter the false thinking of the Pharisees who thought they had salvation through keeping the Law. Here was the Messiah standing right in front of them so that they had the opportunity to accept and believe in Christ. The truth was right before them and they had a chance to rid themselves of all present and future demonic influence. Instead, these religious men chose to reject Jesus which only further blackened their hearts toward God. They were now greater servants of Satan then they were before, and that is one of the main points of this parable. So was the case with most in Israel who rejected their Messiah. They were especially without excuses because Jesus was physically in their midst teaching, healing, and performing  a variety of miracles. So although this parable applies to believers of every age (such as a person exposed to the gospel message but refuses it right on the spot), the specific context dealt with Jesus's handling of the situation between Him and His opponents.  
 
-{{% scripture p="Matthew 11:20-24 (ESV)" %}}  
-
-**20** Then he began to denounce the cities where most of his mighty works had been done, because they did not repent. **21** “Woe to you, Chorazin! Woe to you, Bethsaida! For if the mighty works done in you had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes. **22** But I tell you, it will be more bearable on the day of judgment for Tyre and Sidon than for you. **23** And you, Capernaum, will you be exalted to heaven? You will be brought down to Hades. For if the mighty works done in you had been done in Sodom, it would have remained until this day. **24** But I tell you that it will be more tolerable on the day of judgment for the land of Sodom than for you.”                                   
-
-{{% /scripture %}} 
+Jesus told this parable in response to the unbelief of the Pharisees and teachers of the law, **Matthew 12:38-42**. The people of Jesus’ day, especially the religious crowd, had rejected the Messiah even though He was right in their presence, giving them the truth. Jesus was the promised Christ and would grant eternal life to all who believed in Him. He cast out many demons but was the Savior for all men, people who had the chance to free their lives from satanic forces and fill them (their hearts represent the house in our parable) with the Holy Spirit. But most of “this generation” (referring to the people of Jesus’ day in particular) refused to accept Christ. Here was Jesus in the people’s presence, yet even visual manifestations from God’s very own Son were not enough to sway them from unbelief. The generation of that nation who had the Savior right before them but who only rejected Him could only go from bad to worse, and the end will indeed be worse than the beginning. 
 
 Many Gentiles were often more accepting of the gospel than the Jews, sadly to say. And it was to the Jews to whom Jesus came and performed many miraculous signs and miracles so that if there was anyone who was especially without excuse, it was the nation of Israel (who had the Law and the prophets), the non-gentiles. People who hear the truth but do away with it in their hearts often become more hardened and hostile to it from that point onward. And it is often those most hostile to the truth who do the most damage influencing the most people in the most negative ways.                                        
 
@@ -968,9 +926,9 @@ Many Gentiles were often more accepting of the gospel than the Jews, sadly to sa
 
 The passage above, Matthew 7:6,  tells us not to “throw pearls before swine” because they will only trample them. For this reason, Jesus spoke to the people in parables (the topic of this paper) to help confirm the nation’s unbelief (**Matthew 13:10-17**). Additionally, our Lord would never have had a chance to commit all the time He did to ministry. He probably would have suffered a premature death not according to the plan of God and would not have been around long to have trained those who did legitimately follow Him, such as the disciples and others. But although our Lord gave the truth in a manner more challenging to understand, Jesus still gave the people the facts in a way they could still comprehend if they were willing enough to commit their minds to it. But most were not interested and thus never pursued the truth with their hearts because they would not accept our Lord. The disciples didn’t always understand every parable Jesus spoke, but they had ready and willing hearts to believe the truth and receive more details. Had the Lord taught the people plainly, they probably would have persecuted Him in some way that would have continually hindered the Father’s plan for Him. 
 
-Jesus was not trying to confuse people to keep them out of the kingdom but allowed all to hear the good news by allowing Himself and His ministry to continue according to the Father’s plan. Anyone confused about something or about who Jesus was could have sought the truth to know it like the disciples and other faithful followers often did. But the people weren’t interested, and more damage would have occurred had our Lord spoken plainly. As can be seen from reading through the gospels, especially the book of John, when Jesus was clear and to the point, this aroused anger and hostility in which the people even tried to kill Him at times. As the passage above tells us, our Lord would touch His people and heal them if they would but open up their hearts by opening their ears, eyes, and minds. But they chose not to. 
+Jesus was not trying to confuse people to keep them out of the kingdom but allowed all to hear the good news by allowing Himself and His ministry to continue according to the Father’s plan. Anyone confused about something or about who Jesus was could have sought the truth to know it like the disciples and other faithful followers often did. But the people weren’t interested, and more damage would have occurred had our Lord spoken plainly. As can be seen from reading through the gospels, especially the book of John, when Jesus was clear and to the point, this aroused anger and hostility in which the people even tried to kill Him at times. The Lord would have touched His people and heal them if they would have softened their hearts by opening their ears, eyes, and minds. But they chose not to. 
 
-In the context of Matthew twelve, the Pharisees did not want to accept the fact that Jesus was the Messiah, even when He had just cast out a demon, as we saw in verses twenty-two and twenty-three. The religious officials and others, represented by the individual in our parable in whom the demon has been exorcised, had clear proof that Jesus was the Christ right before their very own eyes. While the demon is gone and not present within the individual, the time represents the opportunity for the Scribes, Pharisees, and other unbelieving Israelites to believe in Jesus so that His Holy Spirit could come and fill their hearts (or house in this case). It was plain and apparent to them that He was who He said He was. But because He did not fit their expectations of who they hoped He would be (and because He exposed and condemned their self-righteous behavior), they became all the more hostile to Him. The demon who goes and brings along seven other demons more wicked than Himself represents this greater hostility and hatred. After rejecting Christ, the people’s hearts grew even more evil and corrupt than before, and it showed when they had Christ crucified later on. Those who don’t want the truth because they hate it will only grow more hostile and wicked toward it when it is presented to them because it exposes their evil ways. They become, in essence, even greater servants of Satan than before and cause others to serve him to an even greater degree. The more a person hardens their heart, the greater control the evil one can exercise over them. 
+In the context of Matthew twelve, the Pharisees did not want to accept the fact that Jesus was the Messiah, even when He had just cast out a demon, as we saw in verses twenty-two and twenty-three. The religious officials and others, represented by the individual in our parable in whom the demon has been exorcised, had clear proof that Jesus was the Christ right before their very own eyes. While the demon is gone and not present within the individual, the time represents the opportunity for the Scribes, Pharisees, and other unbelieving Israelites to believe in Jesus so that He could come and fill their hearts ( symbolized by a house). It was plain and apparent to them that He was who He said He was. But because He did not fit their expectations of who they hoped He would be (and because He exposed and condemned their self-righteous behavior), they became all the more hostile to Him. The demon who goes and brings along seven other demons more wicked than Himself represents this greater hostility and hatred. After rejecting Christ, the people’s hearts grew even more evil and corrupt than before, and it showed when they had Christ crucified later on. Those who don’t want the truth because they hate it will only grow more hostile and wicked toward it when it is presented to them because it exposes their evil ways. They become, in essence, even greater servants of Satan than before and cause others to serve him to an even greater degree. The more a person hardens their heart, the greater control the evil one can exercise over them. 
 
 {{% scripture p="Matthew 23:15 (ESV)" %}}  
 
@@ -986,11 +944,9 @@ Evil people bent on doing evil will react negatively toward good and oppose it a
 
 {{% /scripture %}} 
 
-Jesus spoke this parable to the nation of Israel, which was rejecting Him. However, some accepted the Messiah’s testimony, such as the twelve, seventy-two, and others. If most of the lost sheep of Israel would not believe the truth with Jesus in their midst now, how much more wicked and hardened will they become after they have witnessed His time on earth (all those who believed in **Acts 2:22-41** aside)? The evil spirit could try and go and possess a gentile, but more of them were coming to Christ because they were not as hostile to the gospel as the Jews were. So why not come back to a person (represented as a Jew who saw and heard Jesus but rejected Him), whose heart is even more hardened to God? The eviler a person becomes, the more wickedness they will allow in their life. Hence they enable more demons to live within them, metaphorically speaking. And because of this, those who do so bring even greater future judgment upon themselves.                                     
+ If most of the lost sheep of Israel would not believe the truth with Jesus in their midst now, how much more wicked and hardened will they become after they have witnessed His time on earth (all those who believed in **Acts 2:22-41** aside)? The evil spirit could try and go and possess a gentile, but more of them were coming to Christ because they were not as hostile to the gospel as the Jews were. So why not come back to a person (represented as a Jew who saw and heard Jesus but rejected Him), whose heart is even more hardened to God? The eviler a person becomes, the more wickedness they will allow in their life. Hence they enable more demons to live within them, metaphorically speaking. And because of this, those who do so bring even greater future judgment upon themselves.                                     
 
-
-
-## **28. The Sprouting Seed - Mark 4:26-29** 
+## **25. The Sprouting Seed - Mark 4:26-29** 
 
 {{% scripture p="Mark 4:26-29 (NASB 1995)" %}}  
 
@@ -998,17 +954,11 @@ Jesus spoke this parable to the nation of Israel, which was rejecting Him. Howev
 
 {{% /scripture %}} 
 
-This parable speaks of the mysterious and rapid growth of God’s kingdom, which our Lord determines by His sovereign will and purpose. But it primarily applies to the growing influence of God’s presence in the individual believer’s life as they progress in their daily walk. The more they submit to the Lord, the greater His sway of change and control will be in their lives.  However, we will make a distinction here. 
+This parable speaks of the mysterious and rapid growth of God’s kingdom, which our Lord determines by His sovereign will and purpose. But it also applies to the growing influence of God’s presence in the individual believer’s life as they progress in their daily walk. The more they submit to the Lord, the greater His sway of change and control will be in their lives.  However, we will make a distinction here. 
 
 Believers do play a role in the growth of God’s kingdom in the sense that God works through them to accomplish His objectives. Christians receive spiritual gifts for a reason: to use them in the ministries the Lord has for them. For the Lord to complete His work within the individual, the believer must allow the Spirit to operate through them to fulfill His purposes. This requires a free-will decision on the believer’s part; it requires faith and obedience. God will not force anyone to believe in Him or do the work He calls them to do. The role we as believers play is to trust/submit and obey. The Lord will then do the rest. 
 
-{{% scripture p="Genesis 1:26-28 (KJV)" %}}  
-
-**26** And God said, Let us make man in **our image**, after **our likeness**: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth. **27** So God created man in his own image, in the image of God created he him; male and female created he them. **28** And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.              
-
-{{% /scripture %}} 
-
-The words *“our”* in bold above speak for all members of the trinity; the Father, the Son, and the Holy Spirit. The passage below in Romans shows the believer’s responsibility to carry out their task and the unbeliever’s choice to respond to the gospel. So the best way to put this is that God grows the kingdom through the use of His servants, but in His own power so that everything is His work and accomplishment. As His children, we are only His instruments. 
+The passage below in Romans shows the believer’s responsibility to carry out their task and the unbeliever’s choice to respond to the gospel. So the best way to put this is that God grows the kingdom through the use of His servants, but in His own power so that everything is His work and accomplishment. As His children, we are only His instruments. 
 
 {{% scripture p="Romans 10:14-21(ESV)" %}}  
 
@@ -1017,7 +967,7 @@ and their words to the ends of the world.” **19** But I ask, did Israel not un
 
 {{% /scripture %}} 
 
- No one can stop the will or plan of God, but since we as human beings have the gift of free will, how does that work with this passage? The answer to this question is simple. What God foreknows to happen cannot be changed or altered by any person in any way. His plan for the growth and completion of the church cannot change unless He wills it. This fact means that our Creator saw all of human history and knew how it would play out long before the earth and all of creation even came into existence. He then jump-started this knowledge by incorporating it into His plan by predestining it to allow it to play out. If man could throttle this plan, then God’s foreknowledge was incorrect, and predestination never occurred. But of course, we know that God is perfect and can never lie or mess up in any way. Nothing will change or alter the kingdom’s growth from how God has foreknown and predestined it to occur. No human or any other force in the earth and universe can stop the will of God. 
+ No one can stop the will or plan of God, but since we as human beings have the gift of free will, how does that work with this passage? The answer to this question is simple. What God foreknows to happen cannot be changed or altered by any person in any way. His plan for the growth and completion of the church cannot change unless He wills it. This fact means that our Creator saw all of human history and knew how it would play out long before the earth and all of creation even came into existence. He then jump-started this knowledge by incorporating it into His plan by predestining it to allow it to play out. If man could throttle this plan, then God’s foreknowledge was incorrect, and predestination never occurred. But of course, we know that God is perfect and can never lie or mess up in any way. Nothing will change or alter the kingdom’s growth from how God has foreknown and predestined it to occur. No human or any other force in the earth and universe can stop God's will. 
 
 {{% scripture p="Romans 8:27-29 (NIV)" %}}  
 
@@ -1025,7 +975,7 @@ and their words to the ends of the world.” **19** But I ask, did Israel not un
 
 {{% /scripture %}} 
 
-Regarding what we just touched on about believers involved in the church’s advancement, God is still the only source that makes our service to Christ and the kingdom possible. Without Him empowering our every thought, word, and action, nothing we would do would count as anything (we couldn't do anything absent Christ's power). In the end, God is the One who causes the kingdom to grow according to His plan for its future fulfillment. He gets all the glory and takes all the credit for all the good things that happen in this world. Free will alone would not even be possible had God not granted it to humanity. And since our Lord works in mysterious ways, we don’t know as much as we would like how He accomplishes His divine purposes. His work is so great and awesome that only He knows the full extent of how it occurs. No person, believer or unbeliever, will ever be able to comprehend it this side of eternity. 
+Regarding what we just touched on about believers involved in the church’s advancement, God is still the only source that makes our service to Christ and the kingdom possible. Without Him empowering our every thought, word, and action, nothing we would do would count as anything (we couldn't do anything absent Christ's power). In the end, God is the One who causes the kingdom (as well as each and every individual believer) to grow according to His plan for its future fulfillment. He gets all the glory and takes all the credit for all the good things that happen in this world. Free will alone would not even be possible had God not granted it to humanity. And since our Lord works in mysterious ways, we don’t know as much as we would like how He accomplishes His divine purposes. His work is so great and awesome that only He knows the full extent of how it occurs. No person, believer or unbeliever, will ever be able to comprehend it this side of eternity. 
 
 The final sentence of our parable with God putting the sickle to the crop has to do with the eschatological gathering and judgment of all church age believers at Christ’s second advent return, beginning with the dead in Christ and ending with those alive at His coming. The passage below gives us a good idea of how this will transpire. 
 
@@ -1035,7 +985,7 @@ The final sentence of our parable with God putting the sickle to the crop has to
 
 {{% /scripture %}} 
 
-Although not mentioned in our parable, the judgment for all unbelievers alive during the tribulation who took the beast’s mark will be harvested and trampled in the winepress of God’s wrath. We see this mentioned in Revelation 14:14-20 below; an event that refers to Christ’s slaughter of antichrist and his forces at the battle of Armageddon. 
+Although not mentioned in our parable, the judgment for all unbelievers alive during the tribulation who took the beast’s mark will be harvested and trampled in the winepress of God’s wrath. We see this mentioned in **Revelation 14:14-20** below; an event that refers to Christ’s slaughter of antichrist and his forces at the battle of Armageddon. 
 
 {{% scripture p="Revelation 14:14-20 (NIV)" %}}  
 
@@ -1043,9 +993,7 @@ Although not mentioned in our parable, the judgment for all unbelievers alive du
 
 {{% /scripture %}} 
 
-
-
-## **29. The Two Builders - Matthew 7:24-27; Luke 6:46-49** 
+## **26. The Two Builders - Matthew 7:24-27; Luke 6:46-49** 
 
 {{% scripture p="Luke 6:46-49 (NASB 1995)" %}}  
 
@@ -1053,7 +1001,9 @@ Although not mentioned in our parable, the judgment for all unbelievers alive du
 
 {{% /scripture %}} 
 
-This parable is part of the sermon on the mount that Jesus mainly spoke to His disciples but also to the crowds listening. Our faith rests on the rock that is Jesus Christ and nothing else. Faith has to have an object, and that object is the Son of God who became the God-man by coming to earth and suffering thirty-three years to die on a cross to pay for the sins of humanity. The parable's meaning is clear, and that is that Jesus is the only way to heaven, the way taken by the wise man in our parable. Only by believing in and following Him faithfully to the very end can we withstand the storm and pressures of this world (testing in the form of trials and tribulations). Our security as believers is in Jesus and no one else, and only in His power can we live the righteous life He has called us to live. And the foundation of their faith must be the person and work of Jesus Christ. 
+This parable is part of the sermon on the mount that Jesus mainly spoke to His disciples but also to the crowds listening. Most of Israel were supposed to be saved but were not in fact so. The majority (especially the religious crowd) talked the talk by putting on a show of righteousness but didn't walk the walk, hence our Lord said, "*Why do you call Me, ‘Lord, Lord,’ and do not do what I say*?" To obey The Master, Israel would need to stop trusting in themselves and the Law for salvation and repent by going to Jesus and believing in Him. Those who did believe were expected to grow, progress, and produce by living like members of the kingdom which Jesus now offered. That is what it meant for Israel to come, hear, and act on Christ's words.  
+
+Our faith rests on the rock that is Jesus Christ and nothing else. Faith has to have an object, and that object is the Son of God who became the God-man by coming to earth and suffering thirty-three years to die on a cross to pay for the sins of humanity. The parable's meaning is clear, and that is that Jesus is the only way to heaven, the way taken by the wise man in our parable (as opposed to those who try to earn it through good works). Only by believing in and following Him faithfully to the very end can we withstand the storm and pressures of this world (testing in the form of trials and tribulations). Our security as believers is in Jesus and no one else, and only in His power can we live the righteous life He has called us to live. And the foundation of their faith must be the person and work of Jesus Christ. 
 
 {{% scripture p="Acts 4:12 (ESV)" %}}  
 
@@ -1099,9 +1049,7 @@ Now, brothers and sisters, I want to remind you of the gospel I preached to you,
 
 {{% /scripture %}} 
 
-
-
-## **30. Wineskins, New and Old Cloth - Matthew 9:14-17; Mark 2:18-22; Luke 5:33-39** 
+## **27. Wineskins, New and Old Cloth - Matthew 9:14-17; Mark 2:18-22; Luke 5:33-39** 
 
 {{% scripture p="Luke 5:33-39 (NASB 1995)" %}}  
 
@@ -1109,21 +1057,19 @@ Now, brothers and sisters, I want to remind you of the gospel I preached to you,
 
 {{% /scripture %}} 
 
+The Pharisees and teachers of the Law questioned Jesus on why He and His followers ate and drank. So Jesus gave this parable in response to their rigged question (Israel's religious leaders often looked for any opportunity they could to trap Jesus). 
+
 Jesus is the bridegroom and all believers, the guests. We will see this play out at the wedding supper of the Lamb during the millennium. Jesus (the bridegroom) was with His people (the guests), so there were no reasons to mourn. Everyone should have celebrated! The time to weep would be after Christ’s horrific death on the cross and His ascension when He would no longer be with them (“horrific” in the sense of the physical and spiritual pain and agony that our Lord went through). 
 
-This parable refers to the fact that believers were to get with the times. Jesus came to fulfill the law, so why continue to try and follow it in a legalistic way? The law was good but was often mishandled, especially by the religious leaders of that time. The whole point is that the old ways considered obsolete and inappropriate for the occasion do not go well with the new covenant ways ushered in by Jesus. Just as how you can’t put a new piece of wineskin on an old one and expect it to hold (just as our parable tells us), so you cannot practice old and new things simultaneously. Christ did not annul the law of the old covenant but fulfilled it (**Matthew 5:17**). 
+This parable refers to the fact that Israel was to get with the times. Jesus came to fulfill the law, so why continue to try and follow it in a legalistic way? The law was good but was often mishandled, especially by the religious elite of that time. The whole point is that the old ways considered obsolete and inappropriate for the occasion do not go well with the new covenant ways ushered in by Jesus. Just as how you can’t put a new piece of wineskin on an old one and expect it to hold (just as our parable tells us), so you cannot practice old and new things simultaneously. Christ did not annul the law of the old covenant but fulfilled it (**Matthew 5:17**). There was an excellent reason for joy because Jesus had come on the scene, so weeping and fasting didn’t make much sense at that time. Instead, the people should have “mingled” with Jesus’ teachings instead of old past rituals, which had little value for that moment. 
 
-There was an excellent reason for joy because Jesus had come on the scene, so weeping and fasting didn’t make much sense at that time. Instead, the people should have “mingled” with Jesus’ teachings instead of old past rituals, which had little value for that moment. 
+However,  Jesus was giving us a broader application with this parable. It referred not only to the fact that fasting was unnecessary during His time, but that going back to the old ways of the law for salvation would not result in eternal life because the true gospel is by faith through grace alone. This principle applies to all people of every generation, especially certain Messianic Jews who presently rely on the Law for faith and practice).  
 
-However,  Jesus was giving us a broader application with this parable. It referred not only to the fact that fasting was unnecessary during His time, but that going back to the old ways of the law for salvation would not result in eternal life because the true gospel is by faith through grace alone. This principle applies to all people of every generation. 
-
-Sadly, humanity has been doing this for many years up to our day and age. Many false religions, cults, and even many denominations have been trying to combine the old with the new, resulting in a self-righteous works related gospel. To follow this path is to follow the broad way of Satan, which leads to eternal death and destruction. Christ did away with the old at the cross and expected us to embrace in faith the gracious gift of His Son Jesus Christ, who died to pay for our sins so that we could spend eternity with Him. 
+Sadly, humanity has been doing this for many years up to our day and age. Many false religions, cults, have been trying to combine the old with the new, resulting in a self-righteous works related gospel. To follow this path is to follow the broad way of Satan, which leads to eternal death and destruction. Christ did away with the old at the cross and expected us to embrace in faith the gracious gift of His Son Jesus Christ, who died to pay for our sins so that we could spend eternity with Him. And even for those groups out there that teach salvation by faith through grace alone, there are still many believers who misunderstand what practices and rituals are for today and which ones no longer apply. So many have misunderstood the gospels (the sermon on the mount in particular) and Acts, which helps to explain so much of the chaos we see in the church throughout the world today. 
 
 Two great examples of this behavior of bringing back the old and matching it up with the new lie in **Galatians 3:1-29** and **Hebrews 6**. The reader is encouraged to visit those passages for further reference.        
 
-
-
-## **31. The Pharisee and the Tax Collector - Luke 18:9-14**           
+## **28. The Pharisee and the Tax Collector - Luke 18:9-14**           
 
 {{% scripture p="Luke 18:9-14 (NASB 1995)" %}}  
 
@@ -1131,7 +1077,7 @@ Two great examples of this behavior of bringing back the old and matching it up 
 
 {{% /scripture %}} 
 
-Jesus told this parable right after the parable of the persistent widow in Luke 18:1-8. Self-righteous pride in one’s own ability to save oneself will not justify that person. The Pharisees thought they could see, but as Jesus told them, their guilt remained. 
+Jesus told this parable right after the parable of the persistent widow in **Luke 18:1-8**. Self-righteous pride in one’s own ability to save oneself will not justify that person. The Pharisees thought they could see, but as Jesus told them, their guilt remained. 
 
 {{% scripture p="John 9:40-41 (ESV)" %}}  
 
@@ -1143,9 +1089,7 @@ In our parable, the pharisee’s pride blinded him to the fact that he was not a
 
 To fix a problem, we have to recognize that we have one. But acting as if all is good when that is not the case will only keep us from addressing the issue and correcting it. False religion promotes this idea that we human beings can make things right and fix the problem of sin and death, taking the focus off of God and onto ourselves, a terrible mistake that got Satan kicked out of heaven. Pride was the original first sin ever to occur when the evil one began to think highly of himself as one who could be self-reliant and rise above even the Almighty (**Isaiah 14:12-17**). Those who humble themselves become aware of their sinfulness and inability. Humility brings with it rewards of insight, knowledge, and wisdom.                                                     
 
-
-
-## **32. The Shrewd Manager - Luke 16:1-9** 
+## **29. The Shrewd Manager - Luke 16:1-9** 
 
 {{% scripture p="Luke 16:1-9 (NASB 1995)" %}}  
 
@@ -1175,7 +1119,7 @@ The shrewd manager prepared for his future as best as he could, even though it w
 
 {{% /scripture %}} 
 
-The parable applies to both believers and unbelievers. For the unbeliever glancing outside, it is a message telling them to stop allowing wealth to keep them from God to bring them to repentance. We see a prime example of this from the rich young ruler, **Mark 10:17-27.** But as our Lord says in our parable, the sons of darkness are more enthusiastic to take care of their priorities than believers. This parable is a wake-up call! How applicable it is to our day in the lukewarm church era known as Laodicea! We continue to show almost as much care and concern for worldly wealth as those not even part of the body of Christ! Christians must show themselves to be different than the world to be a testimony to the world! A lamp hidden under a basket but not on a lampstand won’t attract much attention (**Matthew 5:14-16**).
+The parable applies to both believers (especially the disciples in our context) and unbelievers (specifically the Scribes and Pharisees listening in) of all time. For the unbeliever glancing outside, it is a message telling them to stop allowing wealth to keep them from God to bring them to repentance. We see a prime example of this from the rich young ruler, **Mark 10:17-27.** But as our Lord says in our parable, the sons of darkness are more enthusiastic to take care of their priorities than believers. This parable is a wake-up call! How applicable it is to our day in the lukewarm church era known as Laodicea! We continue to show almost as much care and concern for worldly wealth as those not even part of the body of Christ! Christians must show themselves to be different than the world to be a testimony to the world! A lamp hidden under a basket but not on a lampstand won’t attract much attention (**Matthew 5:14-16**).
 
 {{% scripture p="Revelation 3:14-22 (NIV)" %}}  
 
