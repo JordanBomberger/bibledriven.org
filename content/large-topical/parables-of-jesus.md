@@ -67,13 +67,7 @@ We see the above prophesied in Daniel as well. Both passages have a dual applica
 
 The final phrase in our parable, “*Be on the alert then, for you do not know the day nor the hour*,” has the same message as **Luke 12:35-48**. Believers must be ready for Christ’s return by diligently going about their business of growing spiritually and doing what the Lord would have them do. Unbelievers need to prepare by believing in Christ and then growing spiritually from there on out. Spiritual growth is the only way to negotiate this world safely. It is the only way we can be confident we will have the strength to bear up under the difficulties that come our way in the future (**1 Corinthians 10:13**). 
 
-A passage most applicable to our parable is 
-
-
-
-
-
-## **2. The Wedding Banquet - Matthew 22:1-14**
+## 2. The Wedding Banquet - Matthew 22:1-14
 
 {{% scripture p="Matthew 22:1-14 (NASB 1995)" %}} 
 
@@ -81,11 +75,25 @@ Jesus spoke to them again in parables, saying, **2** “The kingdom of heaven ma
 
  {{% /scripture %}}                                                  
 
-The King in the parable above represents the Father, and the son, Jesus Christ. The Son came to earth to seek and save the lost (particularly the Jewish people during His three-year ministry---though Christ died for all). The lost represent those called or invited to the wedding feast (unbelievers called to salvation), which symbolizes the millennial kingdom and the great feast that occurs during that period after Christ’s second advent. 
+Jesus spoke this parable in response to the unbelief and opposition of the Pharisees and chief priests (see chapter twenty-one). They though they had salvation because of their ancestry as descendants of Abraham. However, both John the baptist and Jesus called them out on this to show them they would miss out and suffer destruction if they continued in their hard-heartened ways.  
+
+{{% scripture p="Matthew 3:7-10 (NASB 1995)" %}} 
+
+**7** But when he saw many of the Pharisees and Sadducees coming for baptism, he said to them, “You brood of vipers, who warned you to flee from the wrath to come? **8** Therefore bear fruit in keeping with repentance; **9** and do not suppose that you can say to yourselves, ‘We have Abraham for our father’; for I say to you that from these stones God is able to raise up children to Abraham. **10** The axe is already laid at the root of the trees; therefore every tree that does not bear good fruit is cut down and thrown into the fire.
+
+{{% /scripture %}}       
+
+{{% scripture p="Matthew 8:11-12 (NASB 1995)" %}} 
+
+**11** I say to you that many will come from east and west, and *at the table* with Abraham, Isaac and Jacob in the kingdom of heaven; **12** but the sons of the kingdom will be cast out into the outer darkness; in that place there will be weeping and gnashing of teeth.” 
+
+{{% /scripture %}}       
+
+  The King in the parable above represents the Father, and the son, Jesus Christ. The Son came to earth to seek and save the lost (particularly the Jewish people during His three-year ministry---though Christ died for all). The lost represent those called or invited to the wedding feast (unbelievers called to salvation), which symbolizes the millennial kingdom and the great feast that occurs during that period after Christ’s second advent. 
 
 Jesus ministered to His people and called them to repentance for their salvation. But most refused this gracious offer of eternal life. They rejected the Messiah crucifying Him in the end, just as how most in our parable declined the invitation for the wedding dinner. However, this parable can also apply to all unbelievers of all time. Those who never believed in Christ (through ALL of human history) will all suffer the eternal Lake of Fire. 
 
-The slaves symbolize the witnessing believers, particularly prophets, who were mercilessly killed by those who opposed them because of their message about Christ. In Jesus' day, this would refer not only to those most hostile to His ministry but especially to the Scribes and Pharisees who had twisted and misinterpreted not only the Law but Christ and His mission as well. Thus, many messengers and slaves of Christ would suffer death because of their faith and for preaching the truth. Most of the apostles would suffer a similar fate as the prophets before them. They, too, would face significant opposition from their people, the Jews, as well as the Romans, **John 21:15-23**. 
+The slaves symbolize the witnessing believers, particularly the prophets, who were mercilessly killed by those who opposed them because of their message about Christ. In Jesus' day, this would refer not only to those most hostile to His ministry but especially to the Scribes, Pharisees, and chief priests who had twisted and misinterpreted not only the Law but Christ and His mission as well. Thus, many messengers and slaves of Christ would suffer death because of their faith and for preaching the truth. Most of the apostles would suffer a similar fate as the prophets before them. They, too, would face significant opposition from their people, the Jews, as well as the Romans, **John 21:15-23**. 
 
 All those who oppose and mistreat God’s servants will be destroyed at His second coming, only to face the lake of fire after the end of Christ’s thousand-year reign. We see this fact demonstrated by the master who sends his army to destroy those disobedient men and set their cities on fire. This parable spoken by Jesus may also refer to the destruction of Jerusalem in 70 AD. We know from the context that this passage most certainly refers to “the day of the Lord,” the second and final return of Christ. Therefore, it has a twin application, referring to the destruction of Jesus's contemporaries and to those who reject Christ at and after His second advent return. Those who initially refused the king's invitation to the wedding banquet represent the unbeliever's of Jesus's time and the ones thrown out after the second invitation symbolize unbelievers during the Millennium. 
 
@@ -93,7 +101,7 @@ Regarding the first application of this parable, since most of God’s chosen pe
 
 In our parable in Matthew, we then have in verse ten the phrase, *“Those slaves went out into the streets and gathered together all they found, both good and bad.”*  This refers to believers (the good) and unbelievers (the bad). Unbelievers will be present during Christ's Millennial reign (wheat growing up among the tares) but will receive their due judgment after the thousand years are over. 
 
-As for the man lacking proper wedding attire, this person represents an unbeliever who refuses to accept Christ (during His thousand-year reign on earth) and insults the king (Christ) by refusing to come to God the only way possible; by faith through grace alone. Instead, this person who went to the wedding feast dressed in his own attire is an unbeliever who tried to approach God through his works (his way). Therefore, such an individual has refused the gospel and is not a believer who should belong in the kingdom, let alone the Lamb’s wedding supper. For this reason, the king has him thrown out. 
+As for the man lacking proper wedding attire, this person represents an unbeliever who refuses to accept Christ (during His thousand-year reign on earth) and insults the king (Christ) by refusing to come to God the only way possible; by faith through grace alone. Instead, this person who went to the wedding feast dressed in his own attire is an unbeliever who tried to approach God through his works (his way). Therefore, such an individual has refused the gospel and is not a believer who should belong in the kingdom, let alone the Lamb’s wedding supper. For this reason, the king has him thrown out. Jesus, undoubtedly, also had Israel's religious leaders in mind when He spoke these words because they (the Pharisees in particular) were attempting to come to God their own way by trying to do good works to get to heaven. 
 
 The phrase, “*many are called, but few are chosen*,” means that although God calls/desires everyone to repentance (He died for everyone after all), most have and will reject the invitation.
 
@@ -111,51 +119,7 @@ Those who reject Christ are not part of the chosen because God foreknew they wou
 
 {{% /scripture %}}    
 
-
-
-## **3. Faithful vs Wicked Servants - Mark 13:34-37; Luke 12:41-48** 
-
-{{% scripture p="Luke 12:42-48 (NASB 1995)" %}} 
-
-**42** And the Lord said, “Who then is the faithful and sensible steward, whom his master will put in charge of his servants, to give them their rations at the proper time? **43** Blessed is that slave whom his master finds so doing when he comes. **44** Truly I say to you that he will put him in charge of all his possessions. **45** But if that slave says in his heart, ‘My master will be a long time in coming,’ and begins to beat the slaves, *both* men and women, and to eat and drink and get drunk; **46** the master of that slave will come on a day when he does not expect *him* and at an hour he does not know, and will cut him in pieces, and assign him a place with the unbelievers. **47** And that slave who knew his master’s will and did not get ready or act in accord with his will, will receive many lashes, **48** but the one who did not know *it*, and committed deeds worthy of a flogging, will receive but few. From everyone who has been given much, much will be required; and to whom they entrusted much, of him they will ask all the more. 
-
-{{% /scripture %}} 
-
-This parable is quite simple, especially in light of what we have already seen above. The faithful slave found doing as he should be doing is a believer who has kept the faith and produced the fruit of righteousness that goes along with it by living an obedient life and ministering to others as a result. He is a servant of Christ in a position of leadership service over other believers; for this reason, he has an enormous responsibility to carry out, much like Peter and the other apostles would have over those they ministered (though Jesus commanded all believers to be alert and watchful). This believer (Steward) who acts responsibly has not rejected Jesus Christ in His heart but has kept the faith until the end. This truth proves itself in the fact that he has not fallen away and betrayed his fellow brothers and sisters in Christ for refusing to bow the knee to Satan or his son antichrist during the tribulation. But if this same believer (Steward) chooses to act wickedly by abandoning his faith in Christ and demonstrating it through his act of betrayal, only eternal punishment awaits. Those who turn their backs on God will betray those who stay faithful to Him. For during the great persecution during the tribulation’s second half (when the apostasy of one-third of the church reaches its worst), believers will be persecuted like never before, with one-third of them suffering martyrdom at the hands of unbelievers. But rest assured, the wicked will receive their just reward (including all unbelievers who died prior to Christ's second and final return) when the Lord comes back to destroy all of His enemies and make them a footstool of His feet. Their punishment will be according to all they have done.
-
-Regarding the two types of people who receive varying levels of punishment in verses 47 and 48, we interpret them as follows:
-
-The person who had the most knowledge of what to do but did not act represents a believer. The severe beating he receives represents the harsh rebuke he will receive from the Lord at the judgment seat for his own actions. It can also refer to discipline he will receive from the Lord while still alive on earth. 
-
-The second servant is symbolic of a believer who also receives punishment for not understanding and using the truth in his life. The servant before him learned the truth but did not apply it. On the other hand, this servant didn’t know what the first knew so that he had nothing to apply. But this does not excuse him, of course. But despite this, he will receive less punishment than the servant mentioned before **because he acted in ignorance, not knowing as much truth as the other person**. The one who knows more can represent anyone who knows more than others believers but fails to act with it. However, those in positions of leadership (such as teachers as one example) who are expected to know more than others are what is mostly in view here-see right below. 
-
-Regarding the phrase below: 
-
-{{% scripture p="Luke 12:48 (NASB95)" %}}
-
-From everyone who has been given much, much will be required; and to whom they entrusted much, of him they will ask all the more
-
-{{% /scripture %}}
-
-Those given much refer to believers who have a heavier responsibility in the church. Those who have greater responsibility but fail to follow through on their tasks will be held to higher standards due to their work weight. We see a prime example of this with Bible teachers who will incur stricter judgment (**James 3:1**). What one teaches matters, and whatever a teacher speaks to another believer can either make or break them depending on what they say, whether it is correct or not. Either a person’s teaching will help another believer’s growth, or it will hinder it. With such critical responsibility, it is no wonder that such people will receive harsher judgment for being lackadaisical in their work. For them to mess up would mean more significant damage done to the body of Christ because the nature of their service can affect people in so many ways, both negatively and positively depending. The principle here is simple; the more damage a believer causes, the greater the loss of eternal reward. The more careless a believer is with a heavier responsibility (more knowledge of the truth), the harsher the judgment for mishandling such an honorable role. 
-
-{{% scripture p="James 3:1 (ESV 1995)" %}} 
-
-**3** Not many of you should become teachers, my brothers, for you know that we who teach will be judged with greater strictness. 
-
-{{% /scripture %}} 
-
-However, our Lord demands much from all believers in general. Jesus Himself has told us to count the cost before coming to Him in faith (**Luke 14:25-43**). Therefore, God expects all to live up to the high moral standards He has set forth. All believers are responsible for growing, progressing, and producing for Jesus Christ; no easy task as any believer fighting the good fight will tell you. 
-
-{{% scripture p="Ephesians 2:8-10 (ESV)" %}} 
-
-**8** For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, **9** not a result of works, so that no one may boast. **10** For we are his workmanship, **created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them**. 
-
-{{% /scripture %}} 
-
-
-
-## **4. The Two Sons - Matthew 21:28-31** 
+## **3. The Two Sons - Matthew 21:28-31** 
 
 {{% scripture p="Matthew 21:28-31 (NASB 1995)" %}} 
 
@@ -163,7 +127,7 @@ However, our Lord demands much from all believers in general. Jesus Himself has 
 
 {{% /scripture %}}    
 
-Jesus directed this parable at the religious officials who talked the talk but didn’t walk the walk. As those in leadership, it was their job to care for those they served properly; Israel represents the vineyard. They said yes to God but did not do His will, whereas many of the despised people in society eventually would come to Christ in great numbers once and after Jesus came on the scene (**Mark 2:13-17**). They would come in faith, not by self-righteous works as the religiously educated of that day, **Luke 18:9-14**.
+In this context, Jesus directed this parable primarily at the religious officials who talked the talk but didn’t walk the walk. As those in leadership, it was their job to care for those they served properly; Israel represents the vineyard. They said yes to God but did not do His will, whereas many of the despised people in society eventually would come to Christ in great numbers once and after Jesus came on the scene (**Mark 2:13-17**). They would come in faith, not by self-righteous works as the religiously educated of that day, **Luke 18:9-14**.
 
 However, this parable can apply to all people of every age because faith without works is dead. This case is what we have here in the context of our passage with the religious elite. They proved by their lack of good fruit that they did not have saving faith and thus were not doing God’s will because they were trying to do so in their strength according to their ways and traditions. 
 
@@ -175,13 +139,13 @@ However, this parable can apply to all people of every age because faith without
 
 Just like the son who gave lip service but no service at all, the Scribes and Pharisees did the same by talking of righteous living but not practicing what they preached. And much of what they did do was wrong and legalistic. 
 
-As the parable of the man without proper wedding attire (parable of the wedding) shows, we cannot come to God our way. Only faith in the person and work of Jesus Christ (the Way) is sufficient to save anyone. Religion is man’s attempt of trying to earn a spot in the kingdom. But only God can save, and what an insult it is to blaspheme the work of Christ by deeming it insufficient by one’s own works! That is what the Scribes, Pharisees, and other religious people were doing; they weren’t doing God’s will despite claims to the contrary. They had no actions to back up their words and thus confirmation of a changed and regenerated life. And even after seeing so many of the most frowned upon people in society come to Christ, it never occurred to them that someone special had arrived on the scene; and that someone was John the Baptist, the forerunner of Jesus Christ sent to prepare the way for Him. 
+As the parable of the man without proper wedding attire (parable of the wedding) shows, we cannot come to God our way. Only faith in the person and work of Jesus Christ (the Way) is sufficient to save anyone. Religion is man’s attempt of trying to earn a spot in the kingdom. But only God can save, and what an insult it is to blaspheme the work of Christ by deeming it insufficient by one’s own works! That is what the Scribes, Pharisees, chief priests and other religious people were doing; they weren’t doing God’s will despite claims to the contrary. They had no actions to back up their words and thus confirmation of a changed and regenerated life. And even after seeing so many of the most frowned upon people in society come to Christ, it never occurred to them that someone special had arrived on the scene; and that someone was John the Baptist, the forerunner of Jesus Christ sent to prepare the way for Him. 
 
-Doing God’s will means playing by God’s rules, not our own. There is only one way to heaven, and that is through Jesus Christ. And after we get saved, we are left here on this earth to grow and give our very best for the Lord. That is what it means to do the Lord’s will! 
+Doing God’s will means playing by God’s rules, not our own. There is only one way to heaven, and that is through Jesus Christ. And after we get saved, we are left here on this earth to grow, progress, and produce. That is what it means to do the Lord’s will! 
 
 
 
-## **5. The Wicked Vinedressers - Matthew 21:33-46; Mark 12:1-12; Luke 20:9-19** 
+## **4. The Wicked Vinedressers - Matthew 21:33-46; Mark 12:1-12; Luke 20:9-19** 
 
 {{% scripture p="Matthew 21:33-46 (NASB 1995)" %}} 
 
@@ -191,17 +155,19 @@ Doing God’s will means playing by God’s rules, not our own. There is only on
 
 The landowner in the parable of the vineyards is God; the vineyard is Israel, the vine-growers the religious Jews in leadership, the slaves God’s prophets and witnesses to the truth, and the Son Jesus Christ.
 
-Most of Israel, especially the Scribes, chief priests, and Pharisees, had killed/persecuted many of God’s servants (the prophets) sent to testify the truth. Now they were attacking Jesus in whatever ways they could because He claimed to be the Messiah. In addition to persecuting those also testifying of Jesus, that was clear enough proof that the religious crowd of Jesus’ day was not righteous as they thought they were. They adorned themselves with splendid clothing and spoke words and lengthy prayers to put on a display of righteousness. However, deep down inside, they were unrighteous, unregenerate unbelievers filled with nothing but “dead man’s bones.” These same men who killed and persecuted the prophets would also kill God’s One and only Son. 
+Most of Israel, especially the Scribes, chief priests, and Pharisees, had killed/persecuted many of God’s servants (the prophets) sent to testify the truth. Right before this parable we have the parable of the two sons in verses twenty-eight to thirty-two. The religious elite were not doing their job by caring for Israel but were instead hindering their fellow countrymen from entering the kingdom (**Matthew 23:13-14**). Now they were attacking Jesus in whatever ways they could because He claimed to be the Messiah. In addition to persecuting those also testifying of Jesus, that was clear enough proof that the religious crowd of Jesus’ day was not righteous as they thought they were. They adorned themselves with splendid clothing and spoke words and lengthy prayers to put on a display of righteousness. However, deep down inside, they were unrighteous, unregenerate unbelievers filled with nothing but “dead man’s bones.” These same men who killed and persecuted the prophets would also kill God’s One and only Son. And so, for their rejection of and slaughter of Christ, these same men will suffer eternal separation from God after judgment at the great white throne. 
 
-And so, for their rejection of and slaughter of Christ, these same men will suffer eternal separation from God after judgment at the great white throne. Prophetically, all unbelievers alive at Christ’s second advent when He returns will be destroyed and cast into hell to await their final judgment, ending in the lake of fire. Therefore, we could link this parable with the parable of the “faithful versus wicked servants” **Mark 13:32-37**; **Luke 12:41-48**. 
+The people (all of whom accept Jesus as the Messiah) whom the landowner rents out to in place of those who rejected him refers to other Jews, Gentiles and their leaders (all of which comprise the church). The "proceeds" mentioned in our present context symbolize spiritual fruits produced by the believer through Christ's strength. However, the parable of the withered fig tree once again demonstrates that most of Israel lacked production because of their unbelief. But a small handful of Jews and Gentiles who did accept Christ would produce the fruit of righteousness through the faith they possessed so as to reap a bountiful crop in eternity.  The religious crowd (and sadly most Jews), on the other hand, were more hostile to Jesus and the message He had presented and considered Jesus’ claim of divinity to be absolute blasphemy. For this reason, they came to hate Him all the more, even convincing many of these same people who once admired Him to turn on Him and have Him crucified. So, in the end, most of Israel's leaders never took John's advice to repent and produce fruit in keeping with repentance. 
 
-The people (all of whom accept Jesus as the Messiah) whom the landowner rents out to in place of those who rejected him refers to other Jews, Gentiles and their leaders (all of which comprise the church). The religious crowd (and sadly most Jews), on the other hand, were more hostile to Jesus and the message He had presented and considered Jesus’ claim of divinity to be absolute blasphemy. For this reason, they came to hate Him all the more, even convincing many of these same people who once admired Him to turn on Him and have Him crucified. 
+{{% scripture p="Matthew 3:7-10 (NASB 1995)" %}} 
 
-Regarding Christ as the cornerstone (**Psalm 118:22-23**), this speaks of Him as the absolute foundation and authority of the church, but not just for the 2,000 years of church history as we know it. The church began with Adam and will end with the last believer to draw breath before the present earth and universe pass away. Christ is the authority, foundation, and object of faith and worship of all believers who have and will ever live. And all who have believed in Him are expected to bring forth fruit like the master expected his tenants to care for his vineyard so that it would produce a sizable crop. But because the so-called “leaders” of Israel were not doing their job properly (most of them were not believers), their authority and leadership positions would be taken from them. These leadership positions would be handed over to others from the church, which was about to begin not too long after Christ’s death on the cross. 
+**7** But when he saw many of the Pharisees and Sadducees coming for baptism, he said to them, “You brood of vipers, who warned you to flee from the wrath to come? **8** Therefore bear fruit in keeping with repentance; **9** and do not suppose that you can say to yourselves, ‘We have Abraham for our father’; for I say to you that from these stones God is able to raise up children to Abraham. **10** The axe is already laid at the root of the trees; therefore every tree that does not bear good fruit is cut down and thrown into the fire.
 
+{{% /scripture %}}   
 
+Regarding Christ as the cornerstone (**Psalm 118:22-23**), this speaks of Him as the absolute foundation and authority of the church, but not just for the 2,000 years of church history as we know it. The church began with Adam and will end with the last believer to draw breath before the present earth and universe pass away. Christ is the authority, foundation, and object of faith and worship of all believers who have and will ever live. And all who have believed in Him are expected to bring forth fruit like the master expected his tenants to care for his vineyard so that it would produce a sizable crop. But because the so-called “leaders” of Israel were not doing their job properly (most of them were not believers), their authority and leadership positions would be taken from them. These leadership positions would be handed over to others from the church, which was about to begin not too long after Christ’s death on the cross. Most Israelites rejected Christ because they wanted a conquering king but instead got a suffering servant. It was for this reason why they stumbled over Him through this same rejection. 
 
-## **6. The Laborers in the Vineyard - Matthew 20:1-16** 
+## 5. The Laborers in the Vineyard - Matthew 20:1-16 
 
 {{% scripture p="Matthew 20:1-16 (NASB 1995)" %}} 
 
@@ -209,7 +175,7 @@ Regarding Christ as the cornerstone (**Psalm 118:22-23**), this speaks of Him as
 
 {{% /scripture %}}   
 
-This parable has a dual application because it links directly with **Matthew 19:30**, in which Jesus ends with “*but many who are first will be last, and many who are last will be first*.” 
+This parable has a dual application because it links directly with **Matthew 19:30** before it, in which Jesus ends with “*but many who are first will be last, and many who are last will be first*.” Although the vineyard in this parable could represent Israel (believing Jews who produced spiritual fruit in their own land), this teaching applies to all believers of every place and time period. 
 
 In Matthew chapter nineteen (the chapter right before the one we examine here), that section finishes with Jesus telling His disciples how to handle wealth and how riches swamp men’s hearts. According to the world’s standards, many prominent, rich, and powerful unbelievers who display righteousness through good works are the most likely candidates for eternal life. In other words, these are people trying to work their way to heaven. Jesus reverses this assumption by telling His disciples that riches make it more difficult for people to enter God’s kingdom. That in no way teaches that wealthy people can’t get saved but that people who have more in this world have greater distraction and difficulty (**Matthew 19:23-26**). During Jesus’ day, most converts were poor in the lower class. That is why Jesus finishes chapter nineteen with “*But many who are first will be last, and many who are last will be first*.” Despite the false perceptions of the unbelieving world, those deemed less worthy of God’s kingdom (the poor and frowned on in society) will enter it ahead of those who are unworthy because of unbelief (**Matthew 21:28-32**). No one deserves eternal life, but Christ’s death on the cross made possible what was impossible for man to accomplish Himself. Those who accept God’s gift of salvation will inherit eternal life. But those who refuse this offer can only expect condemnation. 
 
@@ -229,9 +195,7 @@ In this parable in our context, the landowner who gives each worker a denarius r
 
 The workers who receive their money first are believers who receive their eternal rewards before everyone else, even though most would expect the men hired first (the other believers) to receive their wages ahead of the others.  
 
-Many believers deemed greatest will not have accomplished as much as was thought. Not only will they not have produced as much as expected, but many who were assumed and seen to be less effective in the body of Christ will end up receiving not only a greater reward at the judgment seat but receiving it first as well. In the church's eyes, these believers were last (behind those deemed more productive) but turned out to be first, having done more with their spiritual gifts in the ministries they were called to. Even though they were more “under the radar” regarding their service to Christ, God sees everything we do and why we do it. 
-
-As a side note, those who grumbled against the landowner cannot possibly refer to the Scribes and Pharisees because they had not accepted the gospel at all and, therefore, were not producing anything for God because of their unbelieving status. 
+Many believers deemed greatest will not have accomplished as much as was thought. Not only will they not have produced as much as expected, but many who were assumed and seen to be less effective in the body of Christ will end up receiving not only a greater reward at the judgment seat but receiving it first as well. In the church's eyes, these believers were last (behind those deemed more productive) but turned out to be first, having done more with their spiritual gifts in the ministries they were called to. Even though they were more “under the radar” regarding their service to Christ, God sees everything we do and why we do it. Those who grumbled against the landowner cannot possibly refer to the Scribes and Pharisees because they had not accepted the gospel at all and, therefore, were not producing anything for God because of their unbelieving status. 
 
 To continue, man has limited knowledge of what other believers accomplish because God evaluates the quality and quantity of our work. Additionally, He also looks at our hearts, something that other people cannot see except our Lord Himself, who knows our thoughts, attitudes, and motivations involving why and what we do. 
 
@@ -253,7 +217,7 @@ However, many whom the church views as worthy of greater reward will receive som
 
 
 
-## **7. The Widow and the Unjust Judge - Luke 18:1-8** 
+## **6. The Widow and the Unjust Judge - Luke 18:1-8** 
 
 {{% scripture p="Luke 18:1-8 (NASB 1995)" %}} 
 
@@ -261,7 +225,9 @@ However, many whom the church views as worthy of greater reward will receive som
 
 {{% /scripture %}}   
 
-The first sentence in bold above is the interpretation of this parable, but we will expound on it more below for further explanation. This parable teaches believers to keep on with their prayer life (and to hold fast to their faith) during testing and tribulation (our parable has to do with believers suffering through the coming tribulation). The judge whom the widow persistently begged for justice was unjust in contrast to our Lord, who is fair and righteous. As a solitary woman, she stood little chance of receiving a fair hearing from those in court, much like believers will not receive proper treatment from the unbelieving world during the tribulation. Yet, despite his wicked discriminating, this unfair judge eventually gave in to the widow’s cries for justice, and what this means is that how can we not expect our Savior, who graciously gives to those in need, to provide for us? If a woman could persuade a wicked judge, then God, who is just and loving, will most certainly give us everything we need (**Matthew 6:26-34**), for He is more than happy to do so (unlike the stingy judge in our parable). He feeds the sparrows and clothes the lilies, so will He not take care of us if we would but continue to ask Him? 
+Jesus spoke this parable right after His teaching on the end times before Christ's second advent return (**Luke 17:20-37**). Believing Jews (all Christians alive during that period) will need to have exceptional faith to endure through those terrible times and will need to continuously rely on God's strength through persistent prayer. Our Lord's words to His disciples reveal that this parable applies to all believers of every era (all time.) So it would not have been beneficial for Jesus to have told His disciples that they wouldn't see the dark days of the tribulation ahead because He had already encouraged them to be ready at all times because the Son's return could happen at **any time**. So even though the twelve never got to see those days (they are still presently future), Jesus did not want to discourage His followers from constantly relying on Him at all times by telling them they would never have to go through the tribulation. Had He done this, they may have slacked off on their efforts. The point is that, tribulation or not, all believers need to be strong and of a good courage through consistent prayer and reliance on God. 
+
+The first sentence in bold above is the interpretation of this parable, but we will expound on it more below for further explanation. This parable teaches believers to keep on with their prayer life (and to hold fast to their faith) during testing and tribulation. The judge whom the widow persistently begged for justice was unjust in contrast to our Lord, who is fair and righteous. As a solitary woman, she stood little chance of receiving a fair hearing from those in court, much like believers will not receive proper treatment from the unbelieving world, especially during the tribulation. Yet, despite his wicked discriminating, this unfair judge eventually gave in to the widow’s cries for justice, and what this means is that how can we not expect our Savior, who graciously gives to those in need, to provide for us? If a woman could persuade a wicked judge, then God, who is just and loving, will most certainly give us everything we need (**Matthew 6:26-34**), for He is more than happy to do so (unlike the stingy judge in our parable). He feeds the sparrows and clothes the lilies, so will He not take care of us if we would but continue to rely on Him through faith? 
 
 {{% scripture p="1 Thessalonians 5:16-18 (ESV)" %}} 
 
@@ -319,7 +285,7 @@ For this reason, patient endurance is ever so needed. And prayerful reliance on 
 
 
 
-## **8. The Master and his Servant - Luke 17:7-10** 
+## **7. The Master and his Servant - Luke 17:7-10** 
 
 {{% scripture p="Luke 17:7-10 (NASB 1995)" %}} 
 
@@ -327,7 +293,7 @@ For this reason, patient endurance is ever so needed. And prayerful reliance on 
 
 {{% /scripture %}}   
 
-This parable teaches believers that they should keep their gifts and service to Christ in perspective; we are unworthy of accolades from God. Not only is there nothing we can accomplish in our own strength apart from Him, but that which we have done in His eyes is what we were supposed to do, so nothing extraordinary on our part in the sense that we didn’t do it ourselves but in the power of the Spirit. We are not our own, but we are slaves of Christ (**1 Corinthians 6:19-20; Romans 6:20-22).** Doing right and abstaining from wrong is no accomplishment; it was what we were supposed not to do and nothing more. 
+This parable teaches believers that they should keep their gifts and service to Christ in perspective as one way to avoid pride and increase one's faith (**see Luke 17:5-6**). We can only grow spiritually by humbling ourselves to be exalted (**Matthew 23:12**). We are unworthy of accolades from God. Not only is there nothing we can accomplish in our own strength apart from Him, but that which we have done in His eyes is what we were supposed to do, so nothing extraordinary on our part in the sense that we didn’t do it ourselves but in the power of the Spirit. We are not our own, but we are slaves of Christ (**1 Corinthians 6:19-20; Romans 6:20-22).** Doing right and abstaining from wrong is no accomplishment; it was what we were supposed not to do and nothing more. 
 
 For example, the Bible commands us to obey the law and submit to authority when it is biblical (it isn’t violating God’s commands in any way). You see a sign that tells you not to spit in that specific area. And so you don’t spit. Was what you just did an accomplishment? No, you just simply did what you were supposed to do by obeying the sign. 
 
@@ -337,11 +303,11 @@ Yes, the Lord is pleased with all the positive free will choices we make in life
 
 
 
-## 9. The Prodigal Son - Luke 15:11-32 
+## 8. The Prodigal Son - Luke 15:11-32 
 
 See passage link: **Luke 15:11-32**. 
 
-This parable is linked with those before it in **Luke 14:15-24, 15:1-7** (the lost sheep) **Luke 15:8-10** (the lost coin). The prodigal son represents all the sinners, tax collectors, and people with bad reputations flooding into the kingdom by coming to Christ (they came as unbelievers as those hated and frowned upon in society). However, the parable itself also applies to all believers who have backslidden in their walk with God but who have returned to Him (the other application of this parable). The father represents our heavenly Father. The older son---possibly the Scribes, Pharisees, and other religious people who were angry that Jesus was associating with and helping the worst of sinners in their day. At the same time, he may also have been used by Jesus to represent a bitter believer who refuses to accept a repentant brother back into the fold.  The older sibling was a brother, after all. I believe this parable can refer to God’s willingness to forgive wandering believers who return and repent, and also “newcomers” to the faith who come flooding into the kingdom (something that greatly upset the religious elite of those days. 
+This parable is linked with those before it in **Luke 14:15-24, 15:1-7** (the lost sheep) **Luke 15:8-10** (the lost coin). There is more rejoicing in heaven over one sinner who repents then over "ninety-nine who need no repentance." The prodigal son represents all the sinners, tax collectors, and people with bad reputations flooding into the kingdom by coming to Christ (they came as unbelievers as those hated and frowned upon in society). However, the parable itself also applies to all believers who have backslidden in their walk with God but who have returned to Him (the other application of this parable). The father represents our heavenly Father. The older son---possibly the Scribes, Pharisees, and other religious people who were angry that Jesus was associating with and helping the worst of sinners in their day. At the same time, he may also have been used by Jesus to represent a bitter believer who refuses to accept a repentant brother back into the fold.  The older sibling was a brother, after all. I believe this parable can refer to God’s willingness to forgive wandering believers who return and repent, and also “newcomers” to the faith who come flooding into the kingdom (something that greatly upset the religious elite of those days. 
 
 What probably upset Christs’ opponents the most was that He told them that sinners and tax collectors were getting into the kingdom while they were not, which led to strife and self-denial on their part. Just as the older son thought he deserved higher honor, the religious officials saw themselves as more worthy of eternal fellowship with God, represented by the great feast the father threw for his son. But because of their pride and misguided thinking, the Scribes and Pharisees were blinded to their own spiritually dead condition. They thought they were morally superior to others, yet they tried to approach God through self-righteous behavior. The younger son represents a true converted believer who comes to God in genuine faith/repentance (or returns after a long bout with sin). On the other hand, it is likely the older son is partly symbolic of Israel’s religious leaders who thought their years of self-righteous service (works) made them more deserving of God’s kingdom. Yet, no amount of good human works will earn salvation for anyone. 
 
@@ -377,7 +343,7 @@ Something very touching we can see from this story is how the father, who saw hi
 
 
 
-## **10. The Lost Coin - Luke 15:8-10** 
+## **9. The Lost Coin - Luke 15:8-10** 
 
 {{% scripture p="Luke 15:8-10 (NASB 1995)" %}} 
 
@@ -401,7 +367,7 @@ The Lord did not have to die for us, and yet He chose to do so anyway. He hated 
 
 
 
-## **11. The Unmerciful Servant - Matthew 18:21-34**
+## **10. The Unmerciful Servant - Matthew 18:21-34**
 
 {{% scripture p="Matthew 18:23-25 (NASB 1995)" %}} 
 
@@ -409,9 +375,23 @@ The Lord did not have to die for us, and yet He chose to do so anyway. He hated 
 
 {{% /scripture %}}   
 
+Matthew 18:21-34 follows on the heels of Jesus's teachings on forgiveness and reconciliation (see **Matthew 18:10-20**- the parable of the lost sheep and forgiveness of a repentant brother). The Lord emphasized mercy in all of these connected verses. To further drive home His point, He highlighted the fact that no one deserves forgiveness which means we should grant it to others as well (especially those who seek it). If God Himself is merciful and compassionate, should not all of His followers be the same? God is love, so if that is how He comports Himself to His creatures, we must do our very best through His strength to replicate this behavior. **1 John 4:8** says, "*Anyone who does not love does not know God, because God is love*." Failure to show mercy shows a lack of love in one's heart (no one is perfect on this score). To demonstrate love toward others is to love one's neighbor and, thus, God Himself. That right there sums up all the Law and the prophets (**Mark 12:30-31**). That being the case, our parable shows that we would all be lost without the grace and mercy of Christ. We are at His mercy so that we must totally rely on Him for salvation and spiritual growth. 
+
+{{% scripture p="Matthew 7:12 (NASB 1995)" %}} 
+
+**12** So in everything, do to others what you would have them do to you, for this sums up the Law and the Prophets.
+
+{{% /scripture %}}   
+
+{{% scripture p="Matthew 7:12 (NASB 1995)" %}} 
+
+**37** And He said to him, “‘You shall love the Lord your God with all your heart, and with all your soul, and with all your mind.’ **38** This is the great and commandment. **39** The second is like it, ‘You shall love your neighbor as yourself.’ **40** On these two commandments depend the whole Law and the Prophets.”
+
+{{% /scripture %}}   
+
 Believers are to forgive other believers (and unbelievers) as much as needed. Our Lord forgave us of all our sins which were many indeed. No one deserves eternal life, and yet God loved us so much that He gave us a way to have it. The behavior of the unmerciful slave is quite outrageous in light of this fact because he owed a much larger debt (one he couldn’t repay just as we couldn’t pay for our sins) than what his servant owed him. Despite this, he treated his slave harshly and had him thrown into prison, which warranted his treatment from his lord of being handed over to the torturers. 
 
-In the same context of this parable, we have in verse twenty-two the seventy-seven principle. The number seven is unique in the Bible in that it represents completion and perfection, meaning that seventy-seven indicates forgiving someone as many times as they seek for and need it. The blood of Jesus covered all our sins, past, present, and future, so that not one unrighteous act is left uncleansed by the precious blood of the lamb. God’s forgiveness of us is perfect and complete, as the number seven represents, but we must seek it through faith in the person and work of His Son. Unbelievers, therefore, must accept this offer of grace, while believers must continue to confess their sins to keep their “feet” clean (**John 13:4-11**) and their relationship and fellowship with God pure. So although believers may stumble, we have an advocate in our Savior Jesus Christ who goes to the Father on our behalf as an intercessor and intermediary confirming that His blood has covered any sin we have and will commit. 
+In the same context of this parable, we have in verse twenty-two the seventy-seven principle. The number seven is unique in the Bible in that it represents completion and perfection, meaning that seventy-seven indicates forgiving someone as many times as they seek for and need it. The blood of Jesus covered all our sins, past, present, and future, so that not one unrighteous act (except for the eternal sin of unbelief through rejecting Jesus Christ) is left uncleansed by the precious blood of the lamb. God’s forgiveness of us is perfect and complete, as the number seven represents, but we must seek it through faith in the person and work of His Son. Unbelievers, therefore, must accept this offer of grace, while believers must continue to confess their sins to keep their “feet” clean (**John 13:4-11**) and their relationship and fellowship with God pure. So although believers may stumble, we have an advocate in our Savior Jesus Christ who goes to the Father on our behalf as an intercessor and intermediary confirming that His blood has covered any sin we have and will commit. 
 
 {{% scripture p="Matthew 18:21-22 (ESV)" %}} 
 
@@ -425,7 +405,7 @@ My little children, I am writing these things to you so that you may not sin. Bu
 
 {{% /scripture %}}   
 
-God is love because He is holy, and He has commanded us as believers to be so as well. But when we fail to be merciful and show compassion through forgiveness, we cannot be loving God at that moment because true love for Him translates into and manifests itself in our treatment of others. For if we love God as we should, we will love others as we should. The unforgiving servant represents a real person (a believer) whose sins have been paid for by the sacrifice of Jesus Christ. Yet despite owing a much larger debt (representing all of humanity of which do not deserve forgiveness but the lake of fire), the slave who owed more persecutes the man who owed far less, making him a total hypocrite. The unmerciful servant forgot the treatment that he received and his original status before being forgiven. Believers must remember their status before God and what He did to grant us that position we are blessed to enjoy. We must never forget that we owed a debt to God that we could not repay, and yet He paid it for us by suffering for thirty-three years on this earth only to die on a cross. Why would we not forgive other people, especially our fellow brothers and sisters in Christ? The debt they may owe will never compare in size and importance to the debt we once owed Christ. Just as God forgave us everything, so we as believers must forgive others all as well, no matter how many and terrible the trespasses. 
+God is love because He is holy, and He has commanded us as believers to be so as well. But when we fail to be merciful and show compassion through forgiveness, we cannot be loving God at that moment because true love for Him translates into and manifests itself in our treatment of others. For if we love God as we should, we will love others as we should. The unforgiving servant represents a real person whose sins have been paid for by the sacrifice of Jesus Christ. Yet despite owing a much larger debt (representing all of humanity of which do not deserve forgiveness but the lake of fire), the slave who owed more persecutes the man who owed far less, making him a total hypocrite. The unmerciful servant forgot the treatment that he received and his original status before being forgiven. Believers must remember their status before God and what He did to grant us that position we are blessed to enjoy. We must never forget that we owed a debt to God that we could not repay, and yet He paid it for us by suffering for thirty-three years on this earth only to die on a cross. Why would we not forgive other people, especially our fellow brothers and sisters in Christ? The debt they may owe will never compare in size and importance to what we once owed Christ. Just as God forgave us everything, so we as believers must forgive others all as well, no matter how many and terrible the trespasses. 
 
 {{% scripture p="Ephesians 4:32 (NIV)" %}} 
 
@@ -439,7 +419,7 @@ God is love because He is holy, and He has commanded us as believers to be so as
 
 {{% /scripture %}}   
 
-When we get saved, we have been crucified with Christ and have become a part of Him. God is love, so how can we say we are abiding in Christ if we do not show and demonstrate through our own lives that whom supposedly resides within us? We are identified with our Lord, meaning we have the power and ability to live a righteous life as He lived, though we will never be perfect. When believers mistreat others, they are failing to live out their true identity. They are not true to themselves because they allow the flesh to control and manipulate their behavior. You could say then that someone who is not loving was never a believer at all or is a believer who has taken a perilous path. Whether they (assuming they are a believer on a downward spiral) recover or not depends on how they respond to divine discipline. But something is wrong if there is constant hate in a believer’s heart when they have Him, who is the very definition of love Himself living inside of them (**1 Corinthians 13:1-7**). Those who hate are murders, and no murderer has eternal life abiding in them **1 John 3:15**. 
+When we get saved, we have been crucified with Christ and have become a part of Him. God is love, so how can we say we are abiding in Christ if we do not show and demonstrate through our own lives that whom supposedly resides within us? We are identified with our Lord, meaning we have the power and ability to live a righteous life as He lived, though we will never be perfect. When believers mistreat others, they are failing to live out their true identity. They are not true to themselves because they allow the flesh to control and manipulate their behavior. You could say then that someone who is not loving was never a believer at all or is a believer who has taken a perilous path (of course, not even the greatest believers are perfect on that score). 
 
 {{% scripture p="James 2:12-13 (NASB)" %}} 
 
@@ -449,7 +429,7 @@ When we get saved, we have been crucified with Christ and have become a part of 
 
 
 
-## **12. The Lost Sheep - Matthew 18:12-14; Luke 15:3-7** 
+## **11. The Lost Sheep - Matthew 18:12-14; Luke 15:3-7** 
 
 {{% scripture p="Luke 15:3-7 (NASB 1995)" %}} 
 
@@ -457,7 +437,7 @@ When we get saved, we have been crucified with Christ and have become a part of 
 
 {{% /scripture %}}   
 
-This parable connects with the parable of the lost coin and the prodigal son. Jesus told it when the Pharisees and teachers of the law complained to Him that He was eating with tax collectors and healing on the sabbath. Yet our Lord told them an essential principle that He desired mercy over sacrifice (**Hosea 6:6**). A human life, or in this case spirit, is what matters the most. Regardless of the day or those we are associated with, all people need the Lord at all times. There can be no delay in helping someone when the need is immediate. There can be no beating about the bush over time, circumstances, etc. We must grant them the help they need irrespective of other people's wrong and misguided thoughts and opinions. We give to those who need help immediately when the need arises. Our Lord gave the gospel to those who needed it, and He did so without regard to any religious holiday or festival. He came to save, and He was going to do so no matter the circumstances. We believers would do well to put this into practice, just as the passage below exhorts. 
+This parable connects with that of the lost coin and the prodigal son. Jesus told it when the Pharisees and teachers of the law complained to Him that He was eating with tax collectors and healing on the sabbath. Yet our Lord told them an essential principle that He desired mercy over sacrifice (**Hosea 6:6**). A human life, or in this case spirit, is what matters the most. Regardless of the day or those we are associated with, all people need the Lord at all times. There can be no delay in helping someone when the need is immediate. There can be no beating about the bush over time, circumstances, etc. We must grant them the help they need irrespective of other people's wrong and misguided thoughts and opinions. We give to those who need help immediately when the need arises. Our Lord gave the gospel to those who needed it, and He did so without regard to any religious holiday or festival. He came to save, and He was going to do so no matter the circumstances. We believers would do well to put this into practice, just as the passage below exhorts. 
 
 {{% scripture p="2 Timothy 4:1-5 (NLT)" %}} 
 
@@ -507,41 +487,7 @@ Both **Matthew 18:12-14** and **Luke 15:3-7** refer to believers and unbelievers
 
 As a final note, this parable has a dual application in that the owner of the sheep refers not only to Christ but to all believers in general, especially pastors (**Matthew 18:10-14**). Church leaders care for their members and rally them back to Christ when they begin to stray. They are to exhort them to stay faithful to Christ and not lead them into sin and apostasy (**Matthew 18:7-9**). The good shepherd defends his sheep, but the weak shepherd abandons the flock. Any believer who leads another astray from Christ will face judgment. All members of God’s household are to care for one another as Christ does for His church. Believers in the body of Christ must build each other up and not tear each other down. 
 
-
-
-## **13. The Great Banquet - Luke 14:15-24** 
-
-{{% scripture p="Luke 14:12-24  (ESV)" %}} 
-
-**12** He said also to the man who had invited him, “When you give a dinner or a banquet, do not invite your friends or your brothers or your relatives or rich neighbors, lest they also invite you in return and you be repaid. **13** But when you give a feast, invite the poor, the crippled, the lame, the blind, **14** and you will be blessed, because they cannot repay you. For you will be repaid at the resurrection of the just.”**15** When one of those who were reclining *at the table* with Him heard this, he said to Him, “Blessed is everyone who will eat bread in the kingdom of God!” **16** But He said to him, “A man was giving a big dinner, and he invited many; **17** and at the dinner hour he sent his slave to say to those who had been invited, ‘Come; for everything is ready now.’ **18** But they all alike began to make excuses. The first one said to him, ‘I have bought a piece of land and I need to go out and look at it; please consider me excused.’ **19** Another one said, ‘I have bought five yoke of oxen, and I am going to try them out; please consider me excused.’ **20** Another one said, ‘I have married a wife, and for that reason I cannot come.’ **21** And the slave came *back* and reported this to his master. Then the head of the household became angry and said to his slave, ‘Go out at once into the streets and lanes of the city and bring in here the poor and crippled and blind and lame.’ **22** And the slave said, ‘Master, what you commanded has been done, and still there is room.’ **23** And the master said to the slave, ‘Go out into the highways and along the hedges, and compel *them* to come in, so that my house may be filled. **24** For I tell you, none of those men who were invited shall taste of my dinner.’”                                                                
-
-{{% /scripture %}}   
-
-The parable of the great banquet has the same basic meaning(s) of the wedding banquet (though with a few differences). Luke 14:15-24  continues the dialogue Jesus was having with the guests at the house of a prominent Pharisee. Jesus healed a man with an abnormal swelling after questioning the Pharisees and experts in the Law if it was lawful to heal on the Sabbath (verses 1-4). They had no answer, and with that, Jesus healed the man. Jesus then gave two lessons on humility (don’t take the place of honor for yourself verses 7-11) and acceptance of those less fortunate (inviting the outcasts of society verses 12-14). As a further example of why a person’s status in society didn’t matter (and how the respected in the community should accept all people), Jesus told the parable we will examine now. Only those who received the gospel Jesus preached were worthy to partake of eternal life. Jesus intended to expose the hypocrisy and disinterest of Israel’s leaders toward the kingdom.  
-
-The dinner in this parable represents the great heavenly millennial banquet (feast). Those who were initially invited but refused portray all unbelievers (especially those entering the Millennial reign of Christ) , including the Jewish nation and those most prominent in society (Israel’s religious leaders). Though many of the world's high-standing people rejected Christ, many lower-class Jewish and Gentile citizens were more open to the gospel message. However, just because many rich, famous, and religiously pious people refused Christ’s teaching does not mean none could or that none did receive salvation (Joseph of Arimathea and Nicodemus), although Christ’s words on the subject of wealth are pretty striking. Christ died for both rich and poor, famous and infamous, well respected and disrespected, religious and irreligious, etc. What a person is makes no difference to God because He died for all of them. 
-
-But those with great wealth, worldly possessions, fame, positions, and prosperity have the disadvantage of more stumbling blocks, obstacles that lead to pride, arrogance, and self-denial. And it is precisely these things that can keep a person from God’s kingdom because they and all they have matters more to them than the One who died in their place. This situation perfectly describes many of the Scribes, Pharisees, high priests, and teachers of the law. 
-
-{{% scripture p="Matthew 19:23-24  (ESV)" %}} 
-
-**23** And Jesus said to his disciples, “Truly, I say to you, only with difficulty will a rich person enter the kingdom of heaven. **24** Again I tell you, it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God.”                  
-
-{{% /scripture %}}   
-
-The interpretation of this parable is simple---*“first will be last and last will be first.”* We see this truth play out in this story because those invited last end up feasting at the banquet, but those invited first never participate in the celebration. Many of those viewed as less deserving of eternal life will end up spending eternity with God than those who thought they deserved it more but miss out on it. Jesus’ point is that we should never look down on others for whatever reasons. God does not judge based on man’s criteria because only He knows the heart. Our Lord doesn’t deem any person more worthy of kingdom living over another because not one person deserves eternal life, and that goes for all men equally. Many of those in the world’s eyes to be lower spiritually based on their earthy status will be higher in the kingdom. Not only will many of them be in heaven, but many of them will be among the highest-ranked. 
-
-As a final note and reminder, the saying, “*first will be last and last will be first*,” can apply both to believers and unbelievers in all passages of Scripture where our Lord speaks the phrase. Thus, many believers deemed lesser in the church will have higher ranking positions than many of their brothers and sisters in Christ. As for unbelievers, many who thought they stood justified and worthy of eternal life more than others because of whatever attributes and good works they had will end up condemned. 
-
-{{% scripture p="Matthew 7:21-23  (NASB)" %}} 
-
-**21** “Not everyone who says to Me, ‘Lord, Lord,’ will enter the kingdom of heaven, but the one who does the will of My Father who is in heaven *will enter*. **22** Many will say to Me on that day, ‘Lord, Lord, did we not prophesy in Your name, and in Your name cast out demons, and in Your name perform many miracles?’ **23** And then I will declare to them, ‘I never knew you; leave Me, you who practice lawlessness.’                      
-
-{{% /scripture %}}   
-
-
-
-## **14. The Unfruitful Fig Tree - Luke 13:6-9** 
+## **12. The Unfruitful Fig Tree - Luke 13:6-9** 
 
 {{% scripture p="Luke 13:6-9  (NASB 1995)" %}} 
 
@@ -549,11 +495,11 @@ As a final note and reminder, the saying, “*first will be last and last will b
 
 {{% /scripture %}}   
 
-We must examine this parable in light of verses 1-5 before it. Just as how those killed by the falling tower could not escape or avoid their fate, so Israel will not be able to prevent her future judgment and refinement, especially since they will continue to harden their hearts until Christ’s return. Therefore, our Lord warns His people not to think that just because they have more time means judgment is no longer coming. The people killed by Pilate and those who died in the tower incident were no more deserving of their fate than Israel will be (**Luke 13:1-5**). Jesus’s words look forward to the destruction of Jerusalem in 70 AD (**Mark 13:1-2**) and to the distant future when Israel suffers mistreatment at the hands of the antichrist (**Revelation 12**). 
+We must examine this parable in light of verses 1-5 before it. Just as how those killed by the falling tower could not escape or avoid their fate, so Israel will not be able to prevent her future judgment and refinement, especially since they will continue to harden their hearts until and the tribulation and Christ’s return. Therefore, our Lord warns His people not to think that just because they have more time means judgment is no longer coming. The people killed by Pilate and those who died in the tower incident were no more deserving of their fate than Israel will be (**Luke 13:1-5**). Jesus’s words look forward to the destruction of Jerusalem in 70 AD (**Mark 13:1-2**) and to the distant future when Israel suffers mistreatment at the hands of the antichrist (**Revelation 12**). 
 
-The unfruitful fig tree represents Israel, which rejected the Messiah at the time of His ministry and were thus unproductive. Israel had been in a deplorable state for a very long time as well, long before Jesus came on the scene. The Old Testament contains so many instances of apostasy in the history of the nation so that there seems to be little consistency. This doesn’t mean that Israel was never fruitful at all (they had their times) or that there weren’t great believers (there most certainly were). Even in Jesus’s day, there existed a remnant of faithful followers. But most in the nation were obstinate and refused to “recognize” their time of visitation. To put it this way, this tree wasn’t entirely fruitless as much as that it just didn’t produce nearly as much as it could/should have. You could think of an apple tree that should have fruit all over it’s branches but only contains about three or four. The question that remains, “Is it worth keeping?” 
+The unfruitful fig tree represents Israel, which rejected the Messiah at the time of His ministry and were thus unproductive. Israel had been in a deplorable state for a very long time as well, long before Jesus came on the scene. The Old Testament contains so many instances of apostasy in the history of the nation so that there seems to be little consistency. This doesn’t mean that Israel was never fruitful at all (they had their times) or that there weren’t great believers (there most certainly were). Even in Jesus’s day, there existed a remnant of faithful followers. But most in the nation were obstinate and refused to “recognize” their time of visitation. To put it this way, this tree wasn’t entirely fruitless as much as that it just didn’t produce nearly as much as it could/should have because most of the Jews (not all) were unbelievers. You could think of an apple tree that should have fruit all over it’s branches but only contains about three or four. The question that remains, “Is it worth keeping?” 
 
-To continue, the tree can also represent individual believers of every age as well. The vineyard owner symbolizes God the Father, while the vineyard keeper represents the Son. Christ came to die for the sins of humanity and thus gave man more time to repent and believe in Himself. His death on the cross made repentance and reconciliation possible. God still had to purchase our salvation for us through the sacrifice of His Son to ransom us from death with the payment of His blood. Yet despite having even more time till Christ’s final return, most Jews will not accept Jesus as the Son of God. 
+To continue, the tree can also represent individual believers of every age as well. The vineyard owner symbolizes God the Father, while the vineyard keeper represents the Son. Christ came to die for the sins of humanity and gave man more time to repent and believe in Himself. His death on the cross made repentance and reconciliation possible. God still had to purchase our salvation for us through the sacrifice of His Son to ransom us from death with the payment of His blood. Yet despite having even more time till Christ’s final return, most Jews (and, sadly, Gentiles) will not accept Jesus as the Son of God. 
 
 {{% scripture p="Hebrews 11:6 (ESV)" %}} 
 
@@ -561,7 +507,7 @@ To continue, the tree can also represent individual believers of every age as we
 
 {{% /scripture %}}   
 
-However, it is crucial to note that this unproductivity from Israel will not stay deplorable forever. Even though most Jews will still reject Christ before and after His return, large numbers of them (as never seen before) will call on the name of the Lord at His return.  Indeed, many Jews will respond to the ministry of Moses, Elijah, and the evangelism of the 144,000 during the tribulation. In addition, many of those who reject this ministry while denying the beast’s false crusade of messiahship will call upon the Lord at His return when they look upon Him whom they have pierced. And thus, much of Israel will come to their Savior and produce for Him during the millennium. For more insight into the massive waves of Jews flooding into the kingdom at Christ’s return, the reader is encouraged to read through **Romans 11**, some of which we will quote here. 
+However, it is crucial to note that this unproductivity from Israel will not stay deplorable forever. Even though most Jews will still reject Christ before and after His return, large numbers of them (as never seen before) will call on the name of the Lord at His return. Indeed, many Jews will respond to the ministry of Moses, Elijah, and the evangelism of the 144,000 during the tribulation. Additionally, many of those who reject this ministry while denying the beast’s false crusade of messiahship will call upon the Lord at His return when they look upon Him whom they have pierced. And thus, much of Israel will come to their Savior and produce for Him during the millennium. For more insight into the massive waves of Jews flooding into the kingdom at Christ’s return, I encourage the reader to read through **Romans 11**, some of which we will quote here. 
 
 {{% scripture p="Romans 11:25-27 (NIV)" %}} 
 
@@ -606,9 +552,7 @@ But the parable’s central theme is the patience and graciousness of God, who i
 
 {{% /scripture %}}   
 
-
-
-## **15. The Master’s Return - Luke 12:35-40** 
+## **13. The Master’s Return - Luke 12:35-40** 
 
 {{% scripture p="Luke 12:35-40  (NASB 1995)" %}} 
 
@@ -616,7 +560,7 @@ But the parable’s central theme is the patience and graciousness of God, who i
 
 {{% /scripture %}}   
 
-This parable is very similar to the parable of the wise and foolish virgins. The only way a believer can be ready for Christ’s return is to continue growing in the faith. A key to enduring through this life with faith intact (specifically through the tribulation) is to build it up, represented in the parable of the wise and foolish virgins as packing extra oil to see them through the darkness of the night which prophetically speaks of the dark period of the tribulation. Being ready in this context is being found with faith still alive at Christ’s return (**Luke 18:7-8**). 
+This parable is very similar to the parable of the wise and foolish virgins. The only way a believer (this parable applies to all believers of every period but especially to those alive during the tribulation) can be ready for Christ’s return is to continue growing in the faith. A key to enduring through this life with faith intact (specifically through the tribulation) is to build it up, represented in the parable of the wise and foolish virgins as packing extra oil to see them through the darkness of the night which prophetically speaks of the dark period of the tribulation. Being ready in this context is being found with faith still alive at Christ’s return (**Luke 18:7-8**). 
 
 To build up faith, believers need to grow spiritually in the truth of the Word. The more we study and understand Scripture, the closer we grow to God, and the greater our faith becomes to overcome whatever tests we might have to undergo. We may not know the specific time of our Savior’s return, but much of that is a big test of our faith meant to challenge and encourage us to be ready at all times. All believers must live as if they were about to go through the tribulation today, for the Lord could bring it about at any time. We must strive to live in the present, day by day, moment by moment. We must not worry about the past or the future. Testing will come when it comes; Christ will come when He comes. Our job is to go about the task our Lord calls us to every day so that whenever He does come back, we will be ready for Him to receive and transform us. 
 
@@ -628,7 +572,7 @@ To build up faith, believers need to grow spiritually in the truth of the Word. 
 
 
 
-## **16. The Rich Fool - Luke 12:15-21** 
+## **14. The Rich Fool - Luke 12:15-21** 
 
 {{% scripture p="Luke 12:15-21  (NASB 1995)" %}} 
 
@@ -644,7 +588,7 @@ This answer shows that if Jesus really is worthy to be judge and arbiter over Is
 
 {{% /quote %}}
 
-Throughout the book of Luke, Jesus used the Scribes and Pharisees as examples of how not to handle wealth, and the disciples were to avoid their behavior. Luke chapter twelve shows us how to manage wealth and how not to. The verses after our parable from verse 22 reveal the discourse between Jesus and His disciples on living life without fear of one’s possessions.  The interpretation of this parable is that believers are to trust in God alone and not wealth and riches. No amount or manner of worldly possessions can ransom the life of a human being. Not only that, but no person knows when and how their time will come about, for it could happen at any moment in various ways. It profits no one to gain the world, only to spend never-ending torment in the lake of fire. (**Mark 8:34-38**). 
+Throughout the book of Luke, Jesus used the Scribes and Pharisees as examples of how not to handle wealth, and the disciples were to avoid their behavior. Luke chapter twelve shows us how to manage wealth and how not to. The verses after our parable from verse twenty-two and on reveal the discourse between Jesus and His disciples on living life without fear of one’s possessions.  The interpretation of this parable is that believers are to trust in God alone and not wealth and riches. No amount or manner of worldly possessions can ransom the life of a human being. Not only that, but no person knows when and how their time will come about, for it could happen at any moment in various ways. It profits no one to gain the world, only to spend never-ending torment in the lake of fire. (**Mark 8:34-38**). 
 
 {{% scripture p="1 Timothy 6:6-10  (ESV)" %}} 
 
@@ -652,17 +596,19 @@ Throughout the book of Luke, Jesus used the Scribes and Pharisees as examples of
 
 {{% /scripture %}}   
 
-Not only can great riches keep a person from coming to Christ, but it can endanger a believer’s salvation as well. If a Christian decides to put money over God, then they have fallen into idolatry. This life we live is all about Jesus Christ, not ourselves. We are not to horde away wealth while disregarding our relationship with God and other’s needs. Christ comes first, and He will provide for us. How can we be rich toward God and others when we are more concerned for ourselves? 
+Not only can great riches keep a person from coming to Christ, but it can endanger their salvation as well. If anyone decides to put money over God, then they have fallen into idolatry. This life we live is all about Jesus Christ, not ourselves. We are not to horde away wealth while disregarding our relationship with God and other’s needs. Christ comes first, and He will provide for us. How can we be rich toward God and others when we are more concerned for ourselves? 
 
 
 
-## **17. The Friend in Need - Luke 11:5-8** 
+## **15. The Friend in Need - Luke 11:5-8** 
 
 {{% scripture p="Luke 11:5-8  (NASB 1995)" %}} 
 
 **5** Then He said to them, “Suppose one of you has a friend, and goes to him at midnight and says to him, ‘Friend, lend me three loaves; **6** for a friend of mine has come to me from a journey, and I have nothing to set before him’; **7** and from inside he answers and says, ‘Do not bother me; the door has already been shut and my children and I are in bed; I cannot get up and give you *anything*.’ **8** I tell you, even though he will not get up and give him *anything* because he is his friend, yet because of his persistence he will get up and give him as much as he needs.                                                  
 
 {{% /scripture %}}   
+
+This parable in Luke comes right after the section where Jesus told His disciples how to pray (verses one to four) to encourage them (and us today) to ask anything in His name that is in accordance with His will for us to have. God will not begrudge us of our spiritual and physical needs (hence, our present parable).
 
 Pertaining most to this parable is that God will grant us spiritual help and deliverance in our times of greatest need, all times to be more precise. However, whenever, and wherever are all God’s decisions. But help will come! Unlike the unjust judge and the other reluctant friend, our Lord is fair and loving and will not turn down our requests (as long as they are within His will). God is more than eager to give us good things than anyone! That is the point of this parable! Our Lord is not unmerciful and uncaring, but just, loving, and compassionate so that no mere human can compare to Him. This parable uses an extreme (the sleeping friend as polar opposites of our Savior) to boost our faith in God. Suppose two selfish and reluctant people (individuals most unlikely to lend a helping hand) finally help those in need (albeit with impure motives). How much more likely will God, who will not withhold anything good from His own, provide for us? 
 
@@ -674,7 +620,7 @@ Pertaining most to this parable is that God will grant us spiritual help and del
 
 In the following context (**Luke 11:9-13**), Jesus continues the dialogue with His disciples on demonstrating their faith through prayer. It is worth mentioning that asking and seeking both go hand in hand because one cannot just search for truth with the intellect but must diligently seek with the heart. Any believer can study the Word of God intellectually, but how much they understand and apply depends on how they put their heart into their work. We must not “seek” only but must “ask” simultaneously. The Holy Spirit will guide and control our thoughts and minds if we submit to Him, but we must search with humility and an open heart ready to receive the truth. By asking God to help us understand what we are reading, we demonstrate the faith, humility, and complete reliance on Him that we should. But this concept doesn’t mean just uttering empty words, but they must be heart-felt; they must be spoken in faith with a zealous desire to discover the truth one is after. 
 
-One big lesson we can learn from this parable not found in our primary interpretation is that faith demonstrated through prayer should not be dependent on time and circumstances. The man went to his friend at night while he and his children were in bed. Yet, that did not stop the man from going to his friend for help. If this man received support from his friend in such circumstances, how can we not expect God to give us aid during what may appear to be “impossible circumstances?” We can go to God in prayer at any time and place, regardless of the conditions around us. As believers, we aren’t stuck in a “box” but stand in a “wide-open field” from where we can freely cry out to God at all times. Even if other people refuse and fail us, God will never let us down. If there is something He knows we need, He will give it to us in His own good time. And we must remember that His timing is always perfect. Just like the man in our parable, we believers may have to wait for God to answer our prayer. But rest assured, our Lord always wants to give us things He knows we need. He will never refuse our requests or provide them to us begrudgingly as the friend in our parable did at first but will hear them out and grant them according to His will. Our part is to trust in Him that He has heard and is perfectly capable of supplying our needs.  
+One big lesson we can learn from this parable not found in our primary interpretation is that faith demonstrated through prayer should not be dependent on time and circumstances. The man went to his friend at night while he and his children were in bed. Yet, that did not stop the man from going to his friend for help. If this man received support from his friend in such circumstances, how can we not expect God to give us aid during what may appear to be “impossible situations?” We can go to God in prayer at any time and place, regardless of the conditions around us. As believers, we aren’t stuck in a “box” but stand in a “wide-open field” from where we can freely cry out to God at all times. Even if other people refuse and fail us, God will never let us down. If there is something He knows we need, He will give it to us in His own good time. And we must remember that His timing is always perfect. Just like the man in our parable, we believers may have to wait for God to answer our prayer. But rest assured, our Lord always wants to give us things He knows we need. He will never refuse our requests or provide them to us begrudgingly as the friend in our parable did at first but will hear them out and grant them according to His will. Our part is to trust in Him that He has heard and is perfectly capable of supplying our needs.  
 
 {{% scripture p="Matthew 7:7-11 (NIV)" %}} 
 
@@ -682,9 +628,7 @@ One big lesson we can learn from this parable not found in our primary interpret
 
 {{% /scripture %}}   
 
-
-
-## **18. The Good Samaritan - Luke 10:25-32**     
+## **16. The Good Samaritan - Luke 10:25-32**     
 
  {{% scripture p="Luke 10:25-37 (NASB 1995)" %}}                                         
 
@@ -702,7 +646,7 @@ In the context of our parable, the man asks Jesus what he must do to inherit ete
 
 We conclude that our “neighbor” refers to anybody and everybody we encounter, not just some or a few. For what profit is there if we love only those who love us but hate those who hate us? That is a cheap and superficial love that expects something back in return, but that is not how it works (**Luke 6:32-36, Matthew 5:46**). Even though Jews and Samaritans were enemies, this fact did not stop the good man in our parable from helping his fellow man, a Jew. 
 
-But the question of “who is my neighbor” should come from the injured Jew. Would a Jew be willing to receive help from a Samaritan? Would he be willing to accept aid from someone He disliked? The question now applies to the Lawyer and what he thought about Jesus. Would He put His faith in Christ by receiving someone He didn’t appear to love? Jesus was trying to be a neighbor to the people of Israel (and all the world). He would eventually die on a cross, so what would people think of Him then? This lawyer did not realize that, like the injured man in our parable, he too needed help and that Jesus was trying to give it to Him. The question is, was he willing to receive it? The context does not tell us. 
+But the question of “who is my neighbor” should come from the injured Jew. Would a Jew be willing to receive help from a Samaritan? Would he be willing to accept aid from someone He disliked? The question now applies to the Lawyer and what he thought about Jesus. Would He put His faith in Christ by receiving someone He didn’t appear to love? Jesus was trying to be a neighbor to the people of Israel (and all the world). He would eventually die on a cross, so what would people think of Him then? This lawyer did not realize that, like the injured man in our parable, he too needed help and that Jesus was trying to give it to Him. The question is, was he willing to receive it? The context doesn't tell us. 
 
 {{% scripture p="Luke 6:27-36 (ESV)" %}}  
 
@@ -716,11 +660,11 @@ This parable is (in a way) linked with **Luke 10:38-42,** when Jesus visits the 
 
 
 
-## **19. The Moneylender - Luke 7:36-50**
+## **17. The Moneylender - Luke 7:36-50**
 
 See link: **Luke 7:36-50**
 
-The man to whom Jesus told this parable was a pharisee named Simon, who was disgusted by the fact that Jesus was allowing a sinful woman to touch Him and associate with Him. But Jesus then tells the parable above to show that because she was an even greater sinner than Simon himself, she was even more grateful to be forgiven by Christ. Therefore, the woman demonstrated more love by pouring oil on Jesus’ feet, kissing them, and wiping them with her hair. But Simon never did any of these things for Jesus, proving that he was not as grateful as the woman who had just received Jesus as her Savior before demonstrating her gratefulness. Instead, she received forgiveness for a debt she could not repay, a life filled with sin stacked as high as a mountain. And for this reason, she was all the more grateful. 
+The man to whom Jesus told this parable was a Pharisee named Simon, who was disgusted by the fact that Jesus was allowing a sinful woman to touch and associate with Him. But Jesus then tells the parable above to show that because she was an even greater sinner than Simon himself, she was even more grateful to be forgiven by Christ. Therefore, the woman demonstrated more love by pouring oil on Jesus’ feet, kissing them, and wiping them with her hair. But Simon never did any of these things for Jesus, proving that he was not as grateful as the woman who had just received Jesus as her Savior before demonstrating her gratefulness. Instead, she received forgiveness for a debt she could not repay, a life filled with sin stacked as high as a mountain. And for this reason, she was all the more grateful. 
 
 Simon was a self-righteous unbeliever, as shown by his reaction *“If this man were a prophet He would know who and what sort of person this woman is who is touching Him, that she is a sinner.”* By this statement, he implies that Jesus did not know the women’s situation, her lifestyle, and her “track record.” “If this man is a prophet (and Jesus was but even more than that), He would know the woman who was touching Him. But this Pharisee rejected Christ’s divine knowledge and thus God Himself. 
 
@@ -740,7 +684,7 @@ The woman’s debt was forgiven because of her faith, meaning that her gratitude
 
 
 
-## 20. The Pearl of Great Price - Matthew 13:45-46 
+## 18. The Pearl of Great Price - Matthew 13:45-46 
 
 {{% scripture p="Matthew 13:45-46 (NASB 1995)" %}}  
 
@@ -748,7 +692,7 @@ The woman’s debt was forgiven because of her faith, meaning that her gratitude
 
 {{% /scripture %}}   
 
-Nothing compares to God’s kingdom and the treasures within it. Nothing compares with God Himself! This fact is especially true for a person who has just come to Christ! Indeed, finding the path of salvation and sticking to it faithfully to the very end is like finding a pearl of great price because nothing in this world is worth anything compared to it. And for those who find the narrow and difficult way, they are willing to sacrifice anything to reach the heavenly kingdom safely. Entering is challenging, for Scripture says the way is *narrow and difficult, and few are those who find it*. The fact that the majority of all people since Adam who has and will ever live will end up separated from God forever confirms this. 
+Nothing compares to God’s kingdom and the treasures within it. Nothing compares with God Himself! This fact is especially true for a person who has just come to Christ! Indeed, finding the path of salvation and sticking to it faithfully to the very end is like finding a pearl of great price because nothing in this world is worth anything compared to it. And for those who find the narrow and difficult way, they are willing to sacrifice anything to reach the heavenly kingdom safely. 
 
 {{% scripture p="Matthew 7:13-14 (ESV)" %}}  
 
@@ -788,7 +732,7 @@ Our passage tells us, *“and upon finding one pearl of great value, he went and
 
 
 
-## **21. The Hidden Treasure - Matthew 13:44** 
+## **19. The Hidden Treasure - Matthew 13:44** 
 
 {{% scripture p="Matthew 13:44 (NASB 1995)" %}}  
 
@@ -808,7 +752,7 @@ Those who give up on their faith later in life prove they did not value what the
 
 
 
-## **22. Leaven in the Dough - Matthew 13:33; Luke 13:20-21** 
+## **20. Leaven in the Dough - Matthew 13:33; Luke 13:20-21** 
 
 {{% scripture p="Luke 13:20-21 (NASB 1995)" %}}  
 
