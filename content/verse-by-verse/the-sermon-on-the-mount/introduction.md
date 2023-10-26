@@ -26,3 +26,11 @@ Matthew (inspired by the Holy Spirit) is the writer of these three chapters and 
 Jesus addressed His words in Matthew chapters five to seven primarily to His disciples (all the believers present) and the unbelievers among the crowds that were listening. Most in Israel were supposed to be believers but were not in fact so that our Lord's words fell on deaf ears for those uninterested in accepting their Messiah (most in Israel missed the time of their visitation). 
 
 The sermon’s primary theme and purpose was our Lord offering the kingdom to His fellow countrymen by showing them their need for a Savior so that they would stop trusting in themselves. Christ's words were a call to repentance and concentrate on how the Jewish nation of Israel was to live like members of God’s kingdom to prepare them for the new covenant way of life (the transition from the old to the new). That doesn’t mean all the rituals mentioned therein were to continue after His death on the cross but that the principles were for everyone (including us today). The sermon on the mount is a call of repentance  to righteous living for believers and a call to repentance for salvation for unbelievers. 
+
+Regarding the "sermons" theme and purpose, Dr. Luginbill of Ichthys.com says (private email between him and myself)... 
+
+{{% /quote %}}  
+
+*There are a great many things in the beatitudes, the "sermon on the mount", which can be "vexing" unless on has the proper dispensational perspective, not to toss out what the Lord says (as hyper-dispensationalism often wants to do), but to understand the context. Our Lord was speaking to a Jewish audience under the Law to whom the Messiah, their King, had now come. Under His administration, everything would be perfect and His subjects were expected to comport themselves accordingly. Part of the approach also is that since this is the Law perspective -- rightly understood and not as the Pharisees and later legalists preached it -- the true purpose of the Law has to be taken into account: it is meant to lead us to Christ by convicting us all of sin (Rom.3:23; Gal.3:24; etc.).*
+
+{{% /quote %}}
