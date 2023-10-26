@@ -14,7 +14,7 @@ summary: Why did Jesus bring up these words? What is the meaning behind the issu
 
 Dr. Luginbill of Ichthys touches on this and many other teachings on the sermon on the mount well through what he says below (quote from private email between him and myself)... 
 
-{{% /quote %}}
+{{% quote text="Luginbill" src="Dr. Luginbill" %}}
 
 In terms of the interpretation, we ARE damned for a single sin . . . if we weren't saved by the blood of Christ. This is our Lord's point here and many other places, challenging the assumptions of the self-righteous who assumed that since they were "following the Law" as they redefined it they were worthy of salvation; in fact of course the purpose of the Law is to demonstrate human sinfulness and the need for a Savior. No one hearing this who is the least bit honest with him/herself will think that they are innocent of the charges here. We've all said things we regret. Conclusion? We are all damned . . . absent faith in the Messiah, the One who was standing before these people, challenging their false sense of security from "following the Law" as it was being erroneously interpreted. 
 

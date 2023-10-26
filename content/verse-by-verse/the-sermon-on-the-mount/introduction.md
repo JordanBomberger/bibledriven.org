@@ -29,7 +29,7 @@ The sermon’s primary theme and purpose was our Lord offering the kingdom to Hi
 
 Regarding the "sermons" theme and purpose, Dr. Luginbill of Ichthys.com says (private email between him and myself)... 
 
-{{% /quote %}}  
+{{% quote text="Luginbill" src="Dr. Luginbill" %}}  
 
 *There are a great many things in the beatitudes, the "sermon on the mount", which can be "vexing" unless on has the proper dispensational perspective, not to toss out what the Lord says (as hyper-dispensationalism often wants to do), but to understand the context. Our Lord was speaking to a Jewish audience under the Law to whom the Messiah, their King, had now come. Under His administration, everything would be perfect and His subjects were expected to comport themselves accordingly. Part of the approach also is that since this is the Law perspective -- rightly understood and not as the Pharisees and later legalists preached it -- the true purpose of the Law has to be taken into account: it is meant to lead us to Christ by convicting us all of sin (Rom.3:23; Gal.3:24; etc.).*
 
