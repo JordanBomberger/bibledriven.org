@@ -5,6 +5,8 @@ summary: This study will answer the question of whether most believers can and s
 
 ## Matthew 19:9-12 
 
+This study will answer the question of whether most believers can and should remain celibate (single) and whether it is always the better, superior choice over marriage. We will base our examination on **Matthew 19:9-12** and **1 Corinthians 7**. 
+
 {{% scripture p="Matthew 19:9-12 (NIV)" %}} 
 
 **9** I tell you that anyone who divorces his wife, except for sexual immorality, and marries another woman commits adultery.”**10** The disciples said to him, “If this is the situation between a husband and wife, it is better not to marry.”**11** Jesus replied, “Not everyone can accept this word, but only those to whom it has been given. **12** For there are eunuchs who were born that way, and there are eunuchs who have been made eunuchs by others—and there are those who choose to live like eunuchs for the sake of the kingdom of heaven. The one who can accept this should accept it.”
