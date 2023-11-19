@@ -55,10 +55,6 @@ Another teaching ministry I highly recommend, written by a good friend and peer 
 
 - [Amazon](https://www.amazon.com/History-Israel-Bronze-through-Jewish/dp/1433643189)
 
-#### “Manners and Customs in Bible Times” - By Ralph Gower
-
-- [Amazon](https://www.amazon.com/New-Manners-Customs-Bible-Times/dp/080245965X)
-
 ### Commentaries, Dictionaries, and Surveys
 
 #### “Unger’s Commentary on the Old Testament” - By Merrill F. Unger
@@ -94,23 +90,5 @@ Another teaching ministry I highly recommend, written by a good friend and peer 
 
 Vocabulary for Greek and other classical languages  
 
-## Resources Specifically for Teachers
 
-### “Commentaries for Biblical Expositors” - An Annotated Bibliography of Selected Works - By Dr. Jim Rosscup
-
-- [Logos](https://www.logos.com/product/6259/commentaries-for-biblical-expositors) 
-
-### “The Minister’s Library” - By Cyril J. Barber
-
-- [Amazon](https://www.amazon.com/Ministers-Library-Cyril-J-Barber/dp/0802452965)
-
-## Closing
-
-This list is far from comprehensive.
-
-{{% note %}}
-
-You may search online for more information regarding works mentioned in the above bibliography
-
-{{% /note %}}
 
