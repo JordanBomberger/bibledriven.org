@@ -12,13 +12,13 @@ Political involvement is not the best idea. The question is not whether it is ri
 
 {{% note  %}} 
 
-Although I am highly skeptical God calls any believer to channel their spiritual gifts and ministries through politics, I am not dogmatic. It is possible that a small few may be called upon to do so. But what we can say with certainty is that **most** believers would do well to stay out of politics.  
+Although I am uncertain God calls any believer to channel their spiritual gifts and ministries through politics, I am not dogmatic. It is possible that a small few may be called upon to do so. But what we can say with certainty is that **most** believers would do well to stay out of politics.  
 
 {{%/ note  %}} 
 
 ## What does the Bible say? What should our goal be?
 
-There is no verse that encourages believers to involve themselves in such secular affairs as politics. Instead, Scripture commands us to submit to the government, pay taxes, pray for our leaders (**1 Timothy 2:1-2**), and obey the king (**Romans 13:1-7; 1 Peter 2:13-27**). Military service is also a good thing to do but not required. It is fine and good for believers to give back to their country in some positive ways. 
+There is no verse in the New Testament that encourages believers to involve themselves in such secular affairs as politics. Instead, Scripture commands us to submit to the government, pay taxes, pray for our leaders (**1 Timothy 2:1-2**), and obey the king (**Romans 13:1-7; 1 Peter 2:13-27**). Military service is also a good thing to do but not required. It is fine and good for believers to give back to their country in some positive ways. 
 
 Our goal as believers is to advance the kingdom through our spiritual service to Christ (**Matthew 28:19-20**). Those things are what Christians should focus on at all times. It is not our job to create heaven on earth (nor could we, even if we all put our maximum effort into it). Our task is not to “*make the world a better place*” because that will never happen. Society will only continue getting worse before and during the tribulation, just before Christ’s second advent. During our Lord’s first advent, the Jews expected a conquering Messiah to liberate them from the Romans through political action. Not only did Jesus not come for that purpose, but He discouraged it because following Christ entails suffering and service, not democracy and political victory.
 
