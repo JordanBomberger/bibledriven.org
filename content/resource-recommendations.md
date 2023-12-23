@@ -90,5 +90,9 @@ Another teaching ministry I highly recommend, written by a good friend and peer 
 
 Vocabulary for Greek and other classical languages  
 
+https://www.blueletterbible.org/ 
+
+Blue Letter Bible- Helpful for intext study in the original languages. Very helpful for those who don't know Greek and Hebrew. 
+
 
 
