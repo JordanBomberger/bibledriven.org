@@ -1,10 +1,8 @@
 ---
-title: Soul Sleep, Universalism, and Annihilationism
+title: Soul Sleep
 summary: 
-   Here we will debunk the false teachings of soul sleep, universalism, and annihilationism. We will also examine the very big dangers they present.  
+   Here we will debunk the false teachings of soul sleep.   
 ---
-
-Although the subjects of soul sleep, universalism, and annihilationism are somewhat similar, we will address the former separately for clarity’s sake. 
 
 ## **Soul Sleep** 
 
@@ -114,61 +112,5 @@ For we know that if the earthly tent we live in is destroyed, we have a building
 
 Regarding this last passage above, there is no way Paul could have said what He said with full knowledge that He would have to wait until the resurrection to be with Christ. The argument that soul sleep is peaceful and better than suffering on earth doesn’t change the fact that Paul was speaking of going home to be with Christ **immediately**. If he were here in our presence and we asked him about this, what kind of an answer do we honestly think we would receive? 
 
-## **Universalism and Annihilationism** 
 
-There may be variations and differences in universalists' beliefs (we will address annihilationism further below). Regardless of the variations, they are all false. Generally speaking, it is the belief that the lake of fire is not eternal and that God will reconcile all men to Himself. So the reasoning is that all people will believe in Christ and come to be saved. Those who have not put their faith and trust in Jesus Christ will be temporarily punished in Hell or the lake of fire but will eventually be brought to heaven once they have “served their time.” Or so this is a variation of what some adherents to this false teaching may believe. Regardless of what all universalists think and how they wish to style themselves, we will show what the Bible teaches on this very matter. 
-
-Many people do not like the idea that most human beings will suffer eternal torment away from God forever. The typical question they ask is, “how could a loving God allow such a cruel punishment?” But that thinking stems from an unbelieving heart that wishes to paint a bad picture of the Creator, who is fair and just in everything He does. We will not attempt to combat the challenge that God is unfair (time and space do not permit). Our current topic concerns this false idea that all people will be saved. And what a terrible teaching that neutralizes man’s need for a Savior! This blasphemous notion is no better than saying that we technically do not need God (even if some universalists accept that believing in Jesus is something to be encouraged). Little do they realize (or more like stubbornly refuse to acknowledge) that the lake of fire that replaces hell will see no end. 
-
-God created man in response to the Satanic rebellion fostered by Lucifer (now Satan) before the destruction and re-creation of the earth (the Genesis gap). So God created man to replace what was lost (a third of the angelic kind that chose to follow the Devil). The whole point of human existence is to choose either for or against God. But some people do not like the idea of God sending people to the lake of fire. But we know that it isn’t God who forces us how to respond. Instead, every person chooses where they wish to spend eternity because the Lord has graciously endowed us all with the free will to decide which path we want to select. There are no alternatives and no end of life after death (despite what annihilationists wish to believe). 
-
-Nevertheless, the best way to refute such claims as universalism or annihilationism is to examine what the Bible says of the matter. We will attempt to survey some of the most substantial passages that confirm that some (most actually) people will spend eternity away from God (in response to universalism) and, therefore, live on forever (in response to annihilationism). There is not one passage biblical passage that supports either of these beliefs. If they are based on Scripture, then they must be present within it. But such is not the case. Fancy arguments and good rhetoric will not change the truth of this matter. It is common for those who wish to defend lies to use whatever they can to convince and manipulate those they engage with. But the truth needs neither of these two things and remains the same no matter how it is attacked (think of throwing a paper airplane at a brick wall). 
-
-It is hard to imagine anyone can believe the Bible while rejecting the consequences of unbelief (while asserting that all roads lead to heaven in some cases). Why would anyone need to believe in Jesus Christ if they all got a free ticket to heaven? All the warning passages of the Bible would be pointless. A tremendous amount of God’s Word would ultimately be meaningless if all people went to Heaven because the Bible has doctrines, exhortations, encouragements, warnings, and lessons for a reason, not so that we can ignore them! No, these dangerous lies are so obviously wrong that there are so many arguments and passages that can be leveled against them. We will address verses that confirm the obvious below (this list will be far from complete and comprehensive). 
-
-{{% scripture p="2 Thessalonians 1:4-10" %}}  
-
-**4** Therefore, among God’s churches we boast about your perseverance and **faith** in all the persecutions and trials you are enduring.**5 All this is evidence that God’s judgment is right, and as a result you will be counted worthy of the kingdom of God**, for which you are suffering. **6 God is just: He will pay back trouble to those who trouble you** **7** and give relief to you who are troubled, and to us as well. This will happen when the Lord Jesus is revealed from heaven in blazing fire with his powerful angels. **8** He will punish those who do not know God and do not obey the gospel of our Lord Jesus. **9 They will be punished with everlasting destruction and shut out from the presence of the Lord and from the glory of his might** **10** on the day he comes to be glorified in his holy people and to be marveled at among all those who have believed. This includes you, because you believed our testimony to you.                                                                                    
-
-{{% /scripture %}}    
-
-Entrance into the eternal kingdom requires us to be worthy of it through faith (an opportunity only made possible by the blood of the Lamb). But although Christ set us free from the power of sin and death by granting us a way out of it through His sacrifice on the cross, we must still **choose** to accept this gracious offer through **faith**. There is no further necessity to prove that faith is required because that is written everywhere in the Bible, from Genesis to Revelation. This passage, in particular (above), could not be more straightforward: eternal punishment awaits those who refuse God’s offer of redemption. And our passage tells us that God is **just,** meaning that He will repay all men according to their works (whether done in belief or unbelief). What else could everlasting destruction mean? It means what it means whether read in Greek or English. This is not a textual, grammatical, or linguistic issue; these passages could not be more clear. 
-
-{{% scripture p="Matthew 25:41 (ESV)" %}}  
-
-**41** “Then he will say to those on his left, ‘Depart from me, you cursed, into the eternal fire prepared for the devil and his angels.                                         
-
-{{% /scripture %}}    
-
-Matthew 25:41 is a section taken from the parable of the sheep and the goats. Like so many other verses that reference this topic, it too shows us that the lake of fire is eternal since this parable describes the great white throne judgment for unbelievers. 
-
-{{% scripture p="Revelation 14:9-12 (ESV)" %}}  
-
-**9** And another angel, a third, followed them, saying with a loud voice, “If anyone worships the beast and its image and receives a mark on his forehead or on his hand, **10** he also will drink the wine of God's wrath, poured full strength into the cup of his anger, and he will be tormented with fire and sulfur in the presence of the holy angels and in the presence of the Lamb. **11 And the smoke of their torment goes up forever and ever, and they have no rest, day or night, these worshipers of the beast and its image, and whoever receives the mark of its name**.”**12** Here is a call for the endurance of the saints, those who keep the commandments of God and their **faith** in Jesus.                                                                                                             
-
-{{% /scripture %}}    
-
-The smoke, flames, and all the other terrible elements of the lake of fire will continue forever, showing that it will be the eternal abode for all unbelieving humanity. What else could forever and ever mean? Therefore, no universalism or annihilationism is present in this passage. 
-
-{{% scripture p="Daniel 12:1-2 (ESV)" %}}  
-
-“At that time shall arise Michael, the great prince who has charge of your people. And there shall be a time of trouble, such as never has been since there was a nation till that time. But at that time your people shall be delivered, everyone whose name shall be found written in the book. **2** And many of those who sleep in the dust of the earth shall awake, **some to everlasting life**, **and some to shame and everlasting contempt.**                                                                          
-
-{{% /scripture %}}    
-
-We know that the New Heaven and the New Earth will be eternal, a word the passage above uses (everlasting in this case). So why would the lake of fire only be temporary when the same word used to describe eternity is present for “contempt.” So everlasting means the same thing in both cases. 
-
-{{% scripture p="Matthew 26:24 (ESV)" %}}  
-
-**24** The Son of Man goes as it is written of him, but woe to that man by whom the Son of Man is betrayed! It would have been better for that man if he had not been born.” 
-
-{{% /scripture %}}    
-
-Matthew 26:24 wouldn’t make any sense if annihilationism and universalism were correct. Why would it have been better for Judas Iscariot never to have been born if he was only going to end up spending eternity with God (universalism) or being completely annihilated after death (annihilationism)? It really would have been better never to have seen the light of day if Hell was all that awaited said person.  
-
-{{% scripture p="Mark 8:36-38" %}}  
-
-**36** What good is it for someone to gain the whole world, yet forfeit their soul? **37** Or what can anyone give in exchange for their soul? **38** If anyone is ashamed of me and my words in this adulterous and sinful generation, the Son of Man will be ashamed of them when he comes in his Father’s glory with the holy angels.”                     
-
-{{% /scripture %}}    
 
