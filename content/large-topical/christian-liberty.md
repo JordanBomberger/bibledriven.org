@@ -1,6 +1,6 @@
 ---
 title: Christian Liberty
-weight: 700
+weight: 800
 summary:
    A brief non-comprehensive study pushing back against legalism to demonstrate the freedom believers have in Jesus Christ. But there are other things to consider as well. It is best to avoid extremes of saying everything is a sin to taking certain activities too far. There are many areas of application that will require discernment. 
 ---
