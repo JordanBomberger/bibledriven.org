@@ -14,4 +14,4 @@ Subscribe to updates according to content type:
 
 - [Large Topical Studies](/large-topical/index.xml)
 - [Small Topical Studies](/small-topical/index.xml)
-- [Verse-by-verse Studies](/verse-by-verse/index.xml)
+- [Notes Through the Epistles and Other New Testament Books](/notes-through-the-epistles-and-other-new-testament-books/index.xml)

@@ -1,7 +1,9 @@
 ---
-title: Divorce- Matthew 5:31-32 
+title: Divorce- Matthew 5:31-32
 summary: A commonly misunderstood topic, divorce is something that must be explained in light of what the Bible has to say about marriage relationships. We will unravel these issues on this page. 
 ---
+
+## **Matthew 5:31-32** 
 
 {{% scripture p="Matthew 5:31-32 (NIV)" %}} 
 
@@ -61,4 +63,5 @@ Some cultic church groups take our Lord’s words so far as to say that a person
 
 {{% /note %}} 
 
-​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          On the other hand, those brothers and sisters who don't repent of their past or present behavior (they refuse to see anything wrong with their past and present conduct, so they don’t acknowledge their sins to God and continue to live in them) must be excluded from the fellowship so that the lesson may sink in to bring them to repentance (**1 Corinthians 5**). And as our passage below shows, there is also the danger of others falling under the said influence. If they are unwilling to change, then only prayer in the hope of divine intervention is all there is left for the rest of the assembly to do.  
+​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               On the other hand, those brothers and sisters who don't repent of their past or present behavior (they refuse to see anything wrong with their past and present conduct, so they don’t acknowledge their sins to God and continue to live in them) must be excluded from the fellowship so that the lesson may sink in to bring them to repentance (**1 Corinthians 5**). And as our passage below shows, there is also the danger of others falling under the said influence. If they are unwilling to change, then only prayer in the hope of divine intervention is all there is left for the rest of the assembly to do.  
+

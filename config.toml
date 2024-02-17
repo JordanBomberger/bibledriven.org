@@ -63,11 +63,11 @@ paginate = 10
     identifier = "small-topical"
     url = "/small-topical/"
   [[menu.content]]
-    name = "Verse-by-verse"
+    name = "NT Notes"
     pre = "<i class='fas fa-file fa-fw'></i>"
-    weight = 2
-    identifier = "verse-by-verse"
-    url = "/verse-by-verse/"
+    weight = 3
+    identifier = "notes-through-the-epistles-and-other-new-testament-books"
+    url = "/notes-through-the-epistles-and-other-new-testament-books/"
 
 
   [[menu.community]]
