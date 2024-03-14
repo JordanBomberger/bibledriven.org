@@ -92,7 +92,7 @@ The most important (and only) source of information in discovering the gospel is
 
 ### **1.1 Faith in the Person and Work of Jesus Christ** 
 
-A person receives the Lord by believing In Jesus Christ (which is the same as believing in His person and work). That is the gospel, plain and simple. Our Lord purchased this salvation with His precious blood by taking the penalty of our sins on Himself for us to receive His free gift of eternal life, which cannot be earned or worked for in any way. In doing this, the Lord Jesus rescued us from eternal death. For all who accept this most gracious offer through faith, God will welcome them into His family. 
+A person receives the Lord by believing In Jesus Christ (which is the same as believing in or accepting His person and work). That is the gospel, plain and simple. Our Lord purchased this salvation with His precious blood by taking the penalty of our sins on Himself for us to receive His free gift of eternal life, which cannot be earned or worked for in any way. In doing this, the Lord Jesus rescued us from eternal death. For all who accept this most gracious offer through faith, God will welcome them into His family. 
 
 {{% scripture p="Acts 16:30-31 (NKJV)" %}} 
 
@@ -124,7 +124,7 @@ A person receives the Lord by believing In Jesus Christ (which is the same as be
 
 {{% /scripture %}} 
 
-This belief in Jesus Christ is not merely an intellectual appreciation but complete trust and commitment. True saving faith is complemented and proven by an obedient life because true faith will always have something to show for it. 
+This belief in Jesus Christ is not merely an intellectual appreciation or acceptance of facts but complete trust and commitment in Christ's atoning work for us on the cross instead of our own good works accomplished through our own strength (it is to believe that Christ's sacrifice was sufficient which is all wrapped into the one simple act of believing in Jesus). As for commitment, true saving faith is complemented and proven by an obedient life because true faith will always have something to show for it (and it must endure till physical death). 
 
 {{% scripture p="James 2:19-20 (NIV)" %}} 
 
@@ -154,7 +154,7 @@ Salvation is by faith through grace alone, for God’s gift is free and cannot b
 
 ### **1.2 What about Repentance?** 
 
-Repentance is not some separate act from faith but simply another side of the coin. Faith and repentance are two sides of the same coin because faith is a commitment that cannot occur unless the person who believes genuinely desires to turn away from their old self and live a life of obedience. Believing is repenting because saving faith means completely surrendering oneself over to God. Therefore, repentance is a change of mind that results in a change of action. That is what true saving faith produces because faith is evidenced, completed, and perfected through works, not that salvation is by works, of course. Turning to God in faith is a reaction to changing one’s mind toward sin and the world. The Greek word for repentance in the New Testament is *metanoeo* (μετανοέω), which means to change one's mind or attitude. This change results in a person turning to Christ in faith, and genuine faith always has something to show for it. 
+Repentance is not some separate act from faith but simply another side of the coin. Faith and repentance are two sides of the same coin because faith is a commitment that cannot occur unless the person who believes genuinely desires to turn away from their old self and live a life of obedience. Believing is repenting because saving faith means completely surrendering oneself over to God. Therefore, repentance is a change of mind/heart/attitude that results in a change of action/behavior/lifestyle. That is what true saving faith produces because faith is evidenced, completed, and perfected through works, not that salvation is by works, of course. Turning to God in faith is a reaction to changing one’s mind toward sin, the world, themselves, and God. The Greek word for repentance in the New Testament is *metanoeo* (μετανοέω), which means to change one's mind or attitude. This change results in a person turning to Christ in faith, and genuine faith always has something to show for it. 
 
 {{% scripture p="James 2:26 (ESV)" %}} 
 
