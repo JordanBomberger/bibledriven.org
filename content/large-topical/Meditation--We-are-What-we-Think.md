@@ -1,7 +1,7 @@
 ---
-title: Meditation - We are What we Think 
+title: '"Meditation" - We are What we Think' 
 weight: 500
-summary: No believer can attain to spiritual maturity without first renewing their mind and learning how to keep the Lord and His truth foremost in their thoughts because we think about what we value the most, which determines our thoughts and actions. This study discusses the "thinking" aspect of the word "meditation," a synonym I use here for what goes on in our hearts/minds.That being said, this work does not seek to define the word itself.  
+summary: No believer can attain to spiritual maturity without first renewing their mind and learning how to keep the Lord and His truth foremost in their thoughts because we think about what we value the most, which determines our thoughts and actions. This study discusses the "thinking" aspect of the word "meditation," a synonym I use here for what goes on in our hearts/minds. That being said, this work does not seek to define the word itself.  
 ---
 
 ## **Introduction**  
