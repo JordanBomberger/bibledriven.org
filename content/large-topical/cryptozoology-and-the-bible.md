@@ -1,6 +1,6 @@
 ---
 title: Cryptozoology and the Bible
-weight: 1200
+weight: 1300
 summary: As mentioned in the study itself, this work is to assure the believer that paranormal/demonic-cryptid activity in no way disproves but supports the existence of a Creator. We must trust in God and His Word with all our heart regardless of what is seen and reported in this world. 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Parables of Jesus
-weight: 800
+weight: 1000
 summary: One cannot understand the Gospels without comprehending Jesus's parables contained therein. These teachings can be vexing at first, but are not as complicated as they have been made out to be. The approach here was to simplify them in an appropriate manner without being overly technical and seeing more symbolism than what Christ intended us to see. 
 ---
 

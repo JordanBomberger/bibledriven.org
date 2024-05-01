@@ -1,6 +1,6 @@
 ---
 title: The Sign Gifts
-weight: 1100
+weight: 1200
 summary: Like water baptism, the sign gifts were temporary in nature during the transitional period of the church from the Old to the New Covenant. We will take a look at all of these things in this study. Much damage has been done by supporting the continuation of gifts God no longer gives. The result of all the movements in support of them have been devastating. This is an important teaching to get right because placing undue emphasis on what the eyes can see and emotions feel distracts from true faith and spiritual growth.  
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: The Awesome Character of God - Psalm 78
-weight: 500 
+weight: 600 
 summary: Psalm 78 has been described as one of the most beautiful and marvelous chapters contained in the book of Psalms. Although that is a subjective matter of opinion, it teaches us huge lessons for today and for the dark days ahead. A God who demonstrates His perfect character in handling humanity should inspire us to follow Him with great zeal faithfully to the end. 
 ---
 

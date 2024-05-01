@@ -1,6 +1,6 @@
 ---
 title: How Believers are Defined - The Worth, Value, and Potential of Every Member of Christ's Church
-weight: 600
+weight: 700
 summary: All believers have equal value, worth and potential for true spiritual success in this life and great eternal reward in the next. There is no such thing as any follower of Christ who is disadvantaged. 
 ---
 

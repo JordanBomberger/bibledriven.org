@@ -1,6 +1,6 @@
 ---
 title: A Special Treatment on Water Baptism
-weight: 1000
+weight: 1100
 summary: Examining the Biblical evidence to show that this ritual is no longer for today. Water baptism should have died out a long time ago. In the present church and in the past, it carried/carries legalistic dangers for all who believe/believed in its necessity. 
 ---
 
