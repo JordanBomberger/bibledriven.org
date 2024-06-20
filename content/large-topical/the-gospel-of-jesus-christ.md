@@ -472,9 +472,9 @@ Since salvation is by faith through grace alone, and Christ covered all our sins
 
 A lack of any obedience or good fruit can reveal someone as an unbeliever since all true believers will manifest a changed life to at least some extent. The believer's faith will be evidenced or manifested by good works (obedience in resisting sin and temptation and in bringing forth fruit through ministry). 
 
-The works mentioned here in James are **not** the works of the Law Paul mentions in Romans. True saving faith naturally expresses itself through obedience and spiritual production (bringing forth fruit John 15:8).                                                                                   
+The works mentioned here in James are **not** the works of the Law Paul mentions in Romans. True saving faith naturally expresses itself through faith driven obedience and spiritual production (bringing forth fruit **John 15:8**).                                                                                   
 
-However, James 2:14-24 applies to both believers and unbelievers. If believers aren't walking in fellowship with God through faith, then not having active faith is useless because no good work can be done. If we aren't walking in the Spirit through faith, our faith is momentarily dead because it is inactive when it shouldn't be (such as the man who says "go in peace, be warmed and filled").  On the other side of the coin are unbelievers who claim faith but have nothing to show for it since they do not actually believe in and follow Christ. In their case, no works are an indication that they have no saving faith in Christ at all. Our James passage is addressing both believers and unbelievers. 
+However, **James 2:14-24** applies to both believers and unbelievers (verse fifteen references a brother or sister in Christ to describe believers while verse nineteen describes demons which would be analogous to unbelievers). If believers aren't walking in fellowship with God through faith, then not having active faith is useless because no good work can be done. If we aren't walking in the Spirit through faith, our faith is momentarily dead because it is inactive when it shouldn't be (such as the man who says "go in peace, be warmed and filled").  On the other side of the coin are unbelievers who claim faith but have nothing to show for it since they do not actually believe in and follow Christ. In their case, no works are an indication that they have no saving faith in Christ at all. Our James passage is addressing both believers and unbelievers. 
 
 {{% scripture p="Hebrews 11:6 (KJV)" %}} 
 
@@ -512,7 +512,7 @@ And again, these verses also apply to believers who are not living out their fai
 
 {{% /scripture %}} 
 
-Abraham’s faith was “declared” by his obedience to the Lord because of what he did. But Abraham was already saved long before he offered his son Isaac on the altar (most likely when he first obeyed the Lord to leave his homeland). Thus, his most incredible act of faith in offering up his son Isaac was a declaration of it in addition to all the other times Abraham had acted in belief toward God. Abraham’s faith would continuously be demonstrated throughout his lifetime as obedient work after obedient work continued to declare his righteous genuine standing with God. But Abraham was justified the first moment he believed. 
+Abraham’s faith was “declared” by his obedience to the Lord because of what he did. But Abraham was already saved long before he offered his son Isaac on the altar (most likely when he first obeyed the Lord to leave his homeland). Thus, his most incredible act of faith in offering up his son Isaac was a declaration of it in addition to all the other times Abraham had acted in belief toward God. Abraham’s faith would continuously be demonstrated throughout his lifetime as obedient work after obedient work continued to declare his righteous genuine standing with God (advertising that he was a true believer). But Abraham was justified the first moment he believed. 
 
 {{% scripture p="Genesis 15:5-6 (NASB)" %}} 
 
@@ -530,7 +530,7 @@ Think of it this way-works speak for faith. Salvation is not by works. But witho
 
 {{% /scripture %}} 
 
-Salvation is by grace through faith alone. Faith and the Holy Spirit naturally produce righteousness in a believer's life, and all the more so if that faith is growing. But if a person’s faith is decreasing, so will the works, and if apostasy resulting in the complete death of faith occurs, then nothing will be produced by that individual because their faith is dead. No matter what other counterfeit faith a person claims, they will not have works to show before God because they don’t have the Holy Spirit (our present time living under the New Covenant) to produce them. 
+Salvation is by grace through faith alone. Faith and the Holy Spirit naturally produce righteousness in a believer's life, and all the more so if that faith is growing. But if a person’s faith is decreasing, so will the works, and if apostasy resulting in the complete death of faith occurs, then nothing will be produced by that individual because their faith is dead in the ultimate sense. No matter what other counterfeit faith a person claims (mere demon belief), they will not have works to show before God because they don’t have the Holy Spirit to produce them. 
 
 ### Foreknowledge, Election, and Predestination - How They Work in Salvation 
 
