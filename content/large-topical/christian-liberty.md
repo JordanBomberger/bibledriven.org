@@ -201,7 +201,7 @@ The whole point of “church” is not music but rather to hear the Word taught 
 
 Dancing (along with the music that goes with it) is another area of Christian liberty that believers need to handle with care. This activity is harmless unless it becomes an inappropriate ritual (the music one dances to also needs to be considered). This is another perfectly fine activity. 
 
-## **G. Drinking**
+## **F. Drinking**
 
 The Bible nowhere states that it is wrong to drink. In other words, a believer who drinks a beer hasn’t committed some sin. The Scripture condemns getting drunk, i.e., drinking too much to the point of intoxication. The verse below in no way forbids taking a drink. 
 
@@ -223,7 +223,7 @@ Drunkenness is a sin because it clouds proper judgment. Getting drunk takes away
 
 Should a believer drink? There is nothing wrong with a little here or there, but getting drunk is a sin. As with smoking, all addictions start somewhere. If a believer is strong enough not to stumble over the occasional drink once in a while, then there is no harm in that. However, some can’t handle even the slightest exposure because they may become hooked quickly. In that case, they should stay away altogether. Additionally, the stronger believer should avoid drinking while a weaker brother is in his/her midst (**Romans 14:13-23**). 
 
-## **H. Clothing** 
+## **G. Clothing** 
 
 Clothing is a more difficult gray area to discern than many of the topics we have discussed above. However, we will make some points below. 
 
