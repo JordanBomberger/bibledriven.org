@@ -10,15 +10,15 @@ This subject we will discuss has been a stumbling block for so many in the churc
 
 Nonetheless, almost every believer will have to decide what to do to support themselves and their family (if married). One of the most daunting and difficult decisions in life is choosing a suitable job/ career. Children attend grade school and then pursue their area of interest after they graduate. Many often switch majors, and some drop out of college altogether. Some young people know what they want to do before they graduate, while others have no clue what interests them. Every person is different. 
 
-The topic of jobs and careers is a thorny issue that one must approach without dogmatism or any agenda. Why? We will see in the points below. There is no “one way” to approach it because God calls us all to different things. I cannot choose the right path for another brother or sister. That decision is between them and the Lord.
+The topic of jobs and careers is a thorny issue that one must approach without dogmatism or any agenda. Why? We will see in the points below. There is no “one way” to approach it because God calls us all to different things. I cannot choose the right path for another brother or sister because that decision is between them and the Lord.
 
-But someone may want advice regarding the questions, “*what job should I take*? *How should I go about this*? *How Should I view the job I currently have*?" Hopefully, the following points will help in considering these matters. But no person can ever give a direct answer (unless it becomes obvious said career will negatively affect the believer’s walk with the Lord). So below are some things to consider. All the points below are realistic circumstances and possibilities that may or may not apply to some individuals. However, at least some of them apply to everyone.  Ultimately, the best way to discern what the Lord wants us to do is to grow spiritually. But the points below should still be helpful. 
+But someone may want advice regarding the questions, “*What job should I take*? *How should I go about this*? *How Should I view the job I currently have*?" Hopefully, the following points will help in considering these matters. But no person can ever give a direct answer (unless it becomes obvious said career will negatively affect the believer’s walk with the Lord). So below are some things to consider. All the points below are realistic circumstances and possibilities that may or may not apply to some individuals. However, at least some of them apply to everyone.  Ultimately, the best way to discern what the Lord wants us to do is to grow spiritually. But the points below should still be helpful. 
 
 ## Just because we don't like our job very much does not automatically mean we made the wrong decision
 
 We may not like some jobs, which the Lord leads us to for the purpose of testing and growing our faith. For example, we may take a position only to come to find out we hate it. Maybe we don’t like the boss, managers, and employees we work for. Perhaps our job is demanding and stressful. Yet, just because circumstances are rough does not mean that God doesn’t want us to be with that particular company for at least some amount of time.
 
-To add to that, let us say we just took a job. We begin to worry about whether we will like it. Is this right for me or not? We can pray about these things all we want, but **sometimes** we are not meant to know because God is testing us! The Lord can and will use situations like these to grow and strengthen our faith. That doesn’t happen for everyone, but it does for some people because our Lord is sovereign by doing what He wishes based on what He knows will benefit us the most. And if the job turns out to be one we dislike, we must take pains to be joyful **James 1:2-4** (this doesn't mean we have to like it). We must be good witnesses to others who will be watching us. Our Lord and His angels are also observing our every move (**Hebrews 12:1-3**).
+To add to that, let us say we just took a job. We begin to worry about whether we will like it. Is this right for me or not? We can pray about these things all we want, but **sometimes** we are not meant to know because God is testing us! The Lord can and will use situations like these to grow and strengthen our faith. That doesn’t happen for everyone, but it does for some people because our Lord is sovereign by doing what He wishes based on what He knows will benefit us the most. And if the job turns out to be one we dislike, we must take pains to be joyful (this doesn't mean we have to like it). We must be good witnesses to others who will be watching us. Our Lord and His angels are also observing our every move (**Hebrews 12:1-3**).
 
 Of course, that doesn’t mean we made the right decision, but both are possibilities. God may have certain believers transfer from one position to another before they finally settle down into a career that He wants for them. We should not assume that just because we took a job that we hate that that automatically means we made the wrong decision (even if that is a possibility). 
 
@@ -28,7 +28,7 @@ Even if we don’t know whether God will test us by putting us in a particular a
 
 ## "How should my job relate to my ministry?"
 
-A key question for the believer is, “*how should my job relate to my ministry*?” There is no one answer here because that depends on the believer’s spiritual gifts and calling. Of course, all believers should minister to others at their workplace if they have the opportunity, but God calls some Christians to use their gifts primarily at work, while others, mainly outside the workforce. There are variables there as well. 
+A key question for the believer is, “*How should my job relate to my ministry*?” There is no one answer here because that depends on the believer’s spiritual gifts and calling. Of course, all believers should minister to others at their workplace if they have the opportunity, but God calls some Christians to use their gifts primarily at work, while others, mainly outside the workforce. There are variables there as well. 
 
 ## Regarding work schedules, we need to make sure we leave time for spiritual growth
 
@@ -40,7 +40,7 @@ However, the above again does not eliminate the fact that it may be the Lord’s
 
 ## Some roles in the body of Christ need more time for their ministries, like Bible teachers
 
-But what about a believer who is seeking a more permanent profession to settle down in? What about long hours then? More hours at work may not hinder individuals whose primary ministry occurs at their job as long as they still manage to find enough time for Bible study and prayer (some people are very disciplined and good at balancing things because they can handle the long hours). However, many who minister elsewhere (especially teachers) will need more time away from their careers to fulfill God’s mission for their life. Teachers not only have to study but also prepare and divvy out their teachings. And of course, the issue of how many Christians are actually called to fulfill their primary service to Christ through their careers is one not worth getting our minds wrapped. The point is that some are called to minister at their jobs, not matter how few they may be. 
+But what about a believer who is seeking a more permanent profession to settle down in? What about long hours then? More hours at work may not hinder individuals whose primary ministry occurs at their job as long as they still manage to find enough time for Bible study and prayer (some people are very disciplined and good at balancing things because they can handle the long hours). However, many who minister elsewhere (especially teachers) will need more time away from their careers to fulfill God’s mission for their life. Teachers not only have to study but also prepare and divvy out their teachings. And of course, the issue of how many Christians are actually called to fulfill their primary service to Christ through their careers is one not worth getting our minds wrapped around. The point is that some are called to minister at their jobs, no matter how few they may be. 
 
 ## With all this said, it is no bad thing to aspire to jobs that give us more time for spritual growth
 
@@ -54,17 +54,17 @@ No two ministries will require the same amount of time and preparation to carry 
 
 ## So decisions on the career front really are up to individuals
 
-The decision of what job to take is the individuals. We should never let other people make our decisions for us. However, we need to be open to good biblical advice, such as what we present here. 
+The decision of what job to take is the individuals. We should never let other people make our decisions for us. However, we need to be open to good biblical advice, such as what we have presented here. 
 
 ## Because we are not them, we ought not legalistically judge the decisions others make here
 
-Christians must not judge each other based on their careers without the sufficient knowledge to make a proper assessment (**John 7:24**). We must not fall into legalism! Everyone lives in different circumstances with varying gifts, ministries, and callings. We may not like the job another brother or sister has. However, we don't know what the Lord’s plans are for that person per se and whether the Lord is trying to grow them through their experiences. What if it is only temporary? On the other hand, what if God wants to keep them there for a long time? It is true, the believer in question may not have discerned things correctly and made a poor choice. But how is anyone else supposed to know that? We should refrain from judging things we don't know.  
+Christians must not judge each other based on their careers without the sufficient knowledge to make a proper assessment (**John 7:24**). We must not fall into legalism! Everyone lives in different circumstances with varying gifts, ministries, and callings. We may not like the job another brother or sister has. However, we don't know what the Lord’s plans are for that person per se and whether the Lord is trying to grow them through their experiences. What if it is only temporary? On the other hand, what if God wants to keep them there for a long time? It is true, the believer in question may not have discerned things correctly and made a poor choice. But how is anyone else supposed to know that? We should refrain from judging things we don't know even if they are in fact true (that is generally going to be unknowable to those on the outside).  
 
 ## Income level is not important, so long as we are where God wants us
 
 People with higher incomes are no better than low or middle-class citizens (to state the obvious). Just because some make more money than others does not mean the less wealthy have necessarily made poorer spiritual decisions (that can border on the false health and wealth gospel). It is true; some people need to make more to support a family. For others, material and financial wealth is an asset that allows them to help other believers who are struggling. And some people fall into poverty unnecessarily due to poor spiritual and economic choices. Many people can choose to pursue a more promising career. But that doesn’t mean that is what God wants them to do.
 
-Our Lord has a different plan for everyone, and no two people are entirely alike. It is also wise to pursue things we are good at and will enjoy (not that this will always result in what we want - see above). We don’t want to be fish out of water in an atmosphere where we just aren’t good at what we do. Many careers pay differently, and what people choose to do will rest on these most critical factors.
+Our Lord has a different plan for everyone, and no two people are entirely alike. It is also wise to pursue things we are good at and will enjoy (not that this will always result in what we want - see above). We don’t want to be fish out of water in an atmosphere where we just aren’t good at what we do. Many careers pay differently, and what people choose to do will rest on these most critical factors. And we must also consider that everyone has different skills and abilities so that not everyone can do what certain others are doing. 
 
 ## God actually calls some believers in the body to spend all their time on ministry, without working regular jobs to support themselves
 
@@ -72,8 +72,8 @@ God calls some believers not to work at all! Some of our brothers and sisters in
 
 ## People called to celibacy can get away working less, since they don't have to provide for a family
 
-God calls some believers to celibacy. But for those gifted to remain single, money should be less of an issue because they don’t have a spouse or child to support. 
+God calls some believers to celibacy. So for those gifted to remain single, money should be less of an issue because they don’t have a spouse or child to support. 
 
 ## God can use temporary poverty or long-term financial stress as a way to test believers
 
-God can use temporary poverty or long-term financial stress as a way to test believers. Some of the greatest believers in our day have almost nothing! Yet God will continue to provide for them as long as they live so that it will not hinder their spiritual growth and production. 
+God can use temporary poverty (you take Job as only one example) or long-term financial stress as a way to test believers. Some of the greatest believers in our day have almost nothing! Yet God will continue to provide for them as long as they live so that it will not hinder their spiritual growth and production. 
