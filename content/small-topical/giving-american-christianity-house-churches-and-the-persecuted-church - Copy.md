@@ -122,11 +122,11 @@ We don’t have to help out in situations like those. But we are allowed to give
 
 As anyone who has read a good bit of this ministry will know, we live in the lukewarm era of Laodicea (**Revelation 3:14-22**), where most believers across the world are indifferent toward God’s Word. The fact that denominations still exist is a clear sign that the church has learned little since the closing era of Philadelphia (**Revelation 3:7-13**). But if there is any place in the world today that is more lukewarm, it is not hard to imagine that it is the United States.
 
-You may wonder, what does this have to do with giving? Many believers in other countries are persecuted, tortured, and killed for their faith every day. Many lack the means, freedom, and ability to receive good solid Bible teaching, let alone read a Bible for themselves. The persecutions were fierce during the communist eras of the Cold War, and even today, continue at an alarming rate. Many of our spiritual family members overseas worldwide in different countries and on other continents desperately need help from their brothers and sisters in free countries. The West often denies much of the suffering and persecution that goes on in these places. Although this has improved over the years (thanks to many brave men and women of God), it is doubtful that there is nearly as much of a response as there could be. 
+You may wonder, what does this have to do with giving? Many believers in other countries are persecuted, tortured, and killed for their faith every day. Many lack the means, freedom, and ability to receive good solid Bible teaching, let alone read a Bible for themselves. The persecutions were fierce during the communist eras of the Cold War, and even today, continue at an alarming rate. Many of our spiritual family members overseas worldwide in different countries desperately need help from their brothers and sisters in free countries. The West often denies much of the suffering and persecution that goes on in these places. Although this has improved over the years (thanks to many brave men and women of God), it is doubtful that there is nearly as much of a response as there could be. 
 
 {{% note %}}
 
-Not all people persecuted in this world are true believers per se. There are undoubtedly many who claim to be Christians  often persecuted for their religious tendencies but are not necessarily part of the body of Christ. However, only our Lord knows who belongs to Him, and He alone will separate the wheat from the weeds at the end of the age (**Matthew 13:24-30**).
+Not all people persecuted in this world are true believers per se. There are undoubtedly many who claim to be Christians  often persecuted for their religious tendencies but are not necessarily part of the body of Christ. However, only our Lord knows who belongs to Him, and He alone will separate them at the end of the age.
 
 {{% /note %}}
 
@@ -173,14 +173,6 @@ I speak for the Underground Church, the silenced Church, the “dumb” Church, 
 Hear the cries of your brothers and sisters in captive nations! They do not ask for escape, safety, or an easy life. They ask only for the tools to counteract the poisoning of their youth -- the next generation -- with atheism. They ask for Bibles to use in spreading the Word of God. How can they spread the Word of God if they do not have it? (Page 159-160)
 
 {{% /quote %}}
-
-### The Church ought to unite, but a lack of focus on the truth hamstrings that goal, since our unity comes from the truth
-
-In his book, Pastor Wurmbrand commented that the Church needs to unite and put away differences. Well, it is true; the Church DOES need to unite. But that cannot happen as it should as long denominations exist (the Bible does not justify them... **or church membership**) -- as long as the Church remains lukewarm (**Revelation 3:14-22**) -- as long as the truth is not the priority. Until the Church wakes up, and thankfully it will during the tribulation (only after one-third of believers have fallen away from the faith to take the mark of the beast, **Revelation 12:4; Matthew 24:10-13; 2 Thessalonians 2:3**), the Church will not and cannot unite as our Lord would have it. 
-
-The truth matters, and it is the truth which unites. We, the Church must join in the truth first! Change must occur from within before more effective transformation can happen outwardly.
-
-The free and wealthy countries in this world should be leading the way in seriously teaching the Bible correctly WITHOUT all the extensive false doctrines, teachings, rituals, false priorities and legalism. But since that isn’t happening, we have so many different denominations, false doctrines, traditions, and belief systems. We are to study the Scriptures as approved workers, rightly interpreting the Word of truth (**2 Timothy 2:15**). Disagreements will always exist. However, we aren’t discussing a few minor disputes here and there -- we are referring to many major disagreements on critical areas of biblical teaching, teachings that, if gotten wrong, can and will threaten the faith of millions of believers. The Church is far too inconsistent, having one foot in and one foot out. That is a sign of a church that doesn’t treasure the truth as much as it should despite having more time, freedom, and resources to study, search, live, and teach it. 
 
 ### Encouraging people to give is not necessarily the same as pressuring them to give
 
