@@ -100,7 +100,7 @@ With all the above said (and to continue moving through our discussion), nowhere
 
 {{% /scripture %}} 
 
-The reality of same-sex marriage and transgenderism should, by themselves, disgust us. We should find those things abhorrent. But we should never treat those who believe in and practice them as if they were not fellow human beings worthy of all love, care and respect that is due them as those equally made in the image and likeness of God. Christ died for them as well (**1 John 2:2**). Sadly, so many Christians preoccupy themselves with focusing on how shocked and displeased they are with today’s modern trends (homosexuality being just one of those more prominent ones). And this the Church does without realizing it has a significant problem of its own, as Revelation 3:14-22 shows. Hypocrisy (prominent in so many churches) does not present a good testimony. 
+The reality of same-sex marriage and transgenderism should, by themselves, disgust us. We should find those things abhorrent. But we should never treat those who believe in and practice them as if they were not fellow human beings worthy of all love, care and respect that is due them as those equally made in the image and likeness of God. Christ died for them as well (**1 John 2:2**). Sadly, so many Christians preoccupy themselves with focusing on how shocked and displeased they are with today’s modern trends (homosexuality being just one of those more prominent ones) that they forget to love these types of people. And this the Church does without realizing it has a significant problem of its own, as Revelation 3:14-22 shows. Hypocrisy (prominent in so many churches) does not present a good testimony. 
 
 {{% scripture p="Revelation 3:14-22" %}}  
 
@@ -116,7 +116,7 @@ Of course, Solomon was right when he said there is nothing new under the sun. Th
 
 {{% /scripture %}} 
 
-No, we are not here to change the world or make it a better place. That is not what we are espousing here. Quite the opposite comes from thinking, speaking, and living according to God’s holy Word. The passage above tells us what truly makes the biggest difference. Since Christ is the only solution, we (like the nation of Israel was called upon to do) are to emulate Him to the best degree to point people to the only real solution to sin, death, and suffering. Time is of the essence, and worldly, political solutions won’t save anyone from eternal death. Only the gospel message and the testimony of Scripture proclaimed in the believer’s life can mend the real inner problem of the human heart for those willing to accept the truth. 
+The passage above tells us what truly makes the biggest difference in this world. Since Christ is the only solution, we (like the nation of Israel was called upon to do) are to emulate Him to the best degree to point people to the only real solution to sin, death, and suffering. Time is of the essence, and worldly, political solutions won’t save anyone from eternal death. Only the gospel message and the testimony of Scripture proclaimed in the believer’s life can mend the real inner problem of the human heart for those willing to accept the truth. 
 
 {{% scripture p="2 Timothy 4:5 (NIV)" %}}  
 
