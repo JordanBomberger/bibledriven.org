@@ -76,7 +76,7 @@ Both elect and fallen angels are not omniscient, omnipresent, or omnipotent. Ins
 
 {{% /scripture %}} 
 
-Revelation 12:7-12 shows us that Satan and his followers also have access to God’s throne, whether they come and go with impunity or can only approach it only when God summons them. We also know from this passage that Satan does this to accuse believers before the Father to discredit their salvation. Thankfully, our Lord is perfectly fair and just and intercedes on our behalf. 
+Revelation 12:7-12 shows us that Satan and his followers also have access to God’s throne, whether they come and go with impunity or can only approach it only when God summons them. We also know from this passage that Satan does this to accuse believers before the Father to discredit their salvation. Thankfully, our Lord is perfectly fair and just and intercedes on our behalf (**1 John 2:1-2**). 
 
 {{% scripture p="Revelation 12:7-12 (NKJV)" %}} 
 
@@ -122,7 +122,7 @@ Instances of angels ministering to and supporting Christ include **Luke 22:42-44
 
 {{% /scripture %}} 
 
-## **God created angels to bring glory to Himself share eternity with Him. But because Satan rebelled and led millions of them into rebellion, our Lord created man to replace what was lost and demonstrate the mercy, justice, and perfectly righteous character of Himself in how He treats those whom He gave the ability to respond to Him. Thus, all of Satan’s false and negative charges and challenges against the Almighty will be refuted and defeated at the end of human history. However, Christ has already won the victory at the cross**
+## **God created angels to bring glory to Himself share eternity with Him. But because Satan rebelled and led millions of them into rebellion, our Lord created man to replace what was lost to demonstrate the mercy, justice, and perfectly righteous character of Himself in how He treats those whom He gave the ability to respond to Him. Thus, all of Satan’s false and negative charges and challenges against the Almighty will be refuted and defeated at the end of human history. However, Christ has already won the victory at the cross**
 
 ## **Adam forfeited his control of the earth to Satan, who now has a broader range of rulership over the planet. However, God is the ultimate ruler and authority in total control** 
 
