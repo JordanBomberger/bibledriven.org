@@ -10,7 +10,7 @@ Should women teach men or lead a local church congregation? We will answer this 
 
 ### The Bible speaks clearly enough on this issue: women are not to teach and have authority over local assemblies
 
-**1 Timothy 2:11-14** and **1 Corinthians 14:34-35** clearly say that women are not to teach men or exercise authority over them in a local church congregation. In other words, they are not to teach and lead a local church assembly. Only men with the gift of teaching may do that. This truth does not make women somehow inherently inferior or mean they aren't as good at teaching as men when they do teach in the contexts in which they are allowed to (see below). Additionally, spiritual success and eternal reward depend upon how much each believer produces *in proportion to what they have* (**Luke 21:1-4**). God rewards those who respond to Him the most with the greatest love and zeal. Neither gender nor spiritual gifting -- two things we cannot influence with our free will in the slightest -- have anything to do with how much reward we can reap in the eternal kingdom. The only that matters is what we do with what we have actually been given.
+**1 Timothy 2:11-14** and **1 Corinthians 14:34-35** clearly say that women are not to teach men or exercise authority over them in a local church congregation. In other words, they are not to teach and lead a local church assembly. Only men with the gift of teaching may do that. This truth does not make women somehow inherently inferior or mean they aren't as good at teaching as men when they do teach in the contexts in which they are allowed to (see below). Additionally, spiritual success and eternal reward depend upon how much each believer produces *in proportion to what they have* (**Luke 21:1-4**). God rewards those who respond to Him the most with the greatest love and zeal. Neither gender nor spiritual gifting -- two things we cannot influence with our free will in the slightest -- have anything to do with how much reward we can reap in the eternal kingdom. The only thing that matters is what we do with what we have actually been given.
 
 ### However, women may still teach other women and children
 
@@ -32,7 +32,7 @@ Ministry is all about service. Christ came to serve and not to be served (**Matt
 
 ### Could Paul's words maybe only apply in his specific time and place?
 
-**1 Timothy 2:11-14** and **1 Corinthians 14:34-35** cannot be hand-waved away by trying to narrow their context of application to be the just culture of Paul's time. 
+**1 Timothy 2:11-14** and **1 Corinthians 14:34-35** cannot be hand-waved away by trying to narrow their context of application to be just the culture of Paul's time. 
 
 #### The example of Adam and Eve
 
@@ -52,7 +52,7 @@ The church consists of all believers -- from Adam and Eve to the last person to 
 
 ### What about female prophets?
 
-Female prophets did indeed exist during the Old Testament period. However, teaching and prophecy are not the same. Prophecy did carry higher authority during the early days of the church. But teaching is distinct from prophecy and cannot be compared to it. Only men fulfill the office of pastor teacher; only they can lead congregations. This point comes back to our discussion above about how God ordained the marriage relationship to symbolize our relationship with God (**Genesis 3:16**). Deacons (Phoebe) are not teachers, and neither are evangelists (Priscilla). Sharing the gospel involves some teaching, but that is not the same as leading an entire congregation. There is not one example of a single woman teacher leading a church in the New Testament. Also, the formal spiritual gift of prophecy has ceased to exist and is no longer available in the church (**1 Corinthians 13:8-12, 1 Corinthians 13:11**).
+Female prophets did indeed exist during the Old Testament period. However, teaching and prophecy are not the same. Prophecy did carry higher authority during the early days of the church. But teaching is distinct from prophecy and cannot be compared to it. Only men fulfill the office of pastor teacher; only they can lead congregations. This point comes back to our discussion above about how God ordained the marriage relationship to symbolize our relationship with God (**Genesis 3:16**). Deacons (Phoebe) are not teachers, and neither are evangelists (Priscilla). Sharing the gospel involves some teaching, but that is not the same as leading an entire congregation. There is not one example of a single woman teacher leading a church in the New Testament. Also, the formal spiritual gift of prophecy has ceased to exist and is no longer available in the church (**1 Corinthians 13:8-12, 1 Corinthians 13:11**). And on that note it is worth mentioning that prophecy involved receiving direct truth from the Lord Himself instead of what we see with teachers today having to study and interpret what they teach through the Spirit's guidance and control. 
 
 ## In closing
 
