@@ -101,23 +101,7 @@ When man began to multiply on the face of the land and daughters were born to th
 
 {{% /scripture %}} 
 
-Jason Mclean states---
-
-{{% quote text="McLean" src="https://www.amazon.com/UFOs-Bigfoot-Prove-Bible-True/dp/179798683X" %}}
-
-Note-1 Enoch confirms that it wasn't just humans the Watchers copulated with and there are additional texts that this is the origin of "monsters" like Sasquatch and others. At the very least we should view this as genetic manipulation and hybridization of human and animals genetics.
-
-{{% /quote %}}
-
-To clarify Mclean’s view on the book of Jasher he writes below, 
-
-{{% quote text="McLean" src="https://www.amazon.com/UFOs-Bigfoot-Prove-Bible-True/dp/179798683X" %}}
-
-Let me be very clear, the 1840 Jasher is NOT the same Book of Jasher referenced in the Old Testament. That being said, it is based on Jewish oral tradition that was compiled and written down in medieval Spain. It has certain teachings in the first few chapters that match with other traditions and legends found in pagan histories.
-
-{{% /quote %}}
-
-To add to the above, I, like Mclean, do not believe the book of Enoch to be "*canon or inerrant*." And nothing physical could have survived the flood sent to destroy all sinful mankind and the Nephilim. So if sasquatch is demonic in origin and physical (it may be both spiritual and physical---although this is hard to say with any certainty), it would had to have been created by the spirits of the Nephilim after the great deluge. **Then again, it is possible that sasquatch was spiritually created (no genetic tampering involved) but can manifest itself physically (being able to disappear at certain times). We can't know this for sure. The specifics on how these creatures were created are not things we can pin down with certainty**. Nevertheless, I do believe they are real and that they are demonic in origin. 
+Nothing physical could have survived the flood sent to destroy all sinful mankind and the Nephilim. So if sasquatch is demonic in origin and physical (it may be both spiritual and physical---although this is hard to say with any certainty), it would had to have been created by the spirits of the Nephilim (or some other rank and file of fallen angel) after the great deluge. **Then again, it is possible that sasquatch was spiritually created (no genetic tampering involved) but can manifest itself physically (being able to disappear at certain times). We can't know this for sure. The specifics on how these creatures were created are not things we can pin down with certainty** (nor should we attempt to do so). Nevertheless, I do believe they are real and that they are demonic in origin. 
 
 ### **Genetic manipulation, hybridization, the Genesis gap, and the fossil record** 
 
@@ -138,8 +122,6 @@ As a quick side note, since the time from when Satan rebelled to when God blacke
 I would like to add that I agree with Dr. Luginbill’s interpretation above. Why would our Lord allow terrible, viscous reptiles that could kill so many individuals to live alongside people after the fall of Adam and Eve? Even “dinosaur” comes from the Greek word *deinos, which means* ‘**terrible**’ *sauros* ‘**lizard**’. It is highly unlikely that changing climate would explain the extinction of EVERY SINGLE species we have available to us in the fossil record. And why reptiles (and not mammals) of such gigantic size? Well, Satan has a fascination with them; we know that from the garden of Eden. It makes far better sense for us to attribute most of the fossil record to before God's blacking out of the universe but after Satan’s rebellion (sometime between the two) since demons crave bodies which they lack as purely spiritual beings (**Matthew 8:28-34, Mark 5:1-20, Luke 8:26-39**). 
 
 The coexistence of gigantic and dangerous “lizards” living alongside humans doesn’t make much sense. It seems that these terrifying creatures were never meant to live alongside man. And if they ever did at any point, it must have been during the entire period of the Satanic attack resulting in the Nephilim mentioned in Genesis six. Since a group of voluntary fallen angels cohabited with human women, it is also possible that (as already mentioned) genetic manipulation occurred with wildlife as well. This may have resulted in **some** of what we know as dinosaurs and other large, powerful land and aquatic reptilian and mammalian species. I believe this and our other answer above (both explanations) explain the pre-historic fossil record. Therefore, it is highly unlikely there were ever any dinosaurs on the ark. 
-
-To continue our main discussion, I encourage readers to approach the Apocrypha with caution (perhaps even avoid it). The problem is that many Christians don't have the knowledge or discernment to pick out the good from the bad works (forgery vs. non-forgery). Plus, there is much that cannot be confirmed. Also, there are some mistakes that do not agree with Scripture throughout many of the pseudiographical works, so one must be careful while reading through the various books. That is not to say there is no truth and value in the Apocrypha (we just referenced it as a possible clue), but caution must be advised. The book of Enoch and Jasher is not canonical. Therefore, what they say regarding the Spirits of the Nephilim tampering with animal genetics sometime after the flood may be inaccurate. However, we don't need written testimony to theorize that this did indeed happen.
 
 We can be sure that all the Nephilim will end up in the lake of fire forever because they opposed God and never believed in Him for salvation. Since they were both human and fallen angel, they had the free will to do so. However, I believe their spirits are present on this earth because the rest of the fallen angels still have the freedom to move about freely (except for those involved in the creation of the Nephilim **1 Peter 3:19-20, Jude 6**). This will eventually cease toward the end of time when they are all thrown into the lake of fire.      
 
