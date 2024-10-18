@@ -66,8 +66,8 @@ paginate = 10
     name = "NT Notes"
     pre = "<i class='fas fa-file fa-fw'></i>"
     weight = 3
-    identifier = "notes-through-the-epistles-and-other-new-testament-books"
-    url = "/notes-through-the-epistles-and-other-new-testament-books/"
+    identifier = "verse-by-verse-teaching-through-the-epistles-and-other-new-testament-books"
+    url = "/verse-by-verse-teaching-through-the-epistles-and-other-new-testament-books/"
 
 
   [[menu.community]]
