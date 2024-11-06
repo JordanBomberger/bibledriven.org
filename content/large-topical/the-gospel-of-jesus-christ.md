@@ -940,18 +940,6 @@ For this reason, we never lean on our intellect, feelings, emotions, or abilitie
 
 {{% /scripture %}} 
 
-{{% scripture p="Jeremiah 17:9 (KJV)" %}}   
-
-**9** The heart is deceitful above all things, and desperately wicked: who can know it?      
-
-{{% /scripture %}} 
-
-{{% scripture p="Proverbs 3:5-6 (NIV)" %}}   
-
-**5** Trust in the Lord with all your heart and lean not on your own understanding; **6** in all your ways submit to him, and he will make your paths straight.                                           
-
-{{% /scripture %}} 
-
 As believers, we have the power to control what we think and how we react to our circumstances. But responding in a godly way requires us to be under the control of the Spirit at all times, for only in His power can we react accordingly to our situations by resisting the flesh and the devil. Having free will means we can choose to obey Christ by surrendering ourselves over to Him so that He directs our thoughts and actions. That is what it means to be controlled by the Holy Spirit. It implies surrendering our mind/heart (will, attention, and focus) over to Christ so that He can work within us. 
 
 However, we can choose to resist Him, and by doing so, we remain vulnerable to our thoughts, feelings, and emotions backfiring on us. For example, a rider cannot ride a horse if the horse continues to oppose him by bucking and kicking all the time. So too, we must not resist the Holy Spirit by allowing whatever circumstances, motives, or feelings to take over and dictate what we do. 
