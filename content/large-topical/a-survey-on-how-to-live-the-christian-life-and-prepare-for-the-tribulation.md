@@ -111,9 +111,9 @@ The “man of lawlessness” is the antichrist, whose revealing occurs at the mi
 
 The phrase “*To the effect that the day of the Lord has come*” mentioned in **2 Thessalonians 2:2b**, refers to the second advent, the Lord’s second and final coming, also referred to as the “revelation of Jesus Christ,” *and it is this revelation that we as believers eagerly await.* It is through this same “revelation” that our dear Lord will be revealed to us during His second advent when He comes to destroy the armies of antichrist assembled at Jerusalem at the battle of Armageddon. 
 
-{{% scripture p="1 Corinthians 1:7 (NASB)" %}} 
+{{% scripture p="1 Corinthians 1:4-9 (NASB)" %}} 
 
-**7** so that you are not lacking in any gift, **awaiting eagerly the revelation of our Lord Jesus Christ.** 
+**4** I thank my God always concerning you for the grace of God which was given you in Christ Jesus, **5** that in everything you were enriched in Him, in all speech and all knowledge, **6** just as the testimony concerning Christ was confirmed in you, **7** so that you are not lacking in any gift, as you eagerly await the revelation of our Lord Jesus Christ, **8** who will also confirm you to the end, blameless on the day of our Lord Jesus Christ. **9** God is faithful, through whom you were called into fellowship with His Son, Jesus Christ our Lord.
 
 {{% /scripture %}} 
 
@@ -135,14 +135,6 @@ Despite most believers being unprepared for the significant testing the Lord wil
 
 {{% /scripture %}} 
 
-We should be storing up our faith like the ant, which stores up food for the brutal winter, just as believers should be storing up faith for the difficult tribulation to come. 
-
-{{% scripture p="Proverbs 6:6-11 (KJV)" %}} 
-
-**6** Go to the ant, thou sluggard; consider her ways, and be wise: **7** Which having no guide, overseer, or ruler, **8** Provideth her meat in the summer, and gathereth her food in the harvest. **9** How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep? **10** Yet a little sleep, a little slumber, a little folding of the hands to sleep:  **11** So shall thy poverty come as one that travelleth, and thy want as an armed man. 
-
-{{% /scripture %}} 
-
 We should be building up our faith, analogous to Noah building the ark to carry him through the flood God sent to punish the unbelieving world. Believers will need a solid built “ark of faith” to take them through the “flood” of the tribulation. 
 
 {{% scripture p="Hebrews 11:7 (ESV)" %}} 
@@ -153,7 +145,11 @@ We should be building up our faith, analogous to Noah building the ark to carry 
 
 We should be storing up our faith like the wise virgins in **Mathew 25:1-13**. The above passages make very clear and exhort so strongly the necessity for stored faith at all times. We call this “redeeming the time,” accomplished by committing as much of our time as possible to our relationship with and service to God.  
 
- 
+{{% scripture p="Matthew 25:1-13 (ESV)" %}} 
+
+“Then the kingdom of heaven will be comparable to ten virgins, who took their lamps and went out to meet the groom. **2** Five of them were foolish, and five were prudent. **3** For when the foolish took their lamps, they did not take *extra* oil with them; **4** but the prudent ones took oil in flasks with their lamps. **5** Now while the groom was delaying, they all became drowsy and *began* to sleep. **6** But at midnight there finally was a shout: ‘Behold, the groom! Come out to meet *him*.’ **7** Then all those virgins got up and trimmed their lamps. **8** But the foolish *virgins* said to the prudent ones, ‘Give us some of your oil, because our lamps are going out.’ **9** However, the prudent ones answered, ‘*No*, there most certainly would not be enough for us and you *too*; go instead to the merchants and buy *some* for yourselves.’ **10** But while they were on their way to buy *the oil*, the groom came, and those who were ready went in with him to the wedding feast; and the door was shut. **11** Yet later, the other virgins also came, saying, ‘Lord, lord, open up for us.’ **12** But he answered, ‘Truly I say to you, I do not know you.’ **13** Be on the alert then, because you do not know the day nor the hour.
+
+{{% /scripture %}} 
 
 ## **2. Throwing off all that Hinders** 
 
@@ -199,12 +195,6 @@ The Greek word for “repent” in the passage above is *metanoeo* (μετανο
 
 God created us for a purpose. But since today’s believers don’t seem interested in pursuing that intent that God has for them, then the Lord will send us into the tribulation as a way to get our attention, and this will divide those who are genuinely committed to Him or not. Thus, two options will remain during those times: apostasy or continued belief, trusting the Lord Jesus for deliverance to the very end, whatever His will for our final years on this earth may be.  
 
-{{% scripture p="Titus 2:11-14 (NIV)" %}} 
-
-**11** For the grace of God has appeared that offers salvation to all people. **12 It teaches us to say “No” to ungodliness and worldly passions, and to live self-controlled, upright and godly lives in this present age,** **13** while we wait for the blessed hope—the appearing of the glory of our great God and Savior, Jesus Christ, **14** who gave himself for us to redeem us from all wickedness and to purify for himself a people that are his very own, eager to do what is good. 
-
-{{% /scripture %}} 
-
 How can a believer “throw off all that hinders” while working for the perishing “food” of this life (**John 6:26-29**)? How can we “declare the Lord’s praise” when our focus is not even on Him but the world?  How can a believer rid themselves of the “sin that so easily entangles” when they allow the “distractions and worries” of this life to choke their faith, faith that is to be stored and built up necessary to grow? How can a believer store up faith for the times ahead if they are storing up earthly treasures? How can they present their bodies as a living sacrifice if they have offered most of their time and efforts to the world? 
 
 {{% scripture p="Matthew 13:22 (NASB)" %}} 
@@ -227,13 +217,7 @@ However, by itself, a proper attitude toward God cannot be implanted without goi
 
 {{% /scripture %}} 
 
-Knowing our status and identity in Christ will help us stay focused on our mission. This mission has not changed, isn’t going anywhere in fact, and will be with us till the day we exit this world and meet our dear savior face to face. Living for Christ does not mean living for ourselves, but rather for our heavenly father, who we claim we love so much (**Galatians 2:20**). 
-
-{{% scripture p="Ephesians 6:5-8 (KJV)" %}} 
-
-**5** Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ; **6** Not with eyeservice, as men pleasers; but as the servants of Christ, doing the will of God from the heart; **7** With good will doing service, as to the Lord, and not to men: **8** Knowing that whatsoever good thing any man doeth, the same shall he receive of the Lord, whether he be bond or free. 
-
-{{% /scripture %}} 
+Knowing our status and identity in Christ (**Galatians 2:20**) will help us stay focused on our mission. This mission has not changed, isn’t going anywhere in fact, and will be with us till the day we exit this world and meet our dear savior face to face. Living for Christ does not mean living for ourselves, but rather for our heavenly father, who we claim we love so much. 
 
 But believers have a responsibility for this process of growth, progress, and production to work. Through our God-given free will, we must choose to trust, obey, and follow Christ at all times, a process that requires discipline and dedication through our free will choices. These things will constitute our discussion on the first step in this process, spiritual growth. As for the other two categories mentioned, we will consider them later in their order. 
 
@@ -375,21 +359,7 @@ The time we have before the commencement of the most terrible time ever to occur
 
 {{% /scripture %}} 
 
-We live by God’s truth, walking in the power of it, made possible through the Holy Spirit. Therefore, it should be our absolute goal to study, seek, and absorb it as much as possible. 
-
-{{% scripture p="Matthew 22:37 (NIV)" %}}  
-
-**37** Jesus replied: “‘Love the Lord your God with all your heart and with all your soul and with all your mind. 
-
-{{% /scripture %}} 
-
-{{% scripture p="Isaiah 40:8 (ESV)" %}}  
-
-**8** The grass withers, the flower fades, but the word of our God will stand forever. 
-
-{{% /scripture %}} 
-
-God’s Word will abide forever, and we, as His children, will live with Him for all eternity. Therefore, let us strive to let God’s truth, food that will never perish, remain in us. As Christ’s eternal possessions, we have passed from death unto life and shall never pass away. So too, with God’s revelation given to us through the Bible. All the promises of Scripture are true, and we will experience their realities when we share them with Christ in His eternal kingdom forever. 
+We live by God’s truth, walking in the power of it, made possible through the Holy Spirit. Therefore, it should be our absolute goal to study, seek, and absorb it as much as possible. God’s Word will abide forever (**Isaiah 40:8**), and we, as His children, will live with Him for all eternity. Therefore, let us strive to let God’s truth, food that will never perish, remain in us. As Christ’s eternal possessions, we have passed from death unto life and shall never pass away. So too, with God’s revelation given to us through the Bible. All the promises of Scripture are true, and we will experience their realities when we share them with Christ in His eternal kingdom forever. 
 
 {{% scripture p="Matthew 24:35 (KJV)" %}}  
 
@@ -555,9 +525,9 @@ Every believer has received a spiritual gift(s), and the Lord expects us to use 
 
 With that said, the process of getting to that point of progress and production will require the prior spiritual growth of the believer ahead of time, growing through the Word of God by reading it on their own, and by receiving good teaching from an individual believer prepared and qualified to do so. It is the pastor/teacher who has the highest authority in the church today, and by failing to submit our time and attention to an equipped individual whom the Lord has prepared, we are, in essence, trying to gut spiritual growth out on our own. People like that are trying to march to the beat of their own drum; an approach that will expose them to tremendous error. Without being adequately fed from a reliable source, our faith will suffer spiritual malnutrition. 
 
-{{% scripture p="Acts 2:42 (ESV)" %}}  
+{{% scripture p="Ephesians 4:11-16 (NKJV)" %}}  
 
-**42** And they devoted themselves to the apostles' teaching and the fellowship, to the breaking of bread and the prayers. 
+**11** And He Himself gave some *to be* apostles, some prophets, some evangelists, **and some pastors and teachers**, **12** **for the equipping of the saints for the work of ministry**, **for the edifying of the body of Christ**, **13** **till we all come to the unity of the faith and of the knowledge of the Son of God**, to a perfect man, to the measure of the stature of the fullness of Christ; **14** that we should no longer be children, tossed to and fro and carried about with every wind of doctrine, by the trickery of men, in the cunning craftiness of deceitful plotting, **15** but, speaking the truth in love, **may grow up in all things into Him who is the head**—Christ— **16** from whom the whole body, joined and knit together by what every joint supplies, according to the effective working by which every part does its share, causes growth of the body for the edifying of itself in love.
 
 {{% /scripture %}} 
 
@@ -566,6 +536,12 @@ Eating healthy food is good for our bodies; eating healthy spiritual food is goo
 {{% scripture p="1 Peter 2:2 (NASB)" %}}  
 
 **2** like newborn babies, long for the pure milk of the word, so that by it you may grow in respect to salvation, 
+
+{{% /scripture %}} 
+
+{{% scripture p="Hebrews 5:12-14 (ESV)" %}}  
+
+**12** For though by this time you ought to be teachers, you need someone to teach you again the basic principles of the oracles of God. You need milk, not solid food, **13** for everyone who lives on milk is unskilled in the word of righteousness, since he is a child. **14** But solid food is for the mature, for those who have their powers of discernment trained by constant practice to distinguish good from evil.
 
 {{% /scripture %}} 
 
@@ -587,18 +563,6 @@ The above passage should give us pause, for the Lord exhorts Peter to minister t
 
 {{% /scripture %}} 
 
-{{% scripture p="Colossians 3:16 (NASB)" %}}  
-
-**16** Let the word of Christ richly dwell within you, with all wisdom teaching and admonishing one another with psalms *and* hymns *and* spiritual songs, singing with thankfulness in your hearts to God. 
-
-{{% /scripture %}} 
-
-{{% scripture p="Romans 15:4 (NIV)" %}}  
-
-**4** For everything that was written in the past was written to teach us, so that through the endurance taught in the Scriptures and the encouragement they provide we might have hope. 
-
-{{% /scripture %}} 
-
 It is sad that in our lukewarm era of Laodicea, the Bible is not being taken seriously or given the due honor, respect, love, and attention it deserves. Most of this is through the mindset and agency of today’s preachers and the lukewarm disinterested attitudes of the listeners comprising most of the church. Yet in our day and age, believers seem to love the world more instead. But our interests should be toward God, our treasures in Heaven, and our joy in that we have an everlasting share with the One who sacrificed Himself for us to have it. Why, then, do we not love the Bible the way we should? Why is it not being taught seriously? And why are those exposed to such poor teaching not seeking out good spiritual food? 
 
 #### **E.  The Process of Exposing Ourselves to Good Solid Teaching** 
@@ -617,7 +581,7 @@ As we have already examined in this paper, a change of attitude is first needed.
 
 {{% /scripture %}} 
 
-This whole process of searching takes considerable discernment, and we should be praying for that as well. Finding answers in a spiritual safe---haven may take time and pain because the process can be gruesome. But what is needed is endurance, the patience to wait on the Lord for Him to bring the answers (**Isaiah 40:31, Psalm 27:13-14, Lamentations 3:25**). 
+This whole process of searching takes considerable discernment, and we should be praying for that as well. Finding answers in a spiritual safe---haven may take time and pain because the process can be gruesome. But what is needed is endurance, the patience to wait on the Lord for Him to bring the answers (**Isaiah 40:31, Lamentations 3:25**). 
 
 The Bible also advises on things believers can do searching for answers, a small handful of verses shown below. For one thing, we should stay away from anything that would weaken our resolve. These include things that would distract us, especially false teaching and anything that would thwart our mission. As the believer grows, so will their priorities. The mature believer knows what is more important to them, and they will go out of their way to put the Lord first, even with all the suffering entailed. 
 
@@ -638,20 +602,6 @@ We can discern good fruit from bad fruit.
 {{% scripture p="1 John 4:1 (ESV)" %}}  
 
 Beloved, do not believe every spirit, but test the spirits to see whether they are from God, for many false prophets have gone out into the world. 
-
-{{% /scripture %}} 
-
-Every person belonging to the Lord can search under the Holy Spirit's guidance to find the truth. 
-
-{{% scripture p="Acts 17:11 (NASB)" %}}  
-
-**11** Now these were more noble-minded than those in Thessalonica, for they received the word with great eagerness, examining the Scriptures daily *to see* whether these things were so. 
-
-{{% /scripture %}} 
-
-{{% scripture p="Galatians 5:16 (KJV)" %}}  
-
-**16** This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.
 
 {{% /scripture %}} 
 
@@ -713,21 +663,7 @@ Therefore, the Holy Spirit is the witness of our salvation, convicting those who
 
 {{% /scripture %}} 
 
-**2.**   **<u>The Spirit guides and teaches us in all truth</u>** 
-
-{{% scripture p="John 14:26 (NIV)" %}}  
-
-**26** But the Advocate, the Holy Spirit, whom the Father will send in my name, will teach you all things and will remind you of everything I have said to you.                      
-
-{{% /scripture %}} 
-
-{{% scripture p="1 Corinthians 2:13 (NIV)" %}}  
-
-**13** This is what we speak, not in words taught us by human wisdom but in words **taught by the Spirit**, explaining spiritual realities with Spirit-taught words. 
-
-{{% /scripture %}} 
-
-**3**.   **<u>The Spirit convicts the believer.</u>** **<u>He also intercedes for us, giving us the words to speak when we need them the most.</u>** 
+**2**.   **<u>The Spirit convicts (and helps guide) the believer.</u>** **<u>He also intercedes for us, giving us the words to speak when we need them the most.</u>** 
 
 {{% scripture p="Romans 8:26-27 (NASB)" %}}  
 
@@ -747,7 +683,7 @@ Therefore, the Holy Spirit is the witness of our salvation, convicting those who
 
 {{% /scripture %}} 
 
-**4**.   **<u>The Spirit is our seal and pledge of salvation</u>** 
+**3.   **<u>The Spirit is our seal and pledge of salvation</u> 
 
 {{% scripture p="Ephesians 1:13 (ESV)" %}}  
 
@@ -773,7 +709,7 @@ Therefore, the Holy Spirit is the witness of our salvation, convicting those who
 
 {{% /scripture %}} 
 
-**5**.   **<u>The Spirit empowers righteous living</u>** 
+**4.   **<u>**The Spirit empowers righteous living**</u> 
 
 {{% scripture p="Ephesians 3:15-19 (NASB)" %}}  
 
@@ -781,7 +717,7 @@ Therefore, the Holy Spirit is the witness of our salvation, convicting those who
 
 {{% /scripture %}} 
 
-**6**.   **<u>The Spirit gives us our spiritual gifts</u>**  
+**5.   <u>The Spirit gives us our spiritual gifts</u>**  
 
 {{% scripture p="1 Corinthians 12:4-11 (NASB)" %}}  
 
@@ -823,29 +759,23 @@ As believers grow, so do the tests that further challenge their walk with the Lo
 
 {{% /scripture %}} 
 
+{{% scripture p="James 1:2-4 (NIV)" %}}  
+
+**2** Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, **3** because you know that the testing of your faith produces perseverance. **4** Let perseverance finish its work so that you may be mature and complete, not lacking anything.
+
+{{% /scripture %}} 
+
 God wants us to go the distance. He wants us to run this race as fast as we can. We should never be content to stay put at any level of maturity, no matter how high it may be. Growth, progress, and production never stop until we meet the Lord face to face, and because of this, we must allow our faith to continue growing till the day the Lord takes us home, no matter the cost. It's not easy, and one may very well think that since the challenges grow, then sooner or later, the tests and trials they will have to face will become so many and so strenuous that they will all be like a balloon about to pop. But we must keep in mind this fact---our level of faith will determine our level of testing. That is to say that the Lord would have never put us in any situation if He knew we wouldn’t be able to handle it. God is in control, and through His Holy Spirit's restraint on the dark satanic forces of this world, He determines the difficulty of the tests we face, knowing very well what we as individuals can or can’t handle. 
 
-{{% scripture p="1 Corinthians 10:13 (NIV)" %}}  
+{{% scripture p="1 Corinthians 10:13 (New Revised Standard Version Updated Edition)" %}}  
 
-**13** No temptation has overtaken you except what is common to mankind. And God is faithful; he will not let you be tempted beyond what you can bear. But when you are tempted, he will also provide a way out so that you can endure it. 
+**13** No testing has overtaken you that is not common to everyone. God is faithful, and he will not let you be tested beyond your strength, but with the testing he will also provide the way out so that you may be able to endure it.
 
 {{% /scripture %}} 
 
 Testing is part of the Christian life. If we want to progress from basic to more advanced, we can expect the trials and difficulties to increase. 
 
-{{% scripture p="2 Timothy 3:12-13 (ESV)" %}}  
-
-**12** Indeed, all who desire to live a godly life in Christ Jesus will be persecuted, **13** while evil people and impostors will go on from bad to worse, deceiving and being deceived. 
-
-{{% /scripture %}} 
-
-Even as unbelievers “*go on from bad to worse*,” believers should be “going from good to better,” all made possible thanks to the grace of our Lord sustaining us through difficult times. This help we receive is an act of graciousness on our Lord’s part because in allowing our faith to grow in this way, He ensures our safety against the ever-growing attacks of the evil one. Satan will always oppose advancing believers because they are more of a threat to his plan, with that plan being to drag as many people away from the truth as possible. By the point of major progression, the believer should know how to counter these aggressive attacks. Especially considering they had to have learned spiritual combat through fundamental spiritual growth, acting entirely in faith and understanding that they have everything they need in Christ Jesus to overcome the devil's ever-advancing threats. 
-
-{{% scripture p="1 Peter 4:1-2 (NASB)" %}}  
-
-Therefore, since Christ has suffered in the flesh, arm yourselves also with the same purpose, because he who has suffered in the flesh has ceased from sin, **2** so as to live the rest of the time in the flesh no longer for the lusts of men, but for the will of God. 
-
-{{% /scripture %}} 
+This help we receive is an act of graciousness on our Lord’s part because in allowing our faith to grow in this way, He ensures our safety against the ever-growing attacks of the evil one. Satan will always oppose advancing believers because they are more of a threat to his plan, with that plan being to drag as many people away from the truth as possible. By the point of major progression, the believer should know how to counter these aggressive attacks (assuming they are not direct tests from God since the Lord tempts no one **James 1:13-18**). Especially considering they had to have learned spiritual combat through fundamental spiritual growth, acting entirely in faith and understanding that they have everything they need in Christ Jesus to overcome the devil's ever-advancing threats. 
 
 We live for Jesus, which entails pain, tears, trials, tribulations, and difficulties of various kinds (**James 1:2-3**). But not only do we have the power of the Holy Spirit to endure them, but we also have the fruits produced in us through the Spirit to keep our perspective faculties set and focused on the eternal bliss that is to come. As long as we continue in the faith, there is nothing the believer has to lose (**Romans 8:28**). Thus, even in the most excruciating times of our lives, we can be joyful during a period in which most people would be miserable. We can be at peace during a period when most people would be afraid. All of this is because we have a definite hope fixed on our future life to come. 
 
@@ -893,15 +823,9 @@ The fact that every believer has a spiritual gift(s) tells us that there are man
 
 As but only two examples, many conservative evangelical churches often refer to ministry as limited to missionary work overseas or pastoring a church. But there are many more ministries assigned by our Lord that don’t fit the basic mold of what traditionalists have deemed “ministry.” Where and how we do this is not what matters, as long as it involves the truth. What is so dangerous about having a limited perspective on Christian service is that it misjudges other genuine ministries, construing the meaning of serving God and discouraging those doing the Lord’s work from continuing to serve Him. Nor is it the case that any particular ministry is more important than another, just as no spiritual gift is better than the next one. 
 
-It is easy for many Christians to fall into the trap of believing their “work for the Lord” is insufficient compared to others whose work may seem more prevalent, well-spoken of, and noticed. But we need to remember that it’s the Lord’s opinion which matters, not men’s. Christ is the one who judges and rewards our production here on earth, every detail, from its quality to its quantity. Just because some may seem to be more productive; just because something seems a certain way does not make it so. God is perfect, and He notices all the work we do, catching every detail and bit of fruit we produce. Nothing escapes His attention, and only He knows the heart and motivations inside every one of us. He is the perfect judge, so He will never give more to those not worthy of it. Quality is another factor that the Lord will judge perfectly (**1 Corinthians 3:11-13**). 
+It is easy for many Christians to fall into the trap of believing their “work for the Lord” is insufficient compared to others whose work may seem more prevalent, well-spoken of, and noticed. But we need to remember that it’s the Lord’s opinion which matters, not men’s (**Matthew 19:30**). Christ is the one who judges and rewards our production here on earth, every detail, from its quality to its quantity. Just because some may seem to be more productive; just because something seems a certain way does not make it so. God is perfect, and He notices all the work we do, catching every detail and bit of fruit we produce. Nothing escapes His attention, and only He knows the heart and motivations inside every one of us. He is the perfect judge, so He will never give more to those not worthy of it. Quality is another factor that the Lord will judge perfectly (**1 Corinthians 3:11-13**). 
 
 We shouldn’t be afraid of what men think or by who they praise and popularize. We seek praise from God and not from people, and to further reinforce the encouragement here, a greater love for God means caring about His opinion more than men’s. It may take time and spiritual growth, but we can achieve this correct mentality through the Lord's strength. 
-
-{{% scripture p="Matthew 19:30 (NIV)" %}}  
-
-**30** But many who are first will be last, and many who are last will be first. 
-
-{{% /scripture %}} 
 
 #### **C.  Spiritual Gifts** 
 
@@ -924,18 +848,6 @@ Every believer receives a spiritual gift at the very moment of salvation for the
 There are so many spiritual gifts that it would be impossible to know close to all of them. For this reason, we will not examine in list form the spiritual gifts mentioned in our passages above, for that would entail an all but impossible task, fundamental understanding of the gifts we have mentioned in Scripture aside. Our study has to do with preparing for the tribulation through spiritual growth, progress, and production, so to avoid drifting afar off, we will discuss this no further. 
 
 #### **E.  The Spirit’s Role in our Spiritual Gifts and Ministries** 
-
-{{% scripture p="Philippians 2:13 (NASB)" %}}  
-
-For it is God who is at work in you, both to will and to work for *His* good pleasure. 
-
-{{% /scripture %}} 
-
-{{% scripture p="John 15:5 (NIV)" %}}  
-
-**5** “I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit; apart from me you can do nothing.                                        
-
-{{% /scripture %}} 
 
 {{% scripture p="1 Corinthians 12:4-7 (NASB)" %}}  
 
@@ -1117,13 +1029,7 @@ As Jesus told us in His message to Laodicea, “*here I am! Behold I stand at th
 
 {{% /scripture %}} 
 
-The book of Revelation and all of Scripture should be enough to motivate believers to follow through on God's plans for their lives. Consider how gracious our God is! He did not have to create the angels or us, yet He made us for Himself to share in His eternal Kingdom forever. Our Savior died for our sins by giving Himself for us on the cross, suffering all the pain and difficulty in the process, a sacrificial death so great that no others in the history of humanity could ever compare to it. There is so much He has done for us that it is hard to even begin a discussion about it, and the truth of the matter is that no person will ever be able to contemplate all that God has done. Yet how could we not want to live for Him? Is suffering all that much compared to eternity and all that Christ has done for us to have it? How can we neglect so great a salvation or, worse yet, throw it away? Our Lord Jesus wants to give us eternal treasures, so why would we desire to exchange them for temporary things? Nothing in this world is worth hanging onto, for only our faith in Jesus Christ is of any value worth holding fast. 
-
-{{% scripture p="1 John 3:1 (KJV)" %}}   
-
-Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not. 
-
-{{% /scripture %}} 
+The book of Revelation and all of Scripture should be enough to motivate believers to follow through on God's plans for their lives. Consider how gracious our God is **1 John 3:1**! He did not have to create the angels or us, yet He made us for Himself to share in His eternal Kingdom forever. Our Savior died for our sins by giving Himself for us on the cross, suffering all the pain and difficulty in the process, a sacrificial death so great that no others in the history of humanity could ever compare to it. There is so much He has done for us that it is hard to even begin a discussion about it, and the truth of the matter is that no person will ever be able to contemplate all that God has done. Yet how could we not want to live for Him? Is suffering all that much compared to eternity and all that Christ has done for us to have it? How can we neglect so great a salvation or, worse yet, throw it away? Our Lord Jesus wants to give us eternal treasures, so why would we desire to exchange them for temporary things? Nothing in this world is worth hanging onto, for only our faith in Jesus Christ is of any value worth holding fast. 
 
 {{% scripture p="Romans 11:22 (NASB)" %}}   
 
