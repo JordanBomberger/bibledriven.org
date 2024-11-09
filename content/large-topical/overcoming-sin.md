@@ -39,12 +39,6 @@ Here is where personal reflection is most helpful. Whether the individual is an 
 
 Think of a marriage relationship as a loose analogy. When two people are in the process of getting married, they both recite vows to each other. They do this to stay committed to their relationship with each other in all love and honesty. We assume they have counted the cost of sacrifice, which a marriage relationship will entail. Time and space do not permit us to examine the many challenges that marriage presents a couple, but the marriage analogy is helpful to a small degree. Assuming they stay faithful to one another “till death do them part,” the two have made a lifelong commitment to each other. Divorcing for no good reason would be a sin, but the choice to do so will always be there. So it is with the believer’s relationship with the Lord (except that breaking up from Him is always a sin). 
 
-{{% scripture p="John 6:38-40 (NIV)" %}} 
-
-**38** For I have come down from heaven not to do my will but to do the will of him who sent me. **39** And this is the will of him who sent me, that I shall lose none of all those he has given me, but raise them up at the last day. **40** For my Father’s will is that everyone who looks to the Son and believes in him shall have eternal life, and I will raise them up at the last day.”                                                                              
-
-{{% /scripture %}} 
-
 {{% scripture p="Hebrews 3:13-14 (ESV)" %}} 
 
 **13** But exhort one another every day, as long as it is called “today,” that none of you may be hardened by the **deceitfulness of sin**. **14** For we have come to share in Christ, **if indeed we hold our original confidence firm to the end**.          
@@ -53,7 +47,7 @@ Think of a marriage relationship as a loose analogy. When two people are in the 
 
 When our Lord tells us to count the cost, He is doing so for multiple reasons. Sin is part of this reason (though far from always) along with personal trials, tribulations all involving suffering of some sort to some degree. God wants to spare individuals from putting themselves through so much pain and suffering for nothing. How much agony would there be to get saved, go through all the troubles and hardships of personal growth and sanctification, only to turn back and throw that “so great a salvation” away? All the suffering they experienced in spiritual growth was for nothing. 
 
-As difficult as spiritual growth (also involving overcoming sin) may be, there has to be a balance here. There is a sweet spot between overestimating the difficulty of spiritual growth and underestimating it, for both are liable to harm our faith one way or another. If we overestimate the challenge, the chances are that we will become depressed and majorly discouraged when we fail to believe that we can have victory in our battles. That is an easy way to have our faith swamped. God’s will for us is to be perfect (**Matthew 5:48**), but He knows very well that even as believers, we will never achieve sinless perfection in this life, and that is because we are but flesh possessing a sinful nature (**1 John 1:8**)  (something that will not cease to exist during our time here on earth). 
+As difficult as spiritual growth (also involving overcoming sin) may be, there has to be a balance here. There is a sweet spot between overestimating the difficulty of spiritual growth and underestimating it, for both are liable to harm our faith one way or another. If we overestimate the challenge, the chances are that we will become depressed and majorly discouraged when we fail to believe that we can have victory in our battles. That is an easy way to have our faith swamped. God’s will for us is to be perfect, but He knows very well that even as believers, we will never achieve sinless perfection in this life, and that is because we are but flesh possessing a sinful nature (**1 John 1:8**)  (something that will not cease to exist during our time here on earth). 
 
 But what the Lord expects from every believer is their very best. Our Savior wants us to run this race as fast as possible without compromise and the thought of turning back. However, there is no specific level a person must attain to know they are spiritually mature and that their lifestyle is acceptable before God. As long as the believer continues to grow spiritually (is seeing at least some results) and follows the Holy Spirit’s leading, obeying their commander, then they will have that satisfactory feeling of peace knowing their conduct is acceptable in the sight of their Lord. We should always strive to do better and more for as long as we live. We can never afford to relax and remain fixated in one spot, for we must always be on the move spiritually, continually striving to do our best for Christ at all times. 
 
@@ -67,18 +61,6 @@ The other extreme in this, underestimating the challenge, a partial example bein
 
 We never know when temptations will come, for they often come when we expose ourselves because of letting our guard down, and it is almost always when we are at our weakest that Satan launches some of his best attacks. He learns by observation and experience where our spiritual weaknesses lie, and these he will most certainly exploit given the opportunity. That is why **1 Peter 5:8-9** tells us to be alert and of sober mind at all times, for we cannot afford to be caught unaware. The believer must always keep an eye out for enemy attack, not in dread or fear, but in clarity of mind with zealous and dedicated love for God whose peace will guard their hearts and minds if they would but keep their eyes fixed on Him at all times. This is where thinking on things above (meditation) is so important (**Colossians 3:2, Philippians 4:8**).
 
-{{% scripture p="1 Peter 4:1-2 (NIV)" %}}  
-
-Therefore, since Christ suffered in his body, arm yourselves also with the same attitude, because whoever suffers in the body is done with sin. **2** As a result, they do not live the rest of their earthly lives for evil human desires, but rather for the will of God. 
-
-{{% /scripture %}} 
-
-{{% scripture p="Hebrews 12:4 (NIV)" %}} 
-
-**4** In your struggle against sin, you have not yet resisted to the point of shedding your blood.                                                                         
-
-{{% /scripture %}} 
-
 {{% scripture p="1 Peter 5:8-9 (NIV)" %}} 
 
 **8** Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion looking for someone to devour. **9** Resist him, standing firm in the faith, because you know that the family of believers throughout the world is undergoing the same kind of sufferings.                                                                       
@@ -91,15 +73,15 @@ Every person must be aware that living the Christian life will be steeped with p
 
 Whenever we sin, we are to confess, forget and move on immediately. We should never write off the day, dally, or wallow in our failures. However, we should not understand this to mean that we are not to understand and be aware of the dangers that sin presents and the consequences it can and will have on us (they can vary depending on how deeply involved we are). We should never focus on the things we’ve done wrong because we are told to forget what lies behind and fix our eyes squarely on Jesus (**Philippians 3:13**). But we need to remember that we cannot just act as if we can sin and expect their to be no consequences at all. Every time we sin, we inflict a little bit of damage on ourselves regardless of how spiritually mature and advanced we may be. If we fail to take the dangers sin presents to our lives seriously, we may become more complacent about overcoming it and cut back on our efforts to deal with it (which may lead to us never dealing with the issue at all). We may even begin to justify it and come up with excuses as to why we have committed it as much as we have. We may not even see the damage done as something we urgently need to deal with. Sin has a blinding effect on our Christian life and always damages our faith to some extent! The more we do it, the less we walk in the light, and the more we stumble about in the darkness (**1 John 1:6**). 
 
- We can never afford to be double-minded regarding sin (**James 1:5-8**). Either we are going to strengthen our resolve (perhaps even reevaluate our approach if failure continues because we may be going about the issue the wrong way---self-examination may be necessary once in a while) and get right back in the fight and continue engaging in this ongoing war until victory or we will continue to allow ourselves to be ruled and dominated by something we know no longer has any power over us. Romans chapters six through eight deal with this very issue of how we (as believers) are no longer slaves to sin and that we have the power to defeat and rule over it. For the sake of time and space, we will not post any of those passages here. I would ask and encourage the reader to visit those three chapters to get a better idea of the issue of sin all believers must deal with (**Romans 6-8**). 
+ We can never afford to be double-minded regarding sin. Either we are going to strengthen our resolve (perhaps even reevaluate our approach if failure continues because we may be going about the issue the wrong way---self-examination may be necessary once in a while) and get right back in the fight and continue engaging in this ongoing war until victory or we will continue to allow ourselves to be ruled and dominated by something we know no longer has any power over us. Romans chapters six through eight deal with this very issue of how we (as believers) are no longer slaves to sin and that we have the power to defeat and rule over it. For the sake of time and space, we will not post any of those passages here. I would ask and encourage the reader to visit those three chapters to get a better idea of the issue of sin all believers must deal with (**Romans 6-8**). 
 
 To continue, not all sin brings divine discipline, especially the everyday ones that all believers (even the most spiritually advanced) commit. If we are growing in a particular struggle and are seeing improvements in that we are stumbling less and less, the lesser the damage and consequences will be. But if we aren’t getting better but only getting worse (we are either moving forward or backward), then we can expect divine discipline and the ugly symptoms and side effects of sin (we will discuss those further below) to show themselves more glaringly. And even after we repent, not all the symptoms or side effects of sin will go away immediately overnight (they may linger for a while). 
 
 The more we give in to sin, the stronger an influence it will begin to have in our lives so that saying no to it becomes harder and harder (even though far from impossible). It is true that the deeper a pit we dig for ourselves, the longer and harder it will be for us to get out, and the more our spiritual growth, progress, and production will be stunted (as a natural result). If we sin less, we can and will do more for God. If we sin more, then we will do less by default. 
 
-The greatest danger sin presents (one we will discuss later in our present study and have discussed elsewhere in this ministry) is its damaging effects on our faith. It can contribute to the process (though it doesn’t always have to be involved) of apostasy whereby it begins to weaken our faith in Christ by taking priority in our lives. As this terrible cycle continues, the individual will slowly but surely find themselves living less like a believer and more like an unbeliever. Since “no one born of God goes on sinning” (**1 John 5:18**), a decision will have to be made sooner or later. Once a person’s heart has become so hardened in sin, they will eventually have to decide whether to keep serving it or repent and return to the Lord. If no repentance ever comes (assuming divine discipline has not had much of an effect on the person), then said individual has chosen to serve another god (sin) in the place of the One and only true God. That is idolatry, and those who live that way will not inherit the kingdom of heaven (**1 Corinthians 6:9-11**).  Continued allegiance to Christ (following Him faithfully to the very end) is the same as continued belief in Him. You cannot serve and believe in God while serving an “idol” that we have come to put above our relationship with the Lord. We cannot serve God and money simultaneously (**Matthew 6:24**), and those who attempt to do so have wandered from the faith by piercing themselves with many griefs (**1 Timothy 6:10**). 
+The greatest danger sin presents (one we will discuss later in our present study and have discussed elsewhere in this ministry) is its damaging effects on our faith. It can contribute to the process (though it doesn’t always have to be involved) of apostasy whereby it begins to weaken our faith in Christ by taking priority in our lives. As this terrible cycle continues, the individual will slowly but surely find themselves living less like a believer and more like an unbeliever. Since “no one born of God goes on sinning” (**1 John 5:18**), a decision will have to be made sooner or later. Once a person’s heart has become so hardened in sin, they will eventually have to decide whether to keep serving it or repent and return to the Lord. If no repentance ever comes (assuming divine discipline has not had much of an effect on the person), then said individual has chosen to serve another god (sin) in the place of the One and only true God. That is idolatry, and those who live that way will not inherit the kingdom of heaven (**1 Corinthians 6:9-11**).  Continued allegiance to Christ (following Him faithfully to the very end) is the same as continued belief in Him. You cannot serve and believe in God while serving an “idol” that we have come to put above our relationship with the Lord. We cannot serve God and money simultaneously (**Matthew 6:24**). 
 
-The above is the greatest danger that sin presents the believer. For while apostasy through giving oneself over to sin requires an extraordinarily hardened heart to accomplish (it is a drawn out process), it is still a danger we always need accept since we may fool ourselves into thinking we can do anything (even go on to deny our faith in Christ) and still be saved. That is the biggest danger with the false teaching of the extreme version of eternal security (not perseverance of the saints, even if that is also a false doctrine). But from that significant risk aside, there are also other dangerous symptoms and side effects that sin can bring into our lives (even for serious believers determined to stay faithful to Christ till the very end-all believers in general). Sin (assuming it is getting worse) deprives us of the peace, hope, and joy we are supposed to have as God’s children. The less of the fruits of the spirit we have, the harder it will be for us to advance and walk in faith and obedience to Christ. We cannot enjoy and more fully and meaningfully experience the Christian life as the Lord intended for us if we see less of the fruits of the Spirit produced in our lives. Without godly peace, it will be harder for us to get back on track to where we need to be because worry and anxiety can paralyze faith, making it harder to be effective ambassadors for Christ through the witness we give to others (both believers and unbelievers). 
+Apostasy is the greatest possible danger that unchecked sin presents the believer. For while apostasy through giving oneself over to sin requires an extraordinarily hardened heart to accomplish (it is a drawn out process), it is still a danger we always need accept since we may fool ourselves into thinking we can do anything (even go on to deny our faith in Christ) and still be saved. That is the biggest danger with the false teaching of the extreme version of eternal security (not perseverance of the saints, even if that is also a false doctrine). But from that significant risk aside, there are also other dangerous symptoms and side effects that sin can bring into our lives (even for serious believers determined to stay faithful to Christ till the very end-all believers in general). Sin (assuming it is getting worse) deprives us of the peace, hope, and joy we are supposed to have as God’s children. The less of the fruits of the spirit we have, the harder it will be for us to advance and walk in faith and obedience to Christ. We cannot enjoy and more fully and meaningfully experience the Christian life as the Lord intended for us if we see less of the fruits of the Spirit produced in our lives. Without godly peace, it will be harder for us to get back on track to where we need to be because worry and anxiety can paralyze faith, making it harder to be effective ambassadors for Christ through the witness we give to others (both believers and unbelievers). 
 
 Even though all believers have a sense of peace because they all stand justified before God by faith through grace alone, that peace (as well as our hope and joy **Romans 5:1-2**) will decline the more we fail to live out the true identity and reality we have as those who have been set free by the sacrificial death of Jesus Christ. In other words, all believers are saved and have a relationship with Jesus. But that relationship will be foggy because it is not pursued (and thus experienced) as it should be. Would we rather live in fear and worry all the time or in the freedom that brings for a good and meaningful life? Sin will only take away our joy by continuing to make us more unhappy and depressed the more we give in to it. And this may cause us to see ourselves as hopeless individuals who don’t see living for God as truly worth it. We may begin to rationalize that the Christian life will only bring unhappiness, not the true peace, joy, and hope the Lord wants us to have. 
 
@@ -113,23 +95,11 @@ To summarize this section, let us be realistic about the dangers of sin and the 
 
 Satan has many methods of assault in his arsenal to oppose and destroy the growing believer (the lie being among the biggest and most-prominent). The world we currently live in now is a perfect testimony to this. It would be impossible to cover the many things and distractions this life contains that could quickly become a stumbling block for the believer, for they are very many indeed. Satan never plays fair, and he will use anything at his disposal to trip up God’s holy ones to further his cause, to thwart the plan of God by leading all believers astray. This plan, however, as we know from Scripture, is an impossible task. For it is not in Satan’s power to make any person’s decision for them, which means that all he can do is make that choice to choose for God all the harder, and this he will do to the best of his abilities to the extent that God allows. He is limited, for the Lord controls the degree of satanic attack on believers and unbelievers. Satan can only tempt those born again as far as God will allow, and rest assured, our Lord will never allow any of his own to suffer temptation beyond what they can handle. The level of temptation and testing corresponds with our particular level of spiritual maturity (faith) at that specific moment, and our Lord’s perfect knowledge of the situation guarantees that we can always escape if we genuinely desire to do so. 
 
-{{% scripture p="John 17:14-16 (ESV)" %}} 
-
-**14** I have given them your word, and the world has hated them because they are not of the world, just as I am not of the world. **15** I do not ask that you take them out of the world, but that you keep them from the evil one. **16** They are not of the world, just as I am not of the world. 
-
-{{% /scripture %}} 
-
 {{% scripture p="James 4:7 (KJV)" %}} 
 
 **7** Submit yourselves therefore to God. Resist the devil, and he will flee from you. 
 
 {{% /scripture %}}  
-
-{{% scripture p="1 Corinthians 10:13 (ESV)" %}} 
-
-**13** No temptation has overtaken you that is not common to man. God is faithful, and he will not let you be tempted beyond your ability, but with the temptation he will also provide the way of escape, that you may be able to endure it. 
-
-{{% /scripture %}}   
 
 Satan is not allowed all-time access to any particular believer to hound them as much as he pleases, for even this has a limit. There will be times when he will not be present to attack any particular person, which should give us much relief. But the Lord does allow the devil to attack us nonetheless, and temptation is something that we will have to fight every day. It's part of our job description, so the believer should be peacefully braced at all times, expecting satanic attacks to come and not be surprised when they do. 
 
@@ -207,7 +177,7 @@ It is also true that we are usually at our strongest when we are at our most vul
 
 {{% /scripture %}}    
 
-Some complete deliverances are quick, while others are longer. Our Lord knows exactly how strong we are, what we can handle, and what we can’t. He knows our strengths and weakness better than we will ever know, and He most certainly knows them far better than our enemy, the devil. The Lord knows how far we can go, how much He can "stretch us" if you will. Whatever He allows us to go through, rest assured that He has perfect knowledge and understanding of the situation, meaning that we can endure through whatever challenge we face. How could a faithful God allow anything else? Does God authorize sin? Of course not! God, in His infinite wisdom, knew every difficulty we would undergo before we even encountered them. The Lord knows how to help His own, and He can easily sympathize and relate to us because He, too, once suffered in the flesh as we do, but to a much greater degree (and He was perfect). Our Savior knows what it's like to endure temptation because He was tempted by the evil one for his entire life on earth (**Hebrews 4:15**). Jesus knew suffering more than any human being has and will ever know (a combination of both physical, mental and spiritual anguish). No person has ever had it nearly as difficult as our Lord Jesus did during His 33 years here on this earth. He has the power and experience to help all those who belong to Him. 
+Some complete deliverances are quick, while others are longer. Our Lord knows exactly how strong we are, what we can handle, and what we can’t. He knows our strengths and weakness better than we will ever know, and He most certainly knows them far better than our enemy, the devil. The Lord knows how far we can go, how much He can "stretch us" if you will. Whatever He allows us to go through, rest assured that He has perfect knowledge and understanding of the situation, meaning that we can endure through whatever challenge we face. How could a faithful God allow anything else? Does God authorize sin? Of course not! God, in His infinite wisdom, knew every difficulty we would undergo before we even encountered them. The Lord knows how to help His own, and He can easily sympathize and relate to us because He, too, once suffered in the flesh as we do, but to a much greater degree (and He was perfect). Our Savior knows what it's like to endure temptation because He was tempted by the evil one for his entire life on earth (**Hebrews 4:15**). Jesus knew suffering more than any human being has and will ever know (a combination of both physical, mental and spiritual anguish). No person has ever had it nearly as difficult as our Lord Jesus did during His thirty-three years here on this earth. He has the power and experience to help all those who belong to Him. 
 
 {{% scripture p="Psalm 139:2-3 (ESV)" %}}
 
@@ -249,7 +219,7 @@ Even when faced with opposition from multiple sides, we can have peace even duri
 
 {{% /scripture %}}      
 
-The fact that our Savior intercedes for us with “groanings that words cannot express” (**Romans 8:25-27**) goes to show how much He loves us because of how desirous He is to help us. To be clear, God can never suffer anxiety, but He is still always concerned for us. As believers, our job is to choose to obey our Master, no matter the circumstances. **We can read our Bibles, pray, receive solid teaching, meditate, and study all we want. But until we put all those things into practice through application, we can never defeat sin.** Obedience, in this case, is full submission to God’s will in which the person in question has officially chosen to do things God’s way. The first step to obedience for the believer is repentance, and it is to this which we will now turn our attention. 
+As believers, our job is to choose to obey our Master, no matter the circumstances. **We can read our Bibles, pray, receive solid teaching, meditate, and study all we want. But until we put all those things into practice through application, we can never defeat sin.** Obedience, in this case, is full submission to God’s will in which the person in question has officially chosen to do things God’s way. The first step to obedience for the believer is repentance, and it is to this which we will now turn our attention. 
 
 
 
@@ -263,7 +233,7 @@ The fact that our Savior intercedes for us with “groanings that words cannot e
 
 {{% /scripture %}}  
 
-If a believer has been living in habitual sin for a good long time, their first move would be to repent of such erroneous behavior and get back on track to the main road they should have been running originally. The only way to defeat sin is to do it God’s way, not the “way that sounds good to a man, leading to death.” For any believer who has struggled with chronic sin for a long time, a zealous change of mind resulting in a change of actions is the first step. This change of mind is repentance, fully surrendering one’s thoughts, words, and deeds to God. Since sin is anything we think, say, and do that displeases our Savior, giving up our entire self to Him is the only way a person can return to the Lord. Faith and obedience are required, two aspects we will discuss later on in our touchstone passage of Ephesians dealing with the armor of God. 
+If a believer has been living in worsening sin for a good long time, their first move would be to repent of such erroneous behavior and get back on track to the main road they should have been running originally. The only way to defeat sin is to do it God’s way, not the “way that sounds good to a man, leading to death.” For any believer who has struggled with chronic sin for a long time, a zealous change of mind resulting in a change of actions is the first step. This change of mind is repentance, fully surrendering one’s thoughts, words, and deeds to God. Since sin is anything we think, say, and do that displeases our Savior, giving up our entire self to Him is the only way a person can return to the Lord. Faith and obedience are required, two aspects we will discuss later on in our touchstone passage of Ephesians dealing with the armor of God. 
 
 {{% scripture p="Hebrews 12:12-13 (ESV)" %}} 
 
@@ -335,12 +305,6 @@ For one thing, there is no specific level of self-control that we can go by to k
 
 The best thing for believers to do is to let God be the judge. We are not to judge or discipline ourselves, for that is the Lord’s job, and it would be a big mistake for us human beings, imperfect and fallible that we are, to attempt to do something that we cannot do correctly. Only God can evaluate and discipline us in perfection. By taking on this role of judging ourselves as we shouldn’t, we risk falling into either one of the two extremes we have already mentioned. Does that mean we don't get tougher on ourselves when we know we have a major sin problem? Absolutely not! We need to acknowledge our issues and face the sin in our life head on instead of "looking for external ways unrelated to spiritual combat" to solve our problems. Sin is always a heart issue that must be dealt with through spiritual combat. There is nothing we can do in the power of our flesh to defeat something only the Lord can overpower through us. 
 
-{{% scripture p="Hebrews 12:1-3 (ESV)" %}} 
-
-Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us, **2** looking to Jesus, the founder and perfecter of our faith, who for the joy that was set before him endured the cross, despising the shame, and is seated at the right hand of the throne of God. **3** Consider him who endured from sinners such hostility against himself, so that you may not grow weary or fainthearted. 
-
-{{% /scripture %}}  
-
 God has already set the standard of righteousness for us. We simply do our best for Him to fulfill that standard, even though we will never be able to do so perfectly. That is where God’s grace comes in. In dying on the cross to pay for our sins, our dear Lord and Savior fulfilled the Law, giving every human being who has, is, and will ever live a chance to come to Him and have everlasting life. This eternal life is a free gift that no amount of righteous living could purchase, for God’s grace only has to be accepted through faith to receive this “offer of offers.” 
 
 {{% scripture p="1 Peter 1:13-16 (NKJV)" %}} 
@@ -374,12 +338,6 @@ All people who believe in the Lord Jesus Christ are saved. Unchecked, excessive 
 **12** Take care, brothers, lest there be in any of you an evil, unbelieving heart, leading you to fall away from the living God. **13** But exhort one another every day, as long as it is called “today,” that none of you may be hardened by the deceitfulness of sin. **14** For we have come to share in Christ, **if indeed we hold our original confidence firm to the end**.                                                                 
 
 {{% /scripture %}}   
-
-{{% scripture p="1 Timothy 6:10 (NIV)" %}} 
-
-**10** For the love of money is a root of all kinds of evil. Some people, eager for money, have wandered from the faith and pierced themselves with many griefs.
-
-{{% /scripture %}} 
 
 On a more positive note, our salvation is not dangling on a thread in that God casts us away from His presence over the occasional sin or even a lot of sins, though the more we sin, the more we put ourselves at greater risk of turning away all together. On the contrary, God’s grace covers all of the sins we have committed, are committing, and will ever commit in this life. Christ has already paid the price of our sins by dying on the cross, and failing to accept His forgiveness in our lives is to insult Him by saying that His sacrifice, in which He suffered so much pain, agony, and humiliation, was not enough.  ALL our sins have been covered by the blood that Jesus Christ shed for our eternal life! We cannot work our way to heaven; it's just not possible. 
 
@@ -473,7 +431,7 @@ Discerning the Lord’s handling of our sins will help us to heed His calling of
 
 The passages above should be enough to give us the whole purpose of discipline. It is out of love from our Lord from a genuine concern for our spiritual safety and well-being. What a loving God we serve! 
 
-To end our discussion on this, let us remember that God does not throw us out of His family when He disciplines us for having strayed from Him for a time. The whole purpose of His discipline is to keep us from jumping out of His loving embrace! All believers sin, and many will have times where they struggle very badly (even for years depending on the person). We can never allow it to harden our hearts, and we should never use God’s grace as a license to commit evil, for our Savior endured 33 years of immense and terrible suffering for us to have our eternal life with Him. Let us, therefore, exercise prudence when we have erred and embrace the Lord’s discipline, allowing it to sink into our hearts of why it has come our way. It has come to us for a reason, a loving reason, and how could this fact not want to make us return the love? 
+To end our discussion on this, let us remember that God does not throw us out of His family when He disciplines us for having strayed from Him for a time. The whole purpose of His discipline is to keep us from jumping out of His loving embrace! All believers sin, and many will have times where they struggle very badly (even for years depending on the person). We can never allow it to harden our hearts, and we should never use God’s grace as a license to commit evil, for our Savior endured thirty-three years of immense and terrible suffering for us to have our eternal life with Him. Let us, therefore, exercise prudence when we have erred and embrace the Lord’s discipline, allowing it to sink into our hearts of why it has come our way. It has come to us for a reason, a loving reason, and how could this fact not want to make us return the love? 
 
 {{% scripture p="Romans 2:4 (NASB)" %}} 
 
@@ -503,19 +461,7 @@ Although not omnipresent himself, Satan will take any opportunity he can to atta
 Not all temptations come from the Devil. There are times when he often gets too much credit because a lot of temptations can and do come solely from our flesh (sin nature) instead of Satan and our flesh (combined). There are times when our flesh just feels like doing wrong things without Satan even being involved. But this difference is not something we can know at any given time and is thus unimportant because all temptations are to be resisted and overcome. Temptation is temptation no matter how they creep into our minds. 
 {{% /note %}}
 
-Although there are some things we can’t know about temptation, when it will come, how long it will last, and how difficult it will be, we know what to do when it shows its ugly face. We understand that all we have to do is say NO. We resist in Christ’s power just as how we have done with any other temptation. Regardless of how the evil one may tweak and adjust his attacks (temptation is still temptation after all), they will always fail when up against the Lord Jesus, which means we must fight against Satan in God’s power at all times. 
-
-{{% scripture p="Romans 15:13 (ESV)" %}} 
-
-**13** May the God of hope fill you with all joy and peace in believing, so that **by the power of the Holy Spirit you may abound in hope.**                                     
-
-{{% /scripture %}}   
-
-{{% scripture p="Romans 7:18-20 (ESV)" %}} 
-
-**18** For I know that nothing good dwells in me, that is, in my flesh. For I have the desire to do what is right, but not the ability to carry it out. **19** For I do not do the good I want, but the evil I do not want is what I keep on doing. **20** Now if I do what I do not want, it is no longer I who do it, but sin that dwells within me. 
-
-{{% /scripture %}}   
+Although there are some things we can’t know about temptation, when it will come, how long it will last, and how difficult it will be, we know what to do when it shows its ugly face. We understand that all we have to do is say NO (**James 4:7**). We resist in Christ’s power just as how we have done with any other temptation. Regardless of how the evil one may tweak and adjust his attacks (temptation is still temptation after all), they will always fail when up against the Lord Jesus, which means we must fight against Satan in God’s power at all times. 
 
 {{% scripture p="Romans 8:26 (NASB)" %}} 
 
@@ -549,12 +495,6 @@ Now, if the believer is fortunate, the moment they step away from the Lord’s p
 
 Our job is to submit to God, step out of the way, and let Him take over. He will then do the rest. We should remember Israel beside the sea, the sea to their front, and the Egyptians to their rear. Despite their predicament, Moses told the people to “*stand back and see the salvation of the Lord*” (**Exodus 14:13**). That is the part we play in all this, submitting our will to the Lord in faith and obedience and then letting Him do all the work. We may be weak and powerless to help ourselves, but God is strong and mighty to save. All things can easily be accomplished in the power of the Holy Spirit through faith, for there is nothing we cannot do through our Lord and Savior Jesus Christ. We just have to be willing to obey, desiring to put God’s will before our own. That is submission, something every good servant does. We are slaves of Jesus, not slaves of the flesh to obey its lusts. We belong to Christ, and as His children, we have everything we need to accomplish the task He has for us to carry out, and there will never be a wall too high that we will not be able to kick down through the Lord’s power. 
 
-{{% scripture p="Joshua 1:9 (NASB)" %}} 
-
-**9** Have I not commanded you? Be strong and courageous! Do not tremble or be dismayed, for the Lord your God is with you wherever you go.” 
-
-{{% /scripture %}}   
-
 {{% scripture p="Galatians 5:17-25 (ESV)" %}} 
 
 **17** For the desires of the flesh are against the Spirit, and the desires of the Spirit are against the flesh, for these are opposed to each other, to keep you from doing the things you want to do. **18** But if you are led by the Spirit, you are not under the law. **19** Now the works of the flesh are evident: sexual immorality, impurity, sensuality, **20** idolatry, sorcery, enmity, strife, jealousy, fits of anger, rivalries, dissensions, divisions, **21** envy, drunkenness, orgies, and things like these. I warn you, as I warned you before, that those who do such things will not inherit the kingdom of God. **22** But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, **23** gentleness, self-control; against such things there is no law. **24** And those who belong to Christ Jesus have crucified the flesh with its passions and desires. **25** If we live by the Spirit, let us also keep in step with the Spirit. 
@@ -572,12 +512,6 @@ When we battle temptation through the Spirit’s power, we fight in God’s stre
 By itself, free will is not enough, for we cannot “will” our enemies assaults away. Submission to God’s strength through faith is the only thing that can do that. A plant cannot live, grow, and thrive without a root, can it? Christ is our foundation, our “root” holding us up. 
 
 Our flesh will continuously nag us during our stay here on earth, and the only way to resist its cravings is to counter them through the power of the one who defeated the power of sin, death, and the flesh at the cross. Our faith in Him has liberated us from all evil. Never do we have to obey its desires, for we always have a choice in the matter to say no. The Lord will always extend a helping hand to those who cry out to Him for help in times of distress, and He will never fail to deliver us. Nor will He ever leave us, which begs the question, “What are the whereabouts of the Holy Spirit when we sin, even falling into habitual sin for a time? A few things need to be cleared up regarding the Holy Spirit’s position and relation to our lives when sin is involved. 
-
-{{% scripture p="Psalm 51:10-12 (NIV)" %}} 
-
-**10** Create in me a pure heart, O God, and renew a steadfast spirit within me. **11** Do not cast me from your presence or take your Holy Spirit from me.  **12** Restore to me the joy of your salvation and grant me a willing spirit, to sustain me. 
-
-{{% /scripture %}}   
 
 Anyone who does not have the Holy Spirit living within them does not belong to Christ (**Romans 8:9**). That is because the Spirit is the “witness” or “pledge” of our salvation, testifying to our human spirit that we belong to Him and empowering us to live the Christian life. We have also discussed the process of repentance, confession, and forgiveness and the meaning of apostasy. As we already know, we DO NOT lose our salvation from committing everyday sins or from even falling into deep, habitual sin for a time. Salvation can only be lost when there has been a complete departure from the faith, a person reverting from belief to complete unbelief (rejecting Jesus Christ is the only sin for which the Lord could not die **Matthew 12:31-32**). 
 
@@ -623,13 +557,7 @@ Today, all believers are blessed to have the presence of the indwelling Spirit a
 
 Scripture is so important on so many levels. It reveals who God is, showing us the “mind of Christ,” revealing His desires for all humanity. The Bible speaks of many positive things to help us live our best for the One who bought us with His precious blood, but it is impossible to know all of these beautiful truths on this side of eternity. Nonetheless, Christ will always ensure that those who desire more “spiritual food” will receive enough to live a victorious life. But learning these many important truths is not an overnight process, and it can take years to effectively assimilate and adequately apply some of these same principles in one’s life. 
 
-{{% scripture p="Philippians 4:19 (KJV)" %}}
-
-**19** But my God shall supply all your need according to his riches in glory by Christ Jesus.                                                                       
-
-{{% /scripture %}}   
-
-The truth of God’s Word contains all the perfect information we believers will ever need to live the Christian life. We can never say, “the Bible contains too much,” or “it contains too little.” Such has and will never be the case. So why would we doubt our ability to overcome sin through its power? Is it not sufficient enough? Of course it is, for it is the complete revelation of Jesus Christ, His message to the world. What the Lord has written, He has written for a purpose. All 66 books of the Bible were inspired by God and then written down by man. But it was not man’s knowledge that was the reason for which books belonged in His Word, but it was by God’s inspiration. The Bible is trustworthy, so the believer contemplating their own life’s struggles can put complete confidence in its authority. 
+The truth of God’s Word contains all the perfect information we believers will ever need to live the Christian life. We can never say, “the Bible contains too much,” or “it contains too little.” Such has and will never be the case. So why would we doubt our ability to overcome sin through its power? Is it not sufficient enough? Of course it is, for it is the complete revelation of Jesus Christ, His message to the world. What the Lord has written, He has written for a purpose. All sixty-six books of the Bible were inspired by God and then written down by man. But it was not man’s knowledge that was the reason for which books belonged in His Word, but it was by God’s inspiration. The Bible is trustworthy, so the believer contemplating their own life’s struggles can put complete confidence in its authority. 
 
 {{% scripture p="2 Timothy 3:16-17 (KJV)" %}} 
 
@@ -673,29 +601,11 @@ The belt of truth refers to the believer's full acceptance and understanding of 
 
 So how much time should we spend getting in our Bible’s every day? Well, there is no answer to that question, but it should be enough to get us through the challenges we face day in and day out, not meaning we won’t mess up, of course, for every individual sins. There is no specific way to do this, for how we do it does not matter as much as we do it. Having a particular schedule is undoubtedly extremely helpful and most certainly has its advantages (though we should always be ready for things to change and get in the way once in a while; setbacks). We should be striving to get in the Word every day, even though the Bible makes no rule on this since it is not mandatory. However, the question is not whether the Bible commands it, but rather, what is the safest and most effective option in this case? We have to remember that Satan roams around like a roaring lion, looking for his next victim to devour. As mentioned earlier in our study, though he may not be omnipresent, we as mere human beings most certainly do not know when a strike will occur. Best to be safe and take advantage of every day we have to take in God’s truth (although the details will rightly differ from individual to individual). 
 
-{{% scripture p="Ephesians 6:12 (NLT)" %}} 
-
-**12** For we are not fighting against flesh-and-blood enemies, but against evil rulers and authorities of the unseen world, against mighty powers in this dark world, and against evil spirits in the heavenly places.                                                                  
-
-{{% /scripture %}}   
-
-{{% scripture p="1 Timothy 6:12 (NASB 1995)" %}} 
-
-**12** Fight the good fight of faith; take hold of the eternal life to which you were called, and you made the good confession in the presence of many witnesses.  
-
-{{% /scripture %}}   
-
 #### **B. Good Solid Bible Teaching** 
 
 A believer must read the Bible for themselves, understand it, believe it, and then apply it in their everyday life, which is part of taking up our cross daily and following Jesus. Using truth in one’s walk usually entails denying self, sacrificing whatever necessary to abstain from anything displeasing to the Lord. 
 
-As important as reading the Word on our own is, a significant part of our learning should be from qualified men whom the Holy Spirit has led to teach the Bible. The whole point of spiritual gifts is to use them in the ministry the Lord has called us. All of this is for His glory to fulfill His plan and purpose for humanity, particularly believers. As servants of Christ, our goal is to use our gifts to lead other people to the truth and help them grow in it. 
-
-{{% scripture p="Romans 12:6-8 (ESV)" %}} 
-
-**6** Having gifts that differ according to the grace given to us, let us use them: if prophecy, in proportion to our faith; **7** if service, in our serving; the one who teaches, in his teaching; **8** the one who exhorts, in his exhortation; the one who contributes, in generosity; the one who leads, with zeal; the one who does acts of mercy, with cheerfulness. 
-
-{{% /scripture %}}   
+As important as reading the Word on our own is, a significant part of our learning should be from qualified men whom the Holy Spirit has led to teach the Bible. The whole point of spiritual gifts is to use them in the ministry the Lord has called us. All of this is for His glory to fulfill His plan and purpose for humanity, particularly believers. As servants of Christ, our goal is to use our gifts to lead other people to the truth and help them grow in it (**Ephesians 4:11-16**). 
 
 Every believer has been given a spiritual gift(s) at the moment of salvation, and the Lord expects us to use them. God provides for a reason and a purpose, which is to fulfill His plan for the world. By submitting ourselves to God, putting ourselves at His disposal, we allow ourselves to be a more crucial part of that plan. 
 
@@ -769,7 +679,7 @@ Finding truth, searching for it by seeking it out no matter the cost, takes comm
 
 {{% /scripture %}}   
 
-This whole process of searching takes considerable discernment. Finding answers in a spiritual haven may take time and pain because the process can be gruesome. But what is needed is endurance, the patience to wait on the Lord for Him to bring the answers (I**saiah 40:31, Psalm 27:13-14, Lamentations 3:25**, **Proverbs 3:5-6**). The Bible also advises on things believers can do searching for answers, a small handful of verses shown below. For one thing, we should stay away from anything that would weaken our resolve; these include things that would distract us, especially false teaching and anything that would thwart our mission. Additionally, as the believer grows, so will their priorities. Finally, the mature believer knows what is more important to them, and they will go out of their way to put the Lord first in their life, even with all the suffering entailed. 
+This whole process of searching takes considerable discernment. Finding answers in a spiritual haven may take time and pain because the process can be gruesome. But what is needed is endurance, the patience to wait on the Lord for Him to bring the answers (**Isaiah 40:31**, **Psalm 27:13-14**, **Lamentations 3:25**, **Proverbs 3:5-6**). The Bible also advises on things believers can do searching for answers, a small handful of verses shown below. For one thing, we should stay away from anything that would weaken our resolve; these include things that would distract us, especially false teaching and anything that would thwart our mission. Additionally, as the believer grows, so will their priorities. Finally, the mature believer knows what is more important to them, and they will go out of their way to put the Lord first in their life, even with all the suffering entailed. 
 
 {{% scripture p="2 Timothy 2:4 (NASB)" %}} 
 
@@ -777,25 +687,13 @@ This whole process of searching takes considerable discernment. Finding answers 
 
 {{% /scripture %}}   
 
-We can discern good fruit from bad fruit (**Matthew 7:15-20, 1 Corinthians 3:18, Ephesians 6:14, 1 John 4:1, Romans 12:2, James 1:5**). Every person belonging to the Lord can search under the Holy Spirit's guidance to discover the answers. 
+We can discern good fruit from bad fruit (**Matthew 7:15-20**, **Ephesians 6:14**). Every person belonging to the Lord can search under the Holy Spirit's guidance to discover the answers. 
 
 {{% scripture p="Acts 17:11 (NASB)" %}} 
 
-**11** Now these were more noble-minded than those in Thessalonica, for they received the word with great eagerness, examining the Scriptures daily to see whether these things were so. 
+**11** Now these (the Bereans) were more noble-minded than those in Thessalonica, for they received the word with great eagerness, examining the Scriptures daily to see whether these things were so. 
 
-{{% /scripture %}}    
-
-{{% scripture p="Galatians 5:16 (KJV)" %}} 
-
-**16** This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.
-
-{{% /scripture %}}    
-
-{{% scripture p="John 16:13 (NIV)" %}} 
-
-**13** But when he, the Spirit of truth, comes, he will guide you into all the truth. He will not speak on his own; he will speak only what he hears, and he will tell you what is yet to come. 
-
-{{% /scripture %}}    
+{{% /scripture %}}      
 
 The believer who seeks solid truth from a trusted source will find what they are looking for, and God will not fail to deliver. Therefore, let us seek good solid teaching and good spiritual food to obtain spiritual healthiness. 
 
@@ -844,18 +742,6 @@ Without faith, it is impossible to please God (**Hebrews 11:6**). If the believe
 {{% /scripture %}}   
 
 Here is what we must keep in mind. Temptation is temptation, period. Though some may be more difficult, drawn-out, and aggressive than others, they are, in essence, all the same. Satan can attack us from different angles, pry our greatest weaknesses, and strike when we slack in our spiritual alertness. He will do his best to try to make a temptation seem like something entirely else, something that it is not. The key is to get us to think some of his attacks go beyond just being a temptation like any other, that they are somehow too strong for us to overcome. But although Satan may style his attacks differently, they are all the same, and this should give the believer peace and confidence, knowing that there is nothing too great for them to handle in the Holy Spirit's power. We resist temptation by standing firm in our faith, and then we let the Holy Spirit do the rest. 
-
-{{% scripture p="1 Corinthians 10:13 (NIV)" %}} 
-
-**13** No temptation has overtaken you except what is common to mankind. And God is faithful; he will not let you be tempted beyond what you can bear. But when you are tempted, he will also provide a way out so that you can endure it. 
-
-{{% /scripture %}}   
-
-{{% scripture p="1 John 4:3-4 (KJV)" %}} 
-
-**3** And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof ye have heard that it should come; and even now already is it in the world. **4** Ye are of God, little children, and have overcome them: **because greater is he that is in you, than he that is in the world.**                                                     
-
-{{% /scripture %}}   
 
 {{% scripture p="Psalm 55:22 (ESV)" %}} 
 
@@ -932,12 +818,6 @@ After these things the word of the Lord came unto Abram in a vision, saying, Fea
 Obedience is a sign of a living faith inside of us. God’s truth refutes the lies of the evil one and his present “kosmos diabolicus.” The Bible tells us very plainly that worldly treasures are not only fleeting but deceptive as to their value. By faith, we Christians know that this earth is not our actual dwelling place, and the only way to avoid making it our home deep within our hearts is to walk in this world by faith. Falling for the world’s offerings will only lead us into further sin and temptation. But faith displays itself in unrelenting commitment to God. 
 
 Another thing to examine here is how our knowledge and intellect interact with our faith. Far too often, Christians rely on their emotions and understanding of a situation to act as their guide. This approach is contrary to the Spirit’s will, for we believe what He tells us. Our flesh, intellect, and emotions will often lead us astray because they are not spiritual weapons at all! Our weaponry in this war we are currently engaged in does not consist of anything physical or emotional, though we still choose to trust in the Lord through our free will decisions. Our weaponry will always be spiritual, for our intellect will only be of any use to us if it is in tune to the Holy Spirit’s power. 
-
-{{% scripture p="Proverbs 3:5-6" %}}
-
-**5** Trust in the Lord with all your heart and lean not on your own understanding; **6** in all your ways submit to him, and he will make your paths straight.                                             
-
-{{% /scripture %}}   
 
 {{% scripture p="2 Corinthians 10:4-5 (KJV)" %}}
 
@@ -1167,12 +1047,6 @@ We do not want to wear facemasks exhibiting a false spiritual condition of ourse
 
 Even in the most challenging temptations, we can have joy knowing that we are participating in the sufferings of Christ, following in the footsteps of the one who walked and died on this very same earth to give us everlasting life. 
 
-{{% scripture p="James 1:2-8 (NASB)" %}} 
-
-**2** Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, **3** because you know that the testing of your faith produces perseverance. **4** Let perseverance finish its work so that you may be mature and complete, not lacking anything. **5** If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you. **6** But when you ask, you must believe and not doubt, because the one who doubts is like a wave of the sea, blown and tossed by the wind. **7** That person should not expect to receive anything from the Lord. **8** Such a person is double-minded and unstable in all they do. 
-
-{{% /scripture %}}   
-
 ### **8.4 The Breastplate of Righteousness** 
 
 {{% scripture p="Ephesians 6:14 (NASB)" %}} 
@@ -1199,19 +1073,13 @@ And so, when temptations come, we must be under the protective power of the Holy
 
 “Self-righteousness” shows a lack of faith, and it is from this mindset that man can save himself apart from God through his strength and power by things he deems acceptable in his own eyes that false religion lives by. God is not pleased or impressed by human-made rules or man-powered efforts to please Him. 
 
-To the believer currently running this race, all who belong to Christ are in Him. And not only this, but we must actively seek out the truth to hide in our hearts to perform righteousness, for it is the ammo that the Spirit uses to fire back against the evil one. This process is not automatic, for though the Spirit does teach and remind us of the truths we have learned, we first have to search and store that truth into our “heart gun” for there to be something to “shoot.” This truth is not contradictory in any way, for exercising our own free will is simply the process of allowing God to do His unique saving work through us, which we do not accomplish ourselves. We simply trust and obey, storing the truth of His Word in our hearts, and then allow Him to take that truth and submissive will and turn it into something righteous (**Galatians 5:16-26**). 
-
-{{% scripture p="Romans 7:18 (ESV)" %}} 
-
-**18** For I know that nothing good dwells in me, that is, in my flesh. For I have the desire to do what is right, but not the ability to carry it out. 
-
-{{% /scripture %}}   
-
 {{% scripture p="Romans 3:21-28 (ESV)" %}} 
 
 **21** But now apart from the Law *the* righteousness of God has been manifested, being witnessed by the Law and the Prophets, **22** even *the* righteousness of God through faith in Jesus Christ for all those who believe; for there is no distinction; **23** for all have sinned and fall short of the glory of God, **24** being justified as a gift by His grace through the redemption which is in Christ Jesus; **25** whom God displayed publicly as a propitiation in His blood through faith. *This was* to demonstrate His righteousness, because in the forbearance of God He passed over the sins previously committed; **26** for the demonstration, *I say*, of His righteousness at the present time, so that He would be just and the justifier of the one who has faith in Jesus. **27** Where then is boasting? It is excluded. By what kind of law? Of works? No, but by a law of faith. **28** For we maintain that a man is justified by faith apart from works of the Law. 
 
 {{% /scripture %}}   
+
+To the believer currently running this race, all who belong to Christ are in Him. And not only this, but we must actively seek out the truth to hide in our hearts to perform righteousness, for it is the ammo that the Spirit uses to fire back against the evil one. This process is not automatic, for though the Spirit does teach and remind us of the truths we have learned, we first have to search and store that truth into our “heart gun” for there to be something to “shoot.” This truth is not contradictory in any way, for exercising our own free will is simply the process of allowing God to do His unique saving work through us, which we do not accomplish ourselves. We simply trust and obey, storing the truth of His Word in our hearts, and then allow Him to take that truth and submissive will and turn it into something righteous (**Galatians 5:16-26**). 
 
 ### 8.5 The Sword of the Spirit
 
@@ -1501,12 +1369,6 @@ We are here to please Jesus, not ourselves or others. We do not make it our prio
 
 But there is a problem that often faces many believers, especially younger ones. They will usually start well, growing, progressing, and overcoming sin, but their progress plummets. Does this mean that all hope is lost? Of course not, for though they may have gotten themselves into a mess, God will most certainly and eagerly pull them out of it to get them back onto the main road if they are but willing to seek His help. And all believers have “down periods” in their life, some worse than others. But we should never let them become more severe. There is no excuse for sin, and if we are not careful, that same evil can lead to the hardening of the heart. Sin is no joke. It's not funny, it's not safe, it's not rewarding, and it's not helpful to our spiritual growth and production whatsoever. Disobedience hurts our relationship with the Lord, and it fails to increase our fruit, resulting in the loss of eternal rewards. Just because God never throws us out of His family during our period of sin does not mean we are to take advantage of His grace. God’s loving care with us through discipline should cause us to return the love, not commit even more sin! Grace is designed to lead us to repentance, not away from it! 
 
-{{% scripture p="Romans 2:3-4 (NASB)" %}} 
-
-**3** But do you suppose this, you *foolish* person who passes judgment on those who practice such things, and *yet* does them *as well*, that you will escape the judgment of God? **4** Or do you think lightly of the riches of His kindness and restraint and patience, not knowing that the kindness of God leads you to repentance?                                   
-
-{{% /scripture %}}  
-
 Defeating sin in one’s life often entails many learning curves. There are many times where we develop incorrect beliefs in relation to the issue of overcoming sin. Below is a non-comprehensive list mentioning some helpful things to remember while we engage in spiritual combat. 
 
 **1**. **When you fail in a particular area, do not say, “I won’t do it again, Lord!” We can’t make promises like that because we will never be perfect.** 
@@ -1529,19 +1391,7 @@ Finally, brethren, whatsoever things are true, whatsoever things are honest, wha
 
 Legalism is one of the worst traps a believer can fall into, a snare of believing they can please God in some way through the power of their flesh. All good things come from the Spirit’s power and not our own. And it should be remembered that there is no specific level of maturity to mark how well we have to have sin under control. Our Lord just wants us to do our best and keep striving to do better and better until we see Him face to face. He is the one who will evaluate our work done here on earth. We answer to Him for all the wrong we have done, and it is not our job to discipline ourselves. Nor should we take the Lord’s handling of our sins lightly, for it should lead us to repentance. 
 
-So to conclude, we should not attempt to judge our maturity level, for only the Lord truly knows where we are. If we are in habitual unrepentant sin, we will know it, and the solution is to stop it by repenting/confessing our sins to the Lord. By putting false standards on ourselves, we will only become disappointed when we fail to live up to them. We cannot afford to make the same mistake the religious leaders of Jesus’ day made by putting a standard on the people that no one could bear. We strive for perfection, but we cannot think that we will ever be perfect in this life because that will never happen. The danger of the legalistic teaching of “sinless perfection” will only lead to failure and self-righteousness. An all or nothing approach doesn't work. 
-
-{{% scripture p="Galatians 6:2-4 (NASB)" %}} 
-
-**2** Bear one another’s burdens, and thereby fulfill the law of Christ. **3** For if anyone thinks he is something when he is nothing, he deceives himself. **4** But each one must examine his own work, and then he will have *reason for* boasting in regard to himself alone, and not in regard to another. 
-
-{{% /scripture %}}  
-
-{{% scripture p="Acts 15:10-11 (NIV)" %}} 
-
-**10** Now then, why do you try to test God by putting on the necks of Gentiles a yoke that neither we nor our ancestors have been able to bear? **11** No! We believe it is through the grace of our Lord Jesus that we are saved, just as they are.” 
-
-{{% /scripture %}}  
+So to conclude, we should not attempt to judge our maturity level, for only the Lord truly knows where we are. If we are in habitual unrepentant sin, we will know it, and the solution is to stop it by repenting/confessing our sins to the Lord. By putting false standards on ourselves, we will only become disappointed when we fail to live up to them. We cannot afford to make the same mistake the religious leaders of Jesus’ day made by putting a standard on the people that no one could bear (**Acts 15:10-11**). We strive for perfection, but we cannot think that we will ever be perfect in this life because that will never happen. The danger of the legalistic teaching of “sinless perfection” will only lead to failure and self-righteousness. An all or nothing approach doesn't work. 
 
 **3**. **Do not become fixated on judging or disciplining yourself**. 
 
@@ -1588,12 +1438,6 @@ Complacency only gives the evil one an opening for attack. There is no such thin
 {{% scripture p="1 Peter 5:8-9 (ESV)" %}} 
 
 Be sober-minded; be watchful. Your adversary the devil prowls around like a roaring lion, seeking someone to devour. **9** Resist him, firm in your faith, knowing that the same kinds of suffering are being experienced by your brotherhood throughout the world. 
-
-{{% /scripture %}}  
-
-{{% scripture p="Proverbs 3:1-6 (NIV)" %}} 
-
-My son, do not forget my teaching, but keep my commands in your heart, **2** for they will prolong your life many years and bring you peace and prosperity. **3** Let love and faithfulness never leave you; bind them around your neck, write them on the tablet of your heart. **4** Then you will win favor and a good name in the sight of God and man. **5** Trust in the Lord with all your heart    and lean not on your own understanding;  **6** in all your ways submit to him, and he will make your paths straight. 
 
 {{% /scripture %}}  
 
