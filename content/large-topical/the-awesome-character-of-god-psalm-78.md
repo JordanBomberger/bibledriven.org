@@ -12,7 +12,7 @@ Getting to know our advocate better will help us to strengthen our walk with the
 
 As God’s children, we are also His best friends. The more you know a particular friend, the closer you will generally be to them. For this reason, we are to increase our knowledge of God because it gives us the spiritual sustenance we need every day. Of course, God is perfect, and there is nothing dark about Him (1 John 1:5). Indeed, He is also a God of mysteries, so we will never know everything about Him this side of eternity (**1 Corinthians 13:8-13**). But the Bible does give us everything we need to know. 
 
-Just having mere knowledge of who God is and what He is like is not sufficient to get us anywhere. But believing and acting on the truth God gives us is true wisdom. One of the greatest goals after choosing Christ as our Savior is to know Him as much as we can. Christians must remember that this is their Savior they will praise for all eternity in the heavenly kingdom, so we should be preparing for that time. We are to live on this earth as actual citizens of the kingdom of heaven (**Luke 21:36**).
+Just having mere knowledge of who God is and what He is like is not sufficient to get us anywhere. But believing and acting on the truth God gives us is true wisdom. One of the greatest goals after choosing Christ as our Savior is to know Him as much as we can. Christians must remember that this is their Savior they will praise for all eternity in the heavenly kingdom, so we should be preparing for that time. We are to live on this earth as actual citizens of the kingdom of heaven.
 
 {{% scripture p="Jeremiah 9:23-24 (ESV)" %}}
 
@@ -24,7 +24,7 @@ What if an unbeliever inquires of a believer's knowledge of God? They may ask th
 
 {{% scripture p="2 Peter 3:9 (NIV)" %}}
 
-**9** The Lord is not slow in keeping his promise, as some understand slowness. Instead he is patient with you, not wanting anyone to perish, but everyone to come to repentance.          
+**9** The Lord is not slow in keeping his promise, as some understand slowness. Instead he is patient with you, **not wanting anyone to perish**, but everyone to come to repentance.          
 
 {{% /scripture %}}
 
@@ -237,7 +237,7 @@ The Creator never fails to provide for any human being who wishes to accept and 
 
 {{% /scripture %}}  
 
-But God accepts all who obey the gospel. In the verse below, the Lord addresses Cain, who tried to come to Him through His good works instead of coming to Him in faith as Able did. If Cain wanted to be accepted by God, he had to put his faith and trust in Jesus Christ (represented by the sacrificial offering). The gospel has always been the same in that all believers of all time have been saved by putting their faith and trust in Jesus Christ. In the Old Testament, believers looked ahead to Christ's death through animal sacrifices which demonstrated their belief in the coming Savior (of which they had limited knowledge). Today, we also believe but look back at the cross in faith with more clarity since we have the complete canon of Scripture. Christians are saved today exactly as they were since Adam and Eve (who accepted the coats of skin given to them by our Lord which represented the future death of the coming Savior who would atone for all the sins of humanity). 
+But God accepts all who obey the gospel. In the passage below, the Lord addresses Cain, who tried to come to Him through His good works instead of coming to Him in faith as Able did. If Cain wanted to be accepted by God, he had to put his faith and trust in Jesus Christ (represented by the sacrificial offering). The gospel has always been the same in that all believers of all time have been saved by putting their faith and trust in Jesus Christ. In the Old Testament, believers looked ahead to Christ's death through animal sacrifices which demonstrated their belief in the coming Savior (of which they had limited knowledge). Today, we also believe but look back at the cross in faith with more clarity since we have the complete canon of Scripture. Christians are saved today exactly as they were since Adam and Eve (who accepted the coats of skin given to them by our Lord which represented the future death of the coming Savior who would atone for all the sins of humanity). 
 
 {{% scripture p="Genesis 4:3-7 (NIV)" %}}  
 
@@ -561,9 +561,9 @@ The Lord is not asking us to do anything out of the ordinary. All He requires is
 
 How much more gracious could the Lord be? He sent His one and only Son to suffer more than any human being will have ever suffered at history’s end to save us human beings who did not even deserve salvation. And not only that, but all He requires of us is to believe in the person and work of His precious Son Jesus Christ. Yes, we will have to suffer in the strenuous process known as spiritual growth, for choosing the narrow path is to choose the hard way in life (**Matthew 7:13-14**). And yet, choosing the right way of salvation is to make one’s life better and eternally wonderful and perfect in the end. For in God’s kingdom, there will exist no death, sin, suffering, or difficulties, and that is for all eternity! Why exchange the Christian life's hardships for eternal torment that will never end? The true believer's sufferings are only temporary, but the grief the unbeliever will endure away from God will never end!
 
-{{% scripture p="Galatians 1:4 (NIV)" %}}     
+{{% scripture p="Galatians 1:3-4 (NIV)" %}}     
 
- **4** Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father. 
+**3** Grace and peace to you from God our Father and the Lord Jesus Christ, **4** Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father. 
 
  {{% /scripture %}}  
 
