@@ -25,7 +25,7 @@ Many people like to stress how we are all equally important compared to one anot
 
 This study aims to assure the believer of their worth and value before Jesus Christ and relieve them of the world's misguided mindset. As Christians, our purpose and value are in Christ, not on man’s criteria of evaluating things. 
 
-All believers are equal, regardless of education, intelligence, spiritual gifts, ministries, status, popularity, etc. However, my impression is that few have taken the time to examine this critical topic more closely and in a more detailed fashion. Why this is the case is no doubt partially because of the misguided thinking, standards, and behaviors of so many lukewarm believers comprising the bulk of today’s church (**Revelation 3:14-22**). Believers can solve the problem of dubbing others' worth and usefulness by man’s standards by an ever-increasing zeal to grow up spiritually in Jesus Christ. That way, our perspectives, standards, treatment, and behavior of others would change drastically (we are told to judge nothing before the time (**1 Corinthians 4:4-8**). 
+All believers are equal, regardless of education, intelligence, spiritual gifts, ministries, status, popularity, etc. However, my impression is that few have taken the time to examine this critical topic more closely and in a more detailed fashion. Why this is the case is no doubt partially because of the misguided thinking, standards, and behaviors of so many lukewarm believers comprising the bulk of today’s church (**Revelation 3:14-22**). Believers can solve the problem of dubbing others' worth and usefulness by man’s standards by an ever-increasing zeal to grow up spiritually in Jesus Christ. That way, our perspectives, standards, treatment, and behavior of others would change drastically. 
 
 But there is an unhelpful thinking pattern circulating within the traditional church that discourages its members' growth and service. Some include the idea that one has to be very educated, intelligent, etc., to serve the Lord properly. A fine example of this is the all too common view of ministry in our day and age. This bad habit of limiting legitimate Christian service (or just ministry overall) to specific ministries with specific "qualifications" and "preparations" to harm other legitimate ministries requiring different preparations and spiritual gifts is all too common today. Since our identity is in Christ, how shameful it is to sweep under the carpet the work of another member of His flock who goes about preparing for and serving in ministry outside of the accepted ways of doing things. 
 
@@ -54,8 +54,6 @@ For example, just because one person has the gift of teaching does not mean the 
 Some evangelists will need to do a little bit of teaching to those they witness to use another example. All believers will have to enlighten their listeners with the truth of Scripture to some degree or another. And to use teachers again, although teaching is their primary responsibility, they will have to engage in apologetics to some degree at some points. The purpose is to defend the truth they teach. 
 
 Also, there are many spiritual gifts in the body of Christ not limited to what so many within the church have reduced them to. To help elaborate on this, we will discuss the following passage below.
-
-**Romans 12:3-8** 
 
 {{% scripture p="Romans 12:3-8" %}} 
 
@@ -115,7 +113,7 @@ The point of mentioning all the above is that we should take our ministries seri
 
 {{% /scripture %}}  
 
-To help us better understand the concept of spiritual gifts and ministries, we will discuss **1 Corinthians 12:4-31** below, which will be our touchstone for the final section of our discussion on this topic.  
+To help us better understand the concept of spiritual gifts and ministries, we will briefly survey **1 Corinthians 12:4-31** below, which will be our touchstone for the final section of our discussion on this topic. We will not, for the sake of time and space, examine this more in-depth. Instead, we will give a brief overview of the passage itself.   
 
 #### **A. 1 Corinthians 12:4-6** 
 
@@ -233,13 +231,13 @@ Now the big issue our Corinthians passage addresses are not to exclude or downpl
 
 So for those reading this who are eager to grow, progress, and produce for the Lord, don’t ever think the ministry the Lord is calling you to is less significant than any other! On the contrary, God will always set us up for maximum production if we allow Him to work within us. But this does require cooperation on our part. If we want to reap a bountiful crop for the Lord, we must LIVE and ACT like that is our genuine desire. The question is, how well will we do with what we have? 
 
-Every function in the church is important to God. He does not show favoritism, and He wants EVERY believer to go as far as they can in this life. The only thing limiting a person is themselves. Believers of Laodicea are not doing themselves or others a favor. Instead, they hinder the body's growth from within and only limit the so much greater potential they could have. And it gets even worse, for as the great apostasy in the tribulation will show, one-third of all believers alive at that time will fall away from the faith, only to betray their once brothers and sisters in Christ and take the mark of the beast (**Revelation 12:4; Matthew 24:10-13; 2 Thessalonians 2:1-3**). That is why putting God first should be at the front of every person’s mind. As mentioned above, if believers were doing what they should be doing, none of this would be a problem like it is today. 
-
 {{% scripture p="Colossians 2:6-10 (ESV)" %}} 
 
-**6** Therefore, as you received Christ Jesus the Lord, so walk in him, **7** rooted and built up in him and established in the faith, just as you were taught, abounding in thanksgiving. **8** See to it that no one takes you captive by philosophy and empty deceit, according to human tradition, according to the elemental spirits of the world, and not according to Christ. **9** For in him the whole fullness of deity dwells bodily, **10** and you have been filled in him, who is the head of all rule and authority.                                
+**6** Therefore, as you received Christ Jesus the Lord, **so walk in him**, **7** rooted and built up in him and established in the faith, just as you were taught, abounding in thanksgiving. **8** See to it that no one takes you captive by philosophy and empty deceit, according to human tradition, according to the elemental spirits of the world, and not according to Christ. **9** For in him the whole fullness of deity dwells bodily, **10** and you have been filled in him, who is the head of all rule and authority.                                
 
 {{% /scripture %}}  
+
+Every function in the church is important to God. He does not show favoritism, and He wants EVERY believer to go as far as they can in this life. The only thing limiting a person is themselves. Believers of Laodicea are not doing themselves or others a favor. Instead, they hinder the body's growth from within and only limit the so much greater potential they could have. And it gets even worse, for as the great apostasy in the tribulation will show, one-third of all believers alive at that time will fall away from the faith, only to betray their once brothers and sisters in Christ and take the mark of the beast (**Revelation 12:4; Matthew 24:10-13; 2 Thessalonians 2:1-3**). That is why putting God first should be at the front of every person’s mind. As mentioned above, if believers were doing what they should be doing, none of this would be a problem like it is today. 
 
 #### **E. 1 Corinthians 12:22-26** 
 
@@ -269,7 +267,7 @@ A prime example of this is that so many in the Church tend to deem only certain 
 
 {{% /scripture %}}  
 
-An excellent passage to show that man’s opinion doesn’t necessarily equate to truth is **Matthew 20:1-16**. The point is that what appears more rewardable in man’s eyes is not from God’s perspective. As for the interpretation of the parable of the laborers in the vineyard itself, we interpret it below.  
+An excellent passage to show that man’s opinion doesn’t necessarily equate to truth is **Matthew 20:1-16**. The point is that what appears more rewardable in man’s eyes is not necessarily the case from God’s perspective. As for the interpretation of the parable of the laborers in the vineyard itself, we interpret it below.  
 
 This parable links directly with **Matthew 19:30**, in which Jesus ends with “But many who are first will be last, and many who are last will be first.” The landowner who gives each worker a denarius represents Jesus Christ providing salvation to all who accept it, meaning the workers in our parable represent believers. **Each “worker” receives equal pay because no man deserves eternal life more than any other. Salvation is for everybody, and all can accept it.** Since our Lord accepts all men who come to Him, we believers are to do the same. The Lord drives no one away who comes to Him in faith (**John 6:37-40**); a truth believers must practice. 
 
@@ -290,12 +288,6 @@ Additionally, the negative behavior mentioned above discourages many from pursui
 {{% scripture p="Luke 21:1-4 (ESV)" %}} 
 
 Jesus looked up and saw the rich putting their gifts into the offering box, **2** and he saw a poor widow put in two small copper coins. **3** And he said, “Truly, I tell you, this poor widow has put in more than all of them. **4** For they all contributed out of their abundance, but she out of her poverty put in all she had to live on.”                               
-
-{{% /scripture %}}  
-
-{{% scripture p="1 Corinthians 4:5 (ESV)" %}} 
-
-**5** Therefore do not pronounce judgment before the time, before the Lord comes, who will bring to light the things now hidden in darkness and will disclose the purposes of the heart. Then each one will receive his commendation from God.                                                                    
 
 {{% /scripture %}}  
 
@@ -433,7 +425,7 @@ Our Lord rewards the crown of life to believers who pass excruciatingly difficul
 
 As a side note, spiritual growth, progress, and production can be taking place simultaneously. Spiritual growth (as well as advance and ministry) never ends this side of eternity and should always occur. Severe testing meant to stimulate further spiritual growth and service in the Lord’s name is most frequently going to come the way of believers who are advancing as they should. 
 
-There is a difference between “testing” on the one hand and “temptation” on the other. God does not tempt anyone (**James 1:13-17**), nor can He be tempted. Only Satan tempts believers to sin. God would never encourage evil, nor would He ever advocate sinful behavior. Despite this, temptations are still part of the day-by-day tests that all believers have to undergo. They still test our faith in God to the degree that we have to learn how to trust Him and not in our own strength to overcome them. Everyday temptations are things that the Lord allows us to go through, and for a good reason. Temptations test to see whether we are walking in the Spirit moment by moment as we should. They test our hearts, faith, and free will but never go beyond anything our faith can handle (**1 Corinthians 10:13**). 
+There is a difference between “testing” on the one hand and “temptation” on the other. God does not tempt anyone (**James 1:13-17**), nor can He be tempted. Only Satan tempts believers to sin. God would never encourage evil, nor would He ever advocate sinful behavior. Despite this, temptations are still part of the day-by-day tests that all believers have to undergo. They still test our faith in God to the degree that we have to learn how to trust Him and not in our own strength to overcome them. Everyday temptations are things that the Lord allows us to go through, and for a good reason. Temptations test to see whether we are walking in the Spirit moment by moment as we should. They test our hearts, faith, and free will but never go beyond anything our faith can handle. 
 
 The more difficult challenges believers face are usually tests directly from the Lord Himself, not the devil. They are not temptations and should never be seen as such, for doing so can cause a believer to fall into the common mistake of crediting God with temptation. Satan tempts us to do evil, whereas God tests us to grow and refine our faith in Him. The Lord’s desire for every believer in this whole process is for them to learn to rely entirely on Him and not on themselves. It is the “make or break you” type of challenge because of the increased difficulty. Although a believer may have grown up and done well in the basics, they may find themselves so discouraged by the hardships from the next level of training they have to undergo. They may think to themselves, “I didn’t sign up for this,” and may end up turning back and abandoning the mission. During spiritually strenuous times such as these, many believers end up turning away from God because they think the heat has become too much for them. That is because they are not willing to go any further than the comfort zone they have sat in for so long. They may have been ready to go through basic training but have not counted the cost of all the further preparation they would have to undergo (**Luke 14:25-34**). 
 
@@ -489,7 +481,7 @@ Now for those who never get to the point of ministry or even spiritual maturity,
 
 {{% /scripture %}}  
 
-As we have already mentioned before, ministry is something that every believer can do regardless of when they got saved. On the day of their conversion, a new convert can minister to another believer by simply praying for them or giving to them. These righteous acts will not fail to be noticed by our Lord, and they will receive a reward. But just “starting” one’s ministry and never completing it does not mean receiving this crown of glory. It may be thought then, “How do we know when we have completed our ministry?” That is something that only our Lord knows ahead of time. He determines the results of our work and the length of our service. He is the One who lets us know when our time is up. So when the work we have done is sufficient in God’s eyes, then He will bring us home when He sees fit. 
+As we have already mentioned before, ministry is something that every believer can do at any point after getting saved. On the day of their conversion, a new convert can minister to another believer by simply praying for them or giving to them. These righteous acts will not fail to be noticed by our Lord, and they will receive a reward. But just “starting” one’s ministry and never completing it does not mean receiving this crown of glory. It may be thought then, “How do we know when we have completed our ministry?” That is something that only our Lord knows ahead of time. He determines the results of our work and the length of our service. He is the One who lets us know when our time is up. So when the work we have done is sufficient in God’s eyes, then He will bring us home when He sees fit. 
 
 {{% scripture p="Matthew 10:42 (NIV)" %}} 
 
@@ -755,13 +747,13 @@ Some readers of the Old Testament may argue that Israel’s “holy wars” were
 
 {{% scripture p="Joshua 24:14-15 (ESV)" %}}  
 
-**14** “Now therefore fear the Lord and serve him in sincerity and in faithfulness. Put away the gods that your fathers served beyond the River and in Egypt, and serve the Lord. **15** And if it is evil in your eyes to serve the Lord, choose this day whom you will serve, whether the gods your fathers served in the region beyond the River, or the gods of the Amorites in whose land you dwell. But as for me and my house, we will serve the Lord.”                                                                   
+**14** “Now therefore fear the Lord and serve him in sincerity and in faithfulness. Put away the gods that your fathers served beyond the River and in Egypt, and serve the Lord. **15** And if it is evil in your eyes to serve the Lord, **choose this day** whom you will serve, whether the gods your fathers served in the region beyond the River, or the gods of the Amorites in whose land you dwell. But as for me and my house, we will serve the Lord.”                                                                   
 
 {{% /scripture %}}  
 
 {{% scripture p="Deuteronomy 30:19-20 (ESV)" %}}  
 
-**19** I call heaven and earth to witness against you today, that I have set before you life and death, blessing and curse. Therefore choose life, that you and your offspring may live, **20** loving the Lord your God, obeying his voice and holding fast to him, for he is your life and length of days, that you may dwell in the land that the Lord swore to your fathers, to Abraham, to Isaac, and to Jacob, to give them.”                        
+**19** I call heaven and earth to witness against you today, that I have set before you life and death, blessing and curse. Therefore **choose life**, that you and your offspring may live, **20** loving the Lord your God, obeying his voice and holding fast to him, for he is your life and length of days, that you may dwell in the land that the Lord swore to your fathers, to Abraham, to Isaac, and to Jacob, to give them.”                        
 
 {{% /scripture %}}  
 
@@ -811,8 +803,6 @@ Different languages exist because of man’s sinfulness. The Lord is against sin
 
 The passages above speak for themselves. Men and women have no moral or spiritual advantages over each other. Authority in the church or marriage has nothing to do with the believer’s spiritual potential. From everything we have seen in this study, this point should also be clear and obvious. 
 
-**Ephesians 5:22-33** 
-
 {{% scripture p="Ephesians 5:22-33" %}}  
 
 **22** Wives, submit yourselves to your own husbands as you do to the Lord. **23** For the husband is the head of the wife as Christ is the head of the church, his body, of which he is the Savior. **24** Now as the church submits to Christ, so also wives should submit to their husbands in everything. **25** Husbands, love your wives, just as Christ loved the church and gave himself up for her **26** to make her holy, cleansing her by the washing with water through the word, **27** and to present her to himself as a radiant church, without stain or wrinkle or any other blemish, but holy and blameless. **28** In this same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself. **29** After all, no one ever hated their own body, but they feed and care for their body, just as Christ does the church— **30** for we are members of his body. **31** “For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.” **32** This is a profound mystery—but I am talking about Christ and the church. **33** However, each one of you also must love his wife as he loves himself, and the wife must respect her husband.
@@ -827,7 +817,7 @@ And He looked up and saw the rich putting their gifts into the treasury, **2** a
 
 {{% /scripture %}} 
 
-God has ordained the man to be the authority over his wife in a marriage. The purpose is to help us remember our relationship to God and how He is the head of the church and our ultimate authority. This fact in no way means men are more “Godlike,” but that they must take on this needed position for there to be stability in the household. Besides that, there would be disunity and disorganization if there was no authority in the marriage relationship. Someone must be in a leading position for a man and woman to grow together in the Lord. This fact does not in any way imply that women are accountable to men, for they most certainly are not. We are all responsible to the Lord. Nor are men always right or more knowledgeable all the time. But since we are all accountable to God, then to do things as God has ordained them is to serve Him as we should. So men and women are not so much serving each other as they are God. Refusing to play one’s part in the marriage relationship will only result in loss of reward. So if men and women want to be the best soldiers of Christ they can be, they need to behave toward one another as God would have them act. 
+God has ordained the man to be the authority over his wife in a marriage. The purpose is to help us remember our relationship to God and how He is the head of the church and our ultimate authority. This fact means that husbands must take on this needed position for there to be stability in the household. Besides that, there would be disunity and disorganization if there was no authority in the marriage relationship. Someone must be in a leading position for a man and woman to grow together in the Lord. This fact does not in any way imply that women are accountable to men, for they most certainly are not. We are all responsible to the Lord. Nor are men always right or more knowledgeable all the time. But since we are all accountable to God, then to do things as God has ordained them is to serve Him as we should. So men and women are not so much serving each other as they are God. Refusing to play one’s part in the marriage relationship will only result in loss of reward. So if men and women want to be the best soldiers of Christ they can be, they need to behave toward one another as God would have them act. 
 
 We have already seen that greater intelligence, education, wealth, and even authority have nothing to do with our reward in heaven. And speaking of authority, the Bible tells us to submit to all those who exercise it over us (**Romans 13:1-7**). Why? Because they are better? Absolutely not! The Lord told us to submit to government and kings (assuming they are not forcing us to do something morally wrong and unbiblical). But most in government and leading positions are not even believers, so their authority has nothing to do with true spirituality. Yet by obeying them, we serve and obey God. There has to be leadership and organization for things to work in this world, so God has chosen the man to lead his wife and family (and the local church as well **1 Timothy 2:12**). However, being better at leadership does not equate to having more spiritual potential. 
 
