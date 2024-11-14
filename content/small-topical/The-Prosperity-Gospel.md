@@ -105,9 +105,3 @@ My brothers, show no partiality as you hold the faith in our Lord Jesus Christ, 
 
 The danger of the prosperity gospel is that it manipulates God’s grace by attempting to use faith for human goals. The worst part about it is that it threatens faith and salvation by detracting from spiritual growth and ministry (we are to be as salt and light to the world **Matthew 5:13-16**) by putting the believer’s focus on earthly things **1 John 2:15-17**. One could go on and on about the risks and dangers that come with this false teaching but suffice it to say that we have covered enough of them so that the reader should get the point. We conclude that this teaching is unbiblical and one that all believers should avoid at all costs. 
 
-{{% scripture p="James 4:13-17 (NIV)" %}}  
-
-**13** Now listen, you who say, “Today or tomorrow we will go to this or that city, spend a year there, carry on business and make money.” **14** Why, you do not even know what will happen tomorrow. What is your life? You are a mist that appears for a little while and then vanishes. **15** Instead, you ought to say, “If it is the Lord’s will, we will live and do this or that.” **16** As it is, you boast in your arrogant schemes. All such boasting is evil. **17** If anyone, then, knows the good they ought to do and doesn’t do it, it is sin for them.                                                                   
-
-{{% /scripture %}}   
-
