@@ -5,7 +5,7 @@ summary: Should the church pursue and involve itself in political democracy? Sho
 
 Should believers involve themselves in political democracy? Are some Christians called to channel their spiritual gifts through politics?
 
-## Most within the church should stay away from politics 
+## Most within the church would do well not to get physically, mentally, or emotionally involved in politics  
 
 Political involvement is not the best idea for most believers. The question is not whether it is right or wrong but whether it is something the Lord wants us to spend our time doing. Watching the news is alright as long as it doesn’t distract us from our relationship with Jesus Christ (all things in moderation). But political participation is a different story than casually keeping up with what is happening worldwide, isn't it? 
 
@@ -21,7 +21,7 @@ So, what would the details look like, and how would these brothers and sisters o
 
 Some have reasoned that because Israel had kings and exercised diplomacy through negotiating with other nations, we, the present-day church, should take this as an all-encompassing example and apply it ourselves. However, we are not the nation of Israel, nor are there any direct commands or exhortations anywhere in Scripture to pursue politics to advance God’s kingdom. Under the old covenant, Israel received direct commands from God for specific purposes applicable only to them during their period (however many years). That is not the same as reading some teaching, command, or doctrine set in stone as we see throughout the Bible (especially the New Testament). Israel’s calling and situation were quite different than the circumstances the church lives under today, so it would be terribly wrong to imitate actions only applicable to specific people for a certain period. 
 
-For example, there are many rituals and practices commanded in the Law that are no longer binding on any of us today. Therefore, we cannot just jump back to the Law of the old covenant and the old days of Israel and take everything and say it must still be something to carry out. And if church history tells us anything (and it most certainly does), we would be right to see that politics have done more harm than good throughout the past 2,000 years of her history. The church must resist the urge to take matters into its own hands by jumping to action without any direct divine authorization. The Crusades, for example, were a complete failure and were unjustified because God did not “sanction” them. Today, they exemplify those who refuse to submit to the Lord in faith and follow His leading (**Proverbs 3:5-6**). 
+For example, there are many rituals and practices commanded in the Law that are no longer binding on any of us today. Therefore, we cannot just jump back to the Law of the old covenant and the old days of Israel and take everything and say it must still be something to carry out. And if church history tells us anything (and it most certainly does), we would be right to see that politics have done more harm than good throughout the past 2,000 years of her history. The church must resist the urge to take matters into its own hands by jumping to action without any direct divine authorization. The Crusades, for example, were a complete failure and were unjustified because God did not “sanction” them. 
 
 ## **What does the Bible say? What should our goal be?**
 
@@ -58,6 +58,14 @@ Christians who involve themselves in politics now (bad enough at any time but es
 {{% scripture p="Luke 22:42b (ESV)" %}} 
 
 “Father, if you are willing, remove this cup from me. Nevertheless, **not my will, but yours, be done**.” 
+
+{{% /scripture %}} 
+
+Ultimately, political involvement of any kind does NOT fix the lukewarm problem so rampant within the church because it does not address the spiritual issue of getting serious about seeking out, understanding, believing, and applying the truth (**Revelation 3:14-22**). Politics is distracting and counterproductive to the solution to the present state of the church and, for that reason, will not stave off the horrors of the tribulation (meant as discipline for believers and punishment for unbelievers) to come. The consequences of failing to be "red hot" will manifest themselves regardless of the people who lead our country (whether those people are good, bad, or somewhere in between). Had spiritual means been pursued as a way to react to the unrighteousness in this world, then we, the present day era of believers, would never have had to face the tribulation. But combining the truth and ministry needed to dispense it with worldly methods of creating solutions is bound to cause much harm and already has. The takeaway is that political involvement (no matter how many believers choose that course) can never fix the current problem with the present day church because worldly solutions are counterproductive to the process needed to achieve the spiritual change required for the world's believers to become "earnest and repent." What makes anyone think that political involvement is going to make any believer more serious about their relationship with the Lord and the truth needed for that to happen? 
+
+{{% scripture p="Matthew 24:21-25 (NIV)" %}} 
+
+**21** For then there will be great distress, unequaled from the beginning of the world until now—and never to be equaled again. **22** “If those days had not been cut short, no one would survive, but for the sake of the elect those days will be shortened. **23** At that time if anyone says to you, ‘Look, here is the Messiah!’ or, ‘There he is!’ do not believe it. **24** For false messiahs and false prophets will appear and perform great signs and wonders to deceive, if possible, even the elect. **25** **See**, **I have told you ahead of time**.
 
 {{% /scripture %}} 
 
@@ -136,12 +144,6 @@ If then you have been raised with Christ, seek the things that are above, where 
 {{% /scripture %}} 
 
 Now, believers still have to engage in this world and utilize various things within it to help them advance in their spiritual walk and ministries (we already discussed that above). The "monk" mentality of isolation from both the world and the church is unbiblical because it makes spiritual growth, progress, and production almost entirely impossible. And it is a selfish and self-centered approach that makes life all about the individual who participates in such behavior. We must still navigate this world in a godly way, just as we need to be in contact with other believers (whether in person, online, or what have you) to properly please the Lord and be the "salt" and "light" of the earth. Taking the "lone wolf" path is bound to spell spiritual disaster! 
-
-{{% scripture p="Hebrews 10:24-25 (KJV)" %}} 
-
-**24** And let us consider one another to provoke unto love and to good works: **25** Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching.
-
-{{% /scripture %}} 
 
 {{% scripture p="Proverbs 18:1 (NKJV)" %}} 
 
