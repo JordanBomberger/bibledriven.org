@@ -219,7 +219,7 @@ The problem is that so much money for fixing up the building and other renovatio
 
 So, far from there being anything wrong with this practice, it should in fact be the preferred first option for any smaller to medium congregation if they can do this. There is nothing in Scripture that suggests buildings are mandatory. A house church is more practical and advantageous in almost every way, save a few minor things here or there. And yes, even in a house church, qualified teachers and deacons can still be present. But the location does not matter, just as long as there is enough room for everyone to gather comfortably. As with many “additions” over the years, church buildings became another human addition. Unless one is really needed, why bother? 
 
-Examples of house churches are found in **Philemon 1-3, 1 Corinthians 16:19-20, Colossians 4:15**, and **Acts 20:18-21**. 
+Examples of house churches are found in **Philemon 1-3**, **1 Corinthians 16:19-20**, and **Colossians 4:15**. 
 
 ### Priorities in giving
 

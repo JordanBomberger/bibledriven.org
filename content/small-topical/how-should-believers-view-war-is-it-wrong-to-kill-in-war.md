@@ -54,7 +54,7 @@ However, believers should possess great gratitude and a fair level of respect fo
 
 ## **More on whether it is wrong to engage in war and kill others** 
 
-Now to continue our discussion, should a believer fight in a war? First, the individual needs to make sure they are following the Spirit’s leading. It is unwise to pursue a path the Lord doesn’t want us to take (**Proverbs 3:5-6**). The short answer is that joining the military is not wrong in and of itself. God does call many believers to that path. So what of those who jump into something God wasn’t leading them to? The most we can say is that doing such a thing is not a good idea. 
+Now to continue our discussion, should a believer fight in a war? First, the individual needs to make sure they are following the Spirit’s leading. It is unwise to pursue a path the Lord doesn’t want us to take. The short answer is that joining the military is not wrong in and of itself. God does call many believers to that path. So what of those who jump into something God wasn’t leading them to? The most we can say is that doing such a thing is not a good idea. 
 
 The next question we need to address involves taking the life of other people. The answer to this has variables because it can depend on the time and circumstances. There are (as we all know) such things as “war crimes,” which may consist of wrongfully taking other people's lives. The circumstances can make deciphering this difficult for those unfamiliar with the proper military code of conduct (whichever country one hails from). However, this is not something believers need to worry about because the Lord would never allow us to be tested beyond what we can handle (**1 Corinthians 10:13**). 
 

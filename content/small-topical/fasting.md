@@ -6,7 +6,7 @@ summary:
 
 ## **The Bible nowhere requires us to fast** 
 
-The Bible nowhere requires believers to fast. It is a good activity (we will mention the advantages below) but not something we have to engage in as if it was a command we have to follow. However, Scripture does paint it in a good light because it has many spiritual benefits. But we must be wary not to judge and look down on those who choose not to abstain from eating for specific intervals of time (**Colossians 2:16-23; Romans 14:1-8**). In other words, this activity does not make any believer more spiritually mature than another. 
+The Bible nowhere requires believers to fast. It is a good activity (we will mention the advantages below) but not something we have to engage in as if it was a command we have to follow. However, Scripture does paint it in a good light because it has many spiritual benefits. But we must be wary not to judge and look down on those who choose not to abstain from eating for specific intervals of time. In other words, this activity does not make any believer more spiritually mature than another. 
 
 ## **Fasting is about putting our focus and attention on God**
 
