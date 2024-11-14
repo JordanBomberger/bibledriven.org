@@ -47,7 +47,7 @@ The head mentioned in verse three doesn’t refer to any physical head but (in t
 
 On the contrary, the Son is not inferior to the Father but is equal with Him in every respect because they are both one as two members of the Trinity (**John 10:30**). Likewise, men are not superior to women because both are equal in God’s eyes (**Galatians 3:28**). So this verse refers to authority, leadership, and administrative duties between men and women (likewise for the Father and the Son). Men are natural leaders (initiators), whereas women are followers. That is how it is in a marriage relationship and within a local church (worship) setting (the particular scenarios Paul has in mind). That is because the relationship between a husband and wife represents or symbolizes the believer’s relationship to God (the groom). This principle is roughly similar to that of the Father and the Son. However, we will never be able to come close to perfection in our understanding of the relationship between all members of the Godhead. The Father is the planner the Son submits to by obeying His will (**Philippians 2:5-8**). 
 
-With all that in mind, Paul is leading up to an important teaching by reminding the Corinthians of something they should already know (see above). Since a man and woman’s head(s) have important symbolism behind them, physically abusing or misusing them is improper for people who claim to know Christ (**Matthew 5:16**). 
+With all that in mind, Paul is leading up to an important teaching by reminding the Corinthians of something they should already know (see above). Since a man and woman’s head(s) have important symbolism behind them, physically abusing or misusing them is improper for people who claim to know Christ. 
 
 ## **1 Corinthians 11:4** 
 
