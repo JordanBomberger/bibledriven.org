@@ -86,13 +86,11 @@ The most important (and only) source of information in discovering the gospel is
 
 {{% /scripture %}} 
 
-
-
-## **1. The Gospel - What it is** 
+## 1. The Gospel - What it is 
 
 ### **1.1 Faith in the Person and Work of Jesus Christ** 
 
-A person receives the Lord by believing In Jesus Christ (which is the same as believing in or accepting His person and work). That is the gospel, plain and simple. Our Lord purchased this salvation with His precious blood by taking the penalty of our sins on Himself for us to receive His free gift of eternal life, which cannot be earned or worked for in any way. In doing this, the Lord Jesus rescued us from eternal death. For all who accept this most gracious offer through faith, God will welcome them into His family. 
+**A person receives the Lord by believing In Jesus Christ** (which is the same as believing in or accepting His person and work). **That is the gospel**, **plain and simple**. Our Lord purchased this salvation with His precious blood by taking the penalty of our sins on Himself for us to receive His free gift of eternal life, which cannot be earned or worked for in any way. In doing this, the Lord Jesus rescued us from eternal death. For all who accept this most gracious offer through faith, God will welcome them into His family. 
 
 {{% scripture p="Acts 16:30-31 (NKJV)" %}} 
 
@@ -152,7 +150,53 @@ Salvation is by faith through grace alone, for God’s gift is free and cannot b
 
 {{% /scripture %}} 
 
-### **1.2 What about Repentance?** 
+In light of what we've said above, we need to remember that it doesn't take much for a believer to be saved (to enter into God's family) **<u>because the gospel is all about faith and not knowledge</u>**. All a person has to do is believe in Jesus. In the present dispensation we believers live in today (the church age known as the time of the Gentiles), we have the completed canon of Scripture which tells us about the birth, death, and resurrection of our Lord Jesus Christ. That is to say, we believers look back at the sacrificial death of our Lord, whereas the believers under the Old Covenant throughout the Old Testament looked forward to these now past (but future for them) events through animal sacrifices. What we're getting at is that the believers of old didn't know all the things we do today (about the birth, death, and resurrection of Jesus Christ) but expressed faith in them through the manners and methods God provided for them to accept His solution to sin and death in faith (animal sacrifices expressing faith in the coming Messiah they knew little to nothing about-see **Hebrews 11**). 
+
+Likewise, Adam and Eve (the very first people to ever live) had no knowledge of these future events but accepted them in faith by accepting the coats of skin offered by our Lord that represented His future sacrificial death on the cross that He would undergo to pay for our sins. Adam and eve did not have knowledge of this but accepted what God provided for them to believe in Jesus Christ (salvation has always been by faith through grace alone in Jesus Christ). Hence, the gospel is all about faith and not knowledge. 
+
+{{% scripture p="Genesis 3:20-21 (ESV)" %}} 
+
+**20** The man called his wife's name Eve, because she was the mother of all living. **21** **And the Lord God made for Adam and for his wife garments of skins and clothed them**.
+
+{{% /scripture %}} 
+
+This event we must contrast with Adam and Eve's human effort to solve the problem of sin and death through their own good works and efforts; the sowing of plant leaves together to cover their nakedness (which represents a false religion of trying to work one's way to Heaven). They had to exchange their own solution to the predicament they now faced for God's solution to the problem. 
+
+{{% scripture p="Genesis 3:6-7 (ESV)" %}} 
+
+**6** So when the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took of its fruit and ate, and she also gave some to her husband who was with her, and he ate. **7** Then the eyes of both were opened, and they knew that they were naked. **And they sewed fig leaves together and made themselves loincloths**.
+
+{{% /scripture %}} 
+
+It is also worth mentioning that many believers have and continue to get saved at a very young age so that it would be safe to assume they had very little knowledge about many of the details of Christ's person and work (such as the deity of Christ and the Trinity) because children understand very little of these things (especially those saved at very young ages). Yet, what they all have in common is faith in Jesus Christ! Jesus even told His disciples that whoever does not receive the kingdom with the faith of a child will not enter it. 
+
+ {{% scripture p="Matthew 18:1-4 (ESV)" %}} 
+
+**1** At that time the disciples came to Jesus, saying, “Who is the greatest in the kingdom of heaven?” **2** And calling to him a child, he put him in the midst of them **3** and said, “Truly, I say to you, unless you turn and become like children, you will never enter the kingdom of heaven. **4** Whoever humbles himself like this child is the greatest in the kingdom of heaven.
+
+{{% /scripture %}} 
+
+Finally, since we have mentioned the differences between the information available to those under the Old Covenant to those under the New, it would not be inappropriate to briefly discuss the issue of "dispensations" and "dispensationalism."
+
+**Dispensations and Dispensationalism** 
+
+First, the Old Testament saints did not have the completed canon of Scripture available to them (which means they didn’t have all the Scripture to mediate on that we do today). This means that they took to heart and obeyed whatever portions of Scripture were accessible (if any) or any other information they garnered through walking close to the Lord in faith as He revealed more of Himself to them through their own life experiences. Some did not even have the Law or any written part of Scripture (such as Adam, Enoch, Abraham, Job, etc.). Nevertheless, the Lord still provided all the necessary means for these great people of God to grow spiritually, provisions that these believers took advantage of through faith (look no further than **Hebrews 11**-the Christian life is all about faith and not knowledge!). This fact tells us that spiritual maturity isn’t based on how much we know (mere head knowledge by itself) but how much we apply through faith in proportion to what we know! With that said, if we want to grow more in our faith by applying more of the truth, we need to seek out as much of it as we can (failing to do so will stunt our spiritual growth). 
+
+The correct meaning of “**dispensationalism**” refers to distinct periods differing in HOW God has chosen to “dispense” His truth (**the gospel included**) to the world throughout history. The truth itself has not changed, but the manners in which God has chosen to reveal Himself have differed from period to period. Dr. Luginbill defines and describes this word well when he says- 
+
+ {{% quote text="SR2" src="https://ichthys.com/mail-Dispensations-Church.htm" %}}
+
+The key is to be found in the word *oikonomia* "dispensation" ([Eph.1:10](https://biblia.com/bible/esv/Eph.1.10); [3:2](https://biblia.com/bible/esv/Eph 3.2); [3:9](https://biblia.com/bible/esv/Eph 3.9); [Col.1:25](https://biblia.com/bible/esv/Col.1.25); [1Tim.1:4](https://biblia.com/bible/esv/1 Tim.1.4)), of which Paul for instance tells us he is a *diakonos* or steward ([Col.1:25](https://biblia.com/bible/esv/Col.1.25); a synonym of which is *oikonomos*, a word closely akin to *oikonomia* and also used for the one who dispenses the truth of God; cf. [1Cor.4:1](https://biblia.com/bible/esv/1 Cor.4.1); [Tit.1:7](https://biblia.com/bible/esv/Titus.1.7); Pet.4:10). One can easily see the word "economics" (i.e., in Greek the management of a household, in this case God's "whose household we are") in the former and "deacon" in the latter (in Greek a servant who works in the household). 
+
+{{% /quote %}}  
+
+Today, we have God's complete and written Word necessary for our spiritual well-being. However, this was not true for many living under the Old Covenant. The Lord chose to reveal Himself and provide all the necessary information needed for spiritual growth through various forms of communication, such as signs, wonders, Christophanies, visions, dreams, and other divine manifestations of Himself and the truth He offered. This truth means that the Lord commonly spoke with some of His chosen servants face to face (as He did with Abraham and Moses, who acted as His witnesses). Please understand that we’ve listed here only a few of the most prominent examples of ways (also known as dispensations) in which the Lord chose to communicate the truth. How He does so depends on the circumstances and where we are in history.
+
+For example, the phrase, “Or any other information they garnered through walking close to the Lord in faith as He revealed more of Himself to them through their own life experiences,” applied to all the Old Testament believers but especially those before the giving of the Pentateuch (such as Adam and Enoch as only two out of many examples). Before the giving of the Law, the patriarchs would help to be God’s witnesses to spread His truth (using all that God provided them absent the written code, i.e., the Law of Moses). Then came the nation of Israel and the giving of the Law and the priesthood (another type of dispensation), along with the prophets (along with some Old Testament books) who acted in the Lord’s stead to help warn the nation and provide them with direct information from Himself. Next came Christ’s advent on earth (the incarnate Jesus Christ teaching His people directly), then the apostles (along with the sign gifts), and then the permanent indwelling of the Holy Spirit along with the written Word of God in completed form (precisely what we have today in the church age, including pastors and missionaries who help “dispense” the truth). Finally, the Millennium (the final period of human history before eternity’s commencement) will see a combination of some of the above manifestations (dispensations) since “the earth will be full of the knowledge of the Lord **Habakkuk 2:15**, **Jeremiah 31:31-34**.  
+
+So, the conclusion from the above is that believers during Old Testament times set their minds on whatever truth was available to them regardless of the form in which it came. They did not know as much as we do today (many truths and details still veiled in mystery) because they did not have the completed Bible. But what they had available was enough to sustain their spiritual growth. The great heroes of the faith (some of the greatest believers of all time), such as Noah, Moses, David, Elijah, Abraham, and the like, were so because of their faith in what they received. The fact that they had less information available to them was not a result of any failing on their part but was because of how God chose to reveal Himself during those times. Sadly, despite today’s believers having more time, resources, and information, they are doing far less in proportion to what they have than many of those in biblical times who came before them. It is staggering to see just how little faith plays in the lives of so many Christians today. 
+
+## **1.2 What about Repentance?** 
 
 Repentance is not some separate act from faith but simply another side of the coin. Faith and repentance are two sides of the same coin because faith is a commitment that cannot occur unless the person who believes genuinely desires to turn away from their old self and live a life of obedience. Believing is repenting because saving faith means completely surrendering oneself over to God. Therefore, repentance is a change of mind/heart/attitude that results in a change of action/behavior/lifestyle. That is what true saving faith produces because faith is evidenced, completed, and perfected through works, not that salvation is by works, of course. Turning to God in faith is a reaction to changing one’s mind toward sin, the world, themselves, and God. The Greek word for repentance in the New Testament is *metanoeo* (μετανοέω), which means to change one's mind or attitude. This change results in a person turning to Christ in faith, and genuine faith always has something to show for it. 
 
