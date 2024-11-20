@@ -85,7 +85,7 @@ Unfortunately, most believers aren’t answering the “door,” for our Lord is
 
 ### **1.3 Biblical Proof that Believers will go Through the Tribulation** 
 
-In addition to Revelation 3:7-13 and 14-20 above, there are verses in the Bible that speak of the timing of the tribulation. One must handle them carefully, as this is not a doctrine one wants to get wrong, especially considering how dangerous it will be for many who have fallen for the false doctrine of the “pre-trib rapture.”  
+In addition to the interpretations found in **Revelation 3:7-13** and **Revelation 3:14-20** above, there are verses in the Bible that speak of the timing of the tribulation. One must handle them carefully, as this is not a doctrine one wants to get wrong, especially considering how dangerous it will be for many who have fallen for the false doctrine of the “pre-trib rapture.”  
 
 {{% scripture p="2 Thessalonians 2:1-4" %}} 
 
@@ -116,6 +116,10 @@ The phrase “*To the effect that the day of the Lord has come*” mentioned in 
 **4** I thank my God always concerning you for the grace of God which was given you in Christ Jesus, **5** that in everything you were enriched in Him, in all speech and all knowledge, **6** just as the testimony concerning Christ was confirmed in you, **7** so that you are not lacking in any gift, as you eagerly await the revelation of our Lord Jesus Christ, **8** who will also confirm you to the end, blameless on the day of our Lord Jesus Christ. **9** God is faithful, through whom you were called into fellowship with His Son, Jesus Christ our Lord.
 
 {{% /scripture %}} 
+
+The passage above mentions 
+
+There is nothing in all of Scripture to suggest that the church will be absent for the time of Jacob's trouble, which begs the question of how anyone could ever concoct such a dangerous false theory that has and continues to engender so much spiritual complacency 
 
 Therefore, it is of utmost importance that all believers heed the Lord’s message to Laodicea to “become zealous and repent” to be ready for those dreadful days ahead. Sadly, most will not do this until the tribulation's actual commencement, for if they did, then the discipline of the kind that entails the tribulation would not be necessary. Thankfully, most believers will get their act together when they absolutely must, but duty calls now! Because of this reality, most Christians now and in the future that do find themselves in those horrible times will be largely unprepared to face the testing and persecution, which is to come. But for those serious about their walk with Jesus and the truth of His Word, the Bible, its doctrines, and teachings, there are further steps we can take to prepare us for those yet future times. These “aspects of preparation” we will now turn our attention to for the rest of this study. 
 
