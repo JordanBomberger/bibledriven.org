@@ -117,10 +117,6 @@ The phrase “*To the effect that the day of the Lord has come*” mentioned in 
 
 {{% /scripture %}} 
 
-The passage above mentions 
-
-There is nothing in all of Scripture to suggest that the church will be absent for the time of Jacob's trouble, which begs the question of how anyone could ever concoct such a dangerous false theory that has and continues to engender so much spiritual complacency 
-
 Therefore, it is of utmost importance that all believers heed the Lord’s message to Laodicea to “become zealous and repent” to be ready for those dreadful days ahead. Sadly, most will not do this until the tribulation's actual commencement, for if they did, then the discipline of the kind that entails the tribulation would not be necessary. Thankfully, most believers will get their act together when they absolutely must, but duty calls now! Because of this reality, most Christians now and in the future that do find themselves in those horrible times will be largely unprepared to face the testing and persecution, which is to come. But for those serious about their walk with Jesus and the truth of His Word, the Bible, its doctrines, and teachings, there are further steps we can take to prepare us for those yet future times. These “aspects of preparation” we will now turn our attention to for the rest of this study. 
 
 ### **1.4 Preparing for the Tribulation** 
