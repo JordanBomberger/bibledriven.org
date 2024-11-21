@@ -233,7 +233,7 @@ As believers, our job is to choose to obey our Master, no matter the circumstanc
 
 {{% /scripture %}}  
 
-If a believer has been living in worsening sin for a good long time, their first move would be to repent of such erroneous behavior and get back on track to the main road they should have been running originally. The only way to defeat sin is to do it God’s way, not the “way that sounds good to a man, leading to death.” For any believer who has struggled with chronic sin for a long time, a zealous change of mind resulting in a change of actions is the first step. This change of mind is repentance, fully surrendering one’s thoughts, words, and deeds to God. Since sin is anything we think, say, and do that displeases our Savior, giving up our entire self to Him is the only way a person can return to the Lord. Faith and obedience are required, two aspects we will discuss later on in our touchstone passage of Ephesians dealing with the armor of God. 
+If a believer has been living in worsening sin for a good long time, their first move would be to repent of such erroneous behavior and get back on track to the main road they should have been running originally. For any believer who has struggled with chronic sin for a long time, a zealous change of mind resulting in a change of actions is the first step. This change of mind is repentance, fully surrendering one’s thoughts, words, and deeds to God. Since sin is anything we think, say, and do that displeases our Savior, giving up our entire self to Him is the only way a person can return to the Lord. Faith and obedience are required, two aspects we will discuss later on in our touchstone passage of Ephesians dealing with the armor of God. 
 
 {{% scripture p="Hebrews 12:12-13 (ESV)" %}} 
 
@@ -283,7 +283,7 @@ My little children, I am writing these things to you so that you may not sin. An
 
 {{% /scripture %}}  
 
-Confession naturally occurs after a believer changes their mind toward their sinful behavior (repentance). If a believer repents (has a change of mind), then confession will result. Nobody is perfect, and we all fail from time to time, getting our “feet” dirty every day, which means they need cleaning every time we mess them up (**John 13:7-10**). The sole purpose of confession is to restore the believer to fellowship with God as soon as they sin. By failing to do so, we open ourselves up to sustaining even more spiritual damage. Wasted time can be one of Satan’s greatest weapons, and when he sees us wallowing in our sin for whatever reason, he will never hesitate to “sock” us as many more punches as possible. His goal is to weaken us to such a tremendous degree that we become thoroughly discouraged and hopeless in our failures, resulting in the hardening of our hearts and the backsliding of our walk with God. 
+Confession naturally occurs after a believer changes their mind toward their sinful behavior (repentance). If a believer repents (*metanoeo* (μετανοέω) refers to a change of mind which results in a change of action, lifestyle, or behavior), then confession (*homologeō* has the idea of admitting or acknowledging something to someone) will result. Nobody is perfect, and we all fail from time to time, getting our “feet” dirty every day, which means they need cleaning every time we mess them up (**John 13:7-10**). The sole purpose of confession is to restore the believer to fellowship with God as soon as they sin. By failing to do so, we open ourselves up to sustaining even more spiritual damage. Wasted time can be one of Satan’s greatest weapons, and when he sees us wallowing in our sin for whatever reason, he will never hesitate to “sock” us as many more punches as possible. His goal is to weaken us to such a tremendous degree that we become thoroughly discouraged and hopeless in our failures, resulting in the hardening of our hearts and the backsliding of our walk with God. 
 
 {{% scripture p="John 13:5-10 (NIV)" %}} 
 
@@ -458,7 +458,7 @@ Every believer needs to remember that they are not alone in this fight. If we we
 Although not omnipresent himself, Satan will take any opportunity he can to attack and destroy any believer, for **1 Peter 5:8** describes him as a “*roaring lion seeking whom he may devour*.” We never know when an attack will come, for although Satan is limited in when, how hard, and how often he can attack, we believers have no idea about any of these things. We aren’t meant to see them either. The encouraging news is that we can be ready for and defeat any attack that may come our way. That is why Scripture commands us to be alert and of sober mind.  
 
 {{% note %}}
-Not all temptations come from the Devil. There are times when he often gets too much credit because a lot of temptations can and do come solely from our flesh (sin nature) instead of Satan and our flesh (combined). There are times when our flesh just feels like doing wrong things without Satan even being involved. But this difference is not something we can know at any given time and is thus unimportant because all temptations are to be resisted and overcome. Temptation is temptation no matter how they creep into our minds. 
+Not all temptations come from the Devil. There are times when he often gets too much credit because a lot of temptations can and do come solely from our flesh (sin nature) instead of Satan and our flesh (combined). There are times when our flesh just feels like doing wrong things without Satan even being involved. But this difference is not something we can know at any given time and is thus unimportant because all temptations are to be resisted and overcome. Temptation is temptation no matter how it creeps into our minds. 
 {{% /note %}}
 
 Although there are some things we can’t know about temptation, when it will come, how long it will last, and how difficult it will be, we know what to do when it shows its ugly face. We understand that all we have to do is say NO (**James 4:7**). We resist in Christ’s power just as how we have done with any other temptation. Regardless of how the evil one may tweak and adjust his attacks (temptation is still temptation after all), they will always fail when up against the Lord Jesus, which means we must fight against Satan in God’s power at all times. 
@@ -517,13 +517,13 @@ Anyone who does not have the Holy Spirit living within them does not belong to C
 
 ## **8. Our Weaponry in this Fight - The Armor of God** 
 
-{{% scripture p="Ephesians 6:10-18 (NASB)" %}} 
+{{% scripture p="Ephesians 6:10-17 (NASB)" %}} 
 
-**10** Finally, be strong in the Lord and in the strength of His might. **11** Put on the full armor of God, so that you will be able to stand firm against the schemes of the devil. **12** For our struggle is not against flesh and blood, but against the rulers, against the powers, against the world forces of this darkness, against the spiritual *forces* of wickedness in the heavenly *places*. **13** Therefore, take up the full armor of God, so that you will be able to resist in the evil day, and having done everything, to stand firm. **14** Stand firm therefore, **having girded your loins with truth**, and **having put on the breastplate of righteousness**, **15** and **having shod your feet with the preparation of the gospel of peace**; **16** in addition to all, **taking up the shield of faith with** which you will be able to extinguish all the flaming arrows of the evil *one*. **17** And **take the helmet of salvation**, and the **sword of the Spirit**, which is the word of God. **18** With all prayer and petition pray at all times in the Spirit, and with this in view, be on the alert with all perseverance and petition for all the saints, 
+**10** Finally, be strong in the Lord and in the strength of His might. **11** Put on the full armor of God, so that you will be able to stand firm against the schemes of the devil. **12** For our struggle is not against flesh and blood, but against the rulers, against the powers, against the world forces of this darkness, against the spiritual *forces* of wickedness in the heavenly *places*. **13** Therefore, take up the full armor of God, so that you will be able to resist in the evil day, and having done everything, to stand firm. **14** Stand firm therefore, **having girded your loins with truth**, and **having put on the breastplate of righteousness**, **15** and **having shod your feet with the preparation of the gospel of peace**; **16** in addition to all, **taking up the shield of faith with** which you will be able to extinguish all the flaming arrows of the evil *one*. **17** And **take the helmet of salvation**, and the **sword of the Spirit**, which is the word of God. 
 
 {{% /scripture %}}   
 
-This passage above will serve as our touchstone in discussing the spiritual weapons we have in Christ to wage war against Satan and our flesh. This topic will constitute a large portion of the rest of our study. Every individual part of the spiritual armor we believers have as protection is ever so critical in our spiritual success. Taking just one of these crucial elements away would render us completely helpless in our war against sin, for we could not overcome it at all if one of our “pieces of the armor” were missing. 
+This passage above will serve as our touchstone in discussing the spiritual weapons we have in Christ to wage war against Satan and our flesh. This topic will constitute a large portion of the rest of our study. Every individual part of the spiritual armor we believers have as protection is ever so critical in our spiritual success. Taking just one of these crucial elements away would render us completely helpless in our war against sin, for we could not overcome it at all if one of our “pieces of the armor” were missing. With that said, we will not do an in-depth examination of our passage but will survey the different parts separately to get a general idea of our spiritual weapons.  
 
 ### 8.1 The Belt of Truth
 
@@ -541,7 +541,7 @@ When the day of Pentecost came, they were all together in one place. **2** Sudde
 
 {{% /scripture %}}   
 
-Today, all believers are blessed to have the presence of the indwelling Spirit and the complete canon of Scripture to act as their “spiritual life and blood” to righteous living. Just as how the heart pumps blood through the body, so God has designed His Word to sustain spiritual life, for it is by God’s truth that we grow in His grace and knowledge. If a recent convert lacks access to our Lord’s revelation of Himself through Scripture, then God will provide that person a way to receive His truth. Our heavenly Father feeds the sparrows **(Matthew 6:26**), so why would He leave one of the many beings created in His image to starve of His truth when they truly desire it? God will always supply the needs of all who want Him, for that is part of who He is, a just and merciful creator. 
+Today, all believers are blessed to have the presence of the indwelling Spirit and the complete canon of Scripture to act as their “spiritual life and blood” to righteous living. Just as how the heart pumps blood through the body, so God has designed His Word to sustain spiritual life, for it is by God’s truth (the word for truth is *alētheia* and refers to what is reliable and trustworthy) that we grow in His grace and knowledge. If a recent convert lacks access to our Lord’s revelation of Himself through Scripture, then God will provide that person a way to receive His truth. Our heavenly Father feeds the sparrows **(Matthew 6:26**), so why would He leave one of the many beings created in His image to starve of His truth when they truly desire it? God will always supply the needs of all who want Him, for that is part of who He is, a just and merciful creator. 
 
 {{% scripture p="Romans 8:8-10 (ESV)" %}} 
 
@@ -713,6 +713,10 @@ Without believing the truths one has stored in their heart, no believer can appl
 
 Believing in the true meaningful sense requires us to apply the truth, not just believe it intellectually. Application requires an active (not dead) faith for us to live out the truth we have stored in or hearts. 
 
+**21** Therefore lay aside all filthiness and overflow of wickedness, and receive with meekness the implanted word, which is able to save your souls. **22** But be doers of the word, and not hearers only, deceiving yourselves. **23** For if anyone is a hearer of the word and not a doer, he is like a man observing his natural face in a mirror; **24** for he observes himself, goes away, and immediately forgets what kind of man he was. **25** But he who looks into the perfect law of liberty and continues *in it,* and is not a forgetful hearer but a doer of the work, this one will be blessed in what he does.
+
+{{% /scripture %}}   
+
 #### **F. Thinking on God’s Truth**
 
 {{% scripture p="Philippians 4:8 (ESV)" %}} 
@@ -751,7 +755,7 @@ Cast your burden on the Lord, and he will sustain you; he will never permit the 
 
 But a willing heart to believe is also needed, for if we ask God to help us out of temptation while having second thoughts about the matter in a double-minded fashion, can we expect to win? We can’t, not with a divided mindset, for the believer will only be tossed to and fro by indecisiveness. We cannot have a divided mind when faced with temptation, for Satan will undoubtedly take advantage of the situation. Therefore, we must always let our yes be yes, and our no be no. Either we will exercise faith and obey, or we will give in to the cravings of our flesh. 
 
-Believing (a full surrender to and reliance on God as opposed to just a mental understanding and acceptance of the truth) is the same as applying, for faith must be present when and if we obey the Lord’s command. Having hidden His truth in our hearts, we believers then take that same truth that the Spirit makes real to us and apply it in faith. The Spirit will then empower that faith through His strength so that victory becomes possible. Trying to resist in the power of the flesh is like trying to ride a stubborn bull peacefully, knowing it will not happen. A bull will only buck and kick until it manages to throw its rider off its back. Our flesh will never cooperate with us. 
+Believing (a full surrender to and trust/reliance on God as opposed to just a mental understanding and acceptance of the truth) is the same as applying, for faith must be present when and if we obey the Lord’s command. Having hidden His truth in our hearts, we believers then take that same truth that the Spirit makes real to us and apply it in faith. The Spirit will then empower that faith through His strength so that victory becomes possible. Trying to resist in the power of the flesh is like trying to ride a stubborn bull peacefully, knowing it will not happen. A bull will only buck and kick until it manages to throw its rider off its back. Our flesh will never cooperate with us. 
 
 For that reason, faith is a shield because it is a defensive aspect of our spiritual armor that protects us from all attacks. God is our trustworthy source of peace and safety, our rock, and our fortress. But His power will not benefit us if we do not take advantage of it in faith. God’s grace has to be received, for if we believe He will help us when we cry out to Him, then He will not fail to deliver us. 
 
@@ -859,7 +863,13 @@ As believers, we have received salvation by faith through grace alone, according
 
 In the secular world of warfare, the helmet protects the most critical part of the body, the head. If our head is destroyed or seriously damaged, then no other form of protection will matter. We have to be saved to beat sin, possessing the Holy Spirit within us to counter all spiritual attacks. Christ’s sacrifice on the cross will only benefit us if we take advantage of this gift of gifts. For all the other parts of the spiritual armor of God to work or mean anything, we must have on us the helmet of salvation.
 
-But just because we have this helmet doesn’t mean we will take care of it (keeping it on means holding fast to our faith till death). If we are truly taking care of our salvation, then we will take care of the rest of our armor as well. Just as how a good and wise soldier does not abuse his protective clothing, so too a mature and prudent believer attends to and takes care of his own spiritual needs. 
+But just because we have this helmet doesn’t mean we will take care of it (keeping it on means holding fast to our faith till death). If we are truly taking care of our salvation, then we will take care of the rest of our armor as well. Just as how a good and wise soldier does not abuse his protective clothing, so too a mature and prudent believer attends to and takes care of his own spiritual needs through spiritual growth. The Ephesians to whom Paul wrote these words were already believers (there was no need for them to get saved) so that our passages below more accurately describe the process of spiritual growth by "going to work on our salvation" (not working for it, of course because the gospel is by faith through grace alone). 
+
+{{% scripture p="1 Timothy 6:12 (NIV)" %}}
+
+**12** Fight the good fight of the faith. **Take hold of the eternal life** to which you were called when you made your good confession in the presence of many witnesses.  
+
+{{% /scripture %}}     
 
 An example of this could be building up our faith to protect us during testing and tribulation. All of these other parts of God’s armor come to us because we have received the gospel into our lives. And it is because of our identity with Christ that we believers can further benefit from the other aspects of spiritual warfare. 
 
@@ -1055,7 +1065,7 @@ Even in the most challenging temptations, we can have joy knowing that we are pa
 
 {{% /scripture %}}   
 
-The breastplate of righteousness represents the righteousness that believers have received from Christ at the moment of salvation. As long as they rely on His strength instead of their own, they will not fail. With faith and grace comes the righteousness that God imparts to the individual in that said person can now do all that is good and pleasing in God’s eyes. They have God's righteousness so that they no longer have to sin. Their sins are forgiven, so they are no longer slaves to them. 
+The breastplate of righteousness represents the righteousness that believers have received from Christ at the moment of salvation and also the righteousness they continue to produce through Christ's power as they live the Christian life. As long as they rely on His strength instead of their own, they will not fail. With faith and grace comes the righteousness that God imparts to the individual in that said person can now do all that is good and pleasing in God’s eyes. They have God's righteousness so that they no longer have to sin. Their sins are forgiven, so they are no longer slaves to them. 
 
 #### **A. Works of the Flesh vs. True Righteousness of the Spirit**  
 
@@ -1090,6 +1100,12 @@ To the believer currently running this race, all who belong to Christ are in Him
 {{% /scripture %}}   
 
 In essence, using the sword of the Spirit means taking the truth we have stored in our hearts (see the belt of truth earlier  above) and applying it in the power of the Spirit. Much of what it entails we have already discussed (for sake of time and space) with the belt of truth since they are both very similar. 
+
+{{% scripture p="Hebrews 4:12 (NKJV)" %}} 
+
+**12** For the word of God *is* living and powerful, and sharper than any two-edged sword, piercing even to the division of soul and spirit, and of joints and marrow, and is a discerner of the thoughts and intents of the heart.
+
+{{% /scripture %}}   
 
 When faced with temptation, we must recall the truths we have learned by storing up God's Word in our hearts (**Psalm 119:11**).  With that, we will end this section with the following questions: 
 
@@ -1325,7 +1341,7 @@ If we confess our sins, he is faithful and just to forgive us our sins, and to c
 
 To sum up, all the pieces of God's armor are necessary to complete the process of spiritual growth, progress and production. We can summarize the armor of God as follows; 
 
-<u>Helmet of Salvation</u>- Overcoming sin, Satan and the world requires one to be a believer and stay one (keep the helmet on) to the very end. The evil one cannot fully knock us out (and thus win the war) and overcome us as long as we are believers. We are eternally secure as long as we remain in the faith. As long as we have salvation, we always have the power and ability to resist all attacks. 
+<u>Helmet of Salvation</u>- Overcoming sin, Satan and the world requires one to be a believer and stay one (keep the helmet on) to the very end. The evil one cannot fully knock us out (and thus win the war) and overcome us as long as we are believers. We are eternally secure as long as we remain in the faith through continuous spiritual growth (sanctification). As long as we have salvation, we always have the power and ability to resist all attacks. 
 
 <u>Shield of Faith</u>- True saving faith is required for every aspect of the Christian life (justification, sanctification and glorification). Faith is needed to become a believer and live like one (apply the truth). After salvation, it is needed to grow, progress, and produce. 
 
