@@ -1093,9 +1093,9 @@ To the believer currently running this race, all who belong to Christ are in Him
 
 ### 8.5 The Sword of the Spirit
 
-{{% scripture p="Ephesians 6:14 (NASB)" %}} 
+{{% scripture p="Ephesians 6:17 (NASB)" %}} 
 
-**14** Stand firm therefore, **having belted your waist with truth**, and having put on the breastplate of righteousness.                                                
+**17** And take the helmet of salvation and **the sword of the Spirit**, which is the word of God.                                              
 
 {{% /scripture %}}   
 
