@@ -683,7 +683,7 @@ Therefore, the Holy Spirit is the witness of our salvation, convicting those who
 
 {{% /scripture %}} 
 
-**3.   **<u>The Spirit is our seal and pledge of salvation</u> 
+**3**.<u>**The Spirit is our seal and pledge of salvation**</u> 
 
 {{% scripture p="Ephesians 1:13 (ESV)" %}}  
 
@@ -709,7 +709,7 @@ Therefore, the Holy Spirit is the witness of our salvation, convicting those who
 
 {{% /scripture %}} 
 
-**4.   **<u>**The Spirit empowers righteous living**</u> 
+**4**.**<u>The Spirit empowers righteous living</u>** 
 
 {{% scripture p="Ephesians 3:15-19 (NASB)" %}}  
 

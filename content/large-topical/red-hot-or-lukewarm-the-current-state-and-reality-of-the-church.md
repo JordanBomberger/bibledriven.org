@@ -55,7 +55,7 @@ To the Church in Laodicea
 
 {{% /scripture %}} 
 
-I will not attempt to explain the above passage in detail but will describe its central message. 
+**<u>I will not attempt to explain the above passage in detail but will describe its central message</u>**. 
 
 ## **2. Laodicea: What it is**
 
@@ -247,7 +247,7 @@ It is for this very reason why being on fire for the Lord is of utmost importanc
 
 ## **3. The Missing Link** 
 
-Today, the church needs a sustained, consistent, and a continued dose of good spiritual nutrition through in-depth quality Bible teaching. But such "spiritual nutritional food" has to be sought after, and that requires a zealous change of mind in our approach to spiritual health, do not forget, the Lord said to "become **zealous** and **repent**." If we would change our attitudes and start seeking the Lord, He would provide a ministry where such healthy food exists. All that is needed is the zeal and a determined mindset to put the truth first in our lives. 
+Today, the church needs a sustained, consistent, and a continued dose of good spiritual nutrition through in-depth quality Bible teaching. But such "spiritual nutritional food" has to be sought after, and that requires a change of mind (which results in a change of lifestyle or behavior) in our approach to spiritual health, do not forget, the Lord said to "become **zealous** and **repent**." If we would change our attitudes and start seeking the Lord, He would provide a ministry where such healthy food exists. All that is needed is the zeal and a determined mindset to put the truth first in our lives. 
 
 It is ubiquitous in our day and age for people to stress health and fitness. There is nothing wrong with taking care of our health and sustenance (that should be encouraged), but even more important is taking care of our spiritual health. It is good and godly to take care of our bodies, and the food we put in them matters, but even more important than physical food is spiritual food. 
 
