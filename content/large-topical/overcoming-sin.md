@@ -713,6 +713,8 @@ Without believing the truths one has stored in their heart, no believer can appl
 
 Believing in the true meaningful sense requires us to apply the truth, not just believe it intellectually. Application requires an active (not dead) faith for us to live out the truth we have stored in or hearts. 
 
+{{% scripture p="James 1:21-25 (NIV)" %}} 
+
 **21** Therefore lay aside all filthiness and overflow of wickedness, and receive with meekness the implanted word, which is able to save your souls. **22** But be doers of the word, and not hearers only, deceiving yourselves. **23** For if anyone is a hearer of the word and not a doer, he is like a man observing his natural face in a mirror; **24** for he observes himself, goes away, and immediately forgets what kind of man he was. **25** But he who looks into the perfect law of liberty and continues *in it,* and is not a forgetful hearer but a doer of the work, this one will be blessed in what he does.
 
 {{% /scripture %}}   
