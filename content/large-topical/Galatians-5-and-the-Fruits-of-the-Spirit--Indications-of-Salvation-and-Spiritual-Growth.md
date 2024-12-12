@@ -296,14 +296,6 @@ Regarding Paul’s list of sinful behaviors (ones which anyone can commit in sec
 
 **18** Flee sexual immorality. Every sin that a man does is outside the body, but he who commits sexual immorality sins against his own body.                                  
 
-{{% /scripture %}}  
-
-{{% scripture p="2 Timothy 2:22 (NKJV)" %}}  
-
-**22** Flee also youthful lusts; but pursue righteousness, faith, love, peace with those who call on the Lord out of a pure heart.                                               
-
-{{% /scripture %}}  
-
 In verse twenty, Paul now moves into a different set of types of sinful behaviors that don’t have sexual sin as their only primary application. One can serve unbiblical sex like they would an idol, so said point still applies. But worshiping any sin in general, as pointed out above, amounts to idolatry. The Greek word for idolatry in **Galatians 5:20** is *εἰδωλολατρία eidōlolatria* and implies the worship of false gods (whatever that may look like in the individuals case). This sin can involve any item of any material (as well as non-material things) we begin to put above our relationship with Jesus Christ (an example could be someone who idolizes their cell phone even if they don’t literally bow down and worship it). Other examples can refer to literal false gods, such as Allah, Buddha, Zeus (in ancient Greek times), etc. In the case of many of the ancient deities worshiped by various pagan nations in biblical times, a significant amount of immoral rituals and practices accompanied the worship of the many satanic personages involved. Therefore, the word “idolatry” in our context has multiple applications.  
 
 {{% scripture p="Exodus 20:3-6 (NIV)" %}}  
@@ -664,69 +656,15 @@ Regarding the use of physical force and disciplinary behavior (as a separate, so
 
 There is then the issue of resisting the urge to hit someone back after they “laid one on us” (**Matthew 5:39**). However, that does not mean there isn’t a time for physical force and self-defense. The point is that there are variables, so we need not delve further into that area for common sense reasons. 
 
-Below are just some examples in a far from comprehensive list of where patience is needed in the Christian life. 
-
-**Patience through tests, trials, and tribulations…**  
-
-{{% scripture p="Romans 12:12 (ESV)" %}}   
-
- Rejoice in hope, be patient in **tribulation**, be constant in prayer.                    
-
- {{% /scripture %}}      
-
- Most applicable is the believer’s willingness to wait for the Lord’s second coming, which will involve enduring the tribulation for some (a time when physical resistance will be most inappropriate). 
-
-{{% scripture p="James 5:7-11 (NKJV)" %}}     
-
- **7** Therefore be **patient**, brethren, until the coming of the Lord. See *how* the farmer waits for the precious fruit of the earth, waiting patiently for it until it receives the early and latter rain. **8** You also be patient. Establish your hearts, for the coming of the Lord is at hand. **9** Do not grumble against one another, brethren, lest you be condemned. Behold, the Judge is standing at the door! **10** My brethren, take the prophets, who spoke in the name of the Lord, as an example of suffering and **patience**. **11** Indeed we count them blessed who endure. You have heard of the perseverance of Job and seen the end *intended by* the Lord—that the Lord is very compassionate and merciful.                                                        
-
-{{% /scripture %}}      
-
-{{% scripture p="Revelation 14:6-12 (NKJV)" %}}     
-
- **6** Then I saw another angel flying in the midst of heaven, having the everlasting gospel to preach to those who dwell on the earth—to every nation, tribe, tongue, and people— **7** saying with a loud voice, “Fear God and give glory to Him, for the hour of His judgment has come; and worship Him who made heaven and earth, the sea and springs of water.”**8** And another angel followed, saying, “Babylon is fallen, is fallen, that great city, because she has made all nations drink of the wine of the wrath of her fornication.” **9** Then a third angel followed them, saying with a loud voice, “If anyone worships the beast and his image, and receives *his* mark on his forehead or on his hand, **10** he himself shall also drink of the wine of the wrath of God, which is poured out full strength into the cup of His indignation. He shall be tormented with fire and brimstone in the presence of the holy angels and in the presence of the Lamb. **11** And the smoke of their torment ascends forever and ever; and they have no rest day or night, who worship the beast and his image, and whoever receives the mark of his name.” **12 Here is the patience of the saints; here are those who keep the commandments of God and the faith of Jesus**. 
-
-{{% /scripture %}}      
-
-**Patience with others…** 
-
 {{% scripture p="Ephesians 4:1-3 (NIV)" %}}   
 
-As a prisoner for the Lord, then, I urge you to live a life worthy of the calling you have received. **2** Be completely humble and gentle; be patient, bearing with one another in love. **3** Make every effort to keep the unity of the Spirit through the bond of peace.                                                                      
+As a prisoner for the Lord, then, I urge you to live a life worthy of the calling you have received. **2** Be completely humble and gentle; be **patient**, bearing with one another in love. **3** Make every effort to keep the unity of the Spirit through the bond of peace.                                                                      
 
 {{% /scripture %}}     
-
-{{% scripture p="1 Thessalonians 5:14 (NIV)" %}}    
-
-**14** And we urge you, brothers and sisters, warn those who are idle and disruptive, encourage the disheartened, help the weak, be patient with everyone.                 
-
-{{% /scripture %}}   
-
-**Patience in receiving things needed and asked for…** (asking and seeking don’t always mean receiving immediately because we may have to wait a while). 
-
-{{% scripture p="Hebrews 6:12-15 (NIV)" %}}        
-
-**12** We do not want you to become lazy, but to imitate those who through faith and **patience** inherit what has been promised.**13** When God made his promise to Abraham, since there was no one greater for him to swear by, he swore by himself, **14** saying, “I will surely bless you and give you many descendants.” **15** And so **after waiting patiently**, Abraham received what was promised.                                                                         
-
-{{% /scripture %}}   
 
 {{% scripture p="Matthew 7:7 (NIV)" %}}        
 
 **7** “Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.                                                                    
-
-{{% /scripture %}}    
-
-**Patience for all things in all areas of life in general…**  
-
-{{% scripture p="Isaiah 40:27-31 (ESV)" %}}       
-
-**27** Why do you say, O Jacob, and speak, O Israel,“ My way is hidden from the Lord, and my right is disregarded by my God”? **28** Have you not known? Have you not heard? The Lord is the everlasting God, the Creator of the ends of the earth. He does not faint or grow weary; his understanding is unsearchable.**29** He gives power to the faint, and to him who has no might he increases strength. **30** Even youths shall faint and be weary, and young men shall fall exhausted; **31** but they who **wait for the** **Lord** shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint.   
-
-{{% /scripture %}}     
-
-{{% scripture p="1 Corinthians 13:4-7 (ESV)" %}}   
-
-**4 Love is patient** and kind; love does not envy or boast; it is not arrogant **5** or rude. It does not insist on its own way; it is not irritable or resentful; **6** it does not rejoice at wrongdoing, but rejoices with the truth. **7** Love bears all things, believes all things, hopes all things, endures all things.                                                    
 
 {{% /scripture %}}     
 
@@ -778,7 +716,7 @@ Christ Himself is patient and kind, so we too must emulate this behavior toward 
 
 The Greek word for “goodness” is *ἀγαθωσύνη agathōsynē* and means to show "goodness" and "kindness" to others. It is the **act** of helping others (stemming from a **kind** heart) and includes the **results** of those actions (the outcome of an action or the benefits reaped from said behavior done out of love and care for another). The opposite of goodness is **evil,** which is the **result** of sin. Good things (mental, physical, spiritual, and miscellaneous) inevitably result from thinking, speaking, and acting well toward others. The passage below demonstrates this quite adequately. 
 
-{{% scripture p="Colossians 1:21-22 (NIV)" %}}  
+{{% scripture p="Romans 12:9-21 (NIV)" %}}  
 
 **9** Love must be sincere. **Hate what is evil** (the result of sin); **cling to what is good** (the results of love and kindness). **10** Be devoted to one another in **love**. Honor one another above yourselves. **11** Never be lacking in zeal, but keep your spiritual fervor, serving the Lord. **12** Be joyful in hope, patient in affliction, faithful in prayer. **13** Share with the Lord’s people who are in need. Practice hospitality.**14** Bless those who persecute you; bless and do not curse. **15** Rejoice with those who rejoice; mourn with those who mourn. **16** Live in harmony with one another. Do not be proud, but be willing to associate with people of low position. Do not be conceited.**17** Do not repay anyone **evil for evil**. Be careful to do what is right in the eyes of everyone. **18** If it is possible, as far as it depends on you, live at peace with everyone. **19** Do not take revenge, my dear friends, but leave room for God’s wrath, for it is written: “It is mine to avenge; I will repay,” says the Lord. **20** On the contrary:“ If your enemy is hungry, feed him; if he is thirsty, give him something to drink. In doing this, you will heap burning coals on his head.” **21 Do not be overcome by evil**, **but overcome evil with good**.                                             
 
