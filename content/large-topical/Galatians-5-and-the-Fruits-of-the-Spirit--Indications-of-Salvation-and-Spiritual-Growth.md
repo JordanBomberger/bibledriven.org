@@ -294,7 +294,9 @@ Regarding Paul’s list of sinful behaviors (ones which anyone can commit in sec
 
 {{% scripture p="1 Corinthians 6:18 (NKJV)" %}}  
 
-**18** Flee sexual immorality. Every sin that a man does is outside the body, but he who commits sexual immorality sins against his own body.                                  
+**18** Flee sexual immorality. Every sin that a man does is outside the body, but he who commits sexual immorality sins against his own body.     
+
+{{% /scripture %}}                               
 
 In verse twenty, Paul now moves into a different set of types of sinful behaviors that don’t have sexual sin as their only primary application. One can serve unbiblical sex like they would an idol, so said point still applies. But worshiping any sin in general, as pointed out above, amounts to idolatry. The Greek word for idolatry in **Galatians 5:20** is *εἰδωλολατρία eidōlolatria* and implies the worship of false gods (whatever that may look like in the individuals case). This sin can involve any item of any material (as well as non-material things) we begin to put above our relationship with Jesus Christ (an example could be someone who idolizes their cell phone even if they don’t literally bow down and worship it). Other examples can refer to literal false gods, such as Allah, Buddha, Zeus (in ancient Greek times), etc. In the case of many of the ancient deities worshiped by various pagan nations in biblical times, a significant amount of immoral rituals and practices accompanied the worship of the many satanic personages involved. Therefore, the word “idolatry” in our context has multiple applications.  
 
