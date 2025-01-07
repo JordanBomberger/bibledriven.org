@@ -198,7 +198,7 @@ Jesus said to her, “Do not cling to Me, **for I have not yet** **ascended to M
 
 ### **2.3  1 Corinthians chapters 12-14**
 
-The final central biblical context which discusses the sign gifts is found in 1 Corinthians chapters twelve to fourteen. But we need to understand that Paul mentions them in the letter to the Corinthians because of that congregation’s spiritual immaturity, understanding, and misuse of spiritual gifts. These three chapters tell a pretty revealing story about how some of these spiritual manifestations became a distraction and a stumbling block for the early church.  
+The final central biblical context which discusses the sign gifts is found in 1 Corinthians chapters twelve to fourteen. But we need to understand that Paul mentions them in the letter to the Corinthians because of that congregation’s spiritual immaturity, understanding, and misuse of spiritual gifts. These three chapters tell a pretty revealing story about how some of these spiritual manifestations became a distraction and a stumbling block for the early church. We will survey them briefly below by discussing a few points related to the present subject (**this is not a verse by verse examination but a brief overview**).   
 
 #### **1 Corinthians 12:4-11**
 
@@ -208,7 +208,7 @@ The final central biblical context which discusses the sign gifts is found in 1 
 
 {{% /scripture %}}  
 
-As our passage above shows, the sign gifts were given to **certain** believers and utilized by those such gifted. They existed for a time during the church when communicating the truth was more difficult because the Canon was not yet complete. The apostolic period was marked as a transitional time when the truth had to be communicated in special and unique ways to compensate for the lack of a complete Bible (a different dispensational period than what we have today).  
+The sign gifts were given to **certain** believers (our passage shows that it is God who chooses our gifts for us) and utilized by those such gifted. They existed for a time during the church when communicating the truth was more difficult because the Canon was not yet complete. The apostolic period was marked as a transitional time when the truth had to be communicated in special and unique ways to compensate for the lack of a complete Bible (a different dispensational period than what we have today).  
 
 During Paul and the apostle’s time, the Spirit directly spoke to believers who possessed the gifts of wisdom, knowledge, and faith. But that specific form of those particular gifts would cease even though they are still around today but utilized differently in various types of ministries (what that looks like will vary from believer to believer). The Spirit no longer **directly** communicates the truth to believers because there is no need when we have the completed Canon to read, understand, believe, apply, and teach. The truth can only come in the church today through qualified teachers (and personal Bible reading) when believers grow in the Word as they should by applying it sufficiently enough to instruct others. But, of course, all of this is still accomplished in the Spirit’s power. **1 Peter 4:11** sums this up by stating (regarding the gift of pastor teachers), “*If anyone speaks, they should do so as one who speaks the very words of God. If anyone serves, they should do so with the strength God provides, so that in all things God may be praised through Jesus Christ.”* 
 
