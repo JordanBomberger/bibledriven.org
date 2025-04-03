@@ -68,21 +68,7 @@ With that said, we will provide examples where giving (both money and possession
 
 {{% scripture p="Luke 10:25-37 (NKJV)" %}} 
 
-**25** And behold, a certain lawyer stood up and tested Him, saying, “Teacher, what shall I do to inherit eternal life?”
-
-**26** He said to him, “What is written in the law? What is your reading of it?”
-
-**27** So he answered and said, “ ‘You shall love the Lord your God with all your heart, with all your soul, with all your strength, and with all your mind,’ and ‘your neighbor as yourself.’ ”
-
-**28** And He said to him, “You have answered rightly; do this and you will live.”
-
-**29** But he, wanting to justify himself, said to Jesus, “And who is my neighbor?”
-
-**30** Then Jesus answered and said: “A certain man went down from Jerusalem to Jericho, and fell among thieves, who stripped him of his clothing, wounded him, and departed, leaving him half dead. **31** Now by chance a certain priest came down that road. And when he saw him, he passed by on the other side. **32** Likewise a Levite, when he arrived at the place, came and looked, and passed by on the other side. **33** But a certain Samaritan, as he journeyed, came where he was. And when he saw him, he had compassion. **34** So he went to him and bandaged his wounds, pouring on oil and wine; and he set him on his own animal, brought him to an inn, and took care of him. **35** On the next day, when he departed, he took out two denarii, gave them to the innkeeper, and said to him, ‘Take care of him; and whatever more you spend, when I come again, I will repay you.’ **36** So which of these three do you think was neighbor to him who fell among the thieves?”
-
-**37** And he said, “He who showed mercy on him.”
-
-Then Jesus said to him, “Go and do likewise.”
+**25** And behold, a certain lawyer stood up and tested Him, saying, “Teacher, what shall I do to inherit eternal life?” **26** He said to him, “What is written in the law? What is your reading of it?” **27** So he answered and said, “ ‘You shall love the Lord your God with all your heart, with all your soul, with all your strength, and with all your mind,’ and ‘your neighbor as yourself.’ ” **28** And He said to him, “You have answered rightly; do this and you will live.” **29** But he, wanting to justify himself, said to Jesus, “And who is my neighbor?” **30** Then Jesus answered and said: “A certain man went down from Jerusalem to Jericho, and fell among thieves, who stripped him of his clothing, wounded him, and departed, leaving him half dead. **31** Now by chance a certain priest came down that road. And when he saw him, he passed by on the other side. **32** Likewise a Levite, when he arrived at the place, came and looked, and passed by on the other side. **33** But a certain Samaritan, as he journeyed, came where he was. And when he saw him, he had compassion. **34** So he went to him and bandaged his wounds, pouring on oil and wine; and he set him on his own animal, brought him to an inn, and took care of him. **35** On the next day, when he departed, he took out two denarii, gave them to the innkeeper, and said to him, ‘Take care of him; and whatever more you spend, when I come again, I will repay you.’ **36** So which of these three do you think was neighbor to him who fell among the thieves?” **37** And he said, “He who showed mercy on him.” Then Jesus said to him, “Go and do likewise.”
 
 {{% /scripture %}} 
 
