@@ -168,7 +168,7 @@ Paul’s zeal for the safety of these believers went so far that he wished those
 
 ## **Galatians 5:13-15- Slavery from the Law to Freedom in Christ** 
 
-{{% scripture p="Romans 15:20 (NIV)" %}}    
+{{% scripture p="Galatians 5:13-15 (NIV)" %}}    
 
 **13** You, my brothers and sisters, were called to be free. But do not use your freedom to indulge the flesh; rather, serve one another humbly in love. **14** For the entire law is fulfilled (finds its full expression in the Greek) in keeping this one command: “Love your neighbor as yourself.” **15** If you bite and devour each other, watch out or you will be destroyed by each other. 
 
