@@ -306,7 +306,7 @@ Regarding the word “firstfruits,” believers are God’s firstfruits in that 
 
 **References** 
 
-All Greek words were taken from Bible Academy using Curtis Omo's lessons through the book of James. Prior permission for this was given to me by Curtis who clarified no need for citing him.  
+All Greek words and definitions were taken from Bible Academy using Curtis Omo's lessons through the book of James. Prior permission for this was given to me by Curtis who clarified no need for citing him.  
 
 https://www.youtube.com/watch?v=-NHHaXVo0uc&t=327s 
 

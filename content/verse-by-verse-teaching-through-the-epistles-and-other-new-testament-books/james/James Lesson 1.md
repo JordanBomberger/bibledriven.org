@@ -152,6 +152,6 @@ The word for effect is ergon (ἔργον) and means work or product (spiritual 
 
 **References** 
 
-All Greek words were taken from Bible Academy using Curtis Omo's lessons through the book of James. Prior permission for this was given to me by Curtis who clarified no need for citing him.  
+All Greek words and definitions were taken from Bible Academy using Curtis Omo's lessons through the book of James. Prior permission for this was given to me by Curtis who clarified no need for citing him.  
 
 https://www.youtube.com/watch?v=PgmCSNTQSKI&t=1s 
