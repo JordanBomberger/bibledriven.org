@@ -301,3 +301,13 @@ Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews. **2**
 {{% /scripture %}}   
 
 Regarding the word “firstfruits,” believers are God’s firstfruits in that they have a relationship with Christ (unlike unbelievers). We belong to God (we have a special status with Him as those loved in a more personal way **Revelation 3:19**) just as all the firstfruits of the harvest in Old Testament times belonged to Him (**Leviticus 23:10**). God created all living things (both man and beast) and loves all men, unbelievers included (**John 3:16**, **1 John 4:8**). However, only believers belong to Him. 
+
+
+
+**References** 
+
+All Greek words were taken from Bible Academy using Curtis Omo's lessons through the book of James. Prior permission for this was given to me by Curtis who clarified no need for citing him.  
+
+https://www.youtube.com/watch?v=-NHHaXVo0uc&t=327s 
+
+https://www.youtube.com/watch?v=iRwcpH0m3tw  

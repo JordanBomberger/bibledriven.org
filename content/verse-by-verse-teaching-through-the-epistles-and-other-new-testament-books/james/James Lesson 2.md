@@ -188,3 +188,11 @@ There are two positions on whether verses ten and eleven refer to wealthy believ
 
 Yes, verse eleven also holds true of rich unbelievers too because they will also physically die and lose everything they had. But verse ten refers specifically to believers. But in verse eleven (where both are meant as a more general meaning), the word “pursuits,” as Dr. Luginbill of Ichthys-Bible Study for Spiritual Growth notes, “is an unfortunate translation” because it makes it sound as if the person in question pursues wealth as some idol they presently serve to the detriment of their eternal life (someone who is already and always was an unbeliever or is about to become one very soon through apostasy). That is true in the case of unbelievers (this verse applies to both believers and unbelievers, not just unbelievers as some have taught), but it makes it sound as if the verse excludes rich believers too. However, the Greek word for “pursuits” in our context is *poreiea* and means “journeying” or “traveling.” Wealthy believers will die physically and lose all the material wealth they had in this life, just as all unbelievers will. The only difference is where both groups end up: eternity in the Lake of Fire for unbelievers or eternity in the new Heaven and Earth for believers. 
 
+
+
+**References** 
+
+All Greek words were taken from Bible Academy using Curtis Omo's lessons through the book of James. Prior permission for this was given to me by Curtis who clarified no need for citing him.  
+
+https://www.youtube.com/watch?v=FpArcC4sMBw 
+

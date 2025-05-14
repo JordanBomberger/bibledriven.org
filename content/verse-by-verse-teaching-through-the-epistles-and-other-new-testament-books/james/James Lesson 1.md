@@ -147,3 +147,11 @@ We will end this section with verse four, which says, “*And let* (an imperativ
 {{% /scripture %}}     
 
 The word for effect is ergon (ἔργον) and means work or product (spiritual growth and maturity are the products of faithful endurance). Therefore, the word “perfect” (teleios)  would refer to this idea of maturity (spiritual maturity in this case), while the word “complete” (holoklēros (ὁλόκληρος) as our English transliteration) means complete overall, lacking in nothing. None of this means we become perfect in that we no longer sin (see **1 John 1:10**) or struggle with anything because believers have their struggles and sin (most likely every day). But these words refer to this idea of completeness in the sense of general spiritual maturity that is acceptable in God’s eyes, not only because of the level said faith has attained but because it is continuous (this faith leads to eternal life when everything will have been completed once we see the Lord face to face **1 Corinthians 13:10**). These individuals mature and KEEP maturing since we will never stop growing spiritually while still in this world. We can’t be perfect, and we all have weak areas that need improvement. So there is always room for improvement. James commands us to keep getting better. The Christian life is a rollercoaster of a ride that is a fight to the finish.    
+
+
+
+**References** 
+
+All Greek words were taken from Bible Academy using Curtis Omo's lessons through the book of James. Prior permission for this was given to me by Curtis who clarified no need for citing him.  
+
+https://www.youtube.com/watch?v=PgmCSNTQSKI&t=1s 
