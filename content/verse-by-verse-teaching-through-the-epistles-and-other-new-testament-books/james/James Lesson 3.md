@@ -132,6 +132,12 @@ Finally, and before moving on, we should note in **2 Timothy 4:1-8** or anywhere
 
 The crown of life is the subject of our verse of study (the first half of the verse already explained earlier). The last part of our verse, “those who love him,” speaks of believers who stayed faithful till death and grew to basic spiritual maturity while having passed severe tests of their faith. As we have already mentioned, the crown of life goes to believers who have passed the far more difficult tests of life God has sent their way to grow their faith to another level (which makes them ready and prepared for more mature and consistent ministry). And, as we just said, prior spiritual growth and advancement were necessary to have gotten to said stage. This crown goes to those who not only got there but who have gone through and consistently passed these tests. Forward momentum must be sustained for life if ANY of these crowns are to be won (consistency is key). The high ground of spiritual progress (on whatever level for whatever stage) must be maintained till death (even though we will all have our failures throughout life). 
 
+{{% scripture p="Revelation 2:10 (ESV)" %}}  
+
+**10** Do not fear what you are about to suffer. Behold, the devil is about to throw some of you into prison, **that you may be tested**, and for ten days you will have tribulation. Be faithful unto death, and I will give you **the crown of life**. 
+
+{{% /scripture %}}    
+
 Therefore, winning any of the crowns of reward is impossible if prior advancement is not sustained. For example, it does no one any good to grow spiritually but then fall back into lukewarmness (**Revelation 3:14-22**) for the rest of their life thereafter. That is not to say all the good fruit they produced will be forgotten (it won’t) and left unrewarded in eternity (**Matthew 10:42**) (they will not lose their rewards). But they will not be eligible for any of the three crowns of reward (and won’t receive nearly as many eternal benefits as they could have because of all the wasted opportunities). The worst possible outcome for spiritual regression (if taken to the extreme) is apostasy (the complete death of faith; only believers are saved because removing faith takes away salvation **Ephesians 2:8-9**). Those who fall away will not have any share in eternal life **Hebrews 10:35-38**, **2 Peter 2:19-22**, **1 Corinthians 15:2**. 
 
 ### **The Crown of Glory- 1 Peter 5:4** 
