@@ -6,7 +6,7 @@ summary:
 
 ## Introduction
 
-This subject we will discuss has been a stumbling block for so many in the church over the years. The reason is that many have overemphasized financial security (**Revelation 3:14-22**). That is the lukewarm state the church sits in today. So many believers prioritize the temporal and less important matters of life to the detriment of their spiritual health. Needless to say that we have thoroughly discussed the “lukewarm” topic in other discussions throughout this ministry. Therefore, the reader should already understand that particular issue. 
+This subject we will discuss has been a stumbling block for so many in the church over the years. One of the reasons is that many have overemphasized financial security (**Revelation 3:14-22**). That is the lukewarm state the church sits in today. So many believers prioritize the temporal and less important matters of life to the detriment of their spiritual health. Needless to say that we have thoroughly discussed the “lukewarm” topic in other discussions throughout this ministry. Therefore, the reader should already understand that particular issue. 
 
 Nonetheless, almost every believer will have to decide what to do to support themselves and their family (if married). One of the most daunting and difficult decisions in life is choosing a suitable job/ career. Children attend grade school and then pursue their area of interest after they graduate. Many often switch majors, and some drop out of college altogether. Some young people know what they want to do before they graduate, while others have no clue what interests them. Every person is different. 
 
