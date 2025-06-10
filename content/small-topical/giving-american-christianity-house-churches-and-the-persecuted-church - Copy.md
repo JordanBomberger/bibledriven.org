@@ -72,10 +72,6 @@ With that said, we will provide examples where giving (both money and possession
 
 {{% /scripture %}} 
 
-#### There are other passages too; this list of examples was not comprehensive
-
-The above will complete our (far from comprehensive) list of passages where giving or helping out another believer is a Christian duty. True believers will naturally want to help others who genuinely do need help!
-
 ## Discernment in giving 
 
 Christian giving (whether to believers or unbelievers) should never be pressured or done under compulsion. Instead, the desire to help out should come naturally, especially when dealing with emergencies involving our fellow brothers and sisters (and unbelievers). And believers should never take advantage of the generosity of other members of Christ’s body! 

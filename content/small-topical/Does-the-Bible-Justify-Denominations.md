@@ -4,7 +4,7 @@ summary:
    This page will answer whether denominations are the right approach for the church. The short and simple answer is that they are not. 
 ---
 
-The short, quick, simple, and straightforward answer to the question in the title of this subject is that the Bible nowhere authorizes different denominational groups within the church. The reason is that they were never meant to exist in the first place for unity and spiritual growth within Christ’s body (attained only through having a common zeal and hunger for the truth). 
+The short, quick, simple, and straightforward answer to the question in the title of this subject is that the Bible nowhere authorizes different denominational groups within the church. The reason is that they were never meant to exist in the first place for unity and spiritual growth (attained only through having a common zeal and hunger for the truth). 
 
 Denominations did not come into existence until around the time of the protestant reformation begun by Luther and others. But different groups and denominations have continuously arisen up to the present day, including ones that have little or nothing to do with the true God of the Bible. Sadly, despite growing numbers and locations, the church (consisting of all born-again believers saved by grace through faith) has become less zealous for seeking out, understanding, believing, and applying the truth. 
 
@@ -44,4 +44,4 @@ There are no passages in Scripture that justify denominations. Today's scenario 
 
 {{% /scripture %}}  
 
-However, it is also true that no period of the church could ever be perfect so that even if Laodicea were on fire for God, there is still a possible chance that at least some denominations would still remain (even if nowhere close to the numbers and diversity that we see today) because there will always be less serious believers living at any time during any period in history. 
+However, it is also true that no period of the church could ever be perfect so that even if Laodicea were on fire for God, there is still a possible chance that at least some denominations would still remain (even if nowhere close to the numbers and diversity that we see today) because we live in an imperfect world. 
