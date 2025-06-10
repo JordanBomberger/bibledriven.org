@@ -14,9 +14,15 @@ There are many different types of teaching gifts/ministries that have produced t
 
 ### Having only one primary teacher makes sense
 
-As for how non-teachers should relate to their pastors, everyone has the right to use other sources for casual study or occasional reference. But a believer's primary teaching/learning should probably come from one teacher alone. For instance, (as one example) most commentaries (which still count as teaching) are inconsistent and confused in their content (no surprise since we live in lukewarm Laodicea, **Revelation 3:14-22**). There are some good ones, but not many that I could recommend. Very few believers without the gift of pastor teacher (both are the same gift) have the knowledge and discernment to pick out the good from the bad.
+As for how non-teachers should relate to their pastors, everyone has the right to use other sources for casual study or occasional reference. But a believer's primary teaching/learning should probably come from one teacher alone. For instance, (as one example) most commentaries (which still count as teaching) are inconsistent and confused in their content. There are some good ones, but not many that I could recommend. 
 
-So I advise that lay Christians use them with care. The same applies to multiple websites, books, and other teaching sources. Jumping from source to source is a good way to fall into many a false teaching that can also cause instability in what one believes (like the double-minded man in **James 1:5-8**). Besides that, the believer’s primary teacher can recommend a good few tried and trusted sources for further biblical and academic study. In the day and age in which we live, just about anyone can write whatever they want on a website or in a book. And academic credentials and formal education by themselves, though helpful, don't determine the quality of the "product". Good sound teaching is hard to find because of the scarcity of quality Bible teachers (itself largely a result of the lukewarm attitude so prevalent within the Church). 
+So I advise that lay Christians use them with care. The same applies to multiple websites, books, and other teaching sources. Jumping from source to source is a good way to fall into many a false teaching that can also cause instability in what one believes (like the double-minded man in **James 1:5-8**). Besides that, the believer’s primary teacher can recommend a good few tried and trusted sources for further biblical and academic study. In the day and age in which we live, just about anyone can write whatever they want on a website or in a book. And academic credentials and formal education by themselves, though helpful, don't determine the quality of the "product". Good sound teaching is hard to find because of the scarcity of quality Bible teachers (itself largely a result of the lukewarm attitude so prevalent within the Church **Revelation 3:14-22**). 
+
+{{% scripture p="Ephesians 4:11-16 (ESV)" %}}  
+
+**11** And he gave the apostles, the prophets, the evangelists, the shepherds and teachers, **12** to equip the saints for the work of ministry, for building up the body of Christ, **13** until we all attain to the unity of the faith and of the knowledge of the Son of God, to mature manhood, to the measure of the stature of the fullness of Christ, **14** so that we may no longer be children, tossed to and fro by the waves and carried about by every wind of doctrine, by human cunning, by craftiness in deceitful schemes. **15** Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into Christ, **16** from whom the whole body, joined and held together by every joint with which it is equipped, when each part is working properly, makes the body grow so that it builds itself up in love.
+
+{{% /scripture %}}  
 
 ### But we are not exempt from checking things against the scriptures ourselves
 
@@ -46,11 +52,13 @@ However, if a believer is new to the faith but believes they have the gift of te
 
 ### Preparations for pastor teachers: not all teachers are necessarily called to learn Greek and Hebrew, and they are not lesser for it
 
+Let the reader understand that knowing the original languages has its advantages and that Greek and Hebrew are indispensable for Bible teaching. However, my primary goal in writing everything below was to emphasize the advantages of not learning them for those not called to that path. So for those who wish to teach but don't have the languages under their belts, it would be best to consult a teaching source (usually one's own pastor teacher) for help and reference when utilizing Greek and Hebrew in one's teachings. And although no substitute for not knowing the original languages, there are also online resources that can be helpful when those are appropriate.   
+
 Not all teachers should learn the languages (though I believe most will likely be led to do so) or attend Bible college or seminary. However, this does *not* make those without language knowledge less effective as specific kinds of tools in the hands of the Lord, nor does it disqualify them outright. Realistically, there will be limits to what said prospective individual can find out absenting the languages. But each person has their own strengths and weaknesses. The word "effective" does not belong in this discussion since only the Lord can determine and knows the impact another can make. To go down that path is impossible and would only open up a can of worms. One may ask, "define effective?"
 
 Possessing or not possessing knowledge of biblical Greek and Hebrew (assuming the Lord did not lead someone down that path) will *not* affect the believer’s/teacher’s eternal reward in any way. Suppose the Lord does not call a teacher to learn the languages. In that case, that individual will actually increase their productivity for Christ by not pursuing them because whatever God has for us to do is what is best. Our Lord sets us up for maximum success because He would never limit us and He always has reasons for everything He does. 
 
-The Bible is silent on this issue because believers must make individual applications themselves based on what they are being led to do. With that said, we will support these truths with the following: 
+The Bible is silent on this issue because believers must make individual applications themselves based on what they are being led to do. With that said, the following points should be helpful: 
 
 #### There is no “one size fits all” when teaching God’s Word
 
