@@ -270,6 +270,20 @@ The Greek says, literally, "the complete/perfect thing", with "thing" being a ne
 
 {{% /quote %}}  
 
+{{% scripture p="James 1:25 (ESV)" %}}  
+
+**25** But the one who looks into the **perfect** (*teleios* complete or fully mature) law (God's perfect and completed Word in general), the law of liberty, and perseveres, being no hearer who forgets but a doer who acts, he will be blessed in his doing. 
+
+{{% /scripture %}}  
+
+We compare the passage above with our present verse. 
+
+{{% scripture p="1 Corinthians 13:10 (ESV)" %}}  
+
+**10** but when the **perfect** (*teleios*, complete or fully mature) comes, the partial will pass away.
+
+{{% /scripture %}}  
+
 **1 Corinthians 13:10** is sufficient to prove that the gifts of knowledge and prophecy (as well as all the other miraculous gifts which served the same or similar purpose) have ceased. Critics have cited that there is no biblical command to stop practicing these gifts or any proof of their disappearance. But as Dr. Luginbill also points out and as any causal reader of Scripture should be able to see for themself, of course there won't be any passages that say these gifts have ended because the sign gifts didn't cease until after the Canon was complete. So how could there be any commands to stop exercising them since they would still be operational until right after the last book of the Bible was written? This means that there can only be one option; a passage that would prophesy their end, which is exactly what **1 Corinthians 13:10** does. The fact that only one verse says this does not discredit this interpretation in any way. Why would there need to be more? The verse says what it says and means what it means. Since that is the case, we are obligated to believe it by accepting it at face value.  
 
 Prophecy, knowledge, and tongues were communication gifts that spoke the truth to audiences who lacked the completed Bible. So Paul contrasted them with the future (at time of writing) completed Word of God and Christ's return because both the "thing" (the Bible) and the "concept" (Christ's return) would do away with all partial knowledge that the temporary gifts provided. All the partial knowledge derived from the sign gifts would cease when all the much needed truth was presented in “completed” form through a finished canon. But even with this knowledge available to us, what we know as believers will never be complete until we become perfect at the resurrection. 
