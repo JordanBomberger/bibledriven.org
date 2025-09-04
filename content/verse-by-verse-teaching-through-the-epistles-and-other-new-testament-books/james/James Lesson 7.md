@@ -370,9 +370,7 @@ Thankfully, there are, of course, no hypotheticals, and the Lord would never put
 
 We already understand the meaning of the words, “*faith apart from works is dead*,” so we don’t need to examine that any further. But what does the first half of our verse mean? Firstly, we human beings are dichotomous, consisting of both a body and a human spirit (not to be confused with the Holy Spirit that comes to indwell the believer upon salvation **John 14:26**, **Romans 8:9**). We first see this combination of body and spirit in God’s creation of Adam (women also share this makeup, including the image and likeness of God **Genesis 1:26**) when God breathed into Adam the “breath of life” (referring to the human spirit that would come to animate his physical body). 
 
-The Hebrew words for the human Spirit that Scripture deploys are *ruach* (רוח) and *neshamah* (נשמה) and mean “wind” and “breath.” The Greek word for the human spirit in verb form is *pneuma* (πνεῦμα) and refers to both wind and breath (see link for source by Robert D. Luginbill). The “breath of life” God breathed into Adam was the human spirit that all humans possess, making life possible. Without the human spirit, the physical body would be dead, just as faith without works is dead. And, yes, the human spirit is eternal, so that once God has created and implanted it into a human body, it will never cease to exist, whether in the New Heaven and Earth or in the Lake of Fire (depending on what the individual chose). 
-
-https://www.ichthys.com/Fallsr3.htm#3.%20The%20Human%20Spirit 
+The Hebrew words for the human Spirit that Scripture deploys are *ruach* (רוח) and *neshamah* (נשמה) and mean “wind” and “breath.” The Greek word for the human spirit in verb form is *pneuma* (πνεῦμα) and refers to both wind and breath. The “breath of life” God breathed into Adam was the human spirit that all humans possess, making life possible. Without the human spirit, the physical body would be dead, just as faith without works is dead. And, yes, the human spirit is eternal, so that once God has created and implanted it into a human body, it will never cease to exist, whether in the New Heaven and Earth or in the Lake of Fire (depending on what the individual chose). 
 
 The human spirits of all our departed brothers and sisters in Christ (and all those who pass away before Christ’s second advent), as was also the case with all pre-cross believers, are temporarily housed in “interim” bodies in the third Heaven to await their final resurrection body, which they will receive at Christ’s return. At that point, their spirit will then transfer to their new bodies. The only difference between pre- and post-cross believers was that the interim bodies of those before Christ’s sacrifice dwelt in Abraham’s bosom beneath the earth (**Luke 16:19-31**) instead of the third Heaven, where all believers now are and have been since the resurrection. That is because Christ had not paid for the world’s sins and so access to the third Heaven was impossible before then because a righteous and holy God can have nothing to do with sin. This explains why, after our Lord’s death, the veil in the temple was torn in half (**Matthew 27:51**), a symbolic indicator that our Lord’s death on the cross had now opened the way for humanity to the third Heaven above (**Hebrews 4:15-16**).  
 
@@ -406,29 +404,11 @@ Who knows whether the spirit of man goes upward and the spirit of the beast goes
 
 {{% /scripture %}}    
 
-The word “soul” in Scripture does not refer to some third, separate entity distinct from the physical body and the human spirit, but a combination of the two (with the heart being the interface between our body and spirit; the inner “us”). For more passages and information on the human spirit and the words “soul” and “heart,” I recommend that the reader visit the link below (beginning with “The Creation of Adam” and proceeding from there). Please understand that this information is only being shared for further learning and not for the purpose of interpreting our verse of study, **James 2:26** (it is only for additional information). The information contained in the other sources is not technically necessary to interpret and understand the verse under examination. It is always my goal to fully explain the essence of what the author of the book was trying to say in that verse. Additionally, time and space do not permit us to delve into these topics in depth (we can explore these in separate, focused studies at a later time). To delve into those subjects too deeply would be too far of a deviation from our present subject in verse twenty-six. 
+For more information on the human heart, spirit, and the meaning of the word "soul," I encourage the reader to visit the link below (beginning with the section entitled "The Creation of Adam"). 
 
-https://www.ichthys.com/Fall-sr3.htm#2.%20The%20Creation%20of%20Adam: 
+https://www.ichthys.com/Fall-sr3.htm 
 
-In addition to the information provided in the link above, the reader should also be familiar with the human heart (sometimes used as a synonym for the word “soul”) and its role in containing our values, volition, and emotions. It refers to our entire inner being and how it interacts between our physical body and human spirit. 
 
-{{% scripture p="Proverbs 3:5-6 (ESV)" %}}  
-
-**5 Trust** in the Lord **with all your heart**, and do not lean on your own understanding. **6** In all your ways acknowledge him, and he will make straight your paths.             
-
-{{% /scripture %}}  
-
-{{% scripture p="Proverbs 27:19 (ESV)" %}}  
-
-**19** As in water face reflects face, so the heart of man reflects the man.           
-
-{{% /scripture %}}   
-
-{{% scripture p="Matthew 15:16-20 (ESV)" %}}   
-
-**16** And he said, “Are you also still without understanding? **17** Do you not see that whatever goes into the mouth passes into the stomach and is expelled? **18** But what comes out of the mouth proceeds from the heart, and this defiles a person. **19** For out of the heart come evil thoughts, murder, adultery, sexual immorality, theft, false witness, slander. **20** These are what defile a person. But to eat with unwashed hands does not defile anyone.”                                   
-
-{{% /scripture %}}   
 
 **References** 
 
@@ -436,17 +416,9 @@ All Greek words and definitions were sourced from Bible Academy, utilizing Curti
 
 https://www.youtube.com/watch?v=4X5E405m1ak&list=PLMu_1csD4LY9yVXlD84z6WaB50t6eu8aZ&index=10 
 
-See the link below for the Hebrew and Greek words for the human spirit. 
+See the link below for the Hebrew and Greek words for the human spirit and for more information on the human spirit, the heart, and the word "soul."  
 
-[https://www.ichthys.com/Fall-sr3.htm#3.%20The%20Human%20Spirit](https://www.ichthys.com/Fall-sr3.htm#3. The Human Spirit)  
-
-The link below is helpful for further study of the words, spirit, soul, and heart. 
-
-https://www.ichthys.com/Fall-sr3.htm#2.%20The%20Creation%20of%20Adam: 
-
-As a somewhat unrelated but helpful topic related to the human spirit, the link below provides information on what it means to be created in the “image” and “likeness” of God. 
-
-https://www.ichthys.com/Fall-sr3.htm#1.%20The%20Image%20and%20Likeness%20of%20God 
+https://www.ichthys.com/Fall-sr3.htm 
 
 BibleDocs by Pastor Steven Tammen regarding the question on the possibility of multiple Rahabs. 
 
