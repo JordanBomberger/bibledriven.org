@@ -224,9 +224,9 @@ Although slightly unrelated, another confusing point we need to clear up is the 
 
 ### 1.3 The Need for Endurance 
 
-Salvation is by faith through grace alone, but faith must stay in the equation for that person to enter God’s kingdom. Only believers are saved; unbelievers are not because they have rejected the person and work of Christ regardless of whether such people were true believers at one point or not (some do fall away). The word “believes” in John 3:16 is a present active indicative (present tense attributive participle) that tells us that faith must remain until the end for a person to enter the kingdom of heaven (whoever believes and keeps believing).  
+Salvation is by faith through grace alone, but faith must stay in the equation for that person to enter God’s kingdom. Only believers are saved; unbelievers are not because they have rejected the person and work of Christ regardless of whether such people were true believers at one point or not (some do fall away). 
 
-Likewise, the three passages below show beyond a shadow of a doubt that all believers are in the process of **being saved** (present action). This means that although we are saved positionally (being a believer at present means staying in the sphere of "justified"), there is a chance we may deliberately fall from that place by choosing to turn back. Since this is the case, believers are those who must continue to believe, since we are not, as of yet, experiencing our eternal life. 
+The three passages below show beyond a shadow of a doubt that all believers are in the process of **being saved** (present action). This means that although we are saved positionally (being a believer at present means staying in the sphere of "justified"), there is a chance we may deliberately fall from that place by choosing to turn back. Since this is the case, believers are those who must continue to believe, since we are not, as of yet, experiencing our eternal life. 
 
 {{% scripture p="1 Corinthians 1:18 (NIV)" %}} 
 
