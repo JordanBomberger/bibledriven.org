@@ -20,8 +20,6 @@ The above does not excuse sin in any way, of course. But it does challenge us to
 
 However, Moses was the most righteous of his generation and one of the greatest believers of all time who will most likely sit next to the Lord’s throne in eternity. But even he was nowhere close to perfect unless we want to assume he never sinned every day, week, month, and so forth. There have been great believers in Scripture that have failed far less than others, no doubt about that. But the Bible does not record every single sin committed by the greatest heroes of the faith for obvious reasons. We see some of their biggest failures, such as when Moses struck the rock in anger and unbelief and when David murdered and committed adultery. And then there was King Solomon who fell into idolatry for a time. 
 
-With the above said, we will examine 1 Timothy 3:1-7 as qualifications for teachers. 
-
 {{% scripture p="1 Timothy 3:1-7" %}} 
 
 Here is a trustworthy saying: Whoever aspires to be an overseer desires a noble task. **2** Now the overseer is to be above reproach, faithful to his wife, temperate, self-controlled, respectable, hospitable, able to teach, **3** not given to drunkenness, not violent but gentle, not quarrelsome, not a lover of money. **4** He must manage his own family well and see that his children obey him, and he must do so in a manner worthy of full respect. **5** (If anyone does not know how to manage his own family, how can he take care of God’s church?) **6** He must not be a recent convert, or he may become conceited and fall under the same judgment as the devil. **7** He must also have a good reputation with outsiders, so that he will not fall into disgrace and into the devil’s trap.                         
