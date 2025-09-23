@@ -174,7 +174,7 @@ With the above said, let us consider the passage below as encouragement and moti
 
 {{% /scripture %}} 
 
-There are many emergencies for so many persecuted believers in this world. We must help these suffering brothers and sisters of ours! We should give as we feel led to give, heeding the Spirit’s prodding. If we properly align our hearts and minds to the Holy Spirit, and if we genuinely desire to help others out, then we will do so. 
+There are many emergencies for so many persecuted believers in this world. However, **giving is not mandatory but optional in this case. One should only do so if they truly want and feel led to do so**. However, though the Bible doesn't mandate giving to our persecuted family members in Christ, it is NOT something we should discourage others from doing, especially if the organization handling the donations is tried and trustworthy.  
 
 Below are links to two well-known and trusted ministry websites where you can give to persecuted and needy believers worldwide. See the links for more details. 
 
@@ -187,7 +187,7 @@ This next link is from Curtis Omo’s Bible Academy, a serious and in-depth teac
 
 {{% note %}}
 
-I do not myself solicit nor accept donations. If you are looking for good causes, however, please do consider instead the things linked above.
+I do not myself solicit nor accept donations. If you are looking for good causes, however, please do consider instead the linked ministries above.
 
 {{% /note %}}
 
