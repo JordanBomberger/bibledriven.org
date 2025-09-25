@@ -470,7 +470,9 @@ Other passages which demonstrate the need for perseverance include (but are not 
 
 ### **James 2:14-24 Explained** 
 
-Since salvation is by faith through grace alone, and Christ covered all our sins, past, present, and future, how does one interpret **James 2:14-24**? We will give a brief rundown of it below. 
+Since salvation is by faith through grace alone, and Christ covered all our sins, past, present, and future, how does one interpret **James 2:14-24**? We will give a brief rundown of it below. For a more in-depth examination of this passage, see the link below. 
+
+https://www.bibledriven.org/verse-by-verse-teaching-through-the-epistles-and-other-new-testament-books/james/james-lesson-7/ 
 
 {{% scripture p="James 2:14-24 (ESV)" %}} 
 
