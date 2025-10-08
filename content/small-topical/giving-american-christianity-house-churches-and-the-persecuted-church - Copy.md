@@ -158,7 +158,7 @@ The link below is from Curtis Omo’s Bible Academy, a serious and in-depth teac
 
 {{% note %}}
 
-I do not myself solicit nor accept donations. If you are looking for good causes, however, please do consider instead the linked ministries above.
+I do not myself solicit nor accept donations. If you are looking for good causes, however, please do consider instead the linked ministry above.
 
 {{% /note %}}
 
