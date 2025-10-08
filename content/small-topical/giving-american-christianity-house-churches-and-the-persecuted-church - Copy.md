@@ -104,7 +104,7 @@ We don’t have to help out in situations like those. But we are allowed to give
 
 As anyone who has read a good bit of this ministry will know, we live in the lukewarm era of Laodicea (**Revelation 3:14-22**), where most believers across the world are indifferent toward God’s Word. The fact that denominations still exist is a clear sign that the church has learned little since the closing era of Philadelphia (**Revelation 3:7-13**). But if there is any place in the world today that is more lukewarm, it is not hard to imagine that it is the United States.
 
-You may wonder, what does this have to do with giving? Many believers in other countries are persecuted, tortured, and killed for their faith every day. Many lack the means, freedom, and ability to receive good solid Bible teaching, let alone read a Bible for themselves. The persecutions were fierce during the communist eras of the Cold War, and even today, continue at an alarming rate. Many of our spiritual family members overseas worldwide in different countries desperately need help from their brothers and sisters in free countries. The West often denies much of the suffering and persecution that goes on in these places. Although this has improved over the years (thanks to many brave men and women of God), it is doubtful that there is nearly as much of a response as there could be. 
+Many believers in other countries are persecuted, tortured, and killed for their faith every day. Many lack the means, freedom, and ability to receive good solid Bible teaching, let alone read a Bible for themselves. The persecutions were fierce during the communist eras of the Cold War, and even today, continue at an alarming rate. Many of our spiritual family members overseas worldwide in different countries desperately need help from their brothers and sisters in free countries. The West often denies much of the suffering and persecution that goes on in these places. Although this has improved over the years (thanks to many brave men and women of God), it is doubtful that there is nearly as much of a response as there could be. Therefore, let's not forget to pray for our persecuted brothers and sisters in Christ (**Hebrews 13:3**)! 
 
 {{% note %}}
 
@@ -134,28 +134,6 @@ And it doesn’t end there, as the epilogue in the book goes on to describe. Muc
 
 {{% /quote %}}
 
-Finally, Pastor Wurmbrand says the following (chapter seven, page 151): 
-
-{{% quote text="Tortured for Christ" src= "https://www.amazon.com/Tortured-Christ-Richard-Wurmbrand/dp/0882643266" %}}
-
-The Message I bring from the Underground Church is:
-
-*“Don’t abandon us!”* 
-
-*“Don’t forget us!”* 
-
-*“Don’t write us off!”* 
-
-*“Give us the tools we need! We will pay the price for using them!”* 
-
-This is the message I have been charged to deliver to the free church. 
-
-I speak for the Underground Church, the silenced Church, the “dumb” Church, which has no voice to speak.
-
-Hear the cries of your brothers and sisters in captive nations! They do not ask for escape, safety, or an easy life. They ask only for the tools to counteract the poisoning of their youth -- the next generation -- with atheism. They ask for Bibles to use in spreading the Word of God. How can they spread the Word of God if they do not have it? (Page 159-160)
-
-{{% /quote %}}
-
 ### Encouraging people to give is not necessarily the same as pressuring them to give
 
 As we have already noted in this paper, we should never pressure others to give. No person should ever feel forced to donate and should never do so under compulsion. If they feel pressured to do so, the right thing would be NOT to give. Giving with impure motives will not result in a reward, but only a “piece” of wood hay and stubble thrown into the fire at the judgment seat (**1 Corinthians 3:10-16**). However, there is a difference between pressuring someone to give versus encouraging them to do so. This latter option was one that the apostle Paul took quite often (**2 Corinthians 8:1-15**) and one that the free church should echo among themselves.
@@ -174,14 +152,7 @@ With the above said, let us consider the passage below as encouragement and moti
 
 {{% /scripture %}} 
 
-There are many emergencies for so many persecuted believers in this world. However, **giving is not mandatory but optional in this case. One should only do so if they truly want and feel led to do so**. However, though the Bible doesn't mandate giving to our persecuted family members in Christ, it is NOT something we should discourage others from doing, especially if the organization handling the donations is tried and trustworthy.  
-
-Below are links to two well-known and trusted ministry websites where you can give to persecuted and needy believers worldwide. See the links for more details. 
-
-* [The Voice of the Martyrs](https://www.persecution.com/)
-* [Joint Statement - Open Doors USA](https://www.opendoorsusa.org/)
-
-This next link is from Curtis Omo’s Bible Academy, a serious and in-depth teaching ministry committed to the spiritual growth of children and adults. 
+The link below is from Curtis Omo’s Bible Academy, a serious and in-depth teaching ministry committed to the spiritual growth of children and adults. 
 
 * [Bibleacademyonline – Verse-by-Verse Bible Studies from the Original Languages by Pastor and Teacher Curtis M. Omo](https://bibleacademyonline.com/omo/)
 
