@@ -182,7 +182,7 @@ The above principle is also true of the entire Canon of Scripture. It was men wh
 
 {{% note %}}                                                                                                                                                                                                                                                        
 
-**1 Peter 4:7-12** does not imply that the Spirit directly communicates the truth to the believer as if they were inspired (like one of the writers of Scripture) or possessed one of the unique, transitory gifts present in the early days of the church, where the Spirit would directly communicate to the one gifted because of the absence of a completed Bible. The meaning is that the Spirit is always (or should always be) involved in helping to guide, lead, and convict the teacher of the truth he is studying, interpreting, and teaching. In this way, the Spirit also helps the man of God to understand the meaning of what he’s examining so that he can instruct others. And so it is in this way that the pastor must rely on the strength the Spirit provides to feed His congregation properly. That is how the Spirit teaches us through our leaders. 
+**1 Peter 4:7-12** does not imply that the Spirit directly communicates the truth to the believer as if they were inspired (like one of the writers of Scripture) or possessed one of the unique, transitory gifts present in the early days of the church, where the Spirit would directly communicate to the one gifted because of the absence of a completed Bible. The meaning is that the Spirit is always (or should always be) involved in helping to guide, lead, and convict the teacher of the truth he is studying, interpreting, and teaching. In this way, the Spirit also helps the man of God to understand the meaning of what he’s examining so that he can instruct others (even though he will never be perfect and will get some things wrong). And so it is in this way that the pastor must rely on the strength the Spirit provides to feed His congregation properly. That is how the Spirit teaches us through our leaders. 
 
 {{% /note %}}   
 
@@ -458,7 +458,7 @@ So flee youthful passions and pursue righteousness, faith, love, and peace, alon
 
 {{% /scripture %}}      
 
-However, even truly born-again Christians will never perfectly restrain their mouths because we are all imperfect sinners (**1 John 1:8**)*. In that sense, we cannot entirely subdue the tongue because if we could, we would have to be perfect. The phrase “*No human being can tame the tongue*” should suffice to confirm to us that “*No human being*” includes believers too, even the most mature. And James (whose letter was written to Jewish believers and is meant for all in the body of Christ today) needed to teach on this subject because this had become a problem among his believing recipients. The less we grow and choose to do things God’s way, the more sin will come to dominate our lives.  
+However, even truly born-again Christians will never perfectly restrain their mouths because we are all imperfect sinners (**1 John 1:8**). In that sense, we cannot entirely subdue the tongue because if we could, we would have to be perfect. The phrase “No human being can tame the tongue*” should suffice to confirm to us that “No human being*” includes believers too, even the most mature. And James (whose letter was written to Jewish believers and is meant for all in the body of Christ today) needed to teach on this subject because this had become a problem among his believing recipients. The less we grow and choose to do things God’s way, the more sin will come to dominate our lives.  
 
 Although no one can perfectly tame the tongue, believers can draw closer to that goal through spiritual growth, as holiness (in this life) and ultimate glorification (in the next) are among the primary objectives of the Christian life. The believer has the power to greatly reduce the sins of the mind and tongue and thus mitigate their harmful effects.  
 
@@ -489,6 +489,8 @@ The word for “*restless*” in **James 3:8** is *akatastatos,* *ἀκατάσ�
 
 {{% /scripture %}}   
 
+### Our thoughts and speech cannot be "double-minded"
+
 The two words “*with it*” in **verse nine** refer to the tongue mentioned in verse eight. James is about to show his readers that one can’t be double minded with the tongue, which, as we have seen, connects to the mind or heart, which dictates our thoughts, words, and actions. We also notice the words “*Lord*” and “*Father*,” indicating that blessing one equates to blessing the other, just as the one who believes in the Son also believes in the Father, because Jesus Christ and God the Father are one (see **John 12:44** and **John 10:30**). 
 
 The Greek word for "bless" is εὐλογέω (*eulogéō*), which basically means to praise and speak well of (the mouth should be used to glorify God). However, the word for curse is *καταράομαι (kataraomai)* and means to curse someone with a powerful statement meant to inflict harm, as if there were some supernatural power behind the words. As **verse ten** clarifies, no believer should ever act in this manner for obvious reasons (and the ones given below). In this case, our love for God will manifest itself in how we treat others. If we love God, then we must love our neighbor as well (**Mark 12:30-31**). For if we do not love our neighbors (believer or not), then our love for the Lord is not as it should be (**1 John 4:20**). 
@@ -511,7 +513,7 @@ It is especially dangerous to curse other people because they, too, are made in 
 
 {{% /quote %}}  
 
-[https://www.ichthys.com/Fall-sr3.htm#II.%20The%20Creation%20of%20Man](https://www.ichthys.com/Fall-sr3.htm#II. The Creation of Man)  
+https://www.ichthys.com/Fall-sr3.htm   
 
 Verses eleven and twelve in our passage continue by saying, “**11** *Does a spring pour forth from the same opening both fresh and salt water?* **12** *Can a fig tree, my brothers, bear olives, or a grapevine produce figs? Neither can a salt pond yield fresh water*.” The obvious answer to these questions is no. A freshwater spring cannot contain both fresh and saltwater, just as a fig tree cannot bear olives, a grapevine cannot produce figs, and a salt pond cannot yield fresh water. The idea is that the heart that drives the tongue cannot be in two places at once. A heart properly attuned to the Spirit and the truths He makes real and usable to us can’t produce evil (cursing others, in this case) because the Holy Spirit produces only that which is good within the believer. And since all good things we do are through Christ’s strength, then it is impossible for those relying on His power to produce anything bad, because everything God does is perfect.    
 
@@ -549,7 +551,7 @@ Donald W. Burdick, “James” In , in *The Expositor’s Bible Commentary, Volu
 
 Robert D. Luginbill on possessing the image and likeness of God. 
 
-[https://www.ichthys.com/Fall-sr3.htm#II.%20The%20Creation%20of%20Man](https://www.ichthys.com/Fall-sr3.htm#II. The Creation of Man)  
+https://www.ichthys.com/Fall-sr3.htm 
 
 ​     
 
