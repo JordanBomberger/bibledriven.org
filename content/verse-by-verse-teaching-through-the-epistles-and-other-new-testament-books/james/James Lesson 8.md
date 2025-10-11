@@ -28,7 +28,7 @@ Verse one begins with the subject of teachers and how not many should presume to
 
 #### **What is a teacher in this context?**
 
-The word “teacher,” in this context, refers to the ministry of pastoring a local church congregation of both men and women. **James 1:21** clearly suggests this earlier with the command to “*Receive with meekness the implanted Word*” (something some of his Jewish congregants failed to do because they presumed to be teachers themselves and wanted to run their mouths all the time instead of submitting to their leaders **Hebrews 13:17**). The words “*greater strictness*” also proves without a shadow of a doubt that our verse has pastor-teachers in mind (greater strictness in comparison to other believers who don’t possess the gift). 
+The word “teacher,” refers to the gift and ministry of teaching and preaching God's Word to a group (whether online or in person) of believing men and women (see further below for more on the "job" description). **James 1:21** clearly suggests this earlier with the command to “*Receive with meekness the implanted Word*” (something some of his Jewish congregants failed to do because they presumed to be teachers themselves and wanted to run their mouths all the time instead of submitting to their leaders **Hebrews 13:17**). The words “*greater strictness*” also proves without a shadow of a doubt that our verse has pastor-teachers in mind (greater strictness in comparison to other believers who don’t possess the gift). 
 
 {{% scripture p="Ephesians 4:7-16 (NIV)" %}}  
 
