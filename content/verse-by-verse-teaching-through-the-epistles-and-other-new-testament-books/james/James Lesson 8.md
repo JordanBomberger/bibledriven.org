@@ -76,7 +76,7 @@ Paul’s questions on whether all believers have the abovementioned list of spir
 
 We need to remember that pastors and teachers are the same gift. It has been far from an uncommon belief that pastors and teachers are different when, in fact, they are the same. However, we should already know that Scripture compares pastors to “shepherds” (the meaning of the Greek word for “pastors” in the verse above, *poimén ποιμήν*, explaining why some English translations sometimes substitute the word for “shepherds”) and “shepherds” are responsible for “pasturing” the flock by teaching God’s Word seriously and in-depth. A good pastor knows how to teach the Bible by explaining its meaning and how to apply it (the teaching aspect). But he also knows (or should) how to exhort his congregation to apply the truth they’ve received (the preaching aspect). **2 Timothy 4:2** reads, “***Preach the word***; *be ready in season and out of season*; ***reprove***, ***rebuke***, *and **exhort***, *with complete patience and **teaching***.” Reproving, rebuking, exhorting, preaching, and teaching are all duties of a pastor-teacher who must excel in all these areas. 
 
-A good shepherd (pastor) cannot adequately feed, lead, and “pasture” his flock without teaching them God’s Word. Therefore, pastors and teachers are the same. In the passage below, Peter describes himself as an elder and shepherd of Christ’s flock. And what does that entail? Feeding them God’s Word through good, solid Bible teaching, something our Lord commanded Peter to do not long before His ascension. 
+A good shepherd (pastor) cannot adequately feed, lead, and “pasture” his flock without teaching them God’s Word (**Titus 2:7**). Therefore, pastors and teachers are the same. In the passage below, Peter describes himself as an elder and shepherd of Christ’s flock. And what does that entail? Feeding them God’s Word through good, solid Bible teaching, something our Lord commanded Peter to do not long before His ascension. 
 
 {{% scripture p="John 21:15-19 (NIV)" %}}  
 
@@ -112,7 +112,7 @@ The saying is trustworthy: If anyone aspires to the office of overseer, he desir
 
 {{% /scripture %}}      
 
-For more information on this subject, I encourage readers to visit the two links I have provided below, which contain information directly related to this topic. 
+For more information on this subject, I encourage readers to visit the two links I have provided below, which contain information directly related to this topic (see also **Titus 1:5-9**).  
 
 https://www.bibledriven.org/small-topical/teacher-standards-church-discipline-and-accountability-partners/ 
 
