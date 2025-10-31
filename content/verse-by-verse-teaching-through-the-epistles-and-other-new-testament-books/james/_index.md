@@ -1,4 +1,4 @@
 ---
 title: James
-summary: Notes on the book of James
+summary: Verse by verse lessons through the book of James 
 ---
