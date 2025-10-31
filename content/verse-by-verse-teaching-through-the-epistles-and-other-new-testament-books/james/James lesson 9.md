@@ -108,10 +108,6 @@ Our first word is earthly and would refer to that which is worldly or from below
 
 The final word in our verse is "demonic" and is just as it sounds: demonic behavior influenced by demonic forces. Naturally, the unbeliever is under the control and influence of the flesh, the Devil, and all his minions. The unregenerate have no power over sin and the said forces that foster it. However, even believers can fall under this same influence when they are not controlled by the Spirit, due to walking in the power of their flesh. Sadly, this was the case with many of James’s readers who acted “unspiritual.” 
 
-None of this suggests that believers under the influence of their old nature can be demon possessed because that would go against everything we know about the Christian’s new status in Christ Jesus (we also see no examples of this anywhere in the New Testament). I don’t believe it’s possible for a believer to be possessed by a demon when they have the Holy Spirit living inside them as a pledge and seal of their salvation (**2 Corinthians 1:22**). 
-
-The unbeliever, on the other hand, will always be vulnerable to such terrible assaults if they remain in unbelief. However, believers can still suffer demonic attacks in less severe forms meant to throw them off course, and this occurs only when they begin to act like the old, carnal, natural, fleshly person they once were before coming to Christ. Nor does any of this suggest that all temptations to sin are from the Devil, seeing as how he isn’t omnipresent like God. Needless to say, all impure motives and sinful behavior are demonic in the sense that they are all things promoted by the Devil, his followers, and his world system.  
-
 ## Verse 16 
 
 ### Jealousy and selfish ambition 
@@ -193,3 +189,5 @@ We then have **verse eighteen,** which reads, “*And a harvest of righteousness
 All Greek words and definitions were sourced from Bible Academy, utilizing Curtis Omo’s lessons in the book of James. Prior permission for this was given to me by Curtis, who clarified that there was no need to cite him. 
 
 https://www.youtube.com/watch?v=xToeYVx4xGI&list=PLMu_1csD4LY9yVXlD84z6WaB50t6eu8aZ&index=12  
+
+The definitions and meanings for the words earthly, unspiritual, and demonic were also sourced from the video in the link above.  
