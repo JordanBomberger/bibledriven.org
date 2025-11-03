@@ -4,9 +4,17 @@ weight: 200
 summary: Discussing Trials and Tribulations and the believer's reaction to them. 
 ---
 
-## **The Greeting James 1:1** 
+## Joy in Trials and Tribulations  
 
-### **Verse 1**
+{{% scripture p="James 1:1-4 (ESV)" %}}
+
+James, a servant of God and of the Lord Jesus Christ, To the twelve tribes scattered among the nations: Greetings. **2** Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, **3** because you know that the testing of your faith produces perseverance. **4** Let perseverance finish its work so that you may be mature and complete, not lacking anything.
+
+{{% /scripture %}}   
+
+## **Verse 1**
+
+### The Greeting 
 
 {{% scripture p="James 1:1 (ESV)" %}}
 
@@ -42,21 +50,15 @@ As for the “twelve tribes in the dispersion,” this, as we already mentioned 
 
 It is worth noting that the Temple was still standing in Jerusalem at this time and that many of the commands and rituals of the Mosaic (Old Covenant) Law were still in operation even though they no longer should have been since Jesus had ushered in the New Covenant through His death, burial, and resurrection. Many of these believers would faithfully endure through the trials and tribulations they faced elsewhere. All of these things took place before the Roman destruction of Jerusalem in 70 A.D. (foreknown and prophesied by Jesus in **Matthew 24:1-2**). 
 
-## **Trials and Tribulations James 1:2-4** 
-
-{{% scripture p="James 1:2-4 (ESV)" %}}  
-
-**2** Count it all joy, my brothers, when you meet trials of various kinds, **3** for you know that the testing of your faith produces steadfastness. **4** And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing.                                                       
-
-{{% /scripture %}}     
-
-### **Verse 2** 
+## **Verse 2** 
 
 {{% scripture p="James 1:2 (ESV)" %}}   
 
 **2** Count it all joy, my brothers, when you meet trials of various kinds                        
 
 {{% /scripture %}}     
+
+### Joy in the midst of suffering 
 
 In verse two, James begins instructing these Jewish believers on how to endure difficult circumstances with an imperative command (the word “count” is in the aorist middle imperative). In other words, this was not optional but necessary for these believers to successfully negotiate their hardships. Suppose they did not deem their present situation as something to be joyful about in the proper sense. In that case, they were doing something wrong and could only expect failure (to whatever degree, depending on how long and severely they failed in this area). If we allow anything to take away our joy (χαρὰ, chara), then only depression and discouragement leading to demoralization and spiritual ineffectiveness can result. That is one of the adverse “side effects” of failing to keep one’s attitude/heart/mind adequately aligned to the truth. Verses three and four will then give the positives for having the right mindset. But before we describe the word “trials,” it is necessary to explain the biblical meaning of the word “joy.” 
 
@@ -92,7 +94,9 @@ However, it would seem to be the case that more believers struggle with letting 
 
 We don’t want to unwittingly take advantage of the Lord’s grace by patting ourselves on the back, thinking our present troubles are a compliment when they are a warning or corrective measure to steer us back in the right direction (or what have you). That would make us **self-deceivers** who hear the Word but don’t obey/apply it **James 1:22** (speaking of the book of our present study). But we (like Job) also don’t want to blame ourselves for circumstances meant to strengthen our faith and highlight how far it has come. Regardless of which extreme believers take more often, we must avoid BOTH at all costs.     
 
-### **Verses 3 and 4**
+## **Verses 3 and 4**
+
+### The result of testing and steadfastness 
 
 {{% scripture p="James 1:3-4 (ESV)" %}}  
 

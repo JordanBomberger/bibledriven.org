@@ -12,13 +12,15 @@ summary: Asking for wisdom on how to properly react to and endure through trials
 
 {{% /scripture %}}  
 
-### **Verse 5** 
+## **Verse 5** 
 
 {{% scripture p="James 1:5 (ESV)" %}}
 
 **5** If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him.                                                                          
 
 {{% /scripture %}}   
+
+### Asking God for heavenly wisdom 
 
 In verses two to four, James told his Jewish listeners to keep their present sufferings in perspective (to see them as they really are) so as not to become demoralized. An effective way he did this was by reminding them of the benefits of such endurance in this life and the rewards in the one to come. Therefore, with those things in mind, everyone had every reason to be joyful (even if some were not because of a false outlook or bad approach on spiritual growth)! This was only one of the many things James said to help those under his charge stay on the right path. In verse twelve, he (like Scripture sometimes does) will employ the method of reward motivation (the crown of life) to encourage his fellow Jewish brothers and sisters (and all believers of all time after that) to stay true to the faith by giving their very best for the Lord. 
 
@@ -46,13 +48,15 @@ The believers to whom James wrote were under a lot of stress from persecution, n
 
 Our verse's second and final part includes asking for wisdom from a God who is more than happy to give it unreluctantly. The Greek word for reproach has the meaning of “finding fault,” as some English translations correctly render it (“without finding fault”). In other words, it is never bad to ask for wisdom, and the Lord will never begrudge to give it to us if we pray in faith (verses six and seven). Wisdom is necessary for all believers to possess and exercise to live the Christian life. Therefore, why would God be displeased with us for asking for it? This verse encourages us to do just that! 
 
-### **Verse 6** 
+## **Verse 6** 
 
 {{% scripture p="James 1:6 (ESV)" %}}     
 
 **6** But let him ask in faith, with no doubting, for the one who doubts is like a wave of the sea that is driven and tossed by the wind.                                                
 
 {{% /scripture %}}   
+
+### Asking in faith without doubt 
 
 James now addresses how to ask for the wisdom mentioned in verse five by contrasting the right and wrong ways. In chapter four, he will address a similar but slightly different scenario involving praying with impure motives. In this context, the issue is praying with faith (or trust) instead of in doubt (or unbelief). 
 
@@ -64,13 +68,15 @@ We should always pray in faith (although we should never pray with sinful and im
 
 The second half of verse six in our English translation reads, “*For the one who doubts is like a wave of the sea that is driven and tossed by the wind*.” The idea is of someone who is spiritually unstable because of a lack of faith for multiple reasons (fear is a common one). The moment we start doubting is when we begin to sink spiritually during life’s “storms” (trials and tribulations) while making bad decisions after bad decisions. So, when trials and tribulations come, these people would get beaten up by them spiritually because they couldn’t endure them properly because of their lack of faith and wisdom. So, instead of passing spiritual tests from the Lord designed to grow and strengthen their faith, said person(s) continues to flunk them (or, at the very least, limp their way through them: passing but barely by the skin of their teeth). Like Peter who began to doubt while walking toward the Lord on the Sea of Galilee (**Matthew 14:22-33**), we too will begin to sink spiritually once we allow doubt to characterize our walk with the Lord. Verses seven and eight further explain this.                                                                    
 
-### **Verses 7 and 8**
+## **Verses 7 and 8**
 
 {{% scripture p="James 1:7-8 (ESV)" %}}     
 
 **7** For that person must not suppose that he will receive anything from the Lord; **8** he is a double-minded man, unstable in all his ways.                                                                           
 
 {{% /scripture %}}    
+
+### The double-minded man 
 
 As verse six implies, it would be unwise to hesitate to pray for something one knows one needs (wisdom in this context). Our verse refers to a person who doubts **either before** (through hesitation) or **while praying** (both are in view). The English translation correctly captures the idea of someone who supposes they may not receive the wisdom God guarantees to give them if they don’t doubt. But a lack of faith demonstrates no trust in the Lord to provide. 
 
@@ -130,15 +136,15 @@ However, as we will discuss later on the issue of “why we sin as believers eve
 
 To summarize verse eight, we cannot vacillate between two opinions or actions regarding going to the Lord for help and answers (either BEFORE or DURING prayer). This principle applies to all areas of the Christian life whenever we must go to the Lord in time of need (whatever need or request we may have). True wisdom is found only in God’s solution to any problem we may face, not in ways that may seem right to us apart from the Lord’s will. Will we seek God’s wise counsel or that of the flesh and the world? And even if said decision we made may not have been sinful (an area of application), was it really the better choice to do something less preferable (not in God’s best interest(s) or desire(s))? Even bad (though not necessarily sinful) choices and actions can have terrible consequences. 
 
-## **Wisdom for the Rich and the Poor**  
-
-### **Verses 9-11**
+## **Verses 9-11**
 
 {{% scripture p="James 1:9-11 (ESV)" %}}   
 
 **9** Let the lowly brother boast in his exaltation, **10** and the rich in his humiliation, because like a flower of the grass he will pass away. **11** For the sun rises with its scorching heat and withers the grass; its flower falls, and its beauty perishes. So also will the rich man fade away in the midst of his pursuits.                                                          
 
 {{% /scripture %}}     
+
+### The wise boasting of the rich and poor 
 
 **Verse nine** continues the theme of wisdom James began in verse five. Since there were rich and poor believers among the scattered Jerusalem church, they all needed wisdom to adjust their perspective to live in harmony (James will address this subject again in chapter two). Considering their social and economic standing, how could they react to their present hardships? Verse nine answers this question, and James will clarify that wealth has nothing to do with their spiritual identity in Christ.  
 

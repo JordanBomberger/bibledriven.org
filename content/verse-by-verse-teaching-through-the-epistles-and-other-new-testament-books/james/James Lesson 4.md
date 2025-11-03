@@ -6,13 +6,15 @@ summary: Temptations versus Tests and the source of both.
 
 ## **Temptations vs Tests** 
 
-### **Verse 13** 
+## **Verse 13** 
 
 {{% scripture p="James 1:13 (ESV)" %}}
 
 **13** When tempted, no one should say, “God is tempting me.” For God cannot be tempted by evil, nor does he tempt anyone;                                                                                
 
 {{% /scripture %}}    
+
+### God tempts no one 
 
 A little explanation is necessary to clear up any possible confusion this verse presents to many readers. As other pastors and theologians have recognized, there is a big difference between the meaning of the Greek words for trials in James chapter one, verses two and twelve, and the words “tempted” and “tempting” in verse thirteen (the context is also a giveaway). The Greek word for trials in verses two and twelve is *peirasmos* (a noun) and refers more to major tests of faith that the Lord allows us to go through to grow us spiritually (to develop perseverance or endurance). The word can refer to temptations or being tempted but can also mean tests of faith from God.  
 
@@ -71,13 +73,15 @@ Ever since the resurrection, the Lord God has not been subject to temptation bec
 
 Finally, the word “flesh” does not always have to refer to the sinful nature. Christ did not possess a sinful nature yet was still said to be in the flesh during His stay on earth. The flesh can refer to both the sinful nature and the physical body that presently houses our human spirits. 
 
-### **Verse 14** 
+## **Verse 14** 
 
 {{% scripture p="James 1:14 (ESV)" %}} 
 
 **14** But each person is tempted when he is lured and enticed by his own desire.                                                                                      
 
 {{% /scripture %}}   
+
+### The origin(s) of temptation 
 
 So, since God tempts no one, how are believers tempted (regardless of whether the temptation comes from internal or external stimuli; our heart or inner self is always involved) and where do temptations come from? Verse fourteen and fifteen answer these questions. The word “but” in our English translation indicates that this verse explains how believers suffer temptation instead of how they do not, as described in verse thirteen (a striking contrast). So, instead of happening in said manner, it occurs another way. Temptation, whether solely from the flesh, the Devil, or both (temptation can come in various ways), is like a lure (think of a fishing lure) meant to get the person to latch on and bite. Now, even if Satan is not involved in the process, a temptation is still a temptation (to be resisted) that is like a lure meant to capture our attention by eliciting a negative response. The luring part of temptation involves setting up the object, thing, or person for capture (drawing them out) by enticing their inner desire to take the offering. The Greek word for enticed is *deleazo" (δελεάζω)* and refers to what we have just said: enticing something by catching it with some kind of bait (whatever the temptation is).
 
@@ -182,13 +186,15 @@ Therefore, since we have so great a cloud of witnesses surrounding us, let us al
 
 {{% /scripture %}}   
 
-### **Verse 15**                                             
+## **Verse 15**                                             
 
 {{% scripture p="James 1:15 (ESV)" %}}  
 
 **15** Then desire when it has conceived gives birth to sin, and sin when it is fully grown brings forth death.                                                                               
 
 {{% /scripture %}}   
+
+### The results of desire and the sin it produces 
 
 Verse fifteen continues explaining the process of sin and how it occurs and worsens with time if let out of control. The word desire (to desire, crave, or long for) appears again, along with the word conceived (*sullambano* means to take or seize), which refers to said person giving in to the temptation (fully committing oneself to it by taking the bait). The result of this action is sin, and sin, if allowed to grow to full maturity (leading to apostasy), leads to eternal death. The Greek word for fully grown is *apoteleō ἀποτελέω* and means to perfect or accomplish (some English translations rightly use the word “accomplished” instead of “fully grown” because the meanings are the same). 
 
@@ -254,13 +260,15 @@ Therefore, since we have so great a cloud of witnesses surrounding us, let us al
 
 {{% /scripture %}}  
 
-### **Verses 16-18**
+## **Verses 16-18**
 
 {{% scripture p="James 1:16-18 (ESV)" %}} 
 
 **16** Do not be deceived, my beloved brothers. **17** Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation or shadow due to change. **18** Of his own will he brought us forth by the word of truth, that we should be a kind of firstfruits of his creatures.                                                      
 
 {{% /scripture %}}  
+
+### Every good and every perfect gift comes from above 
 
 James uses the words, “*Do not be deceived*,” in **verse sixteen** to correct some of his Jewish readers who thought God was tempting them to sin through the trials He allowed them to go through. But, as James already explained, God does not tempt anyone. So these believers should not have thought that there were any evil intentions and motivations behind God’s plans. Instead, what some of them saw as negatives, they should have seen as positives (causes of rejoicing **James 1:2**) because the Lord had their very best interest at heart (the Lord doesn’t want us to sin and will help us overcome the temptations to do so). The irony in this was that Satan was tempting these believers to believe God was tempting them! If they fell for this lie, they would have become dissuaded from enduring what was necessary for them to grow. James knew this couldn’t happen and evidenced his strong concern for them even more by calling them beloved brothers. These were James’s brothers and sisters in Christ, ones under his care and charge, which made his love for them more personal, intimate, and affectionate.  
 

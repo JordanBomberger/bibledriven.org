@@ -52,7 +52,7 @@ Verse fourteen carries on the previous line of thought from verses one to thirte
 
 Once again, as he often does and will continue to do, James refers to his readers as “brothers.” Some of the Jewish recipients of this letter believed that simple head knowledge, by itself, was good enough. Yet James is about to teach them an important principle that said approach is insufficient. What good is it to have faith without any evidence backing up its genuineness? To clarify, I will explain later how this refers to both believers out of fellowship with Christ (as some of our Jewish readers were) and unbelievers claiming a saving faith in the Lord they don’t possess. 
 
-### **What is faith**? **Clearing up a few issues** 
+#### **What is faith**? **Clearing up a few issues** 
 
 However, before we proceed, I would like to address the topic of genuine saving faith and tackle a few other related issues to clarify any potential misunderstandings regarding the subject (this is to lay a good foundation for our examination of **James 2:14-26**). Firstly, a person receives salvation by believing in Jesus Christ (see the posted verses above). That is the gospel, plain and simple. No, this is not “easy-believism” because we should already understand that salvation is dependent on continuous faith and that saving faith will naturally produce at least some works of obedience in the believer’s life (works that bespeak a dedicated follower or disciple of the Lord). Faith needs to be built up to survive (**Jude 1:20-25**). Although salvation is all about faith, constant, continuous, and worsening sinful disobedience can contribute to apostasy by hardening the heart.  If the reader is not familiar with how sin-involved apostasy works (sin doesn’t always have to be involved, of course), then I recommend revisiting **James 1:14** Lesson 4. What we think, say, and do still matter, and that is what James has been communicating to his readers this whole time.   
 
@@ -122,7 +122,7 @@ To sum up the unbeliever’s judgment “*according to what they had done*,” t
 
 {{% /scripture %}}     
 
-### **Finishing verse 14** 
+#### **Finishing verse 14** 
 
 James ends verse fourteen with the words, “*Can that faith save him*?” A faith that has nothing to show for itself can only be said to be dead, a “demon-faith” as possessed by an unbeliever who merely accepts the existence of God and only intellectually appreciates His Son’s work on the cross. This verse specifically refers to unbelievers, and James presents the matter in this way to encourage his readers to repent by highlighting the fact that they were acting just as badly as unbelievers to get them to stop sinning (see the explanation for **James 2:13** in our previous lesson). He wasn’t trying to scare them but to turn them around by pointing out the seriousness of their behavior. It is for this reason that he will reference a hypothetical scenario involving two brothers in Christ to illustrate that such conduct mirrors that of an unregenerate person (verse fifteen). A faith with nothing to show for it demonstrates a life without Christ, proving these individuals to be unbelievers whose simple mental assertion of God’s existence (demon faith) is insufficient to get them into Heaven. But saving faith is a commitment that involves complete trust in Jesus.  
 

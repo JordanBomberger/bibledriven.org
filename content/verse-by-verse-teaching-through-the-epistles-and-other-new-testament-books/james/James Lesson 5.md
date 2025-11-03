@@ -12,7 +12,7 @@ summary: Applying wisdom by listening and doing
 
 {{% /scripture %}}   
 
-### **Verse 19** 
+## **Verse 19** 
 
 {{% scripture p="James 1:19 (ESV)" %}}
 
@@ -20,7 +20,7 @@ summary: Applying wisdom by listening and doing
 
 {{% /scripture %}}    
 
-#### Quick to hear, slow to speak, slow to anger 
+### Quick to hear, slow to speak, slow to anger 
 
 James now resumes the theme of applying wisdom through various trials by instructing his Jewish readers in some important ethical matters. These were areas in which these believers had been struggling because they had begun to react poorly to the trials they encountered (hence, James needed to correct the poor behavior some of them had displayed). James knew his congregation needed to seek out (pray for) the wisdom necessary to react to and endure the trials they faced properly. But this section of his letter heads off any notion that mere head knowledge of what to do is enough to complete the picture. One must seek out the truth to know and understand what to do and what not to do (whether dealing with imperative commands or areas of application). But the believer needs to apply that same truth and not simply hear and forget it shortly after, as some of these Jews had been doing. So, this part of the chapter completes the “equation.” 
 
@@ -66,7 +66,7 @@ Verse twenty-one of our chapter, only two verses later, mentions the need for th
 
 To learn Scripture, we must have the right attitude to seek it out, which requires us to willingly listen to those teaching it without constantly interrupting. Instead of getting angry because we think we’re right (assuming we’re wrong), why not humbly listen and learn something? It was for this very reason that Jesus often proclaimed throughout the gospels (to His fellow Jews **Matthew 11:15**) and throughout Revelation (to the seven churches of **Revelation 2:1-29** and **Revelation 3:1-22**), “*He who has an ear*, *let him hear*.”  
 
-### **Verse 20** 
+## **Verse 20** 
 
 {{% scripture p="James 1:20 (ESV)" %}}
 
@@ -74,7 +74,7 @@ To learn Scripture, we must have the right attitude to seek it out, which requir
 
 {{% /scripture %}}   
 
-#### Anger does not produce God's righteousness     
+### Anger does not produce God's righteousness     
 
 One sign that a person is becoming angry is when they constantly interrupt the other person speaking because they no longer wish to listen to what they have to say. In other words, they start losing their patience because they feel they are either not being heard or that their position is correct. How prevalent is this reaction today! It has always been a problem, especially when dealing with, for example, theological discussions (whatever verse, teaching, or doctrine may be involved). I’m sure we’ve all seen this in person and online (most prevalent on Bible forums and discussion groups where anger arises and conversations get nasty when proper moderation is lacking). The benefit of online discourse is that the issue of interrupting someone else doesn’t exist. However, anger is always a lurking threat.  
 
@@ -120,7 +120,7 @@ Refrain from anger, and forsake wrath! Fret not yourself; it tends only to evil.
 
 {{% /scripture %}}   
 
-### **Verse 21** 
+## **Verse 21** 
 
 {{% scripture p="James 1:21 (ESV)" %}}  
 
@@ -128,7 +128,7 @@ Refrain from anger, and forsake wrath! Fret not yourself; it tends only to evil.
 
 {{% /scripture %}}   
 
-#### Receiving the Word with meekness 
+### Receiving the Word with meekness 
 
 The word “therefore” (since this is the case) in verse twenty-one connects the previous subject in our last two verses to this one. Since the believer (the Jews in our context but all believers of all time) needs to be slow to speak, quick to listen, and slow to anger, there needs to occur an inward change that will eventually express itself outwardly. A change of heart is the prerequisite to learning how to master the mind and tongue. One must willingly desire to give up the negative qualities mentioned in our verse. 
 
@@ -206,7 +206,7 @@ The gospel initially entered us into the family of God, so we believers are posi
 
 {{% /scripture %}}  
 
-### **Verse 22** 
+## **Verse 22** 
 
 {{% scripture p="James 1:22 (ESV)" %}} 
 
@@ -214,7 +214,7 @@ The gospel initially entered us into the family of God, so we believers are posi
 
 {{% /scripture %}}  
 
-#### Applying the truth one has learned 
+### Applying the truth one has learned 
 
 It was not enough for James to tell his Jewish brethren (and us today) to “*receive the Word implanted*” by simply taking it in (storing it in the heart/mind) and believing it. A person may affirm that what a particular verse says is true. But do they live it out through faith? 
 
@@ -254,7 +254,7 @@ Do we want to love one another and be more unified as a body? Then we need to de
 
 All Scripture is essential and valuable for our spiritual health (**2 Timothy 3:16-17**), so our attitude should be to seek out as much if it as we can and to get as much of it right as possible, whether the unlearning process (one that never ends this side of eternity) makes us uncomfortable or not. We should never compromise (even with doctrinal issues not necessary to know for salvation but still extremely important nonetheless) and walk away in complacency by thinking that we don’t need to get this or that correct (or that we can’t know the answer(s) for certain). There are some teachings that, although not necessary to know for salvation, hold far more weight than others that can, if gotten wrong, contribute to spiritual apathy, decline, and even apostasy. Readers of this ministry should be familiar with some of these teachings, and they are some of the highest contributors to the spiritual disease of lukewarmness so prevalent within the body of Christ.  
 
-### **Verses 23 and 24**   
+## **Verses 23 and 24**   
 
 {{% scripture p="James 1:23-24 (ESV)" %}} 
 
@@ -262,7 +262,7 @@ All Scripture is essential and valuable for our spiritual health (**2 Timothy 3:
 
 {{% /scripture %}} 
 
-#### What a person who doesn't apply the truth is like
+### What a person who doesn't apply the truth is like
 
 Verses twenty-three and twenty-four utilize a simile to express an important truth. It would appear as if James was using this example as a point of comparison to further reinforce the need to be a doer of the Word and not just a hearer. Technically, we could understand the principle of verse twenty-two without needing a simile. But the Spirit led this great man of God to write what he did for a reason, not only to help clarify what he meant, but, as just mentioned, to strongly impress on our minds the importance of walking in the truth we’ve learned. 
 
@@ -286,7 +286,7 @@ The word “remember” in the passage below may lead us to believe that Israel 
 
 {{% /scripture %}}   
 
-### **Verse 25** 
+## **Verse 25** 
 
 {{% scripture p="James 1:25 (ESV)" %}} 
 
@@ -294,7 +294,7 @@ The word “remember” in the passage below may lead us to believe that Israel 
 
 {{% /scripture %}}    
 
-#### The blessedness of applying the truth one has learned 
+### The blessedness of applying the truth one has learned 
 
 The word “but” indicates that the person described in this verse is in stark contrast to the individual mentioned in the previous two verses. The first person was someone who received (by hearing) the truth into their heart as a matter of fact, but failed to apply it. It was nothing but mere knowledge that sat unused in their minds. 
 
@@ -344,7 +344,7 @@ Blessed (happy) *is* every one who fears the Lord, Who walks in His ways.
 
 {{% /scripture %}}     
 
-### **Verse 26** 
+## **Verse 26** 
 
 {{% scripture p="James 1:26 (ESV)" %}} 
 
@@ -352,7 +352,7 @@ Blessed (happy) *is* every one who fears the Lord, Who walks in His ways.
 
 {{% /scripture %}}     
 
-#### Sinful behavior is unacceptable religion to God
+### Sinful behavior is unacceptable religion to God
 
 James now gives an example of what it looks like to be someone who hears the Word but doesn’t apply it. It should be apparent by now that many of these Jewish believers had been struggling with how they talked and what they said. Quite a few of them lacked proper etiquette when conversing with their fellow brothers and sisters (**James 1:19-20**) and often quarreled and slandered one another (**James 4:1**). There was a lot of unnecessary confusion, panic, and disorganization among these believers who had struggled with how to react to the difficult trials they faced. But they reasoned that hearing the Word was enough and that they didn’t need to do anything else. Hence, they thought they were “religious” (in the biblical and godly sense). 
 
@@ -434,7 +434,7 @@ The bold phrase above in this last passage is what the believers in our context 
 
 {{% /scripture %}}  
 
-### **Verse 27** 
+## **Verse 27** 
 
 {{% scripture p="James 1:27 (ESV)" %}} 
 
@@ -442,7 +442,7 @@ The bold phrase above in this last passage is what the believers in our context 
 
 {{% /scripture %}}  
 
-#### Active faith expressed inwardly and outwardly is religion God accepts 
+### Active faith expressed inwardly and outwardly is religion God accepts 
 
 So, if the above type of deceptive, hypocritical behavior (sins of the tongue) is unacceptable before God, then what is acceptable to Him? We have already explained that the word “religion” is only being used in the sense of godly and righteous behavior (a proper and acceptable relationship with Christ) and not to some fleshly, works-based system accomplished in the power of the flesh (as if we could do anything for ourselves and the Lord needed anything from us). Instead, godly religion would be what our present passage and next chapter (**James 2:14-26**) refers to, and that is genuine works of faith produced through God’s strength for His glory (as opposed to the power of the flesh, absent faith, driven by selfish or impure motives). This type of religion (godly behavior) is undefiled in the sense that it is genuine and void of any hint or taint of sin and evil (it is pure in that it is clean, unlike the false religion some of the deceived Jewish believers in our context had been engaging in). Actual godly behavior entails acting on the truth in faith, not merely accepting it as true and stopping there. Faith without works is dead or useless because it doesn’t please God in any way. 
 

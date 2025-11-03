@@ -12,13 +12,15 @@ summary: The three crowns of reward.
 
 {{% /scripture %}}   
 
-### **Verse 12** 
+## **Verse 12** 
 
 {{% scripture p="James 1:12 (ESV)" %}}      
 
 **12** Blessed is the man who remains steadfast under trial, for when he has stood the test he will receive the crown of life, which God has promised to those who love him.       
 
 {{% /scripture %}}   
+
+### The reward for faithful endurance 
 
 Verse twelve does not conclude how to view and endure trials through faith working itself out in loving obedience (that theme continues to the end of the book). Verse thirteen implies that some of the Jewish believers in our context confused God’s testing of them (trials of various kinds) with direct temptations from the Devil, a subject to discuss in our next verse. James is a book about how to view and react to hard times, a theme that includes walking in wisdom to live the Christian life during times of duress and all times in general (this also includes being doers of the Word; faith without works is dead **James 2:14-26**). Much like the wisdom teachings of Proverbs, it contains many ethical teachings to be followed by all believers throughout their lives, not just during challenging stages. 
 

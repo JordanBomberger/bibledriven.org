@@ -12,7 +12,7 @@ My brothers, show no partiality as you hold the faith in our Lord Jesus Christ, 
 
 {{% /scripture %}}  
 
-### **Verse 1** 
+## **Verse 1** 
 
 {{% scripture p="James 2:1 (ESV)" %}}
 
@@ -20,7 +20,7 @@ My brothers, show no partiality as you hold the faith in our Lord Jesus Christ, 
 
 {{% /scripture %}} 
 
-#### No partiality 
+### No partiality 
 
 Chapter two begins with a hypothetical example of inactive faith (a group of believers who don’t apply the truth they know), using the scenario of preference given to the rich over the poor. James needed to address this because it was an area of weakness his Jewish recipients had been struggling in (he will continue to call out their obvious and most prevalent problems throughout his letter). Chapter five in our book contains a brief diatribe warning both the believing and unbelieving rich (those unbelievers who oppressed the believers and the believing rich who may have come close to or were doing the same). 
 
@@ -36,7 +36,7 @@ The word for “glory” in the passage above is the same as we have in our vers
 
 Our verse not only applies explicitly to the example given but also stands as a general principle that all believers must always adhere to. If we want to be like Christ, who shows no partiality in any way (**Romans 2:11**, **Acts 10:34-35**), then we need to behave toward others as He would have us. 
 
-### **Verses 2 and 3**
+## **Verses 2 and 3**
 
 {{% scripture p="James 2:2-3 (ESV)" %}}
 
@@ -44,7 +44,7 @@ Our verse not only applies explicitly to the example given but also stands as a 
 
 {{% /scripture %}}                                             
 
-#### The rich and poor man 
+### The rich and poor man 
 
 Verses two and three lay out the example of what partiality might look like in general and did among these Jewish believers. A gold ring and fine clothes would, as already mentioned, indicate greater status and standing in society (a rich and wealthy person). The word "assembly" would (in the day and culture in which James wrote this letter) refer to a gathering of Jews in a synagogue but could also include any group of believers (Jew or Gentile) in a congregation (these words are for all believers of all time). 
 
@@ -60,7 +60,7 @@ We can’t always know and understand the state of a person’s heart (or all or
 
 In ancient times, sitting at the feet was a position of a slave or servant. Therefore, seating a guest there would be to dishonor them, as verse six confirms. Why should a person’s financial status determine their physical location in an assembly? Prejudice and discrimination would likely be to blame, and there could be multiple motivations behind them. Whatever the case may be, believers should never make distinctions like that for any reason. Both the rich and poor deserve fair and equal treatment because financial wealth doesn’t determine one’s spiritual standing with God. Therefore, neither should it determine one’s physical position in a gathering of believers who represent Christ and His kingdom. 
 
-### **Verse 4**  
+## **Verse 4**  
 
 {{% scripture p="James 2:4 (ESV)" %}}
 
@@ -68,7 +68,7 @@ In ancient times, sitting at the feet was a position of a slave or servant. Ther
 
 {{% /scripture %}}    
 
-#### Improper judging 
+### Improper judging 
 
 James asks a question that expects a negative answer. Although he used a hypothetical example to make his point, it is indeed true that this type of behavior was occurring among his readers. These believers should have known their conduct was unacceptable. So, the question confirms the wrongness of their actions. They made “distinctions” between the rich and poor by treating one group as inferior to the other. They acted sinfully by judging unrighteously from impure motives and reasons. Our mind is the same as our heart, which contains our volition, values, choices, emotions, etc. This behavior demonstrated an inactive faith, expressing an impure state of heart that revealed its ugly side through discriminatory treatment of others. We don’t judge people based on their physical appearance or financial status. **John 7:24** says, “*Do not judge by appearances, but judge with right judgment*."
 
@@ -98,7 +98,7 @@ We must keep the passage above in its proper context to understand its meaning. 
 
 How many times have we heard people proclaim, “Don’t judge,” or “Don’t judge me.” Those have become common “slogans” in the church universal when in fact, they are misleading and even entirely incorrect. It is not wrong to “call a spade a spade” when that is exactly what it is. We are to speak the truth as it really is, in a loving way, with pure motives. There will be plenty of times when believers will need to make judgment calls. One could come up with a mountain of examples, but we should understand the point. There is righteous judgment and there is unrighteous judgment (the negative type being the point of focus in our verse).   
 
-### **Verse 5** 
+## **Verse 5** 
 
 {{% scripture p="James 2:5 (ESV)" %}} 
 
@@ -106,7 +106,7 @@ How many times have we heard people proclaim, “Don’t judge,” or “Don’t
 
 {{% /scripture %}}   
 
-#### The Lord's choice of those who would choose for Him 
+### The Lord's choice of those who would choose for Him 
 
 Once again, James uses a phrase of personal endearment to his fellow believers with the words “*beloved brothers*.” Not only are they beloved by him but by God as well. Since the Lord loves them so, why should they not return the love by getting their hearts right with Him and fixing their conduct? Paul’s words in **Philippians 2:1-4** below are precisely what these believers needed to apply. The word “listen” is an aorist imperative command, akin to something along the lines of “listen up,” because of the importance the following words carry.  
 
@@ -246,7 +246,7 @@ The final words in our verse, “*Which he has promised to those who love him*,�
 
 {{% /scripture %}}    
 
-### **Verses 6 and 7**   
+## **Verses 6 and 7**   
 
 {{% scripture p="James 2:6-7 (ESV)" %}} 
 
@@ -254,7 +254,7 @@ The final words in our verse, “*Which he has promised to those who love him*,�
 
 {{% /scripture %}}    
 
-#### Dishonoring the poor and the reality of the rich oppressors  
+### Dishonoring the poor and the reality of the rich oppressors  
 
 As noted earlier, treating someone as inferior to another based on their wealth would be to dishonor them. It was a total disgrace to, as our one example says, put someone at the foot of another because, in ancient times, that was the position of a slave or servant. The assembly was essentially shaming their fellow siblings in Christ for something that didn’t matter (at least not in God’s eyes). 
 
@@ -296,7 +296,7 @@ Nevertheless, all believers (regardless of their level of spiritual maturity) na
 
 (End of Excerpt) 
 
-### **Verse 8**  
+## **Verse 8**  
 
 {{% scripture p="James 2:8 (ESV)" %}} 
 
@@ -304,7 +304,7 @@ Nevertheless, all believers (regardless of their level of spiritual maturity) na
 
 {{% /scripture %}}     
 
-#### The royal law of love 
+### The royal law of love 
 
 Verse eight contrasts the good and godly behavior the believer must demonstrate to that of the sinful, ungodly, and discriminatory conduct in verse six by quoting **Leviticus 19:18**, and **Matthew 22:39** (see also **Mark 12:31** and **Luke 10:27**).  We note how James again uses the word “law” because of his Jewish audience who were familiar with the Mosaic Law. The word “if” in our English Standard Version indicates that the first attitude of partiality was unacceptable, while the kind mentioned here is acceptable. In other words, if you do this, you violate the Law. However, if you do the opposite, you comply with it. The Jews knew the Mosaic Law better than anyone, so that they especially were without excuse in this regard. However, the command to love one’s neighbor as oneself remains the second greatest commandment, even under the New Covenant Law of liberty that these believers operated under (the modern church does as well). 
 
@@ -408,7 +408,7 @@ If the Jewish believers in our book were to love all men as they should (believe
 
 James has *agape* love in mind in our verse. *Agape* love refers to unconditional love for all people, whereas philia love refers to a more personal love that brothers and sisters in Christ have for one another (and what our Lord has for us, His children, **Revelation 3:19**). Regardless of the type, we are to love all people unconditionally. For the Jewish believers in our book, they were to treat all people with equal respect, regardless of who walked into their assembly (rich, poor, believer, or unbeliever). The same applies today, just as it always has for all time. 
 
-### **Verses 9 through 11** 
+## **Verses 9 through 11** 
 
 {{% scripture p="James 2:9-11 (ESV)" %}}    
 
@@ -416,7 +416,7 @@ James has *agape* love in mind in our verse. *Agape* love refers to unconditiona
 
 {{% /scripture %}}     
 
-#### All stand condemned under the Mosaic Law  
+### All stand condemned under the Mosaic Law  
 
 We will examine verses nine through eleven together. The phrase, “*But if you show partiality*,” contrasts with carrying out the command to love one’s neighbor as thyself (verse eight above). James continues to refer to the Mosaic Law because his readers were Jewish and familiar with it. But why would James reference it if the Old Covenant had been replaced with the New and the Law (except for many of its applicable moral teachings, two examples given in verse eleven) no longer applied? These, along with verses twelve and thirteen, interpreted together, help to explain. 
 
@@ -464,7 +464,7 @@ Partiality is a sin just like any other (even if some sins are more serious with
 
 Again, James’s readers were already believers. But how could they expect to grow and continue in their faith while trying to live in the power of their flesh? They couldn’t unless they embraced the law of freedom (New Covenant ways empowered by the Holy Spirit). The Mosaic Law was an instruction manual intended to guide people toward salvation, rather than providing a solution to the problem of sin and death. James’s readers were under the New Covenant and had taken Christ’s solution to the problem through faith. However, they were now struggling to grow spiritually, and their sinful conduct proved it. Technically, they already knew what they were doing was wrong but needed to be reminded again. The Law could only make oneself aware of one's sinfulness. Likewise, the believers of our book were hearers who possessed head knowledge of what to do but didn’t carry it out because mere knowledge, by itself, cannot solve any problem unless it is applied. James will remind his readers in verses twelve and thirteen of their true identity and standing before God. They were believers operating under the Law of Liberty. Therefore, why were they acting as slaves to sin when they weren’t and had the power to overcome it? 
 
-### **Verses 12 and 13** 
+## **Verses 12 and 13** 
 
 {{% scripture p="James 2:12-13 (ESV)" %}}   
 
@@ -472,7 +472,7 @@ Again, James’s readers were already believers. But how could they expect to gr
 
 {{% /scripture %}}    
 
-#### Acting as those under the law of grace
+### Acting as those under the law of grace
 
 We see the Law of Liberty first mentioned in **James 1:25,** which reads, “*But the one who looks into the perfect law, the law of liberty, and perseveres, being no hearer who forgets but a doer who acts, he will be blessed in his doing.*” The law of liberty refers to the Word of God (which includes the gospel and all New Covenant teachings still applicable for today). How does one look into it? By living in the freedom the gospel of grace affords us over the power of sin. We do this by seeking out the truth, understanding it, believing it, and applying it through the power of the Holy Spirit. It entails more than just hearing the Word and simply retaining it as knowledge. It involves applying what we know to be true in our hearts, living in love toward God and others (**James 2:8**). That is what it means to speak and act as one, to be judged under the law of liberty (**James 2:12**). 
 
@@ -544,9 +544,9 @@ With all that in mind, we need to elaborate on statements like, “Old Covenant 
 
 {{% /scripture %}}   
 
-### **Verse 13**   
+## **Verse 13**   
 
-#### Judgment without mercy   
+### Judgment without mercy   
 
 **Verse thirteen** in **James 2:13** reads, “*For judgment is without mercy to one who has shown no mercy. Mercy triumphs over judgment*.”         
 

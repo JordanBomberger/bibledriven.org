@@ -220,7 +220,7 @@ Eve was also the one who was deceived, and it is not for no reason why Paul brou
 
 {{% /scripture %}} 
 
-### **Finishing off verse one**  
+#### **Finishing off verse one**  
 
 The second and final half of **James 3:1 reads**, “*For you know that we who teach will be judged with greater strictness*.” The reason for this is that pastors have a greater responsibility within the church due to their leadership status, which entails watching over and caring for Christ’s flock. Little wonder God holds them to such high standards! Since they teach others how to think, speak, and act, they must abide by what they teach by practicing what they preach in thought, word, and deed without deceit and hypocrisy. 
 
