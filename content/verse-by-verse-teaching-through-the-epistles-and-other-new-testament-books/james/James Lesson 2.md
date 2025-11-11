@@ -202,3 +202,12 @@ All Greek words and definitions were taken from Bible Academy using Curtis Omo's
 
 https://www.youtube.com/watch?v=FpArcC4sMBw 
 
+I'd like to give a shout-out to Dr. Robert D. Luginbill for helping me to understand the "rich" mentioned in verses ten and eleven as believers, as opposed to unbelievers as some take it. Regarding them, he says, 
+
+"*The only ones who can truly "rejoice" in this life are believers. Those who are having a hard time (which could be and doubtless is every one of us at some times) need to look forward in our joy, not rejoicing in our troubles per se but in the resolution and vanishing of them in eternity. We are on a journey which is sometimes very hard, but it is well worth continuing, given where we are headed to. If we have the things of this world, we need to take care NOT to set our eyes too solidly on these things because they are transient and evanescent. In fact, James says, we need to be glad that "all this" is going away very soon. And if we do not have the things of this world, we need to be joyful about the fact that we will have "all things" in practice on that glorious day to come just as we have them now in principle*." 
+
+And about the word "pursuits," to which I also credit him with helping me understand, he writes, 
+
+"*Pursuits" is an unfortunate translation -- as is evidenced by the fact that it has caused you to lay any interpretative weight on it. The Greek word is poreiea from poreuomai and it simply means "journeying" or "traveling", meaning here processing through life (KJV's "ways" is an excellent rendering). Just as a flower's life process fades in the end, so it is with all human beings, even if they are "beautiful", i.e., rich, in this context. This is true of unbelievers who imagine they will live forever; it is also true of believers who happen to be rich.* 
+
+ 

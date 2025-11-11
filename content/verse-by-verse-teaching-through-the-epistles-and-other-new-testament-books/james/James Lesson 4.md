@@ -8,9 +8,9 @@ summary: Temptations versus Tests and the source of both.
 
 ## **Verse 13** 
 
-{{% scripture p="James 1:13 (ESV)" %}}
+{{% scripture p="James 1:13-18 (ESV)" %}}
 
-**13** When tempted, no one should say, “God is tempting me.” For God cannot be tempted by evil, nor does he tempt anyone;                                                                                
+**13** When tempted, no one should say, “God is tempting me.” For God cannot be tempted by evil, nor does he tempt anyone; **14** But each person is tempted when he is lured and enticed by his own desire. **15** Then desire when it has conceived gives birth to sin, and sin when it is fully grown brings forth death.**16** Do not be deceived, my beloved brothers. **17** Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation or shadow due to change. **18** Of his own will he brought us forth by the word of truth, that we should be a kind of firstfruits of his creatures.                                                                                
 
 {{% /scripture %}}    
 
