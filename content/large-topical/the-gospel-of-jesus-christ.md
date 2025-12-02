@@ -78,7 +78,7 @@ Few things will damage a believer more than false teaching relating to salvation
 
 {{% /scripture %}} 
 
-The most important (and only) source of information in discovering the gospel is the Bible, which tells us everything we need to know in our current evaluation. But accurate interpretation, as well as a good understanding of Scripture, is required to do this. So  I have taken the highest care to accomplish the desired goal. This is not a soteriology study (the study of salvation) but a presentation of what the gospel is. We will aim for simplicity, meaning we will confirm the truth and refute the lies as simply as possible. Therefore, with all of this said, let’s examine the gospel of Jesus Christ. 
+The most important (and only) source of information in discovering the gospel is the Bible, which tells us everything we need to know in our current evaluation. But accurate interpretation, as well as a good understanding of Scripture, is required to do this. So  I have taken the highest care to accomplish the desired goal. This is not a soteriology study (the study of salvation) but a presentation of what the gospel is. We will aim for simplicity, meaning we will confirm the truth and refute the lies as simply as possible. And I want the reader to understand that holding to some of the false teachings called out in this study does not mean they aren't necessarily saved. This would depend highly on the belief in question and the disposition of the person's heart. But if something is false, even if those who believe in said teaching are genuine believers, then something is false and needs to be exposed as such for the safety of others. Therefore, with all of this said, let’s examine the gospel of Jesus Christ. 
 
 {{% scripture p="Romans 1:16 (NIV)" %}} 
 
@@ -986,7 +986,7 @@ However, our Lord expects us to make a public confession if the circumstances re
 
 ### **2.7 The Sinners Prayer**
 
-There is no such thing as the sinner's prayer in the Bible (although it depends on what a person means by it), nor are there any specific creeds one must cite to get saved. True saving faith is true saving faith. This issue is very similar, if not the same as the false belief that repentance and faith are two separate steps in salvation; please see that section for more information. As we have already seen, faith and repentance are two sides of the same coin because one cannot cry out in faith without having had a change of mind. It is this change of mind that results in a person going to God in faith. Belief is the only step one needs to undergo in the salvation process, for all these people know they are going to die and are very well aware they are sinners.  Believing in the Lord Jesus Christ is repentance, which results in a change of behavior in the person, starting inside first, and then working its way outside through the believer's conduct. 
+There is no such thing as the sinner's prayer in the Bible (although it depends on what a person means by it), nor are there any specific creeds one must cite to get saved. True saving faith is true saving faith. 
 
 {{% scripture p="Acts 16:31 (ESV)" %}}   
 
