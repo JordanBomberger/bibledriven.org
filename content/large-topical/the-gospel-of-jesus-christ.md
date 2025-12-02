@@ -1056,7 +1056,7 @@ The title speaks for itself. The miraculous gifts given by the Spirit during the
 
  
 
-**3**. To repent IS to believe in Christ because faith and repentance are two sides of the same coin (Acts 16:31). Repentance is a change of mind that results in a change of action. This change of mind results in genuine faith, which produces works (James 2:14-26), for saving faith always has something to show for it. 
+**3**. Faith and repentance are two sides of the same coin (Acts 16:31). Repentance is a change of mind that results in a change of action. This change of mind results in genuine faith, which produces works (James 2:14-26), for saving faith always has something to show for it. 
 
  
 
