@@ -355,7 +355,7 @@ The words “Cleanse your hands” are a figure of speech familiar to the Jewish
 
 {{% /scripture %}}    
 
-James’s use of the word “*sinners*” was proper in the sense that even believers still sin because we all possess sinful natures (**1 John 1:8**). Plus, some of his recipients had been heavily engaged in immoral conduct, so that he could rightfully call them “sinners” (the title held for both reasons). 
+James’s use of the word “*sinners*” was proper in the sense that even believers still sin because we all possess sinful natures (**1 John 1:8**). Plus, some of his recipients had been heavily engaged in sinful conduct, so that he could rightfully call them “sinners” (the title held for both reasons). 
 
 But outward change (the fruits of repentance) is only possible if there has been a change of heart because change always begins inwardly before expressing itself outwardly. I don’t believe the order James gives for these three commands necessarily reflects the order in which they take place, for that reason, nor are we meant to see that in this verse. I also say this because it is out of the heart that such evil deeds or sins (in thought, word, and deed) originate (**Matthew 15:17-20**). One cannot draw near to God unless they have had a change of heart; if that hasn’t taken place, we cannot “cleanse the hands,” so to speak. The inward change starts first and then manifests itself outwardly. 
 
