@@ -24,7 +24,7 @@ summary:
 
 {{% /scripture %}} 
 
-## **Angels (both fallen and elect) do not procreate because God created a specific number of them as ministering spirits. Unlike humans, they do not need to reproduce because they can never die. Therefore, fallen angels will remain in the lake of fire forever while the elect in the new heaven and earth for all time**
+## **Angels (both fallen and elect) do not procreate because God created a specific number of them as ministering spirits. Unlike humans, they do not need to reproduce because they can never die. Therefore, fallen angels will remain in the lake of fire forever, while the elect in the new heaven and earth for all time**
 
 {{% scripture p="Matthew 22:30 (NIV)" %}} 
 
@@ -32,7 +32,7 @@ summary:
 
 {{% /scripture %}} 
 
-There are a set number of elect and fallen angels that exist. Two-thirds of all God created reside in the third heaven as elect, while one-third roam the earth as fallen. This “one-third” rebelled against God during the satanic rebellion before our Lord blacked out the world and universe to refurbish and recreate them (the Genesis gap). The passages below have dual applications that refer to Satan (the satanic rebellion) and the antichrist (the great apostasy during the tribulation) deceiving both angels and believers. Just as how one-third of angels committed apostasy during the rebellion, so too one-third of believers will do so during the tribulation. Therefore, angels were created at a set number and do not reproduce. 
+There is a set number of elect and fallen angels. Two-thirds of all God created reside in the third heaven as elect, while one-third roam the earth as fallen. This “one-third” rebelled against God during the satanic rebellion before our Lord blacked out the world and universe to refurbish and recreate them (the Genesis gap). The passages below have dual applications that refer to Satan (the satanic rebellion) and the antichrist (the great apostasy during the tribulation), deceiving both angels and believers. Just as one-third of angels committed apostasy during the rebellion, so too one-third of believers will do so during the tribulation. Therefore, angels were created at a set number and do not reproduce. 
 
 {{% scripture p="Daniel 8:9-12 (NIV)" %}} 
 
@@ -46,13 +46,13 @@ And a great sign appeared in heaven: a woman clothed with the sun, with the moon
 
 {{% /scripture %}} 
 
-Scholars have debated whether **Genesis 6:1-4** (the Nephilim) proves that angels can procreate. However, this is not the same as angels reproducing with other angels but with humans. This terrible act that resulted in highly talented half-human, half angelic offspring resulted in the imprisonment of all the angels involved because they violated God’s ground rules. Passages that demonstrate this are **Jude 1:6, 2 Peter 2:4-5, 1 Peter 3:19-20.** 
+Scholars have debated whether **Genesis 6:1-4** (the Nephilim) proves that angels can procreate (they can, as the passage shows, with human beings). However, this is not the same as angels reproducing with other angels but with humans. This terrible act that resulted in highly talented half-human, half-angelic offspring resulted in the imprisonment of all the angels involved because they violated God’s ground rules. Passages that demonstrate this are **Jude 1:6**, **2 Peter 2:4-5**, and **1 Peter 3:19-20**. 
 
-Fallen angels pro-created with humans until God ended this practice during and after the flood. But I believe it possible that genetic manipulation resulting in genetic mutations with animals continued after the flood up to today. This tampering with genetics would be something that only fallen and not elect angels practice. And many of the world’s rulers during the tribulation will likely be half-human/ half demonic beings. There is little doubt that demonic offspring (both human and animal) exists in our world today.
+Fallen angels procreated with humans until God ended this practice during and after the flood. But I believe it is possible that genetic manipulation resulting in genetic mutations in animals continued after the flood up to today. This tampering with genetics would be something that only fallen and not elect angels practice. And many of the world’s rulers during the tribulation will likely be half-human/half-demonic beings. 
 
 For more information on the fall of Satan and his followers, please see [Part 1 of the Satanic Rebellion series on Ichthys](https://ichthys.com/SR1copy.htm).
 
-## **There is rank among fallen and elect Angels**
+## **There is a rank among fallen and elect Angels**
 
 There is a ranking order that exists among demons and heavenly angels. The highest-ranking of the elect are the cherubim, followed by the angelic elders and then archangels. There most likely exists a hierarchy among Satan’s followers as well. 
 
@@ -62,7 +62,7 @@ See [**Demon Possession Past and Present - Satanic Attacks**](/small-topical/dem
 
 ## **Elect and fallen angels have access to God’s throne**
 
-Both elect and fallen angels are not omniscient, omnipresent, or omnipotent. Instead, they are limited by time and space. However, Genesis 28:10-12 and 2 Kings 6:15-19 prove that they (the elect angels) take advantage of chariots and stairways. 
+Neither elect nor fallen angels are omniscient, omnipresent, or omnipotent. Instead, they are limited by time and space. However, **Genesis 28:10-12** and **2 Kings 6:15-19** prove that they (the elect angels) take advantage of chariots and stairways. 
 
 {{% scripture p="Genesis 28:10-12 (NIV)" %}} 
 
@@ -76,7 +76,7 @@ Both elect and fallen angels are not omniscient, omnipresent, or omnipotent. Ins
 
 {{% /scripture %}} 
 
-Revelation 12:7-12 shows us that Satan and his followers also have access to God’s throne, whether they come and go with impunity or can only approach it only when God summons them. We also know from this passage that Satan does this to accuse believers before the Father to discredit their salvation. Thankfully, our Lord is perfectly fair and just and intercedes on our behalf (**1 John 2:1-2**). 
+**Revelation 12:7-12** shows us that Satan and his followers also have access to God’s throne, whether they come and go with impunity or can only approach it when God summons them. We also know from this passage that Satan does this to accuse believers before the Father to discredit their salvation. Thankfully, our Lord is perfectly fair and just and intercedes on our behalf (**1 John 2:1-2**). 
 
 {{% scripture p="Revelation 12:7-12 (NKJV)" %}} 
 
@@ -86,7 +86,7 @@ Revelation 12:7-12 shows us that Satan and his followers also have access to God
 
 ## **Satan was the original cherub that encircled God’s throne before His fall. Since that time, the four cherubs or living creatures covered with many eyes have replaced him**
 
-The king of Tyre in Ezekiel 28:12-19 represents Satan, so I encourage the reader to read through that passage. Verse fourteen states, “*You were anointed as a **guardian cherub**, for so I ordained you. You were on the holy mount of God; you walked among the fiery stones*.” **Isaiah 14:12-21** describes Lucifer’s fall for us. 
+The king of Tyre in **Ezekiel 28:12-19** represents Satan, so I encourage the reader to read through that passage. Verse fourteen states, “*You were anointed as a **guardian cherub**, for so I ordained you. You were on the holy mount of God; you walked among the fiery stones*.” **Isaiah 14:12-21** describes Lucifer’s fall for us. 
 
 We contrast the above with the passage below. 
 
@@ -104,9 +104,9 @@ We contrast the above with the passage below.
 
 {{% /scripture %}} 
 
-Instances of angels ministering to and supporting Christ include **Luke 22:42-44, Psalm 91:10-12**,  and **Matthew 4:11**, 
+Instances of angels ministering to and supporting Christ include **Luke 22:42-44, Psalm 91:10-12**,  and **Matthew 4:11**. 
 
-## **Angels (both fallen and elect) are more powerful, knowledgeable, and authoritative than humans. However, they are not all-powerful as God is. None of them are omniscient, omnipresent, or omnipotent. Their rule has limits. God is self-sufficient and has always existed before any of His creation (John 1:1-3; Isaiah 40:21-26). God doesn’t need the angels or us, but we need Him. But He created angels and humans for His glory** 
+## **Angels (both fallen and elect) are more powerful, knowledgeable, and authoritative than humans. However, they are not all-powerful as God is. None of them is omniscient, omnipresent, or omnipotent. Their rule has limits. God is self-sufficient and has always existed before any of His creation (John 1:1-3; Isaiah 40:21-26). God doesn’t need the angels or us, but we need Him. But He created angels and humans for His glory** 
 
 {{% scripture p="Psalm 8:4-6 (NIV)" %}} 
 
@@ -122,7 +122,7 @@ Instances of angels ministering to and supporting Christ include **Luke 22:42-44
 
 {{% /scripture %}} 
 
-## **God created angels to bring glory to Himself share eternity with Him. But because Satan rebelled and led millions of them into rebellion, our Lord created man to replace what was lost to demonstrate the mercy, justice, and perfectly righteous character of Himself in how He treats those whom He gave the ability to respond to Him. Thus, all of Satan’s false and negative charges and challenges against the Almighty will be refuted and defeated at the end of human history. However, Christ has already won the victory at the cross**
+## **God created angels to bring glory to Himself and share eternity with Him. But because Satan rebelled and led millions of them into rebellion, our Lord created man to replace what was lost to demonstrate the mercy, justice, and perfectly righteous character of Himself in how He treats those whom He gave the ability to respond to Him. Thus, all of Satan’s false and negative charges and challenges against the Almighty will be refuted and defeated at the end of human history. However, Christ has already won the victory at the cross**
 
 ## **Adam forfeited his control of the earth to Satan, who now has a broader range of rulership over the planet. However, God is the ultimate ruler and authority in total control** 
 
