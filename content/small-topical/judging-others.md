@@ -1,14 +1,12 @@
 ---
 title: Judging Others
 summary: 
-   How should believers judge others and how should they not judge? I answer these questions in this topic. 
+   How should believers judge others, and how should they not judge? I answer these questions in this topic. 
 ---
 
-Judging sinfully usually means looking down on others as if one was better (though this may not always be involved). That is a terrible sin in and of itself and best avoided at all costs. However, there tend to be misunderstandings on this topic. It is not uncommon to hear many people say, “*Don’t judge*,” or “*Don’t judge me*.” That isn’t necessarily wrong, nor is it necessarily correct. This issue depends on certain factors. We Christians must judge both good and bad things biblically. We are supposed to evaluate situations, circumstances, beliefs, teachings, and even people. Jesus said, “*Stop judging by mere appearances, but instead, judge correctly*” (**John 7:24**). Believers have to make judgment calls all the time because many situations requiring us to choose the right course of action demand discernment and proper perception. These are good things that we should never discourage people from exercising as long as they go about it properly with pure motives. 
+Judging sinfully usually means looking down on others as if one were better. That is a terrible sin in and of itself and best avoided at all costs. However, there are often misunderstandings about this topic. It is not uncommon to hear many people say, “*Don’t judge*,” or “*Don’t judge me*.” That isn’t necessarily wrong, nor is it necessarily correct. This issue depends on certain factors. We Christians must judge both good and bad things biblically. We are supposed to evaluate situations, circumstances, beliefs, teachings, and even people. Jesus said, “*Stop judging by mere appearances, but instead, judge correctly*” (**John 7:24**). Believers have to make judgment calls all the time because many situations requiring us to choose the right course of action demand discernment and proper perception. These are good things that we should never discourage people from exercising, as long as they do so properly with pure motives. Therefore, righteous judgment must entail all we have mentioned below, most of which correspond with the fruits of the spirit. 
 
-Let us be clear that we should never intentionally look for opportunities to judge because those chances will come independently. We should never go on a “witch hunt” and try to find fault in people purposefully because we should only judge when we need to. Our time here on earth is too short for us to go sticking our noses into other matters or, worse yet, other people’s business when we shouldn’t. That is sinful (**1 Timothy 5:13; 1 Thessalonians 4:11; 2 Thessalonians 3:11**). The time to make a proper call will become apparent when we exercise discernment and walk by the Spirit (**Galatians 5:25; Philippians 1:9-10**). Therefore, righteous judgment must entail all we have mentioned below, most of which correspond with the fruits of the spirit. 
-
-## If we judge, what we speak must be true. It must be based on facts, not an opinion (even though we may have opinions) that is not entirely sure of itself or correct  
+## If we judge, what we speak must be true. It must be based on facts, not an opinion (even though we may have opinions), that is not entirely sure of itself or correct  
 
 {{% scripture p="Ephesians 4:15 (ESV)" %}} 
 
@@ -34,7 +32,7 @@ See Ephesians 4:15 above ^.
 
 {{% /scripture %}} 
 
-##  There are many areas of application in the Christian life where choices will differ. We must not be legalistic and condemn others for doing perfectly fine things. Nor should we judge those for doing something fine but wrong to them in their conscience. Examples of situations like these are found in the passages below.
+##  There are many areas of application in the Christian life where choices will differ. We must not be legalistic and condemn others for doing perfectly fine things. Nor should we judge those for doing something fine but wrong to them in their conscience. Examples of such situations are found in the passages below.
 
 {{% scripture p="Romans 14:1-9 (ESV)" %}} 
 
@@ -44,7 +42,7 @@ As for the one who is weak in faith, welcome him, but not to quarrel over opinio
 
 For more information on the above, please see [**Christian Liberty**](/large-topical/christian-liberty/).
 
-With all the above said, what is the judgment referred to in Matthew 7:1?
+With all the above said, what is the judgment referred to in **Matthew 7:1**?
 
 {{% scripture p="Matthew 7:1 (ESV)" %}} 
 
@@ -52,7 +50,7 @@ With all the above said, what is the judgment referred to in Matthew 7:1?
 
 {{% /scripture %}} 
 
-The bad type of judgment above stems from an exaggerated view of oneself as better and more important than others (hence we mentioned judging with pure motives and attitude earlier). This mentality is not the way of love and constitutes a terrible sin which God will repay, whether at the judgment seat for believers or the great white throne for unbelievers. We will explain verses three and five to close. 
+The bad type of judgment above stems from an exaggerated view of oneself as better and more important than others (hence, we mentioned judging with pure motives and attitude earlier). This mentality is not the way of love and constitutes a terrible sin which God will repay, whether at the judgment seat for believers or the great white throne for unbelievers. We will explain verses three and five to close. 
 
 {{% scripture p="Matthew 7:3-5 (ESV)" %}} 
 
@@ -60,8 +58,8 @@ The bad type of judgment above stems from an exaggerated view of oneself as bett
 
 {{% /scripture %}} 
 
-The interpretation of these final three verses is relatively simple. First, we should constantly evaluate ourselves to ensure we have taken care of our own problems through spiritual growth to help others with what we used to struggle with in times past (we should strive our best to never be hypocritical). You can’t help someone else if you need help yourself. The blind cannot lead the blind (**Matthew 15:14**). 
+The interpretation of these final three verses is relatively simple. First, we should constantly evaluate ourselves to ensure we have addressed our own problems through spiritual growth, so we can help others with what we used to struggle with in times past (we should strive to never be hypocritical). You can’t help someone else if you need help yourself. The blind cannot lead the blind (**Matthew 15:14**). 
 
-It is most unfortunate that so many in the church have taken two extremes in this area of Christian application. First, you have some who don’t want to be accountable for themselves to continue to do whatever they want wherever they wish. They may act hypocritically by calling others “judgmental” and “legalistic” when what those people are doing is the right and biblical thing for them to do. A righteous judgement spoken in love should never be criticized (assuming it is true). 
+It is most unfortunate that so many in the church have taken two extremes in this area of Christian application. First, you have some who don’t want to be accountable and wish to continue doing whatever they want, wherever they want. They may act hypocritically by calling others “judgmental” and “legalistic” when what those people are doing is the right and biblical thing for them to do. A righteous judgment spoken in love should never be criticized (assuming it is true). 
 
-On the other hand, some falsely and legalistically judge others. They would be doing the opposite of good and righteous regarding everything we have listed above. We must do unto others as we would have them do unto us (**Luke 6:31**). Therefore, let us all strive to judge as our Lord would have us. Let us put Him first in our thoughts, words, and actions toward everyone (**Titus 3:1-11**). 
+On the other hand, some judge others falsely and legalistically. They would be doing the opposite of good and righteous regarding everything we have listed above. We must do unto others as we would have them do unto us (**Luke 6:31**). Therefore, let us all strive to judge as our Lord would have us. Let us put Him first in our thoughts, words, and actions toward everyone (**Titus 3:1-11**). 

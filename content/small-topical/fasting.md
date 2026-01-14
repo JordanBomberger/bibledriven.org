@@ -6,13 +6,13 @@ summary:
 
 ## **The Bible nowhere requires us to fast** 
 
-The Bible nowhere requires believers to fast. It is a good activity (we will mention the advantages below) but not something we have to engage in as if it was a command we have to follow. However, Scripture does paint it in a good light because it has many spiritual benefits. But we must be wary not to judge and look down on those who choose not to abstain from eating for specific intervals of time. In other words, this activity does not make any believer more spiritually mature than another. 
+The Bible nowhere requires believers to fast. It is a good activity (we will mention the advantages below), but not something we have to engage in as if it were a command we have to follow. However, Scripture paints it in a good light because it offers many spiritual benefits. But we must be wary of judging and looking down on those who choose not to abstain from eating for specific periods. In other words, this activity does not make any believer more spiritually mature than another. 
 
 ## **Fasting is about putting our focus and attention on God**
 
-Fasting is not so much about abstaining from food as it is putting more of our focus and attention on God. That is what fasting is all about, temporarily putting away earthly needs to focus and rely on the spiritual provisions of our heavenly Father. That is the sole purpose of this biblical activity. And we must be careful not to take it too far (going without food for too long can harm the body). It would be unwise to intentionally mimic the fast Jesus underwent during His time in the wilderness (**Luke 4:1-2**). 
+Fasting is not so much about abstaining from food as it is putting more of our focus and attention on God. That is what fasting is all about: temporarily setting aside earthly needs to focus and rely on the spiritual provisions of our heavenly Father. That is the sole purpose of this biblical activity. And we must be careful not to take it too far (going without food for too long can harm the body). It would be unwise to intentionally mimic the fast Jesus underwent during His time in the wilderness (**Luke 4:1-2**). 
 
-Especially relevant to our discussion is the purpose and motivation behind why we do what we do. For example, we are not to fast to look good in front of others and show everyone we are good Christians better than they are; that is judgementalism (**Matthew 7:1-2; Luke 18:10-13**). The Pharisees habitually disfigured their faces so that others would notice their fasting and respect it all the more (**Matthew 6:16-18**). But fasting (like prayer) is a personal matter between us and the Lord. 
+Especially relevant to our discussion is the purpose and motivation behind what we do. For example, we are not to fast to look good in front of others and show everyone we are good Christians better than they are; that is judgementalism (**Matthew 7:1-2; Luke 18:10-13**). The Pharisees habitually disfigured their faces so that others would notice their fasting and respect it all the more (**Matthew 6:16-18**). But fasting (like prayer) is a personal matter between the individual and the Lord. 
 
 ## **Fasting can have physical, mental, and spiritual benefits** 
 
@@ -28,4 +28,4 @@ Scripture associates fasting with humble repentance, contrition, grief, and remo
 
 ## **Fasting often occurs during rough times or before making difficult decisions**  
 
-Fasting often occurred during difficult times and right before hard decisions were made (**Ezra 8:23; Daniel 10:3; Acts 14:23**). But, again, this is not required of believers today. Stating otherwise is legalism. 
+Fasting often occurred during difficult times and right before hard decisions (**Ezra 8:23**; **Daniel 10:3**; **Acts 14:23**), but again, this is not required of believers today. Stating otherwise is legalism. 

@@ -18,7 +18,7 @@ summary:
 
 ### Old Testament tithing requirements cannot be indiscriminately applied to the Church Age, a different thing altogether
 
-Tithing is a highly misunderstood, misapplied, and abused practice in the body of Christ (has been for years). The one-tenth idea used by the church for so long does not apply to current believers. The passage below isn’t a model for the church to follow. As described in the Old Testament, tithing existed for a particular time and people (Israel). All the passages in the Old Testament regarding this practice speak to them and those of that period alone.
+Tithing is a highly misunderstood, misapplied, and abused practice in the body of Christ (has been for years). The one-tenth idea does not apply to believers under the New Covenant. The passage below isn’t a model for the church to follow. As described in the Old Testament, tithing existed for a particular time and people (Israel). All the passages in the Old Testament regarding this practice speak to them and those of that period alone.
 
 {{% scripture p="Genesis 28:20-22 (ESV)" %}} 
 
@@ -28,7 +28,7 @@ Tithing is a highly misunderstood, misapplied, and abused practice in the body o
 
 ### Ostentatious giving ought to be avoided
 
-Additionally, nowhere does Scripture mandate passing a plate around a congregation to collect money. If a church wants to receive donations, there are far less conspicuous ways to do so than passing a dish around or having people come up in front of the congregation to give. Collection boxes located in a known discreet and secluded corner isn’t a bad idea. In this day of technology, an even better alternative is to give online where no one else can see the act done. Or we can just give to individuals and others one on one in private. The idea is to attract as little attention to ourselves and our donations as possible. As Jesus commanded to the people of His day, so we should echo His statements to our brothers and sisters---
+Additionally, nowhere in Scripture does it mandate passing a plate around a congregation to collect money. If a church wants to receive donations, there are far less conspicuous ways to do so than passing a dish around or having people come up in front of the congregation to give. Collection boxes located in a known, discreet, and secluded corner aren’t a bad idea. In this day and age of technology, an even better alternative is to give online, where no one else can see the act. Or we can just give to individuals and others one-on-one, privately. The idea is to attract as little attention to ourselves and our donations as possible. As Jesus commanded the people of His day, so we should echo His statements to our brothers and sisters---
 
 {{% scripture p="Matthew 6:1-5 (ESV)" %}} 
 
@@ -40,13 +40,13 @@ Additionally, nowhere does Scripture mandate passing a plate around a congregati
 
 Giving within the church is a personal matter that must come from a pure and right heart. I believe that as a believer grows spiritually, the Holy Spirit will naturally soften their attitudes and grant them discernment of when and when not to give (and to whom). One could say giving is a work of the Holy Spirit, which means that the believer in question must follow His leading. If they do, then helping someone out who genuinely needs it will be no problem for them. God is love, and since He dwells within us, we will naturally want to share His love with others (especially with those in greatest need). Therefore, we must give as we feel led, heeding our Lord’s still small voice. 
 
-Unfortunately, giving has turned into something it shouldn’t be. But giving to others who genuinely need it is highly encouraged. In many circumstances, it is our Christian duty! But there is no rule on how much and how often we should engage in this generous activity. Giving is an area of application based on what we feel the Lord would want us to do. If there is a need God wants us to fill, then He will lead us to give aid.
+Unfortunately, giving has turned into something it shouldn’t be. But giving to others who genuinely need it is highly encouraged. In many circumstances, it is our Christian duty! But there is no rule on how much and how often we should engage in this generous activity. Giving is an area of application based on what we feel the Lord would want us to do. If there is a need God wants us to meet, He will lead us to provide aid.
 
-However, it makes far more sense to send our donations to (as two examples) pastor teachers teaching the Word and those who are in desperate need like no one else in the body (persecuted believers and all others with less time, resources, and opportunities to study and grow in the Word). However, it is good to give to all those who genuinely need it, especially our brothers and sisters closest to us who share a great love and zeal for the Lord. We can help out anyone, but we shouldn’t give if we really don’t want to unless it is an emergency situation. We must never give under compulsion or from feelings of pressure. However, it could be asked if donating to lukewarm organizations or churches that use their financial assets for less important things that do little or not enough to contribute to helping people come to the truth and grow in it is the best way to help out. 
+However, it makes far more sense to send our donations to (as two examples) pastor-teachers teaching the Word and those who are in desperate need, like no one else in the body (persecuted believers and all others with less time, resources, and opportunities to study and grow in the Word). However, it is good to give to all those who genuinely need it, especially our brothers and sisters closest to us who share a great love and zeal for the Lord. We can help anyone, but we shouldn’t give if we really don’t want to, unless it is an emergency. We shouldn't give under compulsion or from feelings of pressure. However, it could be asked whether donating to lukewarm organizations or churches that use their financial assets for less important things that do little or not enough to help people come to the truth and grow in it is the best way to help out. 
 
-### When giving of our abundance is more duty than optional
+### When giving of our abundance is more a duty than an option
 
-With that said, we will provide examples where giving (both money and possessions) is not an option but a duty due to some emergency, circumstance, or catastrophic event, etc. Below is a non-comprehensive list of just some of many passages in the Bible that command us to aid others. 
+With that said, we will provide examples where giving (both money and possessions) is not an option but a duty due to an emergency, circumstance, or catastrophic event. Below is a non-comprehensive list of just some of the many passages in the Bible that command us to aid others. 
 
 #### James 2:14-17
 
@@ -76,7 +76,7 @@ With that said, we will provide examples where giving (both money and possession
 
 Christian giving (whether to believers or unbelievers) should never be pressured or done under compulsion. Instead, the desire to help out should come naturally, especially when dealing with emergencies involving our fellow brothers and sisters (and unbelievers). And believers should never take advantage of the generosity of other members of Christ’s body! 
 
-A brother or sister should never give out of fear, guilt, or compulsion but out of their heart's true desires and purposes. For if they give grudgingly, they will receive no reward at the Bema. Giving by itself is not enough but must be done with pure motives. 
+A brother or sister should never give out of fear, guilt, or compulsion but out of their heart's true desires and purposes. For if they give grudgingly, they will receive no reward at the Bema. Giving by itself is not enough, but must be done with pure motives. 
 
 {{% scripture p="2 Corinthians 9:6-9 (ESV)" %}} 
 
@@ -86,7 +86,7 @@ A brother or sister should never give out of fear, guilt, or compulsion but out 
 
 ### What about giving to unbelievers?
 
-With the above said,  what about giving to unbelievers? Many believers have encountered many homeless people on the streets and others asking for money only to see their cash wasted on alcohol, drugs, or cigarettes, leading many of our brothers and sisters to quit giving to such individuals altogether. I advise giver discretion when dealing with these situations, but that doesn’t mean we cannot help unbelievers financially. These moments give us opportunities to share the gospel! The same principle of helping others when they CLEARLY need it (without a shadow of a doubt) applies equally to unbelievers as it does believers. Although family members in Christ are and should be our first priority, our love toward God extends not only toward them but even to those who are not a part of the household of faith. As we grow in our faith, our love begins with our own brethren, translating and developing even larger into love for all men, as the passage below illustrates beautifully. 
+With the above said,  what about giving to unbelievers? Many believers have encountered many homeless people on the streets and others asking for money only to see their cash wasted on alcohol, drugs, or cigarettes, leading many of our brothers and sisters to quit giving to such individuals altogether. I advise giver discretion when dealing with these situations, but that doesn’t mean we cannot help unbelievers financially. These moments give us opportunities to share the gospel! The same principle of helping others when they CLEARLY need it (without a shadow of a doubt) applies equally to unbelievers as it does to believers. Although family members in Christ are and should be our first priority, our love for God extends not only to them but also to those who are not part of the household of faith. As we grow in our faith, our love begins with our own brethren, and it grows even larger into love for all men, as the passage below illustrates beautifully. 
 
 {{% scripture p="2 Peter 1:3-9 (NIV)" %}} 
 
@@ -94,9 +94,9 @@ With the above said,  what about giving to unbelievers? Many believers have enco
 
 {{% /scripture %}} 
 
-However, believers must exercise caution when giving to those outside the church, especially people begging on the streets. There will be times when we can’t know whether someone is lying or telling the truth (“will they use my money as they said they would?”). There is nothing wrong with giving or not giving in situations like that. “*What if they do need help and use what we give them for their legitimate needs*?” “*But what if they don’t need help and waste our money on drugs, alcohol, and cigarettes*?” “*What if they are lazy and aren’t trying to find a job*?” “*But what if they are*?” These kinds of questions will no doubt race through a person’s mind when faced with situations like these.
+However, believers must exercise caution when giving to those outside the church, especially people begging on the streets. There will be times when we can’t know whether someone is lying or telling the truth (“Will they use my money as they said they would?”). There is nothing wrong with giving or not giving in situations like that. “*What if they do need help and use what we give them for their legitimate needs*?” “*But what if they don’t need help and waste our money on drugs, alcohol, and cigarettes*?” “*What if they are lazy and aren’t trying to find a job*?” “*But what if they are*?” These kinds of questions will no doubt race through a person’s mind when faced with situations like these.
 
-We don’t have to help out in situations like those. But we are allowed to give aid (even if we are unsure whether they will really use what we give them for the need they said they have) if we desire because the decision belongs to every individual believer. If we provide and they waste the money, at least we can say we had pure motives. If we don’t give because of suspicion, then we can still say our motives were pure. Giving into scams only encourages more scams and more begging from those who aren’t in need and shouldn’t be asking for money. Then again, it is not always easy to tell. Either way, in conclusion, as long as our motives are pure, the Lord isn’t angry with us whichever option we choose. To give, or not to give? That is the question, and only the believer can make that decision for themself. 
+We don’t have to help out in situations like those. But we are allowed to give aid (even if we are unsure whether they will really use what we give them for the need they said they have) if we desire, because the decision belongs to every individual believer. If we provide and they waste the money, at least we can say we had pure motives. If we don’t give because of suspicion, then we can still say our motives were pure. Giving in to scams only encourages more scams and more begging from those who aren’t in need and shouldn’t be asking for money. Then again, it is not always easy to tell. Either way, in conclusion, as long as our motives are pure, the Lord isn’t angry with us, whichever option we choose. To give, or not to give? That is the question, and only the believer can make that decision for themself. 
 
 ## American Christianity and the persecuted Church
 
@@ -104,15 +104,15 @@ We don’t have to help out in situations like those. But we are allowed to give
 
 As anyone who has read a good bit of this ministry will know, we live in the lukewarm era of Laodicea (**Revelation 3:14-22**), where most believers across the world are indifferent toward God’s Word. The fact that denominations still exist is a clear sign that the church has learned little since the closing era of Philadelphia (**Revelation 3:7-13**). But if there is any place in the world today that is more lukewarm, it is not hard to imagine that it is the United States.
 
-Many believers in other countries are persecuted, tortured, and killed for their faith every day. Many lack the means, freedom, and ability to receive good solid Bible teaching, let alone read a Bible for themselves. The persecutions were fierce during the communist eras of the Cold War, and even today, continue at an alarming rate. Many of our spiritual family members overseas worldwide in different countries desperately need help from their brothers and sisters in free countries. The West often denies much of the suffering and persecution that goes on in these places. Although this has improved over the years (thanks to many brave men and women of God), it is doubtful that there is nearly as much of a response as there could be. Therefore, let's not forget to pray for our persecuted brothers and sisters in Christ (**Hebrews 13:3**)! 
+Many believers in other countries are persecuted, tortured, and killed for their faith every day. Many lack the means, freedom, and ability to receive good, solid Bible teaching, let alone read a Bible for themselves. The persecutions were fierce during the communist eras of the Cold War, and even today, continue at an alarming rate. Many of our spiritual family members overseas, worldwide in different countries, desperately need help from their brothers and sisters in free countries. The West often denies much of the suffering and persecution that goes on in these places. Although this has improved over the years (thanks to many brave men and women of God), it is doubtful that there is nearly as much of a response as there could be. Therefore, let's not forget to pray for our persecuted brothers and sisters in Christ (**Hebrews 13:3**)! 
 
 {{% note %}}
 
-Not all people persecuted in this world are true believers per se. There are undoubtedly many who claim to be Christians  often persecuted for their religious tendencies but are not necessarily part of the body of Christ. However, only our Lord knows who belongs to Him, and He alone will separate them at the end of the age.
+Not all people persecuted in this world are true believers, per se. There are undoubtedly many who claim to be Christians, often persecuted for their religious tendencies, but are not necessarily part of the body of Christ. However, only our Lord knows who belongs to Him, and He alone will separate them at the end of the age.
 
 {{% /note %}}
 
-Many strong men and women of faith in different countries who have endured much suffering at the hands of communists and other anti-Christian organizations have written good books on the subject of Christian persecution. A few well-known examples that come to mind are Richard Wurmbrand, Haralan Popov, and Andrew van der Bijl. Yet when they first came to America, their testimony and pleas for help got a mixed response, much of which was negative. 
+Many strong men and women of faith in different countries who have endured much suffering at the hands of communists and other anti-Christian organizations have written good books on the subject of Christian persecution. A few well-known examples that come to mind are Richard Wurmbrand, Haralan Popov, and Andrew van der Bijl. Yet when they first came to America, their testimony and pleas for help received a mixed response, much of it negative. 
 
 ### Quotes from Richard Wurmbrand's *Tortured for Christ*
 
@@ -136,7 +136,7 @@ And it doesn’t end there, as the epilogue in the book goes on to describe. Muc
 
 ### Encouraging people to give is not necessarily the same as pressuring them to give
 
-As we have already noted in this paper, we should never pressure others to give. No person should ever feel forced to donate and should never do so under compulsion. If they feel pressured to do so, the right thing would be NOT to give. Giving with impure motives will not result in a reward, but only a “piece” of wood hay and stubble thrown into the fire at the judgment seat (**1 Corinthians 3:10-16**). However, there is a difference between pressuring someone to give versus encouraging them to do so. This latter option was one that the apostle Paul took quite often (**2 Corinthians 8:1-15**) and one that the free church should echo among themselves.
+As we have already noted in this paper, we should never pressure others to give. No person should ever feel forced to donate, nor should they do so under compulsion. If they feel pressured to do so, the right thing would be NOT to give. Giving with impure motives will not result in a reward, but only a “piece” of wood hay and stubble thrown into the fire at the judgment seat (**1 Corinthians 3:10-16**). However, there is a difference between pressuring someone to give versus encouraging them to do so. This latter option was one that the apostle Paul took quite often (**2 Corinthians 8:1-15**) and one that the free church should echo among themselves.
 
 {{% scripture p="2 Corinthians 8:1-9 (NIV)" %}} 
 
@@ -152,13 +152,13 @@ With the above said, let us consider the passage below as encouragement and moti
 
 {{% /scripture %}} 
 
-The link below is from Curtis Omo’s Bible Academy, a serious and in-depth teaching ministry committed to the spiritual growth of children and adults. 
+The link below is to Curtis Omo’s Bible Academy, a serious, in-depth teaching ministry committed to the spiritual growth of children and adults. 
 
 * [Bibleacademyonline – Verse-by-Verse Bible Studies from the Original Languages by Pastor and Teacher Curtis M. Omo](https://bibleacademyonline.com/omo/)
 
 {{% note %}}
 
-I do not myself solicit nor accept donations. If you are looking for good causes, however, please do consider instead the linked ministry above.
+I do not myself solicit nor accept donations. If you are looking for good causes, however, please consider the linked ministry above instead.
 
 {{% /note %}}
 
@@ -166,9 +166,9 @@ I do not myself solicit nor accept donations. If you are looking for good causes
 
 ### On the idea of house churches generally
 
-In addition to wasted and guilt-driven giving, fancy buildings need to be reconsidered by the body of Christ. There is nothing wrong with meeting in a designated facility, but many church buildings throughout America and other countries are unnecessary. Some churches do require buildings due to the large volume of people that attend. But many smaller congregations would do just fine without.
+In addition to wasted and guilt-driven giving, the body of Christ needs to reconsider fancy buildings. There is nothing wrong with meeting in a designated facility, but many church buildings throughout America and other countries are unnecessary. Some churches require them due to the large number of people who attend. But many smaller congregations would do just fine without.
 
-The problem is that so much money for fixing up the building and other renovation projects could be given to persecuted believers worldwide or so many other good causes. Think of all the ministries that money could benefit! The Church is a people, not a building, after all. Imagine how much money so many believers would save if many of them just met up in a large house! The believers of Paul’s day all met up in house churches.
+The problem is that so much money spent on fixing up the building and other renovation projects could be given to persecuted believers worldwide or to so many other good causes (believers in the assembly in genuine need). Think of all the ministries that money could benefit! The Church is a people, not a building, after all. Imagine how much money so many believers would save if many of them just met up in a large house! The believers of Paul’s day all met up in house churches.
 
 So, far from there being anything wrong with this practice, it should in fact be the preferred first option for any smaller to medium congregation if they can do this. There is nothing in Scripture that suggests buildings are mandatory. A house church is more practical and advantageous in almost every way, save a few minor things here or there. And yes, even in a house church, qualified teachers and deacons can still be present. But the location does not matter, just as long as there is enough room for everyone to gather comfortably. As with many “additions” over the years, church buildings became another human addition. Unless one is really needed, why bother? 
 
@@ -176,6 +176,6 @@ Examples of house churches are found in **Philemon 1-3**, **1 Corinthians 16:19-
 
 ### Priorities in giving
 
-The principle is simple -- a building equals more time, money, distraction, and priority. The issues then extend into other areas of church life, such as giving (tithing as it is known today). As we have [already taken the time to explain](/small-topical/giving-american-christianity-house-churches-and-the-persecuted-church-copy/#tithing-versus-giving), the New Testament nowhere commands this practice. Much of the money put in the offering plate goes toward far less important things such as building projects, activities, music, etc. But what about the persecuted church? What about those amidst the free church that do need help? Why not give to an organization that is actually making a difference in the body of Christ?
+The principle is simple -- a building equals more time, money, distraction, and priority. The issues then extend into other areas of church life, such as giving (tithing as it is known today). As we have [already taken the time to explain](/small-topical/giving-american-christianity-house-churches-and-the-persecuted-church-copy/#tithing-versus-giving), the New Testament nowhere commands this practice. Much of the money put in the offering plate goes toward far less important things, such as building projects, activities, music, etc. But what about the persecuted church? What about those within the free church who do need help? Why not give to an organization that is actually making a difference in the body of Christ?
 
 Additionally, why not give to teaching ministries that actually teach the Word of God seriously? Why, as a church, do we continue to waste our time and money on things we don’t need and on ministries that continue to squander and misuse what we give? The Lord wants us to give, but He wants us to give to those who need it. That is how things worked during the early church, and that is how it should work now.
