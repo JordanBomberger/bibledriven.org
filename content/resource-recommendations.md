@@ -61,11 +61,6 @@ Another teaching ministry I highly recommend, written by a good friend and peer 
 
 - [Amazon](https://www.amazon.com/Ungers-Commentary-Testament-Merrill-Unger/dp/0899574157)
 
-#### “The Bible Knowledge Commentary” - Old and New Testaments
-
-- Old Testament: [Amazon](https://www.amazon.com/Bible-Knowledge-Commentary-Old-Testament/dp/0882078135)
-- New Testament: [Amazon](https://www.amazon.com/Bible-Knowledge-Commentary-Exposition-Scriptures/dp/0882078127)
-
 ##### “The New Unger’s Bible Dictionary” - By Merrill F. Unger
 
 - [Amazon](https://www.amazon.com/New-Ungers-Bible-Dictionary/dp/0802490662)
@@ -92,7 +87,7 @@ Vocabulary for Greek and other classical languages
 
 https://www.blueletterbible.org/ 
 
-Blue Letter Bible- Helpful for intext study in the original languages. Very helpful for those who don't know Greek and Hebrew. 
+Blue Letter Bible- Helpful for in-depth study in the original languages. Very helpful for those who don't know Greek and Hebrew. However, this resource is no substitute for knowing the languages oneself (or consulting a teacher who does for those not called to learn them).   
 
 
 
