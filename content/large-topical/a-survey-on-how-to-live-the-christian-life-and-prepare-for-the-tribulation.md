@@ -49,7 +49,7 @@ The book of Revelation gives us the best descriptions we have of the “time of 
 
 ### **1.1 Reasons for the Tribulation-Unbelievers** 
 
-So what is the point of there being a tribulation? Why would God allow such a terrible time to occur on the earth that He created? Scripture does answer these questions, and there are multiple reasons; we will highlight two. One reason is God's judgment of the world for its wickedness, cleansing it of many of its sinful inhabitants.  A similar judgment occurred during the days of Noah when God sent the flood to wipe out the evildoers of that time to purify the earth. 
+So what is the point of there being a tribulation? Why would God allow such a terrible time to occur on the earth that He created? Scripture does answer these questions, and there are multiple reasons; we will highlight two for emphasis, even though they are not the only reasons (I would like to discuss the others in another study). One reason is God's judgment of the world for its wickedness, cleansing it of many of its sinful inhabitants.  A similar judgment occurred during the days of Noah when God sent the flood to wipe out the evildoers of that time to purify the earth. 
 
 {{% scripture p="Genesis 6:5-8" %}} 
 
@@ -61,7 +61,7 @@ As history has progressed, humanity has become more and more evil, and while the
 
 ### **1.2**  **Believers** 
 
-Why would God allow believers to go through the most terrible time the earth will have ever known? We are His children, He loves us, and we are precious in His sight, so why would we not be spared from “that great hour of testing?” If God is judging the earth, why would believers be present during a time when God is unleashing His wrath like never before? The answer itself has to do with love; for God to put us through such a period is an act of mercy and graciousness on His part. But why put believers through this process? What is the reason, and what do we have to do with all this? Revelation 3:7-10 and 3:14-20 help answer these questions. 
+Why would God allow believers to go through the most terrible time the earth will have ever known? We are His children, He loves us, and we are precious in His sight, so why would we not be spared from “that great hour of testing?” If God is judging the earth, why would the church be present during a time when God is unleashing His wrath like never before? The answer itself has to do with love; for God to put us through such a period is an act of mercy and graciousness on His part. But why put the church through this process? What is the reason, and what do we have to do with all this? **Revelation 3:7-10** and 3:14-20 help answer these questions. 
 
 {{% scripture p="Revelation 3:7-13 (NIV)" %}} 
 
