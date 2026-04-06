@@ -4,7 +4,7 @@ weight: 500
 summary: Temptations versus Tests and the source of both. 
 ---
 
-## **Temptations vs Tests** 
+## **Temptations vs Tests** directly from God 
 
 ## **Verse 13** 
 
@@ -93,7 +93,7 @@ Some English translations have the word "lust" instead of "desire" at the end of
 
 So why do we believers sin even though we don’t have to, because there is never an excuse for it? Yes, the sin nature (or flesh) is a big part of the problem and helps to explain much of why we give in to temptation (our fallen nature makes sinless perfection impossible). The evil desires of the sin nature are a big part of the equation.   
 
-So, if the sin nature cannot force anyone to give in and sin, why do we still commit it? How can we explain that we cannot be without sin (**1 John 1:8**) yet never have to give in? The sinful nature is a significant weakness that guarantees failure for every person to various degrees. We are still human, created with the ability to respond to God negatively or positively. So, although Adam and Eve didn’t yet have a sin nature before the fall, they still had free will. They were not untemptable as God has always been (in His eternal divinity), and as our departed brothers and sisters are in the third Heaven now (all of us presently alive will one day share this blessed state when we go home to be with the Lord). We do not lose our free will after death, but, like God, we become untemptable and, therefore, incapable of sinning. 
+So, if the sin nature cannot force anyone to give in and sin, why do we still commit it? How can we explain that we cannot be without sin (**1 John 1:8**) yet never have to give in? The sinful nature is a significant weakness that guarantees failure for every person to various degrees. We are still human, created with the ability to respond to God through free will, either positively or negatively. So, although Adam and Eve didn’t yet have a sin nature before the fall, they still had free will. They were not untemptable as God has always been (in His eternal divinity), and as our departed brothers and sisters are in the third Heaven now (all of us presently alive will one day share this blessed state when we go home to be with the Lord). We do not lose our free will after death, but, like God, we become untemptable and, therefore, incapable of sinning. 
 
 {{% scripture p="Psalm 78:30-40 (NASB 1995)" %}} 
 
