@@ -470,83 +470,9 @@ Other passages which demonstrate the need for perseverance include (but are not 
 
 ### **James 2:14-24 Explained** 
 
-Since salvation is by faith through grace alone, and Christ covered all our sins, past, present, and future, how does one interpret **James 2:14-24**? We will give a brief rundown of it below. For a more in-depth examination of this passage, see the link below. 
+Please see the link below for a thorough explanation of **James 2:14-26** (James 2:14-26 Lesson 7)  
 
 https://www.bibledriven.org/verse-by-verse-teaching-through-the-epistles-and-other-new-testament-books/james/james-lesson-7/ 
-
-{{% scripture p="James 2:14-24 (ESV)" %}} 
-
-**14** What good is it, my brothers, if someone says he has faith but does not have works? Can that faith save him? **15** If a brother or sister is poorly clothed and lacking in daily food, **16** and one of you says to them, “Go in peace, be warmed and filled,” without giving them the things needed for the body, what good is that? **17** So also faith by itself, if it does not have works, is dead. **18** But someone will say, “You have faith and I have works.” Show me your faith apart from your works, and I will show you my faith by my works. **19** You believe that God is one; you do well. Even the demons believe—and shudder! **20** Do you want to be shown, you foolish person, that faith apart from works is useless? **21** Was not Abraham our father justified by works when he offered up his son Isaac on the altar? **22** You see that faith was active along with his works, and faith was completed by his works; **23** and the Scripture was fulfilled that says, “Abraham believed God, and it was counted to him as righteousness”—and he was called a friend of God. **24** You see that a person is justified by works and not by faith alone.                                     
-
-{{% /scripture %}} 
-
-**Vs 14**
-
-{{% scripture p="James 2:14 (ESV)" %}} 
-
-**14** What good is it, my brothers, if someone says he has faith but does not have works? Can that faith save him?
-
-{{% /scripture %}} 
-
-A lack of obedience or good fruit can reveal someone as an unbeliever, since all true believers will manifest a changed life to some extent. The believer's faith will be evidenced or manifested by good works (obedience in resisting sin and temptation and in bringing forth fruit through ministry). 
-
-The works mentioned here in James are **not** the works of the Law Paul mentions in Romans. True saving faith naturally expresses itself through obedience and spiritual production (bringing forth fruit, **John 15:8**).                                                                                   
-
-However, **James 2:14-24** applies to both believers and unbelievers (verse fifteen references a brother or sister in Christ to describe believers, while verse nineteen describes demons, which would be analogous to unbelievers). If believers aren't walking in fellowship with God through faith, then their faith is useless, because no good work can be done. If we aren't walking in the Spirit through faith, our faith is temporarily dead because it is inactive when it shouldn't be (as in the man who says, "Go in peace, be warmed and filled," but does nothing to help his suffering comrade).  On the other side of the coin are unbelievers who claim faith but have nothing to show for it since they do not actually believe in and follow Christ. In their case, the fact that no works are present indicates that they have no saving faith in Christ at all. Our passage from James addresses both believers and unbelievers. 
-
-{{% scripture p="Hebrews 11:6 (KJV)" %}} 
-
-**6** But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.                             
-
-{{% /scripture %}} 
-
-**Vs---15-17** 
-
-{{% scripture p="James 2:15-17 (ESV)" %}} 
-
-**15** If a brother or sister is poorly clothed and lacking in daily food, **16** and one of you says to them, “Go in peace, be warmed and filled,” without giving them the things needed for the body, what good is that? **17** So also faith by itself, if it does not have works, is dead.
-
-{{% /scripture %}} 
-
-Helping others does not earn us salvation because salvation is by faith through grace alone. Instead, works are an indication (evidence) of belonging to Christ (true faith in Him, which backs up the claim of possessing it). However, even believers still fail, so they don't always walk in faith. So not helping out a brother in need (as is the case in our verse) could indicate a believer not living out their faith as they should or an unbeliever who isn't saved at all. 
-
-**Vs-18-20** 
-
-{{% scripture p="James 2:18-20 (ESV)" %}} 
-
-**18** But someone will say, “You have faith and I have works.” Show me your faith apart from your works, and I will show you my faith by my works. **19** You believe that God is one; you do well. Even the demons believe—and shudder! **20** Do you want to be shown, you foolish person, that faith apart from works is useless? 
-
-{{% /scripture %}} 
-
-True saving faith produces (is evidenced by works), whereas a simple belief or appreciation for the existence of God is not sufficient for salvation. Because of this, it will have nothing to show. The demons are a perfect example because they do nothing good for God and even oppose Him! So even though an unbeliever may be a good law-abiding citizen who is kind toward others, nothing he does means a thing to God. No matter how friendly or pleasant they may be, they are still God’s enemies who stand condemned because they have not believed (committed themselves to Jesus Christ by following Him faithfully to the end in true saving faith). 
-
-And again, these verses also apply to believers who are not living out their faith as they should (an inactive faith is useless). 
-
-**Vs---21-24**
-
-{{% scripture p="James 2:21-24 (ESV)" %}} 
-
-**21** Was not Abraham our father justified by works when he offered up his son Isaac on the altar? **22** You see that faith was active along with his works, and faith was completed by his works; **23** and the Scripture was fulfilled that says, “Abraham believed God, and it was counted to him as righteousness”—and he was called a friend of God. **24** You see that a person is justified by works and not by faith alone. 
-
-{{% /scripture %}} 
-
-Abraham’s faith was “declared” by his obedience to the Lord because of what he did. But Abraham was already saved long before he offered his son Isaac on the altar (most likely when he first obeyed the Lord to leave his homeland). Thus, his most incredible act of faith in offering up his son Isaac was a declaration of it in addition to all the other times Abraham had acted in belief toward God. Abraham’s faith would be continuously demonstrated throughout his lifetime as obedient work after obedient work continued to declare his righteous, genuine standing with God (advertising that he was a true believer walking in faith). But Abraham was justified the first moment he believed. 
-
-{{% scripture p="Genesis 15:5-6 (NASB)" %}} 
-
-**5** And He took him (Abraham) outside and said, “Now look toward the heavens, and count the stars, if you are able to count them.” And He said to him, “So shall your descendants be.” **6** Then he believed in the Lord; and He reckoned it to him as righteousness.                                                              
-
-{{% /scripture %}} 
-
-What we have in our James passage is not a moment of Abraham getting saved a second time , but a test that “declared,” and “demonstrated” his belief in action that it was genuine. The passage then goes on to say that his faith was “completed” by his works. When he offered up his son Isaac, Abraham did not have a salvation experience. Instead, this sacrificial act “declared” his faith; think of someone shouting a message from the top of a roof. This act of Abraham offering up his son Isaac shows just how far he had matured in his walk with Christ since his conversion. The whole tenor of this James passage is true versus false faith. Real faith produces! Without faith, no one could be saved. And without works, faith could not be said to be genuine and would, thus, be nonexistent (no unbeliever can be saved). That is why verse twenty-four says, "*You see that a person is justified by works and not by faith alone*."
-
-Think of it this way-works speak for faith. Salvation is not by works. But without them, our faith could not declare itself, and the light of our salvation as believers could not shine (**Matthew 5:13-16**). A believer's faith is expressed in what they do. Some level of works will/must be present with a person who is a genuine believer. If we truly believe in and follow Jesus Christ, we will have something to show for it in this life and in eternity. 
-
-{{% scripture p="John 15:5-8 (NIV)" %}} 
-
-**5** “I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit; apart from me you can do nothing. **6** If you do not remain in me, you are like a branch that is thrown away and withers; such branches are picked up, thrown into the fire and burned. **7** If you remain in me and my words remain in you, ask whatever you wish, and it will be done for you. **8** This is to my Father’s glory, that you bear much fruit, **showing yourselves to be my disciples**.                                            
-
-{{% /scripture %}} 
 
 ### Foreknowledge, Election, and Predestination - How They Work in Salvation 
 
