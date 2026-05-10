@@ -403,7 +403,7 @@ Like the believers in our book, the present-day church needs to learn to trust i
 
 **References** 
 
-All Greek words and definitions were sourced from Bible Academy, utilizing Curtis Omo’s lessons in the book of James. Prior permission for this was given to me by Curtis, who clarified that there was no need to cite him.  
+All Greek words and definitions were sourced from Bible Academy, utilizing Curtis Omo’s lessons in the book of James. Prior permission for this was given to me by Curtis. 
 
 https://www.youtube.com/watch?v=BW5JM_vzzzE&list=PLMu_1csD4LY9yVXlD84z6WaB50t6eu8aZ&index=15 
 
