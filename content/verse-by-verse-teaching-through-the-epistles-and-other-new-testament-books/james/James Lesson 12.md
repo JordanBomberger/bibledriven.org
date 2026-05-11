@@ -539,7 +539,7 @@ I would like to mention one last thing before ending this lesson, because it rel
 
 Verses 19 and 20 in the passage above explain verses 21 and 22. We note that reasons are given for the hatred David displayed toward these wicked men (context is key), and this was just his way of expressing how much he hated their evil deeds, not the individuals themselves, absent their sinful behavior. 
 
- There is also disliking someone for bad reasons (more common in the body of Christ than what may be supposed), stemming from the sin of jealousy over another person’s appearance, possessions, achievements, and so on. That is not the way of love and can lead to inner hatred. How well the church would do to let this truth sink in because of its subtle presence within her rank!                                                     
+ There is also disliking someone for bad reasons (more common in the body of Christ than what may be supposed), stemming from the sin of jealousy over another person’s appearance, possessions, achievements, and so on. That is not the way of love and can lead to inner hatred. How well the church would do to let this truth sink in because of its subtle presence within her rank! Whatever the reason may be, whether greed (such as what we see with the rich oppressors), pride, or selfishness, the sin of hatred has no place in the believer's life.                                                      
 
 **References**  
 
