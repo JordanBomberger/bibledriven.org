@@ -26,7 +26,7 @@ As discussed in our previous lesson, verses thirteen to seventeen of chapter fou
 
 However, it should be clarified that James is speaking to both the rich and the poor in the assemblies. These verses applied to all believers (with perhaps the exception of those who were dirt-poor and couldn't afford to go out to trade and sell). Dr. Luginbill clarifies this point below: 
 
-{{% quote text="SR2" src="" %}} 
+{{% quote text="" src="" %}} 
 
 "James does have much to say about "the rich" and "favoritism" in his letter. But while one probably has to be not "dirt poor" to go on a trading trip, it's not necessary absolutely in that day and age to be what we would call (and they would call) "rich". A fur trapper on the frontier might well say the same sort of thing -- and they were not known for being wealthy." 
 
