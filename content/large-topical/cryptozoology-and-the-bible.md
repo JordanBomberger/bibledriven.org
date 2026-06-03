@@ -237,7 +237,7 @@ It's part of the devil's modus operandi. He has always used this kind of phenome
 
 ### **"Alien abduction" or demonic possession?** 
 
-People have reportedly contacted aliens (known as demons) and were “abducted”/possessed by them telepathically through the use of shamanic drugs and other methods. This phenomenon is most likely a modern version of demonic possession, the only difference in this case being that people are going to demons, not demons to people. Whether demons can still take the initiative as they did in biblical times is likely, though possibly unknowable. 
+People have reportedly contacted aliens (known as demons) and were “abducted”/possessed by them telepathically through the use of shamanic drugs and other methods (something the individual in question has allowed by their own free will choice), most likely a modern version of demonic possession. 
 
 Mclean also notes that contactees and abductees are demonically attacked and "*subjected to humiliating and painful procedures to satisfy the desires of their abductors*." This is something that most in the church would find hard to accept, but the Bible nowhere tells us that this can’t or doesn’t occur. So no believer has any right to automatically dismiss such occurrences and say that "the Bible doesn't support such strange behavior in our times." True, but it neither says that it doesn’t occur, either. But we know that satanic activity is alive and well for sure and that demonic possession still occurs today (in whatever ways). 
 
