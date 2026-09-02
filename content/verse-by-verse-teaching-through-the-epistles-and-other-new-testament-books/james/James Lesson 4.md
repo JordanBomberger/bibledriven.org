@@ -14,6 +14,12 @@ summary: Temptations versus Tests and the source of both.
 
 {{% /scripture %}}    
 
+{{% scripture p="James 1:13 (ESV)" %}}
+
+**13** When tempted, no one should say, “God is tempting me.” For God cannot be tempted by evil, nor does he tempt anyone; 
+
+{{% /scripture %}}    
+
 ### God tempts no one 
 
 The Greek word for trials in verses two and twelve is *peirasmos* (a noun) and refers more to major tests of faith that the Lord allows us to go through to grow us spiritually (to develop perseverance or endurance). The word can refer to temptations or being tempted, but can also mean tests of faith from God (the specific meaning James has in mind in this verse).  
@@ -71,7 +77,7 @@ Time and space do not permit a more thorough examination of the theological word
 
 Ever since the resurrection, the Lord God has not been subject to temptation because he could only suffer such satanic attacks in His humanity while still on earth before the resurrection. We believers, too, will one day no longer be subject to temptation once we die (or are resurrected at Christ's return while still alive). The dead in Christ (all believers who died since Adam up to our present time) are untemptable now, even as they presently possess an interim body in the third heaven **2 Corinthians 5:1-10**, **Philippians 1:21-26**). Soul sleep is unbiblical.  Believers don’t possess Christ’s deity but are dichotomous, having both a human body and spirit. The spirits of our departed brothers and sisters are presently in the third heaven, housed in temporary, interim bodies until the resurrection at Christ’s second advent, when they will receive their eternal resurrection bodies (**1 Thessalonians 4:13-18**; **Revelation 20:4-6**). As our Thessalonians passage affirms, those still alive at Christ’s return will be resurrected while still physically alive to witness Christ’s second and final return. 
 
-Finally, the word “flesh” does not always have to refer to the sinful nature. Christ did not possess a sinful nature, yet was still said to be in the flesh during His stay on earth. The flesh can refer to both the sinful nature and the physical body that presently houses our human spirits. 
+Finally, the word “flesh” does not always have to refer to the sinful nature. Christ did not possess a sinful nature, yet was still said to be in the flesh during His stay on earth. The flesh can refer to both the sinful nature and the physical body that presently houses our human spirits (context determines which it is). 
 
 ## **Verse 14** 
 
