@@ -246,9 +246,7 @@ To further reinforce the truth that works don’t save, notice how verse fourtee
 
 There were, for example, undoubtedly a handful of Jews in Jerusalem who had fallen entirely back into Judaism, never to return despite Paul’s efforts to turn them back through the letter of Hebrews. These individuals thought they were pleasing God by embracing the true Gospel, but they had actually fallen back on the Law for salvation. They claimed faith, but their lack of good works (exchanged for blasphemous ones that declared a Messiah not yet come through their continued practice of animal sacrifice) proved they no longer believed. Paul attempted to prevent as many Jerusalem believers as he could from turning back. However, despite his efforts, some had. These would be those who thought their “faith” could save them. In reality, they deluded themselves because they had zeal without knowledge (**Romans 10:1-4**).  
 
-I highly recommend the reader to visit the following link for a good chapter-by-chapter study through the book of Hebrews by Dr. Robert D. Luginbill (a book that came right before the one we are now studying and helped to inspire James to write this epistle that bears his name), where these issues are discussed at greater length.  
-
-https://www.ichthys.com/Hebrews-intro.htm   
+I highly recommend the reader to visit the following link [this link](https://www.ichthys.com/Hebrews-intro.htm) for a good chapter-by-chapter study through the book of Hebrews by Dr. Robert D. Luginbill (a book that came right before the one we are now studying and helped to inspire James to write this epistle that bears his name), where these issues are discussed at greater length.     
 
 ## **Verses 21 through 23** 
 
@@ -330,9 +328,7 @@ Yes, the rest of Jericho’s citizens were also, like the Demons mentioned in **
 
 ### **Multiple Rahabs?** 
 
-With all that said, is this the same Rahab recorded in the genealogy of Jesus Christ in **Matthew 1:5**? In my view, they are the same person (Rahab was also the great-great-grandmother of King David). Many scholars have dismissed this idea because, much like how Simon the Pharisee disqualified (in his own mind) the female sinner in his midst, some are unwilling to accept that a person with such a bad track record (a prostitute) could be within Christ’s lineage. However, this kind of prejudice (based on something irrelevant only because it rubs some people the wrong way) often (though not always) comes through how people feel about the subject instead of just accepting that they are the same person (the Bible nowhere mentions any other Rahab by name or elsewhere hints at there being two different individuals in James, Hebrews, or Matthew). Time and space do not permit a more thorough examination of that subject (nor is it the point of our verse). Still, I would encourage the reader to visit the following link by Pastor Steven Tammen for more information. 
-
-https://www.bibledocs.org/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/   
+With all that said, is this the same Rahab recorded in the genealogy of Jesus Christ in **Matthew 1:5**? In my view, they are the same person (Rahab was also the great-great-grandmother of King David). Many scholars have dismissed this idea because, much like how Simon the Pharisee disqualified (in his own mind) the female sinner in his midst, some are unwilling to accept that a person with such a bad track record (a prostitute) could be within Christ’s lineage. However, this kind of prejudice (based on something irrelevant only because it rubs some people the wrong way) often (though not always) comes through how people feel about the subject instead of just accepting that they are the same person (the Bible nowhere mentions any other Rahab by name or elsewhere hints at there being two different individuals in James, Hebrews, or Matthew). Time and space do not permit a more thorough examination of that subject (nor is it the point of our verse). Still, I would encourage the reader to visit [this resource](https://www.bibledocs.org/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/) by Pastor Steven Tammen for more information.   
 
 ### **Is lying always a sin?** 
 
@@ -404,9 +400,7 @@ Who knows whether the spirit of man goes upward and the spirit of the beast goes
 
 {{% /scripture %}}    
 
-For more information on the human heart, spirit, and the meaning of the word "soul," I encourage the reader to visit the link below (beginning with the section entitled "The Creation of Adam"). 
-
-https://www.ichthys.com/Fall-sr3.htm 
+For more information on the human heart, spirit, and the meaning of the word "soul," I encourage the reader to visit [this link](https://www.ichthys.com/Fall-sr3.htm#II.%20The%20Creation%20of%20Man) (beginning with the section entitled "The Creation of Adam").  
 
 
 

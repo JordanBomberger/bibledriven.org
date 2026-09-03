@@ -310,6 +310,8 @@ As for the rest of the Olivet discourse, we need not say much about it other tha
 
 ## **Verses 8 and 9**  
 
+### Establish your hearts and don't grumble
+
 {{% scripture p="James 5:8-9 (ESV)" %}}  
 
 **8** You also, be patient. Establish your hearts, for the coming of the Lord is at hand. **9** Do not grumble against one another, brothers, so that you may not be judged; behold, the Judge is standing at the door.                                                                      
@@ -352,7 +354,9 @@ Grumbling in the sinful way described above will not produce spiritual growth or
 
 {{% /scripture %}}   
 
-## **Verses 10 and 11**    
+## **Verses 10 and 11**  
+
+### The example of Job and the prophets   
 
 {{% scripture p="James 5:10-11 (ESV)" %}}  
 

@@ -190,9 +190,7 @@ And as we should already know, there is nothing wrong or sinful with a believer 
 
 To resume working through our verse, I believe it is critical to clarify what the word “chosen” in the first half of our verse means (has not God chosen those who are poor in the world to be rich in faith and heirs of the kingdom?). At the very present time I am writing these words, it is my plan and goal to write a large topical study on **Romans 9** and the subject of free will (proving from Scripture that we possess it). But I will leave here only what is necessary for the reader to understand the truth.   
 
-I will start by saying that God does not favor the poor as if they were better, because He died for all (**1 John 2:2**, **John 3:16**) and therefore desires the salvation of everyone (**2 Peter 3:9**, **Revelation 22:17**), as He loves all men equally. If He didn’t, then that would contradict the principle this verse teaches, and that is not to show favoritism or partiality (**Romans 2:11**)! But He saves only those whom He foreknew would believe in Him (**Romans 8:29**). It does not mean God arbitrarily chooses some for salvation while others for eternal condemnation. With that, we will briefly discuss this subject before moving on (excerpt taken from “**The Gospel of Jesus Christ**- section title right below).  
-
-https://www.bibledriven.org/large-topical/the-gospel-of-jesus-christ/#a-foreknowledge-predestination-calling-and-election---what-they-are 
+I will start by saying that God does not favor the poor as if they were better, because He died for all (**1 John 2:2**, **John 3:16**) and therefore desires the salvation of everyone (**2 Peter 3:9**, **Revelation 22:17**), as He loves all men equally. If He didn’t, then that would contradict the principle this verse teaches, and that is not to show favoritism or partiality (**Romans 2:11**)! But He saves only those whom He foreknew would believe in Him (**Romans 8:29**). It does not mean God arbitrarily chooses some for salvation while others for eternal condemnation. With that, we will briefly discuss this subject before moving on (excerpt taken from [The Gospel of Jesus Christ](https://www.bibledriven.org/large-topical/the-gospel-of-jesus-christ/#a-foreknowledge-predestination-calling-and-election---what-they-are)).  
 
 (Beginning of excerpt) 
 
@@ -282,9 +280,7 @@ No believer can ransom their own life apart from faith in God’s solution to th
 
 The point is that wealth doesn’t always protect the rich, especially if they are very committed in their relationship with Christ (the closer the walk, the more flak they can expect from the world). Any believer can suffer ostracism, ridicule, persecution, and even martyrdom. However, as Curtis Omo comments regarding the poor believer (and this also applies to all believers of differing economic positions), the poor (and I would add our rich brothers and sisters as well, since they too profess Christ) should never maintain a victim’s or martyr’s mentality.  
 
-All believers, whether physically wealthy or not, are poor in spirit and fully realize (or should) their equal standing before God compared to all their brothers and sisters around the world. The believers in our context didn’t act as if this were necessarily so, because they gave preferential treatment to the rich. The following is an excerpt from “**The Beatitudes**” on **Matthew 5:3**. 
-
-https://www.bibledriven.org/small-topical/the-beatitudes--matthew-53-12/ 
+All believers, whether physically wealthy or not, are poor in spirit and fully realize (or should) their equal standing before God compared to all their brothers and sisters around the world. The believers in our context didn’t act as if this were necessarily so, because they gave preferential treatment to the rich. The following is an excerpt from [the beatitudes](https://www.bibledriven.org/small-topical/the-beatitudes--matthew-53-12/) in **Matthew 5:3**. 
 
 (Beginning of excerpt) 
 
@@ -334,9 +330,7 @@ If I speak in the tongues of men or of angels, but do not have love, I am only a
 
 {{% /scripture %}}    
 
-Love is the greatest virtue mentioned in **Galatians 5:22**. The following (I wrote all excerpts quoted from this site, Jordan L. Bomberger) was taken from “**Galatians 5 and the Fruits of the Spirit- Indications of Salvation and Spiritual Growth- A. Love**.  
-
-https://www.bibledriven.org/large-topical/galatians-5-and-the-fruits-of-the-spirit--indications-of-salvation-and-spiritual-growth/#a-love 
+Love is the greatest virtue mentioned in **Galatians 5:22**. The following (I wrote all excerpts quoted from this site, Jordan L. Bomberger) was taken from [from here](https://www.bibledriven.org/large-topical/galatians-5-and-the-fruits-of-the-spirit--indications-of-salvation-and-spiritual-growth/#a-love).  
 
 (Beginning of Excerpt)
 
@@ -382,9 +376,7 @@ True love for God and others means pleasing the Lord and treating others as He w
 
 The Jewish believers in our context were, in some way, like the expert in the Law in the parable of the good Samaritan (interpreted and explained below), **Luke 10:25-37**. They misapplied this commandment by acting as if only certain people were to be loved, while others were shunned. You can almost visualize them asking the same question, “Who is my neighbor?” Our neighbor is anyone we encounter (all men). And yet this is not how these believers were behaving (did the poor not count as neighbors?). They were acting like unbelievers, even though they weren’t. 
 
-The following is an excerpt from “**The Parables of Jesus,**” “**The Good Samaritan**.”  
-
-https://www.bibledriven.org/large-topical/parables-of-jesus/#16-the-good-samaritan---luke-1025-32 
+The following is an excerpt from [here](https://www.bibledriven.org/large-topical/parables-of-jesus/#16-the-good-samaritan---luke-1025-32).  
 
 (Beginning of Excerpt) 
 

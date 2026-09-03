@@ -172,6 +172,8 @@ With all the above accounted for, we are now ready to begin our detailed examina
 
 ## **Verse 1**       
 
+### Come now you rich 
+
 {{% scripture p="James 5:1 (ESV)" %}} 
 
 Come now, you rich, weep and howl for the miseries that are coming upon you.   
@@ -195,6 +197,8 @@ However, there are some cases where it appears as if the wicked (especially the 
 **James 5:1** presents the **possibility** that calamity will overtake the wicked while still physically alive on earth. So, while this may occur for some (some have great trouble, while others have almost none), **Job 21** indicates that some unbelievers (in contrast to the suffering righteous) don’t experience much calamity in this life. One thing is certain: James confirms that ALL the wicked will face extreme calamity after death, regardless of whether they faced any in this life. So, whether the unbeliever experiences present or future distress or both, there is no escaping the eternal lot that awaits all those who don’t believe. One may ask, why would God allow this? The answer involves one of Job's primary themes: the sovereignty of God. Some get away with more while still physically alive than others. But that does not make God unfair and unjust because ALL those who have rejected Him will face the supreme, eternal death penalty equally once their life is over. The reader may then take comfort in the fact that justice will be served. Are the wicked suffering in this life now because of their actions? Good and well. Are they not? Rest assured, they will after death.  
 
 ## **Verse 2** 
+
+### Your riches have rotten 
 
 {{% scripture p="James 5:2 (ESV)" %}} 
 
@@ -468,7 +472,9 @@ Other passages that speak of the last days (not meant to be a comprehensive list
 
 With that covered, the period of the last days referred to in our verse, **James 5:3**, is that time between our Lord’s first and second advent (it doesn’t include the Millennium). This is so because the rich whom James called out were alive after our Lord’s first advent (and Christ has not yet returned, hence, **James 5:7** exhorts the reader to be patient, until the Lord's coming). However, the Holy Spirit intended these words for all times. Therefore, they apply to the whole period between the first and second advent. 
 
-## **Verse 4**   
+## **Verse 4**  
+
+### The cries of the harvesters  
 
 {{% scripture p="James 5:4 (ESV)" %}}  
 
@@ -487,6 +493,8 @@ And not only did their own sin testify against them by testifying to them, but i
 We still see a lot of fraudulent behavior in society, especially in the workforce (even though many governments, which are also often corrupt, classify it as illegal and criminal and enforce laws against it). We see people still being paid unfairly. We continue to see the rich getting richer when they shouldn’t and doing and getting away with things just because they can. But they won’t get away with it in God’s eyes, just as the wealthy man who ignored poor Lazarus didn’t (his evil, unrepentant behavior disclosing his unbelief, **Luke 16:19-31**). We, believers, can be confident that whatever injustices we suffer here on earth will never go unnoticed by God. He is omniscient, omnipresent, and omnipotent. He is everywhere and sees everything. And because of this, He will deal with every person accordingly.   
 
 ## **Verse 5**  
+
+### Luxurious living  
 
 {{% scripture p="James 5:4 (ESV)" %}}  
 
@@ -510,6 +518,8 @@ The last sentence in our verse is a metaphor that would have resonated with Jame
 
 ## **Verse 6** 
 
+### Condemned and murdered the righteous 
+
 {{% scripture p="James 5:6 (ESV)" %}} 
 
 **6** You have condemned and murdered the righteous person. He does not resist you.         
@@ -526,7 +536,7 @@ The Greek word for condemned is *καταδικάζω (katadikazō)* and means t
 
 {{% /scripture %}}  
 
-### A brief and final word on the issue of love versus hate 
+#### A brief and final word on the issue of love versus hate 
 
 I would like to mention one last thing before ending this lesson, because it relates to the topic of love vs hatred. As a wise friend and mentor once told me, it is not a good idea to go around saying, “It is ok to dislike someone,” because it can be very dangerously misleading. The Bible commands us to love others, even our enemies (**Mark 12:31**, **Matthew 5:43-48**). So what exactly do we mean (or should we) when we privately tell someone we dislike such-and-such a person? Disliking someone for no reason would equate to hatred and, thus, murder in the heart. But when we say we dislike an individual (in a non-sinful way), there are always good, righteous reasons because you can’t separate the dislike from the “why.” If a believer secretly dislikes another person in a non-sinful way, it is not the person (for who they are) that they dislike, but the way in which they behave through words and actions. It is the deeds of the other individual that we should hate (assuming they are wrong, sinful, or distasteful), not the people themselves. We love others by thinking, and, therefore, speaking and acting toward them in a godly way. But we are to hate and call out that which is evil. 
 
@@ -537,7 +547,7 @@ I would like to mention one last thing before ending this lesson, because it rel
 
 {{% /scripture %}}   
 
-Verses 19 and 20 in the passage above explain verses 21 and 22. We note that reasons are given for the hatred David displayed toward these wicked men (context is key), and this was just his way of expressing how much he hated their evil deeds, not the individuals themselves, absent their sinful behavior. 
+Verses nineteen and twenty in the passage above explain verses 21 and 22. We note that reasons are given for the hatred David displayed toward these wicked men (context is key), and this was just his way of expressing how much he hated their evil deeds, not the individuals themselves, absent their sinful behavior. 
 
  There is also disliking someone for bad reasons (more common in the body of Christ than what may be supposed), stemming from the sin of jealousy over another person’s appearance, possessions, achievements, and so on. That is not the way of love and can lead to inner hatred. How well the church would do to let this truth sink in because of its subtle presence within her rank! Whatever the reason may be, whether greed (such as what we see with the rich oppressors), pride, or selfishness, the sin of hatred has no place in the believer's life.                                                      
 

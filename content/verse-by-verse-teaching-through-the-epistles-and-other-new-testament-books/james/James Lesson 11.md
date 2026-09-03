@@ -351,6 +351,8 @@ Just because something didn’t work out doesn’t mean the Lord didn’t want u
 
 ## **Verses 16 and 17** 
 
+Boasting in arrogance and knowingly failing to do the right thing 
+
 {{% scripture p="James 4:16-17 (ESV)" %}} 
 
 **16** As it is, you boast in your arrogance. All such boasting is evil. **17** So whoever knows the right thing to do and fails to do it, for him it is sin.                                         
